@@ -1,0 +1,21 @@
+300 files (B)
+
+train (I)
+  - 1. generate sample points
+  - 2. preprocessing rules (blacklist and whitelist)
+       first whitelist, then preprocessing + blacklist
+       sample example: raw token: "San Jose", 8, 15, filename, 0
+       feature vector: [len(token), isCapitalized(), endswith('Jr', Sr', ...)
+       , prefixwith('Mr', 'Ms', 'call')]
+       Could have a big dictionary
+
+       Cross Validation (CV): tradeoff between representative accuracy of model
+       and computational efficiency
+       There is no free lunch
+       leave-one-out cross validation
+
+       skewed data set: use pruning rules to chop off negative samples as many as you can
+       inject some insights and then search
+  - 3.
+
+test (J)

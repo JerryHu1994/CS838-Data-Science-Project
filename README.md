@@ -1,4 +1,4 @@
 # CS838-Data-Science-Project
 The git repo for CS 838 Data Science in UW-Madison
 
-* first stage
+* first stage (tagging files, determine rules)

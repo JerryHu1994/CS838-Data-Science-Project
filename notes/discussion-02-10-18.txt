@@ -1,0 +1,31 @@
+1. 300 files: 200 train + 100 test
+2. P: 90% +; R: 60%
+3. Learning based + rule based postprocess
+4. extracting feature vector
+
+model (hypothesis) f(X) = Y
+train set X, Y
+train process: search best f in a space
+
+f(X) = Y
+X: feature vector
+Y: 1/0 binary classification
+
+postprocess: f(X) false
+
+tag file:
+800 names in 300 files
+
+token:
+[I, am, Yaqi]
+
+vector:
+Capitalize
+success word: set(is/are/do/) -- rule based
+pre word
+letter (no number)
+position (0, len - 1), from start/end
+
+
+ensemble
+Madison (context)
