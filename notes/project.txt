@@ -6,7 +6,7 @@ train (I)
        first whitelist, then preprocessing + blacklist
        sample example: raw token: "San Jose", 8, 15, filename, 0
        feature vector: [len(token), isCapitalized(), endswith('Jr', Sr', ...)
-       , prefixwith('Mr', 'Ms', 'call')]
+       , prefixwith('Mr', 'Ms', 'call'), ifFamilyNameinAset(), ]
        Could have a big dictionary
 
        Cross Validation (CV): tradeoff between representative accuracy of model
@@ -19,3 +19,6 @@ train (I)
   - 3.
 
 test (J)
+
+Yaqi Zhang, XX, XX, XX, 1
+laptop, XX, XX, XX, 0
