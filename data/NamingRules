@@ -1,0 +1,10 @@
+1. contains names starting lower case
+eg: <person>lynch</person>
+2. contains 's
+eg: <person>Pitt's</person>
+3. contains .
+eg: <person>J. Mackye Gruber</person>
+4. abbreviation
+eg: <person>RDJ</person>
+5. contains - 
+eg: <person>Day-Lewis</person>
