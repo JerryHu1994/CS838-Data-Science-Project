@@ -16,16 +16,26 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # define set for certain prefix strings
-prefixDict = set(['Mr', 'Ms'])
+prefixPatternPath = './prefixPattern'
+prefixDict = set()
 
 # define set for certain end strings
-endDict = set(['Jr', 'Sr', '\'s'])
+endPatternPath = './endPattern'
+endDict = set()
 
 # define a list contains the all possible length of negative examples
 negLengthList = [1, 2, 3]
 
 # define string for sentence breaking
 delimiter = '[,.!?;]\s*'
+
+# Load a certain pattern into the global dictionary (predix and end)
+def loadPattern(dictset, filename):
+    with open(filename, 'r') as f:
+        content = f.readlines()
+        for line in content:
+            dictset.add(line.strip())
+    print (dictset)
 
 # Return true if all words in a name is capitalized
 def checkCapitalized(name):
@@ -141,16 +151,23 @@ def main():
     # parameter input validation
     if len(sys.argv)!=4:
         print ("[USAGE]: python splitData.py input_dir output_file pos/neg\n")
+        sys.exit(1)
     inputDir, outputDir, dataFlag = sys.argv[1], sys.argv[2], sys.argv[3]
     if not (dataFlag == "pos" or dataFlag == "neg"):    
         print ("[USAGE]: python splitData.py input_dir output_file pos/neg\n")
+        sys.exit(1)
     dataFlag = True if dataFlag == "pos" else False
 
+    # load prefix and end pattern
+    loadPattern(prefixDict, prefixPatternPath)
+    loadPattern(endDict, endPatternPath)
+    return
     inputFiles = []
     if os.path.exists(inputDir):
         inputFiles = os.listdir(inputDir)
     else:
         print ("[ERROR]: Input directory not exists")
+        sys.exit(1)
     outputFile = open(outputDir, 'w')
 
     #loop through all labeled files
