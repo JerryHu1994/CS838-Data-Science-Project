@@ -1,0 +1,30 @@
+This, 1, 1, 0, 4, 0, 0
+is, 1, 0, 1, 4, 0, 0
+Jieru, 1, 1, 2, 4, 0, 0
+Hu, 1, 1, 3, 4, 0, 0
+This is, 2, 0, 0, 4, 0, 0
+is Jieru, 2, 0, 1, 4, 0, 0
+Jieru Hu, 2, 1, 2, 4, 0, 0
+This is Jieru, 3, 0, 0, 4, 0, 0
+is Jieru Hu, 3, 0, 1, 4, 0, 0
+I, 1, 1, 0, 7, 0, 0
+am, 1, 0, 1, 7, 0, 0
+a, 1, 0, 2, 7, 0, 0
+student, 1, 0, 3, 7, 0, 0
+of, 1, 0, 4, 7, 0, 0
+UW, 1, 1, 5, 7, 0, 0
+Madison, 1, 1, 6, 7, 0, 0
+I am, 2, 0, 0, 7, 0, 0
+am a, 2, 0, 1, 7, 0, 0
+a student, 2, 0, 2, 7, 0, 0
+student of, 2, 0, 3, 7, 0, 0
+of UW, 2, 0, 4, 7, 0, 0
+UW Madison, 2, 1, 5, 7, 0, 0
+I am a, 3, 0, 0, 7, 0, 0
+am a student, 3, 0, 1, 7, 0, 0
+a student of, 3, 0, 2, 7, 0, 0
+student of UW, 3, 0, 3, 7, 0, 0
+of UW Madison, 3, 0, 4, 7, 0, 0
+Hello, 1, 1, 0, 2, 0, 0
+World, 1, 1, 1, 2, 0, 0
+Hello World, 2, 1, 0, 2, 0, 0
