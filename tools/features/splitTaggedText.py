@@ -7,8 +7,8 @@
 # generate both positive and negative sample for both training and testing dataset. The output will get
 # saved into a dat file with following format:
 # [name string, string length, isCapitalized, postion index from sentence head, sentence length, ended with
-# certain pattern, prefixed with certain pattern]
-# eg: Jieru Hu, 2, 1, 0, 8, 1, 0
+# certain pattern, prefixed with certain pattern, positive]
+# eg: Jieru Hu, 2, 1, 0, 8, 1, 0, 1
 import sys
 import os
 import re
@@ -22,10 +22,10 @@ def extractPositiveFeature(line):
     names = re.findall(r"<person>[^<]*</person>", line)
 
     # replace <person>name</person> with <person> for the easieness of index counting
-    replacedLine = re.sub(r"<person>[^<]*</person>", '<person>', line)
+    replacedLine = re.sub(r"<person>[^<]*</person>", ' <person> ', line)
     replacedLineList = replacedLine.split()
     # save all the indexes of matched names
-    nameIdxlist = [ind for ind, val in enumerate(replacedLineList) if val == '<person>']
+    nameIdxlist = [ind for ind, val in enumerate(replacedLineList)  if re.match('.*?<person>.*?',val)!=None]
 
     #print (replacedLine)
     preCount = 0 # preCount stores the difference between the length of the replacedLineList and it original
@@ -34,15 +34,19 @@ def extractPositiveFeature(line):
         nameStr = name[8:-9] # save the name string
         lengthStr = str(len(nameStr.split())) # save the length string
         capitalizedStr = splitUtils.checkCapitalized(nameStr) # save the capitalized boolean string
-
+        #print (replacedLineList)
+        #print (line, ind, nameIdxlist)
         headPositionStr = str(nameIdxlist[ind] + preCount) # save the position from head
         preCount += int(lengthStr) - 1
         lineLengthStr = str(len((line.replace('<person>', '').replace('</person>', '').split()))) # save the sentence length string
 
         endStr = splitUtils.checkEndMatch(replacedLineList, nameIdxlist[ind]) # save the end-pattern boolean string
         prefixStr = splitUtils.checkPrefixMatch(replacedLineList, nameIdxlist[ind]) # save the prefix-pattern boolean string
+        
+        labelStr = '1'# indicates it is a positive example
 
-        features = [nameStr, lengthStr, capitalizedStr, headPositionStr, lineLengthStr, endStr, prefixStr]
+        features = [nameStr, lengthStr, capitalizedStr, headPositionStr, lineLengthStr, endStr, prefixStr,
+        labelStr]
         featureStr = ', '.join(features)
 
         featureList.append(featureStr)
@@ -53,7 +57,7 @@ def extractNegativeFeature(line):
     nameIdxDict = [] # stores a list of [startIndex, endIndex] set for each labeled name
     names = re.findall(r"<person>[^<]*</person>", line)
     # replace <person>name</person> with <person> for the easieness of index counting
-    replacedLine = re.sub(r"<person>[^<]*</person>", '<person>', line)
+    replacedLine = re.sub(r"<person>[^<]*</person>", ' <person> ', line)
     replacedLineList = replacedLine.split()
     # save all the indexes of matched names
     nameIdxlist = [ind for ind, val in enumerate(replacedLineList) if val == '<person>']
@@ -86,7 +90,9 @@ def extractNegativeFeature(line):
             endStr = splitUtils.checkEndMatch(wordList, endI-1) # save the end-pattern boolean string
             prefixStr = splitUtils.checkPrefixMatch(wordList, startI) # save the prefix-pattern boolean string
 
-            features = [nameStr, lengthStr, capitalizedStr, headPositionStr, lineLengthStr, endStr, prefixStr]
+            labelStr = '0'# indicates it is a negative example
+            features = [nameStr, lengthStr, capitalizedStr, headPositionStr, lineLengthStr, endStr,
+            prefixStr, labelStr]
             featureStr = ', '.join(features)
 
             featureList.append(featureStr)
@@ -124,10 +130,13 @@ def main():
             print ("[INFO]: Finish reading ", filePath, "\n")
             lines = f.read()
             #split the file content given the delimiter
+
+            # here we need to do further processing get rid of the delimiter inside a name so that
+            # the split function won't break a name
+            if not dataFlag:   lines = splitUtils.processNameDelimiter(lines)
             lineList = re.split(splitUtils.delimiter, lines)
             #split the file contents into strings using certain delimiters
             for line in lineList:
-                print (line)
                 if dataFlag:
                     if splitUtils.containsName(line):
                         # write all the positive feature vectors into the output file

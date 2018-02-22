@@ -3,7 +3,7 @@
 # University of Wisconsin-Madison
 # Author: Jieru Hu
 ##################################
-
+import re
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -20,6 +20,7 @@ negLengthList = [1, 2, 3]
 
 # define string for sentence breaking
 delimiter = '[,.!?;]\s*'
+delimiterSet = set([",", ".", "!", "?"])
 
 # Load a certain pattern into the global dictionary (predix and end)
 def loadPattern(dictset, filename):
@@ -27,7 +28,6 @@ def loadPattern(dictset, filename):
         content = f.readlines()
         for line in content:
             dictset.add(line.strip())
-    print (dictset)
 
 # Return true if all words in a name is capitalized
 def checkCapitalized(name):
@@ -61,8 +61,13 @@ def inPositive(nameDict, startI, endI):
 def containsName(line):
    return True if "<person>" in line else False
 
-
-
-if __name__ == "__main__":
-  main()
+# Process the delimiters in the tagged names, like <person>J.K.Rowing</person>
+def processNameDelimiter(content):
+    li = [(m.start(0), m.end(0)) for m in re.finditer(r"<person>[^<]*</person>", content)]
+    for m in li:
+        startI, endI = m[0]+8, m[1]-9
+        for ind in range(startI, endI):
+            if content[ind] in delimiterSet:
+                content = content[:ind] + ' ' + content[ind+1:]
+    return content
 
