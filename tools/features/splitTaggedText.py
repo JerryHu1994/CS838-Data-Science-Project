@@ -32,6 +32,7 @@ def extractPositiveFeature(line):
     list
     for ind, name in enumerate(names):
         nameStr = name[8:-9] # save the name string
+        nameStr = re.sub(r"\n", ' ', nameStr)
         lengthStr = str(len(nameStr.split())) # save the length string
         capitalizedStr = splitUtils.checkCapitalized(nameStr) # save the capitalized boolean string
         #print (replacedLineList)
