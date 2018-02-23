@@ -1,0 +1,6 @@
+1. use shebang "#!/usr/bin/env python3" instead of "#!/usr/bin/env python"
+
+2. add sys.exit(1) if args are not correct
+
+3. using Camel naming in function name is not recommended by PEP 8
+
