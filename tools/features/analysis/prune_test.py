@@ -3,6 +3,7 @@
 Univertity of Wisconsin-Madison
 Yaqi Zhang
 """
+import sys
 import random
 import numpy as np
 import matplotlib.pyplot as plt
@@ -18,13 +19,13 @@ def has_parenthese(string):
         return False
 
 if __name__ == "__main__":
-    '''prune training negative samples in negative.dat
+    '''prune test negative samples in test_negative.dat
        then pick samples randomly according to frequency and write them
-       to negative_pruned.dat
+       to test_negative_pruned.dat
     '''
-    numbers = [660, 795, 45]
-    filename = "negative.dat"
-    out_filename = "negative_pruned.dat"
+    n_samples = 850
+    filename = "test_negative.dat"
+    out_filename = "test_negative_pruned.dat"
     blacklist = set()
     with open("blacklist.dat", 'r') as f:
         lines = f.readlines()
@@ -33,7 +34,7 @@ if __name__ == "__main__":
     with open(filename, 'r') as f:
         lines = [line.strip() for line in f.readlines()]
     count = 0
-    lst = [[], [], []]
+    lst = []
     lens = set()
     for line in lines:
         word = line.split(", ")[0]
@@ -43,13 +44,10 @@ if __name__ == "__main__":
                 break
         else:
             lens.add(len(tokens))
-            lst[len(tokens) - 1].append(line)
+            lst.append(line)
             count += 1
     print("negative sample are pruned from {:d} to {:d}".format(len(lines), count))
-    picked = []
-    picked.extend(random.sample(lst[0], numbers[0]))
-    picked.extend(random.sample(lst[1], numbers[1]))
-    picked.extend(random.sample(lst[2], numbers[2]))
+    picked = random.sample(lst, n_samples)
     with open(out_filename, 'w') as f:
         for line in picked:
             f.write(line + "\n")
