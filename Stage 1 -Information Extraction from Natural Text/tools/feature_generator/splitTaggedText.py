@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 ##################################
 # University of Wisconsin-Madison
 # Author: Jieru Hu
