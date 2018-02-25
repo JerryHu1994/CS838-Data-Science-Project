@@ -8,11 +8,11 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # define set for certain prefix strings
-prefixPatternPath = './prefixPattern'
+prefixPatternPath = './tools/feature_generator/prefixPattern.dat'
 prefixDict = set()
 
 # define set for certain end strings
-endPatternPath = './endPattern'
+endPatternPath = './tools/feature_generator/endPattern.dat'
 endDict = set()
 
 # define a list contains the all possible length of negative examples

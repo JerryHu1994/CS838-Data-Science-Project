@@ -66,7 +66,7 @@ def main():
     for fname in inputFiles:
         filePath = inputDir + "/" + fname
         with open(filePath, 'r') as f:
-            print ("[INFO]: Finish reading ", filePath, "\n")
+            #print ("[INFO]: Finish reading ", filePath, "\n")
             lines = f.read()
             #split the file content given the delimiter
             lineList = re.split(splitUtils.delimiter, lines)
