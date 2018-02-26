@@ -128,6 +128,5 @@ def main():
     train_and_test(best_clf, best_clf_name, train_pos_file, train_neg_file, test_pos_file, test_neg_file)
 
 
-
 if __name__ == "__main__":
     main()
