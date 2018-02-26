@@ -9,7 +9,6 @@ You can call the pipeline with the below commands
 ```
 cd Stage-1-IE-from-natural-text
 bash stage1_pipeline.sh
-
 ```
 
 

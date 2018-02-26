@@ -98,7 +98,19 @@ def train_and_test(clf, name, train_pos_file, train_neg_file, test_pos_file, tes
     print("test F1-score = {:0.6f} %".format(2 * (test_precision * test_recall) / (test_precision +
     test_recall)))
     print()
+    # predict_and_write_result(clf, test_pos_file)
 
+
+def predict_and_write_result(clf, feature_file):
+    ''' print the wrong predictions '''
+    x, y = read_file(feature_file)
+    predict = clf.predict(x)
+    n_samples = x.shape[0]
+    with open(feature_file) as f:
+        lines = f.readlines()
+    for i in range(n_samples):
+        if predict[i] != y[i]:
+            print(lines[i].split(", ")[0])
 
 
 def main():
