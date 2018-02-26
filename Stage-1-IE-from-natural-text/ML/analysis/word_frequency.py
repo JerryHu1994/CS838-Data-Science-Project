@@ -3,15 +3,18 @@
 Univertity of Wisconsin-Madison
 Yaqi Zhang
 """
+
 import sys
 import numpy as np
 import matplotlib.pyplot as plt
 from collections import defaultdict
 
-if __name__ == "__main__":
+
+def main():
     '''extract words from feature_file and
        output the word and its frequency
-       in descending order to frequency file
+       in descending order to frequency file;
+       this is used for create blacklist
     '''
     if len(sys.argv) != 2:
         print("Usage: >> python {} <feature_file> ".format(sys.argv[0]))
@@ -33,3 +36,7 @@ if __name__ == "__main__":
         out_file.write("{} : {}\n".format(word, frequency))
     out_file.close()
     print("writing word and cooresponding frequency to {}".format(out_filename))
+
+
+if __name__ == "__main__":
+    main()
