@@ -1,58 +1,103 @@
-Ben Affleck, 2, 1, 4, 6, 0, 0, 1
-Affleck, 1, 1, 4, 9, 1, 0, 1
-Ben Affleck, 2, 1, 0, 8, 1, 0, 1
-Doug McCray, 2, 1, 6, 8, 0, 1, 1
-Jeremy Renner, 2, 1, 0, 10, 1, 0, 1
-Blake Lively, 2, 1, 6, 10, 1, 1, 1
-Ben Affleck, 2, 1, 0, 11, 1, 0, 1
-Doug, 1, 1, 10, 14, 0, 0, 1
-Ben's, 1, 1, 3, 15, 0, 0, 1
-Affleck, 1, 1, 4, 18, 1, 0, 1
-Tarantino's, 1, 1, 11, 13, 0, 0, 1
-Danny Boyle's, 2, 1, 12, 20, 0, 0, 1
-Boyle, 1, 1, 10, 20, 0, 0, 1
-Boyle, 1, 1, 4, 6, 0, 0, 1
-Ewan McGregor, 2, 1, 1, 3, 0, 0, 1
-Jonny Lee Miller, 3, 1, 0, 3, 0, 0, 1
-Robert Carlyle, 2, 1, 1, 21, 0, 1, 1
-Boyle, 1, 1, 0, 9, 0, 0, 1
-Bryan Singer, 2, 1, 5, 15, 0, 1, 1
-Christopher McQuarrie, 2, 1, 7, 9, 0, 0, 1
-Spacey's, 1, 1, 0, 3, 0, 0, 1
-Singer, 1, 1, 5, 12, 1, 1, 1
-McQuarrie, 1, 1, 7, 12, 0, 1, 1
-Singer's, 1, 1, 12, 14, 0, 0, 1
-Singer, 1, 1, 0, 33, 1, 0, 1
-McQuarrie, 1, 1, 2, 33, 0, 1, 1
-Spacey's, 1, 1, 21, 33, 0, 1, 1
-Spacey's, 1, 1, 1, 3, 0, 0, 1
-Singer's, 1, 1, 0, 14, 0, 0, 1
-Singer, 1, 1, 0, 20, 1, 0, 1
-Singer's, 1, 1, 1, 3, 0, 0, 1
-Singer, 1, 1, 18, 26, 0, 0, 1
-Singer, 1, 1, 0, 17, 1, 0, 1
-Quarrie, 1, 1, 2, 17, 0, 1, 1
-Gabriel Byrne, 2, 1, 3, 33, 1, 0, 1
-Byrne, 1, 1, 4, 15, 1, 0, 1
-Kevin Spacey, 2, 1, 0, 19, 0, 0, 1
-Singer, 1, 1, 1, 43, 0, 0, 1
-Pete Postlewhaite, 2, 1, 0, 10, 1, 0, 1
-Chazz Palminteri, 2, 1, 3, 10, 0, 1, 1
-Ben Stiller, 2, 1, 2, 7, 0, 1, 1
-James Thurber, 2, 1, 8, 10, 0, 1, 1
-Kristen Wiig, 2, 1, 0, 5, 1, 0, 1
-Carl's, 1, 1, 3, 40, 0, 0, 1
-Altman's, 1, 1, 7, 10, 0, 0, 1
-Doweny, 1, 1, 1, 3, 1, 0, 1
-Russel Crowe, 2, 1, 1, 3, 0, 0, 1
-Robin Williams, 2, 1, 0, 2, 0, 0, 1
-Harvey Weinstein, 2, 1, 1, 6, 0, 1, 1
-Downey, 1, 1, 8, 10, 1, 0, 1
-Cruise, 1, 1, 1, 6, 0, 1, 1
+Apollo Creed, 2, 1, 10, 16, 1, 0, 1
+Stallone, 1, 1, 0, 8, 0, 0, 1
+Rocky, 1, 1, 7, 8, 0, 0, 1
+Bill Conti, 2, 1, 0, 10, 0, 0, 1
+Burgess Meredith, 2, 1, 1, 14, 0, 0, 1
+Stallone, 1, 1, 0, 13, 0, 0, 1
+Rocky Balboa, 2, 1, 2, 13, 1, 0, 1
+Rocky, 1, 1, 12, 13, 0, 0, 1
+Talia Shire, 2, 1, 0, 4, 0, 0, 1
+Adrian, 1, 1, 3, 4, 0, 0, 1
+Burt Young, 2, 1, 0, 6, 0, 0, 1
+Paulie, 1, 1, 5, 6, 0, 0, 1
+Burgess Merideth, 2, 1, 0, 7, 0, 0, 1
+Mickey, 1, 1, 6, 7, 0, 0, 1
+Stallone, 1, 1, 1, 20, 0, 0, 1
+Cary Elwes, 2, 1, 0, 29, 1, 0, 1
+Robin Wright, 2, 1, 3, 29, 1, 1, 1
+Mandy Patinkin, 2, 1, 0, 18, 1, 0, 1
+Chris Sarandon, 2, 1, 0, 12, 1, 0, 1
 Jessie Eisenberg's, 2, 1, 0, 3, 0, 0, 1
 Woody Harrelson's, 2, 1, 4, 21, 0, 1, 1
 Emma Stone, 2, 1, 0, 9, 1, 0, 1
 Abigail Breslin, 2, 1, 3, 9, 1, 1, 1
+Steven Spielberg's, 2, 1, 5, 14, 0, 1, 1
+Spielberg's, 1, 1, 17, 21, 0, 1, 1
+Spielberg, 1, 1, 1, 7, 0, 0, 1
+Will Smith, 2, 1, 3, 18, 0, 0, 1
+Bob Lee Swagger, 3, 1, 11, 14, 0, 0, 1
+Mark Wahlberg, 2, 1, 0, 18, 0, 0, 1
+Michael Pena, 2, 1, 7, 22, 1, 0, 1
+Danny Glover, 2, 1, 10, 22, 0, 1, 1
+Kate Mara's, 2, 1, 6, 9, 0, 0, 1
+Swagger's, 1, 1, 4, 13, 0, 0, 1
+Elias Kosteas, 2, 1, 0, 9, 0, 0, 1
+Jack Payne, 2, 1, 7, 9, 0, 0, 1
+JJ Abrams, 2, 1, 9, 12, 0, 0, 1
+Spielberg, 1, 1, 11, 18, 0, 1, 1
+Elle Fanning, 2, 1, 0, 6, 0, 0, 1
+John Nash's, 2, 1, 0, 36, 0, 0, 1
+John, 1, 1, 0, 13, 1, 0, 1
+Russell Crowe, 2, 1, 0, 16, 0, 0, 1
+Jennifer Connelly, 2, 1, 14, 16, 0, 0, 1
+Ron Howard, 2, 1, 3, 14, 0, 0, 1
+PT Anderson, 2, 1, 0, 12, 0, 0, 1
+Daniel Day-Lewis, 2, 1, 0, 9, 0, 0, 1
+Johnny Greenwood's, 2, 1, 0, 7, 0, 0, 1
+Robert Elswit, 2, 1, 0, 15, 0, 0, 1
+Hitchcock, 1, 1, 7, 26, 0, 0, 1
+Hitchcock's, 1, 1, 8, 11, 0, 0, 1
+Hitchcock, 1, 1, 0, 5, 0, 0, 1
+Bernard Hermann, 2, 1, 8, 10, 0, 0, 1
+Jimmy Stewart, 2, 1, 0, 14, 1, 0, 1
+Kim Novak, 2, 1, 0, 10, 1, 0, 1
+Barbara Bel Geddes, 3, 1, 1, 9, 0, 0, 1
+Scottie's, 1, 1, 5, 9, 0, 1, 1
+Stewart's, 1, 1, 7, 9, 0, 0, 1
+Scottie's, 1, 1, 5, 7, 0, 0, 1
+Bond, 1, 1, 4, 7, 0, 0, 1
+Ben Whishaw, 2, 1, 0, 16, 0, 0, 1
+Daniel Craig, 2, 1, 2, 14, 0, 0, 1
+Bryan Singer, 2, 1, 0, 2, 0, 0, 1
+Hugh Jackman, 2, 1, 1, 4, 0, 0, 1
+Wolverine, 1, 1, 3, 4, 0, 0, 1
+Patrick Stewart, 2, 1, 1, 3, 0, 1, 1
+Charles Xavier, 2, 1, 11, 17, 0, 1, 1
+Singer, 1, 1, 4, 9, 0, 0, 1
+Mickey Rourke, 2, 1, 9, 15, 0, 0, 1
+Mickey Rourke, 2, 1, 8, 10, 0, 1, 1
+Darren Aronofsky, 2, 1, 0, 2, 0, 0, 1
+Marisa Tomei, 2, 1, 0, 2, 0, 0, 1
+Evan Rachel Wood, 3, 1, 0, 3, 0, 0, 1
+Clint Mansell, 2, 1, 3, 5, 0, 0, 1
+Mickey Rourke, 2, 1, 0, 17, 0, 0, 1
+Mickey, 1, 1, 15, 39, 0, 1, 1
+Mickey, 1, 1, 22, 39, 0, 0, 1
+Mickey, 1, 1, 25, 39, 0, 1, 1
+Randy, 1, 1, 5, 28, 0, 0, 1
+Mickey, 1, 1, 2, 7, 0, 0, 1
+Randy, 1, 1, 4, 7, 0, 0, 1
+Mickey Rourke, 2, 1, 4, 7, 0, 0, 1
+Mickey, 1, 1, 11, 12, 0, 0, 1
+Marissa Tomei, 2, 1, 0, 19, 0, 0, 1
+Mickey's, 1, 1, 15, 19, 0, 1, 1
+Evan Rachel Wood, 3, 1, 0, 10, 0, 0, 1
+Mickey, 1, 1, 3, 9, 1, 0, 1
+Evan, 1, 1, 5, 9, 1, 1, 1
+Darren Aronofsky, 2, 1, 0, 9, 0, 0, 1
+Mickey Rourke, 2, 1, 0, 17, 0, 0, 1
+Mickey Rourke, 2, 1, 3, 16, 1, 0, 1
+Evan Rachel Wood, 3, 1, 6, 16, 0, 1, 1
+Mickey's, 1, 1, 16, 21, 0, 1, 1
+Mickey, 1, 1, 0, 14, 0, 0, 1
+Hailee Steinfeld, 2, 1, 1, 6, 1, 0, 1
+Charles Portis’, 2, 1, 9, 12, 0, 0, 1
+Portman, 1, 1, 0, 6, 0, 0, 1
+Wright, 1, 1, 5, 17, 0, 0, 1
+Wright's, 1, 1, 0, 4, 0, 0, 1
+Seinfeld, 1, 1, 16, 18, 0, 0, 1
+Edgar Wrights, 2, 1, 5, 18, 0, 0, 1
+Morgan, 1, 1, 6, 7, 0, 0, 1
 Jake Hoyt, 2, 1, 10, 26, 0, 0, 1
 Hawk, 1, 1, 13, 26, 0, 0, 1
 Alonzo Harris, 2, 1, 4, 19, 0, 0, 1
@@ -67,112 +112,122 @@ Harris, 1, 1, 6, 10, 1, 0, 1
 Hoyt, 1, 1, 2, 28, 1, 0, 1
 Harris, 1, 1, 20, 28, 0, 1, 1
 Denzel, 1, 1, 6, 14, 0, 0, 1
-Cam Gigandet, 2, 1, 3, 11, 0, 0, 1
-James, 1, 1, 10, 11, 0, 1, 1
-Bella, 1, 1, 9, 17, 1, 0, 1
-Edward, 1, 1, 11, 17, 0, 1, 1
-Steven Spielberg's, 2, 1, 5, 14, 0, 1, 1
-Spielberg's, 1, 1, 17, 21, 0, 1, 1
-Spielberg, 1, 1, 1, 7, 0, 0, 1
-Will Smith, 2, 1, 3, 18, 0, 0, 1
-Jason Sudeikis, 2, 1, 6, 14, 1, 0, 1
-Jennifer Aniston, 2, 1, 12, 14, 0, 0, 1
-Will Poulter's, 2, 1, 4, 13, 0, 0, 1
-Kenny, 1, 1, 7, 13, 0, 0, 1
-Guy Ritchie, 2, 1, 1, 7, 1, 0, 1
-Sherlock Holmes, 2, 1, 4, 7, 0, 1, 1
-Downey, 1, 1, 14, 16, 1, 0, 1
-Law, 1, 1, 1, 10, 1, 1, 1
-Downey, 1, 1, 0, 8, 1, 0, 1
-Holmes, 1, 1, 2, 8, 1, 1, 1
-Law, 1, 1, 4, 8, 1, 1, 1
-Watson, 1, 1, 0, 1, 0, 0, 1
-Blackwood, 1, 1, 8, 26, 0, 0, 1
-Mark Strong, 2, 1, 14, 26, 0, 0, 1
-Rachel McAdams, 2, 1, 0, 8, 1, 0, 1
-Irene Adler, 2, 1, 6, 8, 0, 1, 1
-Holmes, 1, 1, 10, 11, 0, 0, 1
-Downey, 1, 1, 0, 2, 1, 0, 1
-Law, 1, 1, 1, 6, 0, 0, 1
-Holmes, 1, 1, 9, 12, 0, 0, 1
-Ritchie's, 1, 1, 0, 6, 0, 0, 1
-Holmes', 1, 1, 0, 12, 0, 0, 1
-Ritchie's, 1, 1, 6, 13, 0, 0, 1
-Sherlock Holmes, 2, 1, 8, 10, 0, 0, 1
-Bryan Singer, 2, 1, 0, 2, 0, 0, 1
-Hugh Jackman, 2, 1, 1, 4, 0, 0, 1
-Wolverine, 1, 1, 3, 4, 0, 0, 1
-Patrick Stewart, 2, 1, 1, 3, 0, 1, 1
-Charles Xavier, 2, 1, 11, 17, 0, 1, 1
-Singer, 1, 1, 4, 9, 0, 0, 1
-Franco, 1, 1, 3, 8, 1, 0, 1
-Pinto, 1, 1, 5, 8, 1, 1, 1
-Franco, 1, 1, 1, 5, 0, 0, 1
-Lithgow, 1, 1, 0, 9, 1, 0, 1
-Caeser, 1, 1, 1, 13, 0, 1, 1
-Caeser, 1, 1, 2, 11, 0, 0, 1
+Hugh  Jackman, 2, 1, 4, 6, 0, 1, 1
+Christian Bale, 2, 1, 0, 15, 1, 0, 1
+Michael Caine, 2, 1, 3, 15, 0, 1, 1
+Peter Parker, 2, 1, 0, 12, 0, 0, 1
+Tobey Maguire, 2, 1, 3, 12, 0, 0, 1
+May, 1, 1, 2, 5, 0, 0, 1
+Rosemary Harris, 2, 1, 4, 5, 0, 0, 1
+Peter's, 1, 1, 0, 27, 0, 0, 1
+Norman Osborne, 2, 1, 2, 27, 0, 0, 1
+James Franco, 2, 1, 5, 27, 0, 0, 1
+Mary Jane-Watson, 2, 1, 5, 28, 0, 1, 1
+Kirsten Dunst, 2, 1, 8, 28, 0, 0, 1
+Parker, 1, 1, 0, 17, 1, 0, 1
+Peter, 1, 1, 0, 14, 0, 0, 1
+Parker, 1, 1, 11, 32, 0, 0, 1
+Parker, 1, 1, 0, 9, 0, 0, 1
+Otto Octavius, 2, 1, 11, 15, 0, 0, 1
+Alfred Molina, 2, 1, 14, 15, 0, 0, 1
+Tobey Maguire, 2, 1, 4, 6, 0, 1, 1
+Maguire, 1, 1, 0, 26, 1, 0, 1
+Sam Raimi, 2, 1, 0, 9, 1, 0, 1
+Raimi, 1, 1, 0, 35, 1, 0, 1
+Peter, 1, 1, 8, 24, 1, 0, 1
+Octavius, 1, 1, 10, 24, 0, 1, 1
+Harry Potter, 2, 1, 8, 14, 1, 0, 1
+Wolfgang Petersen, 2, 1, 0, 3, 0, 0, 1
+Wesley Gibson, 2, 1, 17, 35, 1, 0, 1
+Fox, 1, 1, 35, 35, 0, 0, 1
+Gibson, 1, 1, 0, 19, 1, 0, 1
+Wesley's, 1, 1, 11, 16, 0, 0, 1
+Morgan Freeman, 2, 1, 0, 4, 1, 0, 1
+Sloan, 1, 1, 3, 4, 0, 1, 1
+Freeman, 1, 1, 5, 13, 0, 0, 1
+Angelina Jolie, 2, 1, 0, 7, 1, 0, 1
+Fox, 1, 1, 6, 7, 0, 1, 1
+Jolie, 1, 1, 9, 15, 0, 0, 1
+James McAvoy, 2, 1, 6, 11, 0, 1, 1
+Wesley Gibson, 2, 1, 9, 11, 0, 1, 1
+McAvoy's, 1, 1, 6, 17, 0, 0, 1
+Tarantino's, 1, 1, 11, 13, 0, 0, 1
+Danny Boyle's, 2, 1, 12, 20, 0, 0, 1
+Boyle, 1, 1, 10, 20, 0, 0, 1
+Boyle, 1, 1, 4, 6, 0, 0, 1
+Ewan McGregor, 2, 1, 1, 3, 0, 0, 1
+Jonny Lee Miller, 3, 1, 0, 3, 0, 0, 1
+Robert Carlyle, 2, 1, 1, 21, 0, 1, 1
+Boyle, 1, 1, 0, 9, 0, 0, 1
+Magneto, 1, 1, 9, 20, 0, 0, 1
+Hugh Jackman, 2, 1, 9, 23, 0, 0, 1
+Wolverine, 1, 1, 12, 23, 0, 1, 1
+Wolverine, 1, 1, 15, 23, 0, 0, 1
+Hitler's, 1, 1, 21, 37, 0, 1, 1
+Martin Luthor King, 3, 1, 31, 37, 1, 0, 1
+Malcom X, 2, 1, 35, 37, 0, 1, 1
+X, 1, 1, 8, 20, 0, 1, 1
+Martin Luthor King, 3, 1, 10, 20, 1, 1, 1
+Magneto, 1, 1, 16, 20, 0, 0, 1
+Malcom X, 2, 1, 18, 20, 0, 1, 1
+Tim Burton's, 2, 1, 24, 27, 0, 0, 1
 Jim Carrey, 2, 1, 16, 25, 1, 0, 1
 Zooey Deschanel, 2, 1, 19, 25, 0, 1, 1
 Zooey Deschanel, 2, 1, 0, 15, 1, 0, 1
-Woody, 1, 1, 3, 13, 1, 0, 1
-Buzz Lightyear, 2, 1, 5, 13, 0, 1, 1
-Andy, 1, 1, 2, 9, 0, 1, 1
-Darren Aronofsky's, 2, 1, 7, 12, 0, 0, 1
-Ellen Burstyn, 2, 1, 3, 33, 0, 0, 1
-Burstyn, 1, 1, 0, 3, 1, 0, 1
-Aronofsky, 1, 1, 0, 18, 0, 0, 1
-Clint Mansell, 2, 1, 7, 23, 1, 1, 1
-Andrew Stanton, 2, 1, 5, 7, 0, 1, 1
-Jim Morris, 2, 1, 0, 2, 0, 0, 1
-John Lasseter, 2, 1, 0, 2, 0, 0, 1
-Ben Burtt, 2, 1, 0, 2, 0, 0, 1
-JJ Abrams, 2, 1, 9, 12, 0, 0, 1
-Spielberg, 1, 1, 11, 18, 0, 1, 1
-Elle Fanning, 2, 1, 0, 6, 0, 0, 1
-Bond, 1, 1, 6, 12, 0, 0, 1
-Daniel Craig's, 2, 1, 7, 13, 0, 1, 1
-Bond, 1, 1, 12, 13, 0, 0, 1
-Javier Bardem, 2, 1, 4, 11, 0, 0, 1
-Judi Dench, 2, 1, 0, 21, 1, 0, 1
-Bond, 1, 1, 6, 8, 0, 0, 1
-Craig's, 1, 1, 0, 26, 0, 0, 1
-Connery, 1, 1, 7, 26, 0, 0, 1
-Moore, 1, 1, 9, 26, 0, 0, 1
-Bond, 1, 1, 4, 20, 0, 1, 1
-James Bond, 2, 1, 8, 14, 0, 0, 1
-Desmond Llewelyn's, 2, 1, 4, 8, 0, 0, 1
-Llewelyn, 1, 1, 6, 8, 0, 0, 1
-Bond, 1, 1, 6, 14, 0, 0, 1
-Bob Lee Swagger, 3, 1, 11, 14, 0, 0, 1
-Mark Wahlberg, 2, 1, 0, 18, 0, 0, 1
-Michael Pena, 2, 1, 7, 22, 1, 0, 1
-Danny Glover, 2, 1, 10, 22, 0, 1, 1
-Kate Mara's, 2, 1, 6, 9, 0, 0, 1
-Swagger's, 1, 1, 4, 13, 0, 0, 1
-Elias Kosteas, 2, 1, 0, 9, 0, 0, 1
-Jack Payne, 2, 1, 7, 9, 0, 0, 1
-Terry Gilliam's, 2, 1, 8, 11, 0, 0, 1
-Bruce Willis, 2, 1, 8, 25, 0, 0, 1
-Brad Pitt, 2, 1, 0, 31, 0, 0, 1
-Jennifer, 1, 1, 28, 31, 1, 1, 1
-Morgan Freeman, 2, 1, 0, 6, 1, 0, 1
-Kevin Spacey, 2, 1, 0, 19, 1, 0, 1
-David Fincher, 2, 1, 3, 11, 1, 0, 1
-Andrew Kevin Walker, 3, 1, 8, 11, 0, 0, 1
-Fincher's, 1, 1, 0, 22, 0, 0, 1
-Andrew Kevin Walker, 3, 1, 0, 11, 0, 0, 1
-John Doe, 2, 1, 19, 23, 0, 0, 1
-John Doe's, 2, 1, 0, 13, 0, 0, 1
-John Doe, 2, 1, 7, 23, 1, 0, 1
-Tom Hanks, 2, 1, 0, 11, 0, 0, 1
-Victor Navorsky, 2, 1, 3, 11, 1, 1, 1
-Victor, 1, 1, 3, 22, 1, 0, 1
-Hanks, 1, 1, 1, 22, 0, 0, 1
-Victor, 1, 1, 13, 22, 0, 0, 1
-Hanks, 1, 1, 0, 4, 1, 0, 1
-Hanks, 1, 1, 12, 25, 0, 0, 1
-Hanks, 1, 1, 37, 42, 0, 0, 1
-Hanks, 1, 1, 15, 20, 0, 0, 1
+Shyamalan, 1, 1, 0, 15, 1, 0, 1
+Shyamalan, 1, 1, 3, 4, 0, 0, 1
+Polanski, 1, 1, 0, 19, 0, 0, 1
+Adrien Brody, 2, 1, 11, 13, 0, 1, 1
+Schindler, 1, 1, 14, 15, 0, 1, 1
+Chopin's, 1, 1, 1, 3, 0, 0, 1
+Polanski's, 1, 1, 44, 47, 0, 0, 1
+Polanski's, 1, 1, 0, 11, 0, 0, 1
+Adrien Brody's, 2, 1, 4, 8, 0, 1, 1
+Polanski's, 1, 1, 0, 3, 0, 0, 1
+Polanski's, 1, 1, 0, 3, 0, 0, 1
+David Fincher's, 2, 1, 3, 18, 0, 0, 1
+Fincher, 1, 1, 0, 9, 0, 0, 1
+Fincher's, 1, 1, 9, 11, 0, 0, 1
+Harry, 1, 1, 9, 10, 0, 0, 1
+Mary Jane, 2, 1, 0, 5, 0, 0, 1
+Peter, 1, 1, 3, 5, 0, 0, 1
+Peter's, 1, 1, 0, 14, 0, 0, 1
+Peter's, 1, 1, 0, 20, 0, 0, 1
+Dawson's, 1, 1, 9, 21, 0, 0, 1
+Peter Parker, 2, 1, 6, 10, 0, 0, 1
+Topher Grace, 2, 1, 6, 15, 1, 0, 1
+Eric, 1, 1, 10, 15, 1, 0, 1
+Eddie Brock, 2, 1, 0, 4, 1, 0, 1
+Peter's, 1, 1, 0, 9, 0, 0, 1
+Miyazaki, 1, 1, 6, 13, 1, 0, 1
+Miyazaki's, 1, 1, 2, 7, 0, 0, 1
+Mononoke, 1, 1, 6, 7, 0, 0, 1
+Chihiro, 1, 1, 6, 23, 0, 0, 1
+Chihiro, 1, 1, 3, 10, 0, 1, 1
+Haku, 1, 1, 0, 7, 1, 0, 1
+Chihiro, 1, 1, 2, 7, 0, 1, 1
+Chihiro, 1, 1, 1, 19, 0, 1, 1
+Miyazaki's, 1, 1, 3, 6, 0, 0, 1
+Mononoke, 1, 1, 3, 4, 0, 0, 1
+Lewis Carroll's, 2, 1, 7, 28, 0, 0, 1
+Alice, 1, 1, 9, 28, 0, 0, 1
+Michael Bay, 2, 1, 6, 8, 0, 0, 1
+Jon Voight's, 2, 1, 0, 9, 0, 0, 1
+John Turturro, 2, 1, 13, 23, 0, 0, 1
+Shia Lebeouf, 2, 1, 0, 18, 0, 0, 1
+Sam, 1, 1, 17, 18, 0, 0, 1
+Megan Fox's, 2, 1, 0, 17, 0, 0, 1
+Peter Cullen, 2, 1, 0, 4, 0, 0, 1
+Hugo Weaving, 2, 1, 0, 24, 1, 0, 1
+Megatron, 1, 1, 9, 24, 0, 1, 1
+Optimus, 1, 1, 18, 28, 1, 0, 1
+Megatron, 1, 1, 20, 28, 0, 1, 1
+Bay's, 1, 1, 6, 9, 0, 1, 1
+Bumblebee, 1, 1, 11, 11, 0, 0, 1
+Frenzy, 1, 1, 0, 10, 0, 0, 1
+Anthony Anderson, 2, 1, 7, 10, 1, 0, 1
+Dubya's, 1, 1, 8, 9, 0, 0, 1
+Sam's, 1, 1, 0, 6, 0, 0, 1
 Stephen Chbosky, 2, 1, 0, 7, 0, 0, 1
 John Hughes', 2, 1, 17, 20, 0, 0, 1
 Chbosky, 1, 1, 0, 11, 0, 0, 1
@@ -211,69 +266,15 @@ Aunt Helen, 2, 1, 8, 10, 0, 1, 1
 Paul Rudd, 2, 1, 0, 4, 0, 0, 1
 Anderson, 1, 1, 0, 3, 1, 0, 1
 Paul Rudd, 2, 1, 0, 11, 0, 0, 1
-James Bond, 2, 1, 11, 46, 0, 0, 1
-Paul Verhoeven, 2, 1, 0, 45, 0, 0, 1
-Verhoeven, 1, 1, 15, 45, 0, 1, 1
-Verhoeven's, 1, 1, 36, 45, 0, 0, 1
-Verhoeven, 1, 1, 0, 40, 1, 0, 1
-Verhoeven, 1, 1, 31, 40, 0, 0, 1
-Big Arnie, 2, 1, 38, 40, 0, 0, 1
-Arnie, 1, 1, 13, 41, 0, 0, 1
-Michael Ironside, 2, 1, 0, 24, 0, 0, 1
-Arnie, 1, 1, 12, 48, 0, 0, 1
-Bond, 1, 1, 4, 7, 0, 0, 1
-Ben Whishaw, 2, 1, 0, 16, 0, 0, 1
-Daniel Craig, 2, 1, 2, 14, 0, 0, 1
-Allie, 1, 1, 0, 12, 1, 0, 1
-Noah, 1, 1, 2, 12, 1, 1, 1
-Nick Nolte, 2, 1, 0, 2, 0, 0, 1
-Nolte, 1, 1, 0, 4, 1, 0, 1
-Hardy, 1, 1, 0, 3, 1, 0, 1
-Edgeron, 1, 1, 0, 5, 0, 0, 1
-Nick Nolte, 2, 1, 5, 7, 0, 1, 1
-Hardy, 1, 1, 0, 3, 1, 0, 1
-Edgeron, 1, 1, 0, 8, 0, 0, 1
-McCarthy, 1, 1, 0, 11, 0, 0, 1
-Ruffalo, 1, 1, 0, 7, 0, 0, 1
-Keaton, 1, 1, 0, 6, 1, 0, 1
-McAdams, 1, 1, 1, 30, 0, 1, 1
-Turkish, 1, 1, 3, 4, 0, 0, 1
-Mickey, 1, 1, 0, 1, 0, 0, 1
-Tommy, 1, 1, 0, 1, 0, 0, 1
-Jason Statham, 2, 1, 0, 11, 0, 0, 1
-Tommy, 1, 1, 8, 12, 0, 0, 1
-Brad Pitt, 2, 1, 0, 11, 0, 0, 1
-Mickey, 1, 1, 10, 11, 0, 0, 1
-Richie, 1, 1, 0, 4, 1, 0, 1
-Hugh Jackman, 2, 1, 2, 20, 0, 0, 1
-Chris Claremont, 2, 1, 14, 20, 0, 0, 1
-Frank Miller, 2, 1, 17, 20, 0, 0, 1
-Mariko, 1, 1, 3, 5, 0, 1, 1
-Wolverine, 1, 1, 0, 8, 0, 0, 1
-Shingen, 1, 1, 2, 8, 1, 0, 1
-James Mangold, 2, 1, 4, 6, 0, 0, 1
-Fox's, 1, 1, 4, 19, 0, 0, 1
-Darren Aronofsky, 2, 1, 13, 19, 0, 0, 1
-Fox, 1, 1, 1, 10, 1, 0, 1
-Wolverine, 1, 1, 6, 26, 0, 0, 1
-Karloff's, 1, 1, 0, 10, 0, 0, 1
-Imhotep, 1, 1, 1, 10, 0, 0, 1
-Arnold Vosloo's, 2, 1, 0, 7, 0, 0, 1
-Brendan Fraser, 2, 1, 0, 4, 0, 0, 1
-John Hannah, 2, 1, 0, 4, 1, 0, 1
-Rachel Weisz, 2, 1, 0, 4, 1, 0, 1
-Oded Fehr, 2, 1, 3, 5, 0, 1, 1
-John Nash's, 2, 1, 0, 36, 0, 0, 1
-John, 1, 1, 0, 13, 1, 0, 1
-Russell Crowe, 2, 1, 0, 16, 0, 0, 1
-Jennifer Connelly, 2, 1, 14, 16, 0, 0, 1
-Ron Howard, 2, 1, 3, 14, 0, 0, 1
-Hailee Steinfeld, 2, 1, 1, 6, 1, 0, 1
-Charles Portis’, 2, 1, 9, 12, 0, 0, 1
-James Franco, 2, 1, 2, 4, 0, 0, 1
-Seth Rogan, 2, 1, 0, 2, 0, 0, 1
-Danny McBride, 2, 1, 1, 14, 0, 1, 1
-James Franco's, 2, 1, 6, 21, 0, 0, 1
+Jet Li's, 2, 1, 12, 23, 0, 1, 1
+Corey Yuen, 2, 1, 16, 23, 1, 0, 1
+Jason Statham, 2, 1, 21, 23, 0, 0, 1
+Jason, 1, 1, 0, 5, 0, 0, 1
+Frank Martin, 2, 1, 3, 5, 0, 1, 1
+Betancourt, 1, 1, 13, 16, 0, 0, 1
+Matt Schulze, 2, 1, 15, 16, 0, 0, 1
+Jason Statham, 2, 1, 0, 14, 1, 0, 1
+Shu Qi, 2, 1, 1, 15, 0, 0, 1
 Arnold Schwartzeneggerr's, 2, 1, 9, 12, 0, 0, 1
 James Cameron, 2, 1, 1, 7, 0, 0, 1
 James Cameron, 2, 1, 12, 15, 0, 0, 1
@@ -291,80 +292,144 @@ Reese, 1, 1, 0, 12, 0, 0, 1
 Sarah, 1, 1, 11, 12, 0, 0, 1
 Arnold's, 1, 1, 3, 17, 0, 0, 1
 Kyle Reese's, 2, 1, 0, 14, 0, 0, 1
+McCarthy, 1, 1, 0, 11, 0, 0, 1
+Ruffalo, 1, 1, 0, 7, 0, 0, 1
+Keaton, 1, 1, 0, 6, 1, 0, 1
+McAdams, 1, 1, 1, 30, 0, 1, 1
+Al Pacino, 2, 1, 0, 13, 0, 0, 1
+Tony Montana's, 2, 1, 13, 18, 0, 0, 1
+Michael Corleone, 2, 1, 5, 8, 0, 0, 1
+Tony Montana, 2, 1, 2, 4, 0, 1, 1
+Gina, 1, 1, 2, 5, 1, 0, 1
+Elvira's, 1, 1, 4, 5, 0, 1, 1
+Sosa, 1, 1, 4, 11, 1, 1, 1
+Tony's, 1, 1, 6, 11, 0, 1, 1
+Al Pacino, 2, 1, 3, 12, 1, 0, 1
+Tony Montana, 2, 1, 8, 16, 0, 0, 1
+Pacino, 1, 1, 8, 9, 0, 0, 1
+Tony Montana, 2, 1, 7, 13, 1, 0, 1
+Steven Bauer, 2, 1, 0, 7, 0, 0, 1
+Tony's, 1, 1, 4, 7, 0, 1, 1
+Manny, 1, 1, 6, 7, 0, 0, 1
+Robert Loggia, 2, 1, 0, 7, 1, 0, 1
+Tony's, 1, 1, 5, 7, 0, 1, 1
+Lopez, 1, 1, 0, 1, 0, 0, 1
+Omar, 1, 1, 3, 8, 0, 0, 1
+Elvira, 1, 1, 9, 14, 0, 0, 1
+Michelle Pfeiffer, 2, 1, 12, 14, 0, 1, 1
+Altman's, 1, 1, 7, 10, 0, 0, 1
+Doweny, 1, 1, 1, 3, 1, 0, 1
+Russel Crowe, 2, 1, 1, 3, 0, 0, 1
+Robin Williams, 2, 1, 0, 2, 0, 0, 1
+Harvey Weinstein, 2, 1, 1, 6, 0, 1, 1
+Downey, 1, 1, 8, 10, 1, 0, 1
+Cruise, 1, 1, 1, 6, 0, 1, 1
+Darren Aronofsky's, 2, 1, 7, 12, 0, 0, 1
+Ellen Burstyn, 2, 1, 3, 33, 0, 0, 1
+Burstyn, 1, 1, 0, 3, 1, 0, 1
+Aronofsky, 1, 1, 0, 18, 0, 0, 1
+Clint Mansell, 2, 1, 7, 23, 1, 1, 1
+James Bond, 2, 1, 11, 46, 0, 0, 1
+Paul Verhoeven, 2, 1, 0, 45, 0, 0, 1
+Verhoeven, 1, 1, 15, 45, 0, 1, 1
+Verhoeven's, 1, 1, 36, 45, 0, 0, 1
+Verhoeven, 1, 1, 0, 40, 1, 0, 1
+Verhoeven, 1, 1, 31, 40, 0, 0, 1
+Big Arnie, 2, 1, 38, 40, 0, 0, 1
+Arnie, 1, 1, 13, 41, 0, 0, 1
+Michael Ironside, 2, 1, 0, 24, 0, 0, 1
+Arnie, 1, 1, 12, 48, 0, 0, 1
+Shrek, 1, 1, 9, 12, 0, 0, 1
+Mike Myers, 2, 1, 11, 12, 0, 0, 1
+Fiona, 1, 1, 0, 3, 0, 0, 1
+Cameron Diaz, 2, 1, 2, 3, 0, 0, 1
+Eddie Murphy, 2, 1, 2, 3, 0, 0, 1
+Shrek, 1, 1, 0, 18, 1, 0, 1
+Fiona, 1, 1, 2, 18, 0, 1, 1
+Fiona's, 1, 1, 7, 18, 0, 1, 1
+John Cleese, 2, 1, 10, 18, 1, 0, 1
+Julie Andrews, 2, 1, 13, 18, 0, 1, 1
+Fiona's, 1, 1, 9, 19, 0, 0, 1
+Antonio Banderas, 2, 1, 2, 13, 0, 1, 1
+Jennifer Saunders, 2, 1, 4, 9, 0, 0, 1
+Fiona, 1, 1, 10, 9, 0, 1, 1
+Fiona, 1, 1, 12, 16, 0, 0, 1
+Shrek, 1, 1, 15, 16, 0, 0, 1
+Shrek, 1, 1, 0, 9, 1, 0, 1
+Fiona, 1, 1, 2, 9, 0, 1, 1
+Disney, 1, 1, 5, 7, 0, 0, 1
+Cam Gigandet, 2, 1, 3, 11, 0, 0, 1
+James, 1, 1, 10, 11, 0, 1, 1
+Bella, 1, 1, 9, 17, 1, 0, 1
+Edward, 1, 1, 11, 17, 0, 1, 1
 Steven Spielberg, 2, 1, 1, 21, 0, 0, 1
  Spielberg, 1, 1, 0, 26, 1, 0, 1
 Tom Hanks, 2, 1, 2, 9, 0, 1, 1
 Forrest Gump, 2, 1, 6, 13, 0, 1, 1
 John Miller, 2, 1, 0, 2, 0, 0, 1
 Ryan, 1, 1, 2, 19, 1, 0, 1
-Homer, 1, 1, 5, 9, 0, 0, 1
-Ricky Gervais, 2, 1, 3, 15, 1, 0, 1
-Michael Bay, 2, 1, 6, 8, 0, 0, 1
-Jon Voight's, 2, 1, 0, 9, 0, 0, 1
-John Turturro, 2, 1, 13, 23, 0, 0, 1
-Shia Lebeouf, 2, 1, 0, 18, 0, 0, 1
-Sam, 1, 1, 17, 18, 0, 0, 1
-Megan Fox's, 2, 1, 0, 17, 0, 0, 1
-Peter Cullen, 2, 1, 0, 4, 0, 0, 1
-Hugo Weaving, 2, 1, 0, 24, 1, 0, 1
-Megatron, 1, 1, 9, 24, 0, 1, 1
-Optimus, 1, 1, 18, 28, 1, 0, 1
-Megatron, 1, 1, 20, 28, 0, 1, 1
-Bay's, 1, 1, 6, 9, 0, 1, 1
-Bumblebee, 1, 1, 11, 11, 0, 0, 1
-Frenzy, 1, 1, 0, 10, 0, 0, 1
-Anthony Anderson, 2, 1, 7, 10, 1, 0, 1
-Dubya's, 1, 1, 8, 9, 0, 0, 1
-Sam's, 1, 1, 0, 6, 0, 0, 1
-Magneto, 1, 1, 9, 20, 0, 0, 1
-Hugh Jackman, 2, 1, 9, 23, 0, 0, 1
-Wolverine, 1, 1, 12, 23, 0, 1, 1
-Wolverine, 1, 1, 15, 23, 0, 0, 1
-Hitler's, 1, 1, 21, 37, 0, 1, 1
-Martin Luthor King, 3, 1, 31, 37, 1, 0, 1
-Malcom X, 2, 1, 35, 37, 0, 1, 1
-X, 1, 1, 8, 20, 0, 1, 1
-Martin Luthor King, 3, 1, 10, 20, 1, 1, 1
-Magneto, 1, 1, 16, 20, 0, 0, 1
-Malcom X, 2, 1, 18, 20, 0, 1, 1
-Tim Burton's, 2, 1, 24, 27, 0, 0, 1
-Danny Boyle, 2, 1, 0, 9, 0, 0, 1
-Boyle's, 1, 1, 1, 9, 0, 1, 1
-Boyle, 1, 1, 18, 28, 0, 0, 1
-James Marsh, 2, 1, 8, 28, 0, 1, 1
-Stephen, 1, 1, 24, 28, 1, 0, 1
-Jane Hawking, 2, 1, 26, 28, 0, 1, 1
-Eddie Redmayne, 2, 1, 0, 20, 1, 0, 1
-Felicity Jones, 2, 1, 3, 20, 0, 1, 1
-Stephen, 1, 1, 11, 20, 1, 0, 1
-Jane, 1, 1, 13, 20, 0, 1, 1
-James Marsh, 2, 1, 4, 28, 0, 0, 1
-Stephen Hawking's, 2, 1, 11, 28, 0, 0, 1
-Eddie Redmayne, 2, 1, 1, 29, 0, 1, 1
-Stephen Hawking, 2, 1, 5, 29, 0, 0, 1
-Hawking, 1, 1, 5, 27, 0, 0, 1
-Peter Parker, 2, 1, 0, 12, 0, 0, 1
-Tobey Maguire, 2, 1, 3, 12, 0, 0, 1
-May, 1, 1, 2, 5, 0, 0, 1
-Rosemary Harris, 2, 1, 4, 5, 0, 0, 1
-Peter's, 1, 1, 0, 27, 0, 0, 1
-Norman Osborne, 2, 1, 2, 27, 0, 0, 1
-James Franco, 2, 1, 5, 27, 0, 0, 1
-Mary Jane-Watson, 2, 1, 5, 28, 0, 1, 1
-Kirsten Dunst, 2, 1, 8, 28, 0, 0, 1
-Parker, 1, 1, 0, 17, 1, 0, 1
-Peter, 1, 1, 0, 14, 0, 0, 1
-Parker, 1, 1, 11, 32, 0, 0, 1
-Parker, 1, 1, 0, 9, 0, 0, 1
-Otto Octavius, 2, 1, 11, 15, 0, 0, 1
-Alfred Molina, 2, 1, 14, 15, 0, 0, 1
-Tobey Maguire, 2, 1, 4, 6, 0, 1, 1
-Maguire, 1, 1, 0, 26, 1, 0, 1
-Sam Raimi, 2, 1, 0, 9, 1, 0, 1
-Raimi, 1, 1, 0, 35, 1, 0, 1
-Peter, 1, 1, 8, 24, 1, 0, 1
-Octavius, 1, 1, 10, 24, 0, 1, 1
-Harry Potter, 2, 1, 8, 14, 1, 0, 1
+Shrek, 1, 1, 9, 9, 0, 0, 1
+Shrek, 1, 1, 21, 36, 1, 0, 1
+Raymond Briggs', 2, 1, 27, 36, 0, 1, 1
+Disney, 1, 1, 12, 13, 0, 0, 1
+Disney, 1, 1, 1, 4, 1, 0, 1
+Disney, 1, 1, 4, 4, 0, 0, 1
+Shrek, 1, 1, 1, 11, 0, 0, 1
+Shakespeare's, 1, 1, 8, 13, 0, 1, 1
+Myers, 1, 1, 7, 12, 1, 0, 1
+Murphy, 1, 1, 9, 12, 0, 1, 1
+Diaz, 1, 1, 0, 18, 1, 0, 1
+Lloyd Alexander's, 2, 1, 11, 18, 0, 0, 1
+Eilonwy, 1, 1, 13, 18, 0, 0, 1
+Lara Croft, 2, 1, 16, 18, 0, 1, 1
+Lithgow's, 1, 1, 0, 7, 0, 0, 1
+Farquaad, 1, 1, 1, 7, 1, 0, 1
+Olivier's, 1, 1, 2, 12, 0, 0, 1
+Richard, 1, 1, 3, 12, 0, 0, 1
+Pat, 1, 1, 6, 9, 1, 0, 1
+Tiffany, 1, 1, 8, 9, 0, 1, 1
+Jennifer Lawrence, 2, 1, 0, 7, 1, 0, 1
+Bradley Cooper, 2, 1, 3, 7, 1, 1, 1
+Hugh Jackman, 2, 1, 2, 20, 0, 0, 1
+Chris Claremont, 2, 1, 14, 20, 0, 0, 1
+Frank Miller, 2, 1, 17, 20, 0, 0, 1
+Mariko, 1, 1, 3, 5, 0, 1, 1
+Wolverine, 1, 1, 0, 8, 0, 0, 1
+Shingen, 1, 1, 2, 8, 1, 0, 1
+James Mangold, 2, 1, 4, 6, 0, 0, 1
+Fox's, 1, 1, 4, 19, 0, 0, 1
+Darren Aronofsky, 2, 1, 13, 19, 0, 0, 1
+Fox, 1, 1, 1, 10, 1, 0, 1
+Wolverine, 1, 1, 6, 26, 0, 0, 1
+Javier Bardem, 2, 1, 2, 4, 0, 0, 1
+Ozymandias, 1, 1, 2, 3, 0, 0, 1
+Percy Bysshe Shelley's, 3, 1, 13, 21, 0, 0, 1
+Ozymandias, 1, 1, 11, 12, 0, 1, 1
+Ozymandias, 1, 1, 0, 14, 1, 0, 1
+Manhattan, 1, 1, 0, 1, 0, 0, 1
+Oppenheimer's, 1, 1, 4, 9, 0, 0, 1
+Vishnu, 1, 1, 2, 10, 0, 0, 1
+Manhattan, 1, 1, 0, 9, 0, 0, 1
+Alan Lightman's, 2, 1, 0, 7, 0, 0, 1
+Einstein's, 1, 1, 5, 7, 0, 0, 1
+Einstein, 1, 1, 4, 8, 0, 1, 1
+Rorshach's, 1, 1, 2, 6, 0, 0, 1
+Ozymandias, 1, 1, 6, 7, 0, 1, 1
+Will Smith, 2, 1, 0, 13, 0, 0, 1
+Andrew Stanton, 2, 1, 5, 7, 0, 1, 1
+Jim Morris, 2, 1, 0, 2, 0, 0, 1
+John Lasseter, 2, 1, 0, 2, 0, 0, 1
+Ben Burtt, 2, 1, 0, 2, 0, 0, 1
+Woody, 1, 1, 3, 13, 1, 0, 1
+Buzz Lightyear, 2, 1, 5, 13, 0, 1, 1
+Andy, 1, 1, 2, 9, 0, 1, 1
+Jonah Hill, 2, 1, 0, 23, 1, 0, 1
+Michael Cera, 2, 1, 3, 23, 0, 1, 1
+Christopher Mintz-Plasse, 2, 1, 2, 4, 0, 0, 1
+Fogell, 1, 1, 5, 9, 1, 0, 1
+Mintz-Plasse, 1, 1, 19, 28, 1, 0, 1
+Michael Cera, 2, 1, 21, 28, 1, 1, 1
+Seth Brogen, 2, 1, 12, 16, 0, 0, 1
 Scorsese's, 1, 1, 0, 24, 0, 0, 1
 Dennis Lehane's, 2, 1, 4, 9, 0, 1, 1
 Scorsese, 1, 1, 0, 11, 0, 0, 1
@@ -396,56 +461,234 @@ Scorsese, 1, 1, 1, 20, 0, 0, 1
 Lehane, 1, 1, 0, 26, 1, 0, 1
 Eastwood, 1, 1, 23, 26, 1, 1, 1
 Scorsese, 1, 1, 25, 26, 0, 1, 1
+Homer, 1, 1, 5, 9, 0, 0, 1
+Ricky Gervais, 2, 1, 3, 15, 1, 0, 1
+Nick Nolte, 2, 1, 0, 2, 0, 0, 1
+Nolte, 1, 1, 0, 4, 1, 0, 1
+Hardy, 1, 1, 0, 3, 1, 0, 1
+Edgeron, 1, 1, 0, 5, 0, 0, 1
+Nick Nolte, 2, 1, 5, 7, 0, 1, 1
+Hardy, 1, 1, 0, 3, 1, 0, 1
+Edgeron, 1, 1, 0, 8, 0, 0, 1
 Tim Burton's, 2, 1, 1, 16, 0, 0, 1
 Ichabod Crane, 2, 1, 5, 21, 1, 1, 1
 Johnny Depp, 2, 1, 3, 19, 0, 0, 1
 Ichabod Crane, 2, 1, 0, 2, 0, 0, 1
-Miyazaki, 1, 1, 6, 13, 1, 0, 1
-Miyazaki's, 1, 1, 2, 7, 0, 0, 1
-Mononoke, 1, 1, 6, 7, 0, 0, 1
-Chihiro, 1, 1, 6, 23, 0, 0, 1
-Chihiro, 1, 1, 3, 10, 0, 1, 1
-Haku, 1, 1, 0, 7, 1, 0, 1
-Chihiro, 1, 1, 2, 7, 0, 1, 1
-Chihiro, 1, 1, 1, 19, 0, 1, 1
-Miyazaki's, 1, 1, 3, 6, 0, 0, 1
-Mononoke, 1, 1, 3, 4, 0, 0, 1
-Lewis Carroll's, 2, 1, 7, 28, 0, 0, 1
-Alice, 1, 1, 9, 28, 0, 0, 1
-Cameron Diaz, 2, 1, 0, 11, 1, 0, 1
-Ben Stiller, 2, 1, 3, 11, 1, 1, 1
-Al Pacino, 2, 1, 0, 13, 0, 0, 1
-Tony Montana's, 2, 1, 13, 18, 0, 0, 1
-Michael Corleone, 2, 1, 5, 8, 0, 0, 1
-Tony Montana, 2, 1, 2, 4, 0, 1, 1
-Gina, 1, 1, 2, 5, 1, 0, 1
-Elvira's, 1, 1, 4, 5, 0, 1, 1
-Sosa, 1, 1, 4, 11, 1, 1, 1
-Tony's, 1, 1, 6, 11, 0, 1, 1
-Al Pacino, 2, 1, 3, 12, 1, 0, 1
-Tony Montana, 2, 1, 8, 16, 0, 0, 1
-Pacino, 1, 1, 8, 9, 0, 0, 1
-Tony Montana, 2, 1, 7, 13, 1, 0, 1
-Steven Bauer, 2, 1, 0, 7, 0, 0, 1
-Tony's, 1, 1, 4, 7, 0, 1, 1
-Manny, 1, 1, 6, 7, 0, 0, 1
-Robert Loggia, 2, 1, 0, 7, 1, 0, 1
-Tony's, 1, 1, 5, 7, 0, 1, 1
-Lopez, 1, 1, 0, 1, 0, 0, 1
-Omar, 1, 1, 3, 8, 0, 0, 1
-Elvira, 1, 1, 9, 14, 0, 0, 1
-Michelle Pfeiffer, 2, 1, 12, 14, 0, 1, 1
-Wolfgang Petersen, 2, 1, 0, 3, 0, 0, 1
+Damien Chazelle, 2, 1, 2, 13, 1, 0, 1
+Miles Teller, 2, 1, 0, 2, 0, 0, 1
+Andrew Neyman, 2, 1, 2, 4, 0, 1, 1
+Fletcher, 1, 1, 19, 20, 0, 0, 1
+Chazelle, 1, 1, 0, 17, 0, 0, 1
+Charlie Parker, 2, 1, 11, 13, 0, 1, 1
+Parker, 1, 1, 6, 7, 0, 0, 1
+Fletcher, 1, 1, 0, 16, 1, 0, 1
+Simmons, 1, 1, 0, 9, 1, 0, 1
+Bryan Cranston, 2, 1, 8, 18, 0, 0, 1
+Walter White, 2, 1, 16, 18, 0, 0, 1
+Simmons, 1, 1, 0, 8, 1, 0, 1
+Jason Reitman, 2, 1, 15, 17, 0, 1, 1
+Fletcher, 1, 1, 0, 26, 1, 0, 1
+Andrew's, 1, 1, 8, 14, 0, 0, 1
+Teller's, 1, 1, 0, 6, 0, 0, 1
+Andrew, 1, 1, 3, 6, 1, 1, 1
+Simmons, 1, 1, 3, 4, 0, 0, 1
+Chazelle, 1, 1, 0, 17, 1, 0, 1
+Teller, 1, 1, 10, 17, 0, 1, 1
+Andrew's, 1, 1, 10, 13, 0, 0, 1
+Andrew, 1, 1, 19, 30, 0, 0, 1
+Fletcher, 1, 1, 1, 5, 0, 0, 1
 Judy Hopps, 2, 1, 8, 19, 0, 0, 1
 Goodwin, 1, 1, 11, 19, 0, 0, 1
-John Carpenter's, 2, 1, 4, 10, 0, 0, 1
-John Carpenter, 2, 1, 8, 10, 0, 0, 1
-John Carpenter, 2, 1, 3, 11, 0, 0, 1
-Kurt Russell, 2, 1, 0, 5, 0, 0, 1
-John Carpenter, 2, 1, 0, 2, 0, 0, 1
-Kurt Russell, 2, 1, 0, 6, 1, 0, 1
-MacReady, 1, 1, 5, 6, 0, 1, 1
+Ben Stiller, 2, 1, 2, 7, 0, 1, 1
+James Thurber, 2, 1, 8, 10, 0, 1, 1
+Kristen Wiig, 2, 1, 0, 5, 1, 0, 1
+Bryan Singer, 2, 1, 5, 15, 0, 1, 1
+Christopher McQuarrie, 2, 1, 7, 9, 0, 0, 1
+Spacey's, 1, 1, 0, 3, 0, 0, 1
+Singer, 1, 1, 5, 12, 1, 1, 1
+McQuarrie, 1, 1, 7, 12, 0, 1, 1
+Singer's, 1, 1, 12, 14, 0, 0, 1
+Singer, 1, 1, 0, 33, 1, 0, 1
+McQuarrie, 1, 1, 2, 33, 0, 1, 1
+Spacey's, 1, 1, 21, 33, 0, 1, 1
+Spacey's, 1, 1, 1, 3, 0, 0, 1
+Singer's, 1, 1, 0, 14, 0, 0, 1
+Singer, 1, 1, 0, 20, 1, 0, 1
+Singer's, 1, 1, 1, 3, 0, 0, 1
+Singer, 1, 1, 18, 26, 0, 0, 1
+Singer, 1, 1, 0, 17, 1, 0, 1
+Quarrie, 1, 1, 2, 17, 0, 1, 1
+Gabriel Byrne, 2, 1, 3, 33, 1, 0, 1
+Byrne, 1, 1, 4, 15, 1, 0, 1
+Kevin Spacey, 2, 1, 0, 19, 0, 0, 1
+Singer, 1, 1, 1, 43, 0, 0, 1
+Pete Postlewhaite, 2, 1, 0, 10, 1, 0, 1
+Chazz Palminteri, 2, 1, 3, 10, 0, 1, 1
+Allie, 1, 1, 0, 12, 1, 0, 1
+Noah, 1, 1, 2, 12, 1, 1, 1
+James Franco, 2, 1, 2, 4, 0, 0, 1
+Seth Rogan, 2, 1, 0, 2, 0, 0, 1
+Danny McBride, 2, 1, 1, 14, 0, 1, 1
+James Franco's, 2, 1, 6, 21, 0, 0, 1
+Cumberbatch, 1, 1, 0, 28, 1, 0, 1
+Sherlock Holmes, 2, 1, 6, 28, 0, 1, 1
+Martin Freeman, 2, 1, 0, 2, 0, 0, 1
+Holmes, 1, 1, 5, 17, 0, 1, 1
+Watson, 1, 1, 13, 17, 0, 0, 1
+Robert Downey's, 2, 1, 2, 10, 0, 0, 1
+Conan Doyle's, 2, 1, 7, 10, 0, 0, 1
+Tom Hanks, 2, 1, 0, 11, 0, 0, 1
+Victor Navorsky, 2, 1, 3, 11, 1, 1, 1
+Victor, 1, 1, 3, 22, 1, 0, 1
+Hanks, 1, 1, 1, 22, 0, 0, 1
+Victor, 1, 1, 13, 22, 0, 0, 1
+Hanks, 1, 1, 0, 4, 1, 0, 1
+Hanks, 1, 1, 12, 25, 0, 0, 1
+Hanks, 1, 1, 37, 42, 0, 0, 1
+Hanks, 1, 1, 15, 20, 0, 0, 1
+David Harbour, 2, 1, 6, 11, 0, 0, 1
+Tarintino's, 1, 1, 11, 14, 0, 0, 1
+Bill, 1, 1, 7, 9, 0, 0, 1
+Dorothy, 1, 1, 4, 9, 0, 0, 1
+Harold Arlen, 2, 1, 3, 12, 0, 0, 1
+Mon Mothma, 2, 1, 4, 19, 1, 0, 1
+Mothma, 1, 1, 6, 9, 1, 0, 1
 Geri, 1, 1, 4, 14, 1, 0, 1
+Jason Sudeikis, 2, 1, 6, 14, 1, 0, 1
+Jennifer Aniston, 2, 1, 12, 14, 0, 0, 1
+Will Poulter's, 2, 1, 4, 13, 0, 0, 1
+Kenny, 1, 1, 7, 13, 0, 0, 1
+Sam Raimi, 2, 1, 1, 8, 0, 0, 1
+Tobey Maguire, 2, 1, 0, 18, 1, 0, 1
+Peter Parker, 2, 1, 9, 21, 0, 0, 1
+Peter Parker's, 2, 1, 16, 18, 0, 0, 1
+Rosemary Harris, 2, 1, 3, 15, 1, 0, 1
+Cliff Robertson, 2, 1, 6, 15, 0, 1, 1
+May, 1, 1, 10, 15, 1, 0, 1
+Ben Parker, 2, 1, 13, 15, 0, 0, 1
+Willem Dafoe, 2, 1, 0, 7, 0, 0, 1
+Norman Osborn, 2, 1, 3, 7, 0, 1, 1
+James Franco, 2, 1, 0, 5, 0, 0, 1
+Harry Osborn, 2, 1, 3, 5, 0, 1, 1
+Kirsten Dunst, 2, 1, 1, 7, 0, 1, 1
+Mary Jane Watson, 3, 1, 4, 7, 0, 1, 1
+Willem Dafoe, 2, 1, 10, 14, 0, 1, 1
+Sam Raimi, 2, 1, 6, 12, 0, 0, 1
+Gene Roddenberry's, 2, 1, 20, 29, 0, 0, 1
+William Shatner's, 2, 1, 21, 27, 0, 0, 1
+Chris Pine, 2, 1, 4, 10, 0, 0, 1
+Roddenberry, 1, 1, 1, 29, 1, 0, 1
+Abrams, 1, 1, 20, 29, 1, 0, 1
+Benedict Cumberpatch, 2, 1, 6, 19, 0, 1, 1
+Michael Rosenbaum, 2, 1, 8, 17, 1, 1, 1
+Brandon Routh, 2, 1, 0, 4, 1, 0, 1
+Clark, 1, 1, 3, 9, 0, 0, 1
+Christopher Reeves, 2, 1, 5, 9, 0, 0, 1
+Singer, 1, 1, 0, 25, 0, 0, 1
+Singer, 1, 1, 0, 10, 0, 0, 1
+David Fincher, 2, 1, 11, 21, 0, 0, 1
+Jesse Eisenberg, 2, 1, 0, 16, 1, 0, 1
+Justin Timberlake, 2, 1, 1, 6, 0, 0, 1
+Andrew Garfield, 2, 1, 3, 5, 0, 1, 1
+Franco, 1, 1, 3, 8, 1, 0, 1
+Pinto, 1, 1, 5, 8, 1, 1, 1
+Franco, 1, 1, 1, 5, 0, 0, 1
+Lithgow, 1, 1, 0, 9, 1, 0, 1
+Caeser, 1, 1, 1, 13, 0, 1, 1
+Caeser, 1, 1, 2, 11, 0, 0, 1
+Brad Pitt, 2, 1, 0, 31, 0, 0, 1
+Jennifer, 1, 1, 28, 31, 1, 1, 1
+Morgan Freeman, 2, 1, 0, 6, 1, 0, 1
+Kevin Spacey, 2, 1, 0, 19, 1, 0, 1
+David Fincher, 2, 1, 3, 11, 1, 0, 1
+Andrew Kevin Walker, 3, 1, 8, 11, 0, 0, 1
+Fincher's, 1, 1, 0, 22, 0, 0, 1
+Andrew Kevin Walker, 3, 1, 0, 11, 0, 0, 1
+John Doe, 2, 1, 19, 23, 0, 0, 1
+John Doe's, 2, 1, 0, 13, 0, 0, 1
+John Doe, 2, 1, 7, 23, 1, 0, 1
+Clint, 1, 1, 0, 23, 0, 0, 1
+Sergio Leone, 2, 1, 0, 4, 1, 0, 1
+William Wellman, 2, 1, 0, 4, 1, 0, 1
+Sam Peckinpah, 2, 1, 0, 4, 1, 0, 1
+John Huston, 2, 1, 0, 4, 1, 0, 1
+John Ford, 2, 1, 0, 4, 1, 0, 1
+Howard Hawks, 2, 1, 0, 4, 1, 0, 1
+Kevin Costner, 2, 1, 0, 10, 0, 0, 1
+Clint, 1, 1, 13, 26, 0, 0, 1
+Bill, 1, 1, 1, 6, 0, 0, 1
+Bob's, 1, 1, 4, 6, 0, 0, 1
+Bob, 1, 1, 7, 13, 0, 0, 1
+William Munny, 2, 1, 0, 5, 1, 0, 1
+Sergio Leone, 2, 1, 0, 6, 0, 0, 1
+Terry Gilliam's, 2, 1, 8, 11, 0, 0, 1
+Bruce Willis, 2, 1, 8, 25, 0, 0, 1
+Karloff's, 1, 1, 0, 10, 0, 0, 1
+Imhotep, 1, 1, 1, 10, 0, 0, 1
+Arnold Vosloo's, 2, 1, 0, 7, 0, 0, 1
+Brendan Fraser, 2, 1, 0, 4, 0, 0, 1
+John Hannah, 2, 1, 0, 4, 1, 0, 1
+Rachel Weisz, 2, 1, 0, 4, 1, 0, 1
+Oded Fehr, 2, 1, 3, 5, 0, 1, 1
+Carl's, 1, 1, 3, 40, 0, 0, 1
+Gabriel Macht, 2, 1, 2, 11, 0, 0, 1
+Danny Boyle, 2, 1, 0, 9, 0, 0, 1
+Boyle's, 1, 1, 1, 9, 0, 1, 1
+Boyle, 1, 1, 18, 28, 0, 0, 1
+James Duncan, 2, 1, 20, 22, 0, 1, 1
+Vera Farmiga, 2, 1, 0, 2, 0, 0, 1
+Michelle Monaghan, 2, 1, 0, 2, 0, 0, 1
+Jake Gyllenhaal, 2, 1, 0, 5, 1, 0, 1
+Ben Ripley, 2, 1, 3, 5, 0, 1, 1
+Jake, 1, 1, 3, 14, 1, 0, 1
+Michelle, 1, 1, 5, 14, 0, 1, 1
+Matt Groening, 2, 1, 2, 5, 0, 0, 1
+Homer, 1, 1, 0, 10, 0, 0, 1
+Marge, 1, 1, 0, 9, 0, 0, 1
+Lisa, 1, 1, 0, 7, 1, 0, 1
+Bart, 1, 1, 2, 7, 0, 1, 1
+Bart, 1, 1, 8, 11, 0, 0, 1
+Homer, 1, 1, 10, 11, 0, 1, 1
+Max Brooks, 2, 1, 10, 12, 0, 1, 1
+Brad Pitt, 2, 1, 9, 11, 0, 0, 1
+Marc Forster, 2, 1, 10, 12, 0, 0, 1
+Pitt, 1, 1, 5, 9, 0, 0, 1
+Gerry Lane, 2, 1, 7, 9, 0, 0, 1
+Gerry, 1, 1, 0, 17, 1, 0, 1
+Gerry, 1, 1, 0, 13, 0, 0, 1
+Forster's, 1, 1, 9, 17, 0, 0, 1
+Paramount's, 1, 1, 0, 5, 0, 0, 1
+Brad Pitt, 2, 1, 0, 8, 1, 0, 1
+Tom Cruise, 2, 1, 2, 4, 0, 0, 1
+Brad's, 1, 1, 0, 18, 0, 0, 1
+Cameron Diaz, 2, 1, 0, 11, 1, 0, 1
+Ben Stiller, 2, 1, 3, 11, 1, 1, 1
+James Marsh, 2, 1, 8, 28, 0, 1, 1
+Stephen, 1, 1, 24, 28, 1, 0, 1
+Jane Hawking, 2, 1, 26, 28, 0, 1, 1
+Eddie Redmayne, 2, 1, 0, 20, 1, 0, 1
+Felicity Jones, 2, 1, 3, 20, 0, 1, 1
+Stephen, 1, 1, 11, 20, 1, 0, 1
+Jane, 1, 1, 13, 20, 0, 1, 1
+James Marsh, 2, 1, 4, 28, 0, 0, 1
+Stephen Hawking's, 2, 1, 11, 28, 0, 0, 1
+Eddie Redmayne, 2, 1, 1, 29, 0, 1, 1
+Stephen Hawking, 2, 1, 5, 29, 0, 0, 1
+Hawking, 1, 1, 5, 27, 0, 0, 1
+Bond, 1, 1, 6, 12, 0, 0, 1
+Daniel Craig's, 2, 1, 7, 13, 0, 1, 1
+Bond, 1, 1, 12, 13, 0, 0, 1
+Javier Bardem, 2, 1, 4, 11, 0, 0, 1
+Judi Dench, 2, 1, 0, 21, 1, 0, 1
+Bond, 1, 1, 6, 8, 0, 0, 1
+Craig's, 1, 1, 0, 26, 0, 0, 1
+Connery, 1, 1, 7, 26, 0, 0, 1
+Moore, 1, 1, 9, 26, 0, 0, 1
+Bond, 1, 1, 4, 20, 0, 1, 1
+James Bond, 2, 1, 8, 14, 0, 0, 1
+Desmond Llewelyn's, 2, 1, 4, 8, 0, 0, 1
+Llewelyn, 1, 1, 6, 8, 0, 0, 1
+Bond, 1, 1, 6, 14, 0, 0, 1
 Martin Scorsese, 2, 1, 0, 6, 0, 0, 1
 Leonardo DiCaprio, 2, 1, 6, 17, 0, 0, 1
 Jordan Belfort, 2, 1, 4, 6, 0, 0, 1
@@ -494,168 +737,35 @@ Terence Winter's, 2, 1, 0, 16, 0, 0, 1
 Thelma Schoonmaker, 2, 1, 0, 13, 1, 0, 1
 Kyle Chandler, 2, 1, 8, 10, 0, 0, 1
 DiCaprio, 1, 1, 10, 11, 0, 1, 1
-David Fincher, 2, 1, 11, 21, 0, 0, 1
-Jesse Eisenberg, 2, 1, 0, 16, 1, 0, 1
-Justin Timberlake, 2, 1, 1, 6, 0, 0, 1
-Andrew Garfield, 2, 1, 3, 5, 0, 1, 1
-Damien Chazelle, 2, 1, 2, 13, 1, 0, 1
-Miles Teller, 2, 1, 0, 2, 0, 0, 1
-Andrew Neyman, 2, 1, 2, 4, 0, 1, 1
-Fletcher, 1, 1, 19, 20, 0, 0, 1
-Chazelle, 1, 1, 0, 17, 0, 0, 1
-Charlie Parker, 2, 1, 11, 13, 0, 1, 1
-Parker, 1, 1, 6, 7, 0, 0, 1
-Fletcher, 1, 1, 0, 16, 1, 0, 1
-Simmons, 1, 1, 0, 9, 1, 0, 1
-Bryan Cranston, 2, 1, 8, 18, 0, 0, 1
-Walter White, 2, 1, 16, 18, 0, 0, 1
-Simmons, 1, 1, 0, 8, 1, 0, 1
-Jason Reitman, 2, 1, 15, 17, 0, 1, 1
-Fletcher, 1, 1, 0, 26, 1, 0, 1
-Andrew's, 1, 1, 8, 14, 0, 0, 1
-Teller's, 1, 1, 0, 6, 0, 0, 1
-Andrew, 1, 1, 3, 6, 1, 1, 1
-Simmons, 1, 1, 3, 4, 0, 0, 1
-Chazelle, 1, 1, 0, 17, 1, 0, 1
-Teller, 1, 1, 10, 17, 0, 1, 1
-Andrew's, 1, 1, 10, 13, 0, 0, 1
-Andrew, 1, 1, 19, 30, 0, 0, 1
-Fletcher, 1, 1, 1, 5, 0, 0, 1
-Hugh  Jackman, 2, 1, 4, 6, 0, 1, 1
-Christian Bale, 2, 1, 0, 15, 1, 0, 1
-Michael Caine, 2, 1, 3, 15, 0, 1, 1
-Michael Rosenbaum, 2, 1, 8, 17, 1, 1, 1
-Brandon Routh, 2, 1, 0, 4, 1, 0, 1
-Clark, 1, 1, 3, 9, 0, 0, 1
-Christopher Reeves, 2, 1, 5, 9, 0, 0, 1
-Singer, 1, 1, 0, 25, 0, 0, 1
-Singer, 1, 1, 0, 10, 0, 0, 1
-Shrek, 1, 1, 9, 9, 0, 0, 1
-Shrek, 1, 1, 21, 36, 1, 0, 1
-Raymond Briggs', 2, 1, 27, 36, 0, 1, 1
-Disney, 1, 1, 12, 13, 0, 0, 1
-Disney, 1, 1, 1, 4, 1, 0, 1
-Disney, 1, 1, 4, 4, 0, 0, 1
-Shrek, 1, 1, 1, 11, 0, 0, 1
-Shakespeare's, 1, 1, 8, 13, 0, 1, 1
-Myers, 1, 1, 7, 12, 1, 0, 1
-Murphy, 1, 1, 9, 12, 0, 1, 1
-Diaz, 1, 1, 0, 18, 1, 0, 1
-Lloyd Alexander's, 2, 1, 11, 18, 0, 0, 1
-Eilonwy, 1, 1, 13, 18, 0, 0, 1
-Lara Croft, 2, 1, 16, 18, 0, 1, 1
-Lithgow's, 1, 1, 0, 7, 0, 0, 1
-Farquaad, 1, 1, 1, 7, 1, 0, 1
-Olivier's, 1, 1, 2, 12, 0, 0, 1
-Richard, 1, 1, 3, 12, 0, 0, 1
-Hitchcock, 1, 1, 7, 26, 0, 0, 1
-Hitchcock's, 1, 1, 8, 11, 0, 0, 1
-Hitchcock, 1, 1, 0, 5, 0, 0, 1
-Bernard Hermann, 2, 1, 8, 10, 0, 0, 1
-Jimmy Stewart, 2, 1, 0, 14, 1, 0, 1
-Kim Novak, 2, 1, 0, 10, 1, 0, 1
-Barbara Bel Geddes, 3, 1, 1, 9, 0, 0, 1
-Scottie's, 1, 1, 5, 9, 0, 1, 1
-Stewart's, 1, 1, 7, 9, 0, 0, 1
-Scottie's, 1, 1, 5, 7, 0, 0, 1
-Portman, 1, 1, 0, 6, 0, 0, 1
-Tarintino's, 1, 1, 11, 14, 0, 0, 1
-Bill, 1, 1, 7, 9, 0, 0, 1
-Cary Elwes, 2, 1, 0, 29, 1, 0, 1
-Robin Wright, 2, 1, 3, 29, 1, 1, 1
-Mandy Patinkin, 2, 1, 0, 18, 1, 0, 1
-Chris Sarandon, 2, 1, 0, 12, 1, 0, 1
+Ben Affleck, 2, 1, 4, 6, 0, 0, 1
+Affleck, 1, 1, 4, 9, 1, 0, 1
+Ben Affleck, 2, 1, 0, 8, 1, 0, 1
+Doug McCray, 2, 1, 6, 8, 0, 1, 1
+Jeremy Renner, 2, 1, 0, 10, 1, 0, 1
+Blake Lively, 2, 1, 6, 10, 1, 1, 1
+Ben Affleck, 2, 1, 0, 11, 1, 0, 1
+Doug, 1, 1, 10, 14, 0, 0, 1
+Ben's, 1, 1, 3, 15, 0, 0, 1
+Affleck, 1, 1, 4, 18, 1, 0, 1
 Sean Connery, 2, 1, 3, 8, 1, 0, 1
 Nicholas Cage, 2, 1, 6, 8, 0, 1, 1
 Sean Connery', 2, 1, 0, 20, 0, 0, 1
 Nicholas Cage, 2, 1, 12, 20, 1, 1, 1
-Wright, 1, 1, 5, 17, 0, 0, 1
-Wright's, 1, 1, 0, 4, 0, 0, 1
-Seinfeld, 1, 1, 16, 18, 0, 0, 1
-Edgar Wrights, 2, 1, 5, 18, 0, 0, 1
-Morgan, 1, 1, 6, 7, 0, 0, 1
-Dorothy, 1, 1, 4, 9, 0, 0, 1
-Harold Arlen, 2, 1, 3, 12, 0, 0, 1
-Jonah Hill, 2, 1, 0, 23, 1, 0, 1
-Michael Cera, 2, 1, 3, 23, 0, 1, 1
-Christopher Mintz-Plasse, 2, 1, 2, 4, 0, 0, 1
-Fogell, 1, 1, 5, 9, 1, 0, 1
-Mintz-Plasse, 1, 1, 19, 28, 1, 0, 1
-Michael Cera, 2, 1, 21, 28, 1, 1, 1
-Seth Brogen, 2, 1, 12, 16, 0, 0, 1
-David Harbour, 2, 1, 6, 11, 0, 0, 1
-Wesley Gibson, 2, 1, 17, 35, 1, 0, 1
-Fox, 1, 1, 35, 35, 0, 0, 1
-Gibson, 1, 1, 0, 19, 1, 0, 1
-Wesley's, 1, 1, 11, 16, 0, 0, 1
-Morgan Freeman, 2, 1, 0, 4, 1, 0, 1
-Sloan, 1, 1, 3, 4, 0, 1, 1
-Freeman, 1, 1, 5, 13, 0, 0, 1
-Angelina Jolie, 2, 1, 0, 7, 1, 0, 1
-Fox, 1, 1, 6, 7, 0, 1, 1
-Jolie, 1, 1, 9, 15, 0, 0, 1
-James McAvoy, 2, 1, 6, 11, 0, 1, 1
-Wesley Gibson, 2, 1, 9, 11, 0, 1, 1
-McAvoy's, 1, 1, 6, 17, 0, 0, 1
-Harry, 1, 1, 9, 10, 0, 0, 1
-Mary Jane, 2, 1, 0, 5, 0, 0, 1
-Peter, 1, 1, 3, 5, 0, 0, 1
-Peter's, 1, 1, 0, 14, 0, 0, 1
-Peter's, 1, 1, 0, 20, 0, 0, 1
-Dawson's, 1, 1, 9, 21, 0, 0, 1
-Peter Parker, 2, 1, 6, 10, 0, 0, 1
-Topher Grace, 2, 1, 6, 15, 1, 0, 1
-Eric, 1, 1, 10, 15, 1, 0, 1
-Eddie Brock, 2, 1, 0, 4, 1, 0, 1
-Peter's, 1, 1, 0, 9, 0, 0, 1
-James Duncan, 2, 1, 20, 22, 0, 1, 1
-Vera Farmiga, 2, 1, 0, 2, 0, 0, 1
-Michelle Monaghan, 2, 1, 0, 2, 0, 0, 1
-Jake Gyllenhaal, 2, 1, 0, 5, 1, 0, 1
-Ben Ripley, 2, 1, 3, 5, 0, 1, 1
-Jake, 1, 1, 3, 14, 1, 0, 1
-Michelle, 1, 1, 5, 14, 0, 1, 1
-Jet Li's, 2, 1, 12, 23, 0, 1, 1
-Corey Yuen, 2, 1, 16, 23, 1, 0, 1
-Jason Statham, 2, 1, 21, 23, 0, 0, 1
-Jason, 1, 1, 0, 5, 0, 0, 1
-Frank Martin, 2, 1, 3, 5, 0, 1, 1
-Betancourt, 1, 1, 13, 16, 0, 0, 1
-Matt Schulze, 2, 1, 15, 16, 0, 0, 1
-Jason Statham, 2, 1, 0, 14, 1, 0, 1
-Shu Qi, 2, 1, 1, 15, 0, 0, 1
-Shyamalan, 1, 1, 0, 15, 1, 0, 1
-Shyamalan, 1, 1, 3, 4, 0, 0, 1
-Gabriel Macht, 2, 1, 2, 11, 0, 0, 1
-Sam Raimi, 2, 1, 1, 8, 0, 0, 1
-Tobey Maguire, 2, 1, 0, 18, 1, 0, 1
-Peter Parker, 2, 1, 9, 21, 0, 0, 1
-Peter Parker's, 2, 1, 16, 18, 0, 0, 1
-Rosemary Harris, 2, 1, 3, 15, 1, 0, 1
-Cliff Robertson, 2, 1, 6, 15, 0, 1, 1
-May, 1, 1, 10, 15, 1, 0, 1
-Ben Parker, 2, 1, 13, 15, 0, 0, 1
-Willem Dafoe, 2, 1, 0, 7, 0, 0, 1
-Norman Osborn, 2, 1, 3, 7, 0, 1, 1
-James Franco, 2, 1, 0, 5, 0, 0, 1
-Harry Osborn, 2, 1, 3, 5, 0, 1, 1
-Kirsten Dunst, 2, 1, 1, 7, 0, 1, 1
-Mary Jane Watson, 3, 1, 4, 7, 0, 1, 1
-Willem Dafoe, 2, 1, 10, 14, 0, 1, 1
-Sam Raimi, 2, 1, 6, 12, 0, 0, 1
-Cumberbatch, 1, 1, 0, 28, 1, 0, 1
-Sherlock Holmes, 2, 1, 6, 28, 0, 1, 1
-Martin Freeman, 2, 1, 0, 2, 0, 0, 1
-Holmes, 1, 1, 5, 17, 0, 1, 1
-Watson, 1, 1, 13, 17, 0, 0, 1
-Robert Downey's, 2, 1, 2, 10, 0, 0, 1
-Conan Doyle's, 2, 1, 7, 10, 0, 0, 1
-Pat, 1, 1, 6, 9, 1, 0, 1
-Tiffany, 1, 1, 8, 9, 0, 1, 1
-Jennifer Lawrence, 2, 1, 0, 7, 1, 0, 1
-Bradley Cooper, 2, 1, 3, 7, 1, 1, 1
-Mon Mothma, 2, 1, 4, 19, 1, 0, 1
-Mothma, 1, 1, 6, 9, 1, 0, 1
+John Carpenter's, 2, 1, 4, 10, 0, 0, 1
+John Carpenter, 2, 1, 8, 10, 0, 0, 1
+John Carpenter, 2, 1, 3, 11, 0, 0, 1
+Kurt Russell, 2, 1, 0, 5, 0, 0, 1
+John Carpenter, 2, 1, 0, 2, 0, 0, 1
+Kurt Russell, 2, 1, 0, 6, 1, 0, 1
+MacReady, 1, 1, 5, 6, 0, 1, 1
+Turkish, 1, 1, 3, 4, 0, 0, 1
+Mickey, 1, 1, 0, 1, 0, 0, 1
+Tommy, 1, 1, 0, 1, 0, 0, 1
+Jason Statham, 2, 1, 0, 11, 0, 0, 1
+Tommy, 1, 1, 8, 12, 0, 0, 1
+Brad Pitt, 2, 1, 0, 11, 0, 0, 1
+Mickey, 1, 1, 10, 11, 0, 0, 1
+Richie, 1, 1, 0, 4, 1, 0, 1
 James Dashner's, 2, 1, 16, 27, 0, 0, 1
 Wes Ball, 2, 1, 6, 16, 0, 0, 1
 Ball, 1, 1, 15, 25, 0, 0, 1
@@ -689,35 +799,26 @@ Patricia Clarkson, 2, 1, 6, 22, 0, 0, 1
 Ball, 1, 1, 3, 4, 0, 1, 1
 Poulter, 1, 1, 1, 18, 0, 1, 1
 Ball's, 1, 1, 1, 17, 0, 0, 1
-David Fincher's, 2, 1, 3, 18, 0, 0, 1
-Fincher, 1, 1, 0, 9, 0, 0, 1
-Fincher's, 1, 1, 9, 11, 0, 0, 1
-Mickey Rourke, 2, 1, 9, 15, 0, 0, 1
-Mickey Rourke, 2, 1, 8, 10, 0, 1, 1
-Darren Aronofsky, 2, 1, 0, 2, 0, 0, 1
-Marisa Tomei, 2, 1, 0, 2, 0, 0, 1
-Evan Rachel Wood, 3, 1, 0, 3, 0, 0, 1
-Clint Mansell, 2, 1, 3, 5, 0, 0, 1
-Mickey Rourke, 2, 1, 0, 17, 0, 0, 1
-Mickey, 1, 1, 15, 39, 0, 1, 1
-Mickey, 1, 1, 22, 39, 0, 0, 1
-Mickey, 1, 1, 25, 39, 0, 1, 1
-Randy, 1, 1, 5, 28, 0, 0, 1
-Mickey, 1, 1, 2, 7, 0, 0, 1
-Randy, 1, 1, 4, 7, 0, 0, 1
-Mickey Rourke, 2, 1, 4, 7, 0, 0, 1
-Mickey, 1, 1, 11, 12, 0, 0, 1
-Marissa Tomei, 2, 1, 0, 19, 0, 0, 1
-Mickey's, 1, 1, 15, 19, 0, 1, 1
-Evan Rachel Wood, 3, 1, 0, 10, 0, 0, 1
-Mickey, 1, 1, 3, 9, 1, 0, 1
-Evan, 1, 1, 5, 9, 1, 1, 1
-Darren Aronofsky, 2, 1, 0, 9, 0, 0, 1
-Mickey Rourke, 2, 1, 0, 17, 0, 0, 1
-Mickey Rourke, 2, 1, 3, 16, 1, 0, 1
-Evan Rachel Wood, 3, 1, 6, 16, 0, 1, 1
-Mickey's, 1, 1, 16, 21, 0, 1, 1
-Mickey, 1, 1, 0, 14, 0, 0, 1
+Guy Ritchie, 2, 1, 1, 7, 1, 0, 1
+Sherlock Holmes, 2, 1, 4, 7, 0, 1, 1
+Downey, 1, 1, 14, 16, 1, 0, 1
+Law, 1, 1, 1, 10, 1, 1, 1
+Downey, 1, 1, 0, 8, 1, 0, 1
+Holmes, 1, 1, 2, 8, 1, 1, 1
+Law, 1, 1, 4, 8, 1, 1, 1
+Watson, 1, 1, 0, 1, 0, 0, 1
+Blackwood, 1, 1, 8, 26, 0, 0, 1
+Mark Strong, 2, 1, 14, 26, 0, 0, 1
+Rachel McAdams, 2, 1, 0, 8, 1, 0, 1
+Irene Adler, 2, 1, 6, 8, 0, 1, 1
+Holmes, 1, 1, 10, 11, 0, 0, 1
+Downey, 1, 1, 0, 2, 1, 0, 1
+Law, 1, 1, 1, 6, 0, 0, 1
+Holmes, 1, 1, 9, 12, 0, 0, 1
+Ritchie's, 1, 1, 0, 6, 0, 0, 1
+Holmes', 1, 1, 0, 12, 0, 0, 1
+Ritchie's, 1, 1, 6, 13, 0, 0, 1
+Sherlock Holmes, 2, 1, 8, 10, 0, 0, 1
 Frank Miller, 2, 1, 12, 20, 0, 0, 1
 Shakespeare, 1, 1, 1, 2, 0, 0, 1
 Robert Rodriguez, 2, 1, 2, 22, 0, 1, 1
@@ -734,104 +835,3 @@ Bruce Willis, 2, 1, 26, 39, 0, 1, 1
 Hartigan, 1, 1, 0, 1, 0, 0, 1
 Rosario Dawson, 2, 1, 10, 15, 0, 0, 1
 Brittany Murphy, 2, 1, 7, 16, 0, 0, 1
-Max Brooks, 2, 1, 10, 12, 0, 1, 1
-Brad Pitt, 2, 1, 9, 11, 0, 0, 1
-Marc Forster, 2, 1, 10, 12, 0, 0, 1
-Pitt, 1, 1, 5, 9, 0, 0, 1
-Gerry Lane, 2, 1, 7, 9, 0, 0, 1
-Gerry, 1, 1, 0, 17, 1, 0, 1
-Gerry, 1, 1, 0, 13, 0, 0, 1
-Forster's, 1, 1, 9, 17, 0, 0, 1
-Paramount's, 1, 1, 0, 5, 0, 0, 1
-Brad Pitt, 2, 1, 0, 8, 1, 0, 1
-Tom Cruise, 2, 1, 2, 4, 0, 0, 1
-Brad's, 1, 1, 0, 18, 0, 0, 1
-Shrek, 1, 1, 9, 12, 0, 0, 1
-Mike Myers, 2, 1, 11, 12, 0, 0, 1
-Fiona, 1, 1, 0, 3, 0, 0, 1
-Cameron Diaz, 2, 1, 2, 3, 0, 0, 1
-Eddie Murphy, 2, 1, 2, 3, 0, 0, 1
-Shrek, 1, 1, 0, 18, 1, 0, 1
-Fiona, 1, 1, 2, 18, 0, 1, 1
-Fiona's, 1, 1, 7, 18, 0, 1, 1
-John Cleese, 2, 1, 10, 18, 1, 0, 1
-Julie Andrews, 2, 1, 13, 18, 0, 1, 1
-Fiona's, 1, 1, 9, 19, 0, 0, 1
-Antonio Banderas, 2, 1, 2, 13, 0, 1, 1
-Jennifer Saunders, 2, 1, 4, 9, 0, 0, 1
-Fiona, 1, 1, 10, 9, 0, 1, 1
-Fiona, 1, 1, 12, 16, 0, 0, 1
-Shrek, 1, 1, 15, 16, 0, 0, 1
-Shrek, 1, 1, 0, 9, 1, 0, 1
-Fiona, 1, 1, 2, 9, 0, 1, 1
-Disney, 1, 1, 5, 7, 0, 0, 1
-Will Smith, 2, 1, 0, 13, 0, 0, 1
-Polanski, 1, 1, 0, 19, 0, 0, 1
-Adrien Brody, 2, 1, 11, 13, 0, 1, 1
-Schindler, 1, 1, 14, 15, 0, 1, 1
-Chopin's, 1, 1, 1, 3, 0, 0, 1
-Polanski's, 1, 1, 44, 47, 0, 0, 1
-Polanski's, 1, 1, 0, 11, 0, 0, 1
-Adrien Brody's, 2, 1, 4, 8, 0, 1, 1
-Polanski's, 1, 1, 0, 3, 0, 0, 1
-Polanski's, 1, 1, 0, 3, 0, 0, 1
-Javier Bardem, 2, 1, 2, 4, 0, 0, 1
-Ozymandias, 1, 1, 2, 3, 0, 0, 1
-Percy Bysshe Shelley's, 3, 1, 13, 21, 0, 0, 1
-Ozymandias, 1, 1, 11, 12, 0, 1, 1
-Ozymandias, 1, 1, 0, 14, 1, 0, 1
-Manhattan, 1, 1, 0, 1, 0, 0, 1
-Oppenheimer's, 1, 1, 4, 9, 0, 0, 1
-Vishnu, 1, 1, 2, 10, 0, 0, 1
-Manhattan, 1, 1, 0, 9, 0, 0, 1
-Alan Lightman's, 2, 1, 0, 7, 0, 0, 1
-Einstein's, 1, 1, 5, 7, 0, 0, 1
-Einstein, 1, 1, 4, 8, 0, 1, 1
-Rorshach's, 1, 1, 2, 6, 0, 0, 1
-Ozymandias, 1, 1, 6, 7, 0, 1, 1
-Matt Groening, 2, 1, 2, 5, 0, 0, 1
-Homer, 1, 1, 0, 10, 0, 0, 1
-Marge, 1, 1, 0, 9, 0, 0, 1
-Lisa, 1, 1, 0, 7, 1, 0, 1
-Bart, 1, 1, 2, 7, 0, 1, 1
-Bart, 1, 1, 8, 11, 0, 0, 1
-Homer, 1, 1, 10, 11, 0, 1, 1
-Apollo Creed, 2, 1, 10, 16, 1, 0, 1
-Stallone, 1, 1, 0, 8, 0, 0, 1
-Rocky, 1, 1, 7, 8, 0, 0, 1
-Bill Conti, 2, 1, 0, 10, 0, 0, 1
-Burgess Meredith, 2, 1, 1, 14, 0, 0, 1
-Stallone, 1, 1, 0, 13, 0, 0, 1
-Rocky Balboa, 2, 1, 2, 13, 1, 0, 1
-Rocky, 1, 1, 12, 13, 0, 0, 1
-Talia Shire, 2, 1, 0, 4, 0, 0, 1
-Adrian, 1, 1, 3, 4, 0, 0, 1
-Burt Young, 2, 1, 0, 6, 0, 0, 1
-Paulie, 1, 1, 5, 6, 0, 0, 1
-Burgess Merideth, 2, 1, 0, 7, 0, 0, 1
-Mickey, 1, 1, 6, 7, 0, 0, 1
-Stallone, 1, 1, 1, 20, 0, 0, 1
-Gene Roddenberry's, 2, 1, 20, 29, 0, 0, 1
-William Shatner's, 2, 1, 21, 27, 0, 0, 1
-Chris Pine, 2, 1, 4, 10, 0, 0, 1
-Roddenberry, 1, 1, 1, 29, 1, 0, 1
-Abrams, 1, 1, 20, 29, 1, 0, 1
-Benedict Cumberpatch, 2, 1, 6, 19, 0, 1, 1
-PT Anderson, 2, 1, 0, 12, 0, 0, 1
-Daniel Day-Lewis, 2, 1, 0, 9, 0, 0, 1
-Johnny Greenwood's, 2, 1, 0, 7, 0, 0, 1
-Robert Elswit, 2, 1, 0, 15, 0, 0, 1
-Clint, 1, 1, 0, 23, 0, 0, 1
-Sergio Leone, 2, 1, 0, 4, 1, 0, 1
-William Wellman, 2, 1, 0, 4, 1, 0, 1
-Sam Peckinpah, 2, 1, 0, 4, 1, 0, 1
-John Huston, 2, 1, 0, 4, 1, 0, 1
-John Ford, 2, 1, 0, 4, 1, 0, 1
-Howard Hawks, 2, 1, 0, 4, 1, 0, 1
-Kevin Costner, 2, 1, 0, 10, 0, 0, 1
-Clint, 1, 1, 13, 26, 0, 0, 1
-Bill, 1, 1, 1, 6, 0, 0, 1
-Bob's, 1, 1, 4, 6, 0, 0, 1
-Bob, 1, 1, 7, 13, 0, 0, 1
-William Munny, 2, 1, 0, 5, 1, 0, 1
-Sergio Leone, 2, 1, 0, 6, 0, 0, 1
