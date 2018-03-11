@@ -3,12 +3,13 @@
 # University of Wisconsin-Madison
 # Author: Yaqi Zhang, Jieru Hu
 ##################################
-# This is the main file for crawling the web data.
+# This is the script for crawling used car data within 20 miles Madison, from cars.com.
 
 import urllib.request as urllib2
 from bs4 import BeautifulSoup as bs
 import csv
 import json
+import re
 
 # Initialize a csv writer for storing web data
 def csv_init(output_file, attribute_list):
@@ -19,7 +20,7 @@ def csv_init(output_file, attribute_list):
 
 # construct a list of urls for cars.com crawling
 def construct_urls():
-    cars_per_page = 50
+    cars_per_page = 100
     url_list, url_template = [], "https://www.cars.com/for-sale/searchresults.action/?page=%d&perPage=%d&rd=20&searchSource=GN_REFINEMENT&showMore=true&sort=relevance&stkTypId=28881&zc=53715"
     # get number of searched cars
     first_url = url_template%(1, cars_per_page)
@@ -27,25 +28,38 @@ def construct_urls():
         car_url = uopen.read()
         soup = bs(car_url, 'lxml')
         total_cars = (int)(soup.find_all("div", class_="matchcount")[0].find_all("span", "count")[0].getText().replace(",", ""))
-    num_of_urls = total_cars/cars_per_page + 1 if total_cars%cars_per_page else total_cars%cars_per_page
-    for i in range((int)(num_of_urls)):
+    num_of_urls = (int)(total_cars/cars_per_page) + 1 if total_cars%cars_per_page else (int)(total_cars/cars_per_page)
+    print (num_of_urls)
+    for i in range(num_of_urls):
         url_list.append(url_template%(i+1, cars_per_page))
     return url_list
 
 # extract more car infomation from a bs4.element.Tag object into a python dictionary
 def get_more_info(car_detail):
+    # get mileage
+    car_miles = car_detail.find('span', class_='listing-row__mileage')
+    if car_miles != None:
+        car_miles = (int)(car_miles.text.split()[0].replace(",",""))
+    # distance away
+    distance = (int)(car_detail.find('div', class_='listing-row__distance listing-row__distance-mobile').text.split()[1])
 
-    car_miles = car_detail.find('span', class_='listing-row__mileage').text
-    car_detail = {"miles": car_miles}
-    return car_detail
+    car_detail_dict = {"miles": car_miles, "distance_from_Madison" : distance }
+    # car meta data
+    car_metadata = car_detail.find('ul', class_='listing-row__meta').find_all('li')
+
+    for i in car_metadata:
+        [attri, value] = i.text.split(":  ")
+        car_detail_dict[attri] = value
+    return car_detail_dict
 
 # main method
 def main():
     cars_urls = construct_urls()
     f, w = csv_init("cars_com.csv", ["name", "brand", "color", "price", "seller_name", "seller_phone",
-            "seller_average_rating", "seller_review_count"])
-
+            "seller_average_rating", "seller_review_count", "miles", "distance_from_Madison", "Exterior Color", "Interior Color", "Transmission", "Drivetrain"])
     # start crawling given a list of cars.com urls
+
+    count = 0
     for url in cars_urls:
         with urllib2.urlopen(url) as uopen:
             oururl = uopen.read()
@@ -59,20 +73,31 @@ def main():
         if (len(cars_info) != len(cars_detail_list)):
             print ("Error the size of car json information and size of car html information does not match")
             continue
+
         # for each car, extract and insert information into csv table
         for ind, car_data in enumerate(cars_info):
+            count += 1
+            print (count, ": ", car_data['name'])
             car_info = {"name": car_data['name'], "brand": car_data['brand']['name'], "color":
-        car_data['color'], "price": car_data['offers']['price'], "seller_name": car_data['offers']['seller']['name'],
-        "seller_phone": car_data['offers']['seller']['telephone'], "seller_average_rating":
-        car_data['offers']['seller']['aggregateRating']['ratingValue'], "seller_review_count": car_data['offers']['seller']['aggregateRating']['reviewCount']}
+        car_data['color'], "price": car_data['offers']['price'], "seller_name": car_data['offers']['seller']['name']}
+            # need to check for telephone because some sellers does not have telephone
+            if 'telephone' in car_data['offers']['seller']:
+                car_info['seller_phone'] = car_data['offers']['seller']['telephone']
+
+            # need to check for aggregateRating because some seller does not have rating
+            if 'aggregateRating' in car_data['offers']['seller']:
+                car_info['seller_average_rating'] = car_data['offers']['seller']['aggregateRating']['ratingValue']
+                car_info['seller_review_count'] = car_data['offers']['seller']['aggregateRating']['reviewCount']
+
             car_details = get_more_info(cars_detail_list[ind])
 
             # combine two dicts
             car_dict = {**car_info, **car_details}
-            print (car_dict)
-            #w.writerow(car_dict)
-        f.close()
-        return
+            #print (car_dict)
+            # write current dict to csv file
+            w.writerow(car_dict)
+
+    f.close()
 
 if __name__ == "__main__":
   main()
