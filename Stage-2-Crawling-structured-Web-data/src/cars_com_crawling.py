@@ -87,7 +87,7 @@ def user_input():
     model = sys.argv[2]
     zipcode = int(sys.argv[3])
     radius = int(sys.argv[4])
-    if sys.argv[5].lower() == "used":
+    if sys.argv[5].lower() == "used" or sys.argv[5].lower() == "old":
         used = True
     else:
         used = False
@@ -95,12 +95,13 @@ def user_input():
 
 
 # run the pipeline
-def test():
+def pipeline(directory='./'):
     maker, model, zipcode, radius, used = user_input()
     page_num = 1
     num_per_page = 100
     start_url = generate_url(maker, model, zipcode, radius, used, page_num, num_per_page)
     csv_name = "{}-{}-{:d}-{:d}-{:s}.csv".format(maker, model, zipcode, radius, "used" if used else "new")
+    csv_name = os.path.join(directory, csv_name)
     if os.path.exists(csv_name):
         try:
             os.remove(csv_name)
@@ -111,6 +112,8 @@ def test():
     craw_from_url(start_url, csv_name)
     print("finish crawling...")
     df = load_csvfile(csv_name)
+    if '/' in csv_name:
+        csv_name = csv_name[csv_name.rfind('/') + 1 : ]
     maker, model = csv_name.split('-')[:2]
     maker = maker.upper()
     model = model.upper()
@@ -211,4 +214,4 @@ def main():
 
 if __name__ == "__main__":
   # main()
-  test()
+  pipeline('../data/')
