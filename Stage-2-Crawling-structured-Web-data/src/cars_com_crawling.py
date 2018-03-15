@@ -96,7 +96,6 @@ def main():
             #print (car_dict)
             # write current dict to csv file
             w.writerow(car_dict)
-
     f.close()
 
 if __name__ == "__main__":
