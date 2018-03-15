@@ -6,10 +6,11 @@
 # This is the script for crawling used car data within 20 miles Madison, from cars.com.
 import sys
 import re
-import urllib.request as urllib2
-from bs4 import BeautifulSoup as bs
 import csv
 import json
+import os
+import urllib.request as urllib2
+from bs4 import BeautifulSoup as bs
 from handle_search import generate_url
 from data_analysis import analyze_price
 
@@ -100,6 +101,12 @@ def test():
     num_per_page = 100
     start_url = generate_url(maker, model, zipcode, radius, used, page_num, num_per_page)
     csv_name = "{}-{}-{:d}-{:d}-{:s}.csv".format(maker, model, zipcode, radius, "used" if used else "new")
+    if os.path.exists(csv_name):
+        try:
+            os.remove(csv_name)
+            print("delete previous {}".format(csv_name))
+        except OSError:
+            pass
     print("crawling...")
     craw_from_url(start_url, csv_name)
     print("finish crawling...")
