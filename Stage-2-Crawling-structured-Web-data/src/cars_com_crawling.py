@@ -4,13 +4,14 @@
 # Author: Yaqi Zhang, Jieru Hu
 ##################################
 # This is the script for crawling used car data within 20 miles Madison, from cars.com.
-
+import sys
 import re
 import urllib.request as urllib2
 from bs4 import BeautifulSoup as bs
 import csv
 import json
 from handle_search import generate_url
+from data_analysis import analyze_price
 
 
 # Initialize a csv writer for storing web data
@@ -56,6 +57,7 @@ def get_more_info(car_detail):
     return car_detail_dict
 
 
+# general version of construct_urls()
 def build_urls(start_url):
     cars_per_page = 100
     url_template = re.sub(r'page=[0-9]+&perPage=[0-9]+', r'page=%d&perPage=%d', start_url)
@@ -72,17 +74,40 @@ def build_urls(start_url):
     return url_list
 
 
-# craw from a start url
-def craw_from_url():
-    maker = 'Audi'
-    model = 'Q7'
-    zipcode = 53705
-    radius = 200 # miles
-    used = False
+# handle command line input return search tuple
+def user_input():
+    if len(sys.argv) != 6:
+        print("Usage: >> python {} <maker> <model> <zip> <radius> <used or new>".\
+                format(sys.argv[0]))
+        print("e.g. python {} Audi Q7 53705 200 used".format(sys.argv[0]))
+        sys.exit(1)
+    # need to add validation check
+    maker = sys.argv[1]
+    model = sys.argv[2]
+    zipcode = int(sys.argv[3])
+    radius = int(sys.argv[4])
+    if sys.argv[5].lower() == "used":
+        used = True
+    else:
+        used = False
+    return (maker, model, zipcode, radius, used)
+
+
+# run the pipeline
+def test():
+    maker, model, zipcode, radius, used = user_input()
     page_num = 1
     num_per_page = 100
     start_url = generate_url(maker, model, zipcode, radius, used, page_num, num_per_page)
     csv_name = "{}-{}-{:d}-{:d}-{:s}.csv".format(maker, model, zipcode, radius, "used" if used else "new")
+    print("crawling...")
+    craw_from_url(start_url, csv_name)
+    print("finish crawling...")
+    analyze_price(csv_name)
+
+
+# craw from a start url
+def craw_from_url(start_url, csv_name):
     url_lst = build_urls(start_url)
     f, w = csv_init(csv_name, ["name", "brand", "color", "price", "seller_name", "seller_phone",
         "seller_average_rating", "seller_review_count", "miles", "distance_from_Madison", "Exterior Color", "Interior Color", "Transmission", "Drivetrain"])
@@ -105,7 +130,7 @@ def craw_from_url():
         # for each car, extract and insert information into csv table
         for ind, car_data in enumerate(cars_info):
             count += 1
-            print (count, ": ", car_data['name'])
+            # print (count, ": ", car_data['name'])
             car_info = {"name": car_data['name'], "brand": car_data['brand']['name'], "color":
                     car_data['color'], "price": car_data['offers']['price'], "seller_name": car_data['offers']['seller']['name']}
             # need to check for telephone because some sellers does not have telephone
@@ -121,10 +146,11 @@ def craw_from_url():
 
             # combine two dicts
             car_dict = {**car_info, **car_details}
-            #print (car_dict)
+
             # write current dict to csv file
             w.writerow(car_dict)
     f.close()
+    print("Writing {:d} cars information to {:s}".format(count, csv_name))
 
 
 # main method
@@ -174,4 +200,4 @@ def main():
 
 if __name__ == "__main__":
   # main()
-  craw_from_url()
+  test()

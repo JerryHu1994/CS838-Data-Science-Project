@@ -1,192 +1,194 @@
 name,brand,color,price,seller_name,seller_phone,seller_average_rating,seller_review_count,miles,distance_from_Madison,Exterior Color,Interior Color,Transmission,Drivetrain
-2018 Audi Q7 3.0T Premium quattro,Audi,Blue,69235,Napleton Autowerks Loves Park,(815) 916-4212,4.9,337,,57,Galaxy Blue Metallic,Nougat Brown,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,Black,71385,Bergstrom Imports on Victory Lane,(877) 245-2925,4.4,390,,97,Orca Black Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 Prestige,Audi,White,71385,Audi Hoffman Estates,(847) 961-4989,4.9,1136,,100,Glacier_White,,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 Premium Plus,Audi,White,69535,Audi Hoffman Estates,(847) 961-4989,4.9,1136,,100,Glacier White Metallic,Black,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 Prestige,Audi,Other,71235,Audi Hoffman Estates,(847) 961-4989,4.9,1136,,100,Galaxy_Blue,,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 Prestige,Audi,Other,71235,Audi Hoffman Estates,(847) 961-4989,4.9,1136,,100,Galaxy_Blue,,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 Prestige,Audi,White,71585,Audi Hoffman Estates,(847) 961-4989,4.9,1136,,100,Glacier White Metallic,Black,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 Prestige,Audi,White,68710,Audi Hoffman Estates,(847) 961-4989,4.9,1136,,100,Glacier White Metallic,Pistachio Beige,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 Prestige,Audi,White,77345,Audi Hoffman Estates,(847) 961-4989,4.9,1136,,100,Glacier White Metallic,Nougat Brown,8-Speed Automatic w/OD,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,Blue,69235,Napleton Autowerks Loves Park,(815) 916-4212,4.9,339,,57,Galaxy Blue Metallic,Nougat Brown,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,71035,Napleton Autowerks Loves Park,(815) 916-4212,4.9,339,,57,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,71520,Bergstrom Imports on Victory Lane,(877) 245-2925,4.3,390,,97,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
+2018 Audi Q7 Prestige,Audi,White,71585,Audi Hoffman Estates,(847) 961-4989,4.9,1138,,100,Glacier White Metallic,Black,8-Speed Automatic w/OD,AWD
+2018 Audi Q7 Prestige,Audi,White,68710,Audi Hoffman Estates,(847) 961-4989,4.9,1138,,100,Glacier White Metallic,Pistachio Beige,8-Speed Automatic w/OD,AWD
+2018 Audi Q7 Prestige,Audi,Other,71235,Audi Hoffman Estates,(847) 961-4989,4.9,1138,,100,Galaxy_Blue,,8-Speed Automatic w/OD,AWD
+2018 Audi Q7 Prestige,Audi,Other,71235,Audi Hoffman Estates,(847) 961-4989,4.9,1138,,100,Galaxy_Blue,,8-Speed Automatic w/OD,AWD
+2018 Audi Q7 Premium Plus,Audi,White,69535,Audi Hoffman Estates,(847) 961-4989,4.9,1138,,100,Glacier White Metallic,Black,8-Speed Automatic w/OD,AWD
+2018 Audi Q7 Prestige,Audi,White,71385,Audi Hoffman Estates,(847) 961-4989,4.9,1138,,100,Glacier_White,,8-Speed Automatic w/OD,AWD
+2018 Audi Q7 Prestige,Audi,Brown,71495,Audi Hoffman Estates,(847) 961-4989,4.9,1138,,100,Argus Brown Metallic,Pistachio Beige,8-Speed Automatic w/OD,AWD
+2018 Audi Q7 Prestige,Audi,White,71095,Audi Hoffman Estates,(847) 961-4989,4.9,1138,,100,Glacier White Metallic,Pistachio Beige,8-Speed Automatic w/OD,AWD
+2018 Audi Q7 Prestige,Audi,White,77345,Audi Hoffman Estates,(847) 961-4989,4.9,1138,,100,Glacier White Metallic,Nougat Brown,8-Speed Automatic w/OD,AWD
 2018 Audi Q7 2.0T quattro Premium,Audi,White,60060,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,Blue,69535,The Audi Exchange,(847) 739-9944,4.9,558,,102,Galaxy Blue Metallic,Nougat Brown,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,White,70575,The Audi Exchange,(847) 739-9944,4.9,558,,102,Carrara White,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,Blue,71535,The Audi Exchange,(847) 739-9944,4.9,558,,102,Galaxy Blue Metallic,Nougat Brown,8-Speed Automatic,AWD
 2018 Audi Q7 3.0T Premium quattro,Audi,White,71150,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,White,71495,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,Black,71095,The Audi Exchange,(847) 739-9944,4.9,558,,102,Orca Black Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,Gray,71245,The Audi Exchange,(847) 739-9944,4.9,558,,102,Graphite Gray Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,White,70785,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,Gray,71095,The Audi Exchange,(847) 739-9944,4.9,558,,102,Graphite Gray Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,Brown,65460,The Audi Exchange,(847) 739-9944,4.9,558,,102,Argus Brown Metallic,Pistachio Beige,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,70575,The Audi Exchange,(847) 739-9944,4.9,558,,102,Carrara White,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,71535,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Black,8-Speed Automatic,AWD
 2018 Audi Q7 3.0T Premium quattro,Audi,White,70420,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Nougat Brown,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,White,71095,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Nougat Brown,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,70785,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
 2018 Audi Q7 3.0T Premium quattro,Audi,White,71345,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,White,71345,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,Black,69535,The Audi Exchange,(847) 739-9944,4.9,558,,102,Orca Black Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,White,71345,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Rock Gray,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,Black,71135,The Audi Exchange,(847) 739-9944,4.9,558,,102,Orca Black Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,Gray,71245,The Audi Exchange,(847) 739-9944,4.9,558,,102,Graphite Gray Metallic,Black,8-Speed Automatic,AWD
 2018 Audi Q7 3.0T Premium quattro,Audi,White,69225,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,White,71245,Audi Morton Grove,(888) 510-2233,4.5,212,,109,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Prestige quattro,Audi,Silver,71220,Continental Audi of Naperville,(888) 514-9110,4.8,469,,111,Florett Silver Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Prestige quattro,Audi,Gray,71095,Continental Audi of Naperville,(888) 514-9110,4.8,469,,111,Graphite Gray Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Prestige quattro,Audi,Black,71095,Continental Audi of Naperville,(888) 514-9110,4.8,469,,111,Orca Black Metallic,Nougat Brown,8-Speed Automatic,AWD
-2018 Audi Q7 2.0T quattro Premium,Audi,Blue,61500,Continental Audi of Naperville,(888) 514-9110,4.8,469,,111,Galaxy Blue Metallic,Pistachio Beige,8-Speed Automatic,AWD
-2018 Audi Q7 Prestige,Audi,Gray,71245,Audi Westmont,(877) 457-9706,4.8,354,,115,Graphite Gray Metallic,Black,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 Prestige,Audi,Blue,72135,Audi Westmont,(877) 457-9706,4.8,354,,115,Galaxy Blue Metallic,Black,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 Prestige,Audi,White,71095,Audi Westmont,(877) 457-9706,4.8,354,,115,Glacier White Metallic,Black,8-Speed Automatic w/OD,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,Blue,71535,The Audi Exchange,(847) 739-9944,4.9,558,,102,Galaxy Blue Metallic,Nougat Brown,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,71495,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,71095,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Nougat Brown,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,Black,69535,The Audi Exchange,(847) 739-9944,4.9,558,,102,Orca Black Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,71345,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,71345,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Rock Gray,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,Gray,71095,The Audi Exchange,(847) 739-9944,4.9,558,,102,Graphite Gray Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,Blue,69535,The Audi Exchange,(847) 739-9944,4.9,558,,102,Galaxy Blue Metallic,Nougat Brown,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,Brown,65460,The Audi Exchange,(847) 739-9944,4.9,558,,102,Argus Brown Metallic,Pistachio Beige,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,Black,71095,The Audi Exchange,(847) 739-9944,4.9,558,,102,Orca Black Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,Black,71135,The Audi Exchange,(847) 739-9944,4.9,558,,102,Orca Black Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,71245,Audi Morton Grove,(888) 510-2233,4.5,213,,109,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,71535,Audi Morton Grove,(888) 510-2233,4.5,213,,109,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,71245,Audi Morton Grove,(888) 510-2233,4.5,213,,109,Glacier White Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Prestige quattro,Audi,White,71220,Continental Audi of Naperville,(888) 514-9110,4.8,470,,111,Glacier White Metallic,Rock Gray,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Prestige quattro,Audi,Gray,71095,Continental Audi of Naperville,(888) 514-9110,4.8,470,,111,Graphite Gray Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Prestige quattro,Audi,Black,71095,Continental Audi of Naperville,(888) 514-9110,4.8,470,,111,Orca Black Metallic,Nougat Brown,8-Speed Automatic,AWD
+2018 Audi Q7 2.0T quattro Premium,Audi,Blue,61500,Continental Audi of Naperville,(888) 514-9110,4.8,470,,111,Galaxy Blue Metallic,Pistachio Beige,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Prestige quattro,Audi,Silver,71220,Continental Audi of Naperville,(888) 514-9110,4.8,470,,111,Florett Silver Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Prestige quattro,Audi,White,71095,Continental Audi of Naperville,(888) 514-9110,4.8,470,,111,Glacier White Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 Prestige,Audi,Black,71345,Audi Westmont,(877) 457-9706,4.8,354,,115,Orca Black Metallic,Black,8-Speed Automatic w/OD,AWD
+2018 Audi Q7 Premium Plus,Audi,White,63275,Audi Westmont,(877) 457-9706,4.8,354,,115,Carrara White,Rock Gray,8-Speed Automatic w/OD,AWD
+2018 Audi Q7 Prestige,Audi,White,71345,Audi Westmont,(877) 457-9706,4.8,354,,115,Glacier White Metallic,Nougat Brown,8-Speed Automatic w/OD,AWD
 2018 Audi Q7 Prestige,Audi,White,70420,Audi Westmont,(877) 457-9706,4.8,354,,115,Glacier White Metallic,Black,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 Prestige,Audi,Black,71345,Audi Westmont,(877) 457-9706,4.8,354,,115,Orca Black Metallic,Black,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 Premium Plus,Audi,Black,62130,Audi Westmont,(877) 457-9706,4.8,354,,115,Orca Black Metallic,Pistachio Beige,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 Prestige,Audi,Black,71345,Audi Westmont,(877) 457-9706,4.8,354,,115,Orca Black Metallic,Black,8-Speed Automatic w/OD,AWD
 2018 Audi Q7 Premium Plus,Audi,Blue,66525,Audi Westmont,(877) 457-9706,4.8,354,,115,Galaxy Blue Metallic,Black,8-Speed Automatic w/OD,AWD
 2018 Audi Q7 Prestige,Audi,Gray,71245,Audi Westmont,(877) 457-9706,4.8,354,,115,Graphite Gray Metallic,Black,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 Prestige,Audi,White,71095,Audi Westmont,(877) 457-9706,4.8,354,,115,Glacier White Metallic,Black,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 Prestige,Audi,White,71345,Audi Westmont,(877) 457-9706,4.8,354,,115,Glacier White Metallic,Nougat Brown,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 Premium Plus,Audi,White,63275,Audi Westmont,(877) 457-9706,4.8,354,,115,Carrara White,Rock Gray,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 Premium Plus,Audi,Silver,62850,Audi Westmont,(877) 457-9706,4.8,354,,115,Florett Silver Metallic,Black,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 Prestige,Audi,Gray,71345,Audi Westmont,(877) 457-9706,4.8,354,,115,Graphite Gray Metallic,Black,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 Premium Plus,Audi,Blue,68250,Audi Westmont,(877) 457-9706,4.8,354,,115,Galaxy Blue Metallic,Rock Gray,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 Prestige,Audi,White,71105,Audi Westmont,(877) 457-9706,4.8,354,,115,Glacier White Metallic,Nougat Brown,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 Prestige,Audi,White,71095,Audi Westmont,(877) 457-9706,4.8,354,,115,Glacier White Metallic,Black,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 Prestige,Audi,White,71345,Audi Westmont,(877) 457-9706,4.8,354,,115,Glacier White Metallic,Black,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 Prestige,Audi,Black,71345,Audi Westmont,(877) 457-9706,4.8,354,,115,Orca Black Metallic,Black,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,Silver,67255,Lujack's Northpark Autoplaza,(888) 481-5702,3.5,5,,119,Florett Silver Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 Prestige,Audi,White,71535,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,White,BLACK INT,8-SPEED A/T,All Wheel Drive
-2018 Audi Q7 Prestige,Audi,White,71245,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,White,BLACK INT,8-SPEED A/T,All Wheel Drive
-2018 Audi Q7 Prestige,Audi,White,71095,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,White,BLACK INT,8-SPEED A/T,All Wheel Drive
-2018 Audi Q7 Premium Plus,Audi,White,69225,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,White,BEIGE,8-SPEED A/T,All Wheel Drive
-2018 Audi Q7 Prestige,Audi,Gray,71245,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,Gray,BLACK INT,Automatic,All Wheel Drive
-2018 Audi Q7 Prestige,Audi,White,71535,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,White,BLACK INT,8-SPEED A/T,All Wheel Drive
-2018 Audi Q7 Prestige,Audi,Gray,71495,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,Gray,BLACK INT,8-SPEED A/T,All Wheel Drive
-2018 Audi Q7 Prestige,Audi,Gray,71245,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,Gray,BLACK INT,Automatic,All Wheel Drive
-2018 Audi Q7 Prestige,Audi,White,71535,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,White,BEIGE,8-SPEED A/T,All Wheel Drive
-2018 Audi Q7 Prestige,Audi,White,71120,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,White,Pistachio Beige,Automatic,All Wheel Drive
-2018 Audi Q7 3.0T Premium,Audi,White,62310,Audi Orland Park,(708) 390-0186,4.7,248,,131,Glacier White Metallic,Pistachio Beige,8-Speed Automatic with Tiptronic,quattro
-2018 Audi Q7 3.0T Prestige,Audi,White,71535,Audi Orland Park,(708) 390-0186,4.7,248,,131,Glacier White Metallic,Black,8-Speed Automatic with Tiptronic,quattro
-2018 Audi Q7 3.0T Prestige quattro,Audi,White,71425,Carousel Motors,(319) 800-6780,4.8,147,,145,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Prestige quattro,Audi,Silver,71735,Carousel Motors,(319) 800-6780,4.8,147,,145,Florett Silver Metallic,Rock Gray,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,White,66599,Luther Park Place BMW,(507) 226-9966,4.9,912,,166,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,Silver,67699,Luther Park Place BMW,(507) 226-9966,4.9,912,,166,Florett Silver Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,Silver,66799,Luther Park Place BMW,(507) 226-9966,4.9,912,,166,Florett Silver Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 Prestige,Audi,Other,69995,Grossinger Motors,(888) 267-0011,4.8,51,,178,,,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 3.0T Prestige quattro,Audi,Gray,68544,My Auto Import Center,(231) 981-0049,4.9,576,,164,Graphite Gray Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 Prestige,Audi,White,71345,Audi Westmont,(877) 457-9706,4.8,354,,115,Glacier White Metallic,Nougat Brown,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,Black,65262,My Auto Import Center,(231) 981-0049,4.9,576,,164,Orca Black Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Prestige quattro,Audi,White,72235,Carousel Motors,(319) 800-6780,4.8,147,,145,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,White,71535,Audi Morton Grove,(888) 510-2233,4.5,212,,109,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Prestige quattro,Audi,White,71220,Continental Audi of Naperville,(888) 514-9110,4.8,469,,111,Glacier White Metallic,Rock Gray,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,White,71535,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Prestige quattro,Audi,Blue,69210,Maple Hill Auto Group,(269) 203-2055,4.8,153,,200,Galaxy Blue Metallic,Rock Gray,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,Silver,65999,Luther Park Place BMW,(507) 226-9966,4.9,912,,166,Florett Silver Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,White,71520,Bergstrom Imports on Victory Lane,(877) 245-2925,4.4,390,,97,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
-2018 Audi Q7 Prestige,Audi,White,71095,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,White,GRAY,Automatic,All Wheel Drive
-2018 Audi Q7 Prestige,Audi,Black,71345,Audi Westmont,(877) 457-9706,4.8,354,,115,Orca Black Metallic,Nougat Brown,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 3.0T Prestige quattro,Audi,White,71345,Maple Hill Auto Group,(269) 203-2055,4.8,153,,200,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
-2018 Audi Q7 Prestige,Audi,White,71535,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,White,BEIGE,8-SPEED A/T,All Wheel Drive
+2018 Audi Q7 Prestige,Audi,Gray,71245,Audi Westmont,(877) 457-9706,4.8,354,,115,Graphite Gray Metallic,Black,8-Speed Automatic w/OD,AWD
 2018 Audi Q7 Prestige,Audi,Brown,70925,Audi Westmont,(877) 457-9706,4.8,354,,115,Argus Brown Metallic,Pistachio Beige,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,White,71095,Lujack's Northpark Autoplaza,(888) 481-5702,3.5,5,,119,Glacier White Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 Prestige,Audi,White,71535,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,White,BLACK INT,8-SPEED A/T,All Wheel Drive
-2018 Audi Q7 Prestige,Audi,Blue,71535,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,Blue,NOUGAT BROWN INT,8-SPEED A/T,All Wheel Drive
-2018 Audi Q7 3.0T Premium quattro,Audi,Black,68580,Lujack's Northpark Autoplaza,(888) 481-5702,3.5,5,,119,Night Black,Black,8-Speed Automatic,AWD
-2018 Audi Q7 Prestige,Audi,Brown,71495,Audi Hoffman Estates,(847) 961-4989,4.9,1136,,100,Argus Brown Metallic,Pistachio Beige,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 Prestige,Audi,White,71535,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,White,BEIGE,8-SPEED A/T,All Wheel Drive
-2018 Audi Q7 3.0T Premium quattro,Audi,White,71035,Napleton Autowerks Loves Park,(815) 916-4212,4.9,337,,57,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
+2018 Audi Q7 Prestige,Audi,Black,71345,Audi Westmont,(877) 457-9706,4.8,354,,115,Orca Black Metallic,Black,8-Speed Automatic w/OD,AWD
 2018 Audi Q7 Prestige,Audi,White,71345,Audi Westmont,(877) 457-9706,4.8,354,,115,Glacier White Metallic,Pistachio Beige,8-Speed Automatic w/OD,AWD
+2018 Audi Q7 Prestige,Audi,White,71095,Audi Westmont,(877) 457-9706,4.8,354,,115,Glacier White Metallic,Black,8-Speed Automatic w/OD,AWD
 2018 Audi Q7 Prestige,Audi,Gray,71345,Audi Westmont,(877) 457-9706,4.8,354,,115,Graphite Gray Metallic,Black,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 3.0T Prestige quattro,Audi,White,71095,Continental Audi of Naperville,(888) 514-9110,4.8,469,,111,Glacier White Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 Prestige,Audi,White,71095,Audi Hoffman Estates,(847) 961-4989,4.9,1136,,100,Glacier White Metallic,Pistachio Beige,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,White,71535,Audi Morton Grove,(888) 510-2233,4.5,212,,109,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Prestige quattro,Audi,White,71345,Maple Hill Auto Group,(269) 203-2055,4.8,153,,200,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Prestige quattro,Audi,White,71320,Carousel Motors,(319) 800-6780,4.8,147,,145,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
-2018 Audi Q7 Premium Plus,Audi,White,69535,Audi Hoffman Estates,(847) 961-4989,4.9,1136,,100,Glacier White Metallic,Black,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 Prestige,Audi,Other,71235,Audi Hoffman Estates,(847) 961-4989,4.9,1136,,100,Galaxy_Blue,,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,White,71095,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Nougat Brown,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,Gray,68150,The Audi Exchange,(847) 739-9944,4.9,558,,102,Graphite Gray Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,White,71245,Audi Morton Grove,(888) 510-2233,4.5,212,,109,Glacier White Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,White,71245,Audi Morton Grove,(888) 510-2233,4.5,212,,109,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
+2018 Audi Q7 Premium Plus,Audi,Black,62130,Audi Westmont,(877) 457-9706,4.8,354,,115,Orca Black Metallic,Pistachio Beige,8-Speed Automatic w/OD,AWD
+2018 Audi Q7 Prestige,Audi,White,71095,Audi Westmont,(877) 457-9706,4.8,354,,115,Glacier White Metallic,Black,8-Speed Automatic w/OD,AWD
+2018 Audi Q7 Premium Plus,Audi,Silver,62850,Audi Westmont,(877) 457-9706,4.8,354,,115,Florett Silver Metallic,Black,8-Speed Automatic w/OD,AWD
+2018 Audi Q7 Prestige,Audi,Black,71345,Audi Westmont,(877) 457-9706,4.8,354,,115,Orca Black Metallic,Black,8-Speed Automatic w/OD,AWD
 2018 Audi Q7 Prestige,Audi,Gray,71345,Audi Westmont,(877) 457-9706,4.8,354,,115,Graphite Gray Metallic,Black,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 Prestige,Audi,White,71535,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,White,BLACK INT,8-SPEED A/T,All Wheel Drive
+2018 Audi Q7 Prestige,Audi,White,71095,Audi Westmont,(877) 457-9706,4.8,354,,115,Glacier White Metallic,Black,8-Speed Automatic w/OD,AWD
+2018 Audi Q7 Prestige,Audi,Blue,72135,Audi Westmont,(877) 457-9706,4.8,354,,115,Galaxy Blue Metallic,Black,8-Speed Automatic w/OD,AWD
+2018 Audi Q7 Prestige,Audi,White,71105,Audi Westmont,(877) 457-9706,4.8,354,,115,Glacier White Metallic,Nougat Brown,8-Speed Automatic w/OD,AWD
+2018 Audi Q7 Prestige,Audi,Black,71345,Audi Westmont,(877) 457-9706,4.8,354,,115,Orca Black Metallic,Nougat Brown,8-Speed Automatic w/OD,AWD
+2018 Audi Q7 Prestige,Audi,White,71345,Audi Westmont,(877) 457-9706,4.8,354,,115,Glacier White Metallic,Nougat Brown,8-Speed Automatic w/OD,AWD
+2018 Audi Q7 Premium Plus,Audi,Blue,68250,Audi Westmont,(877) 457-9706,4.8,354,,115,Galaxy Blue Metallic,Rock Gray,8-Speed Automatic w/OD,AWD
+2018 Audi Q7 Prestige,Audi,White,71345,Audi Westmont,(877) 457-9706,4.8,354,,115,Glacier White Metallic,Black,8-Speed Automatic w/OD,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,Black,68580,Lujack's Northpark Autoplaza,(888) 481-5702,3.5,5,,119,Night Black,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,71095,Lujack's Northpark Autoplaza,(888) 481-5702,3.5,5,,119,Glacier White Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,Silver,67255,Lujack's Northpark Autoplaza,(888) 481-5702,3.5,5,,119,Florett Silver Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 Prestige,Audi,Gray,71245,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,Gray,BLACK INT,Automatic,All Wheel Drive
+2018 Audi Q7 Prestige,Audi,Gray,71245,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,Gray,BLACK INT,Automatic,All Wheel Drive
+2018 Audi Q7 Prestige,Audi,White,71095,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,White,GRAY,Automatic,All Wheel Drive
+2018 Audi Q7 Prestige,Audi,White,71120,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,White,Pistachio Beige,Automatic,All Wheel Drive
 2018 Audi Q7 Premium Plus,Audi,White,63420,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,White,NOUGAT BROWN INT,8-SPEED A/T,All Wheel Drive
-2018 Audi Q7 3.0T Prestige,Audi,Black,71245,Audi Orland Park,(708) 390-0186,4.7,248,,131,Orca Black Metallic,Black,8-Speed Automatic with Tiptronic,quattro
-2018 Audi Q7 3.0T Premium quattro,Audi,White,69575,The Audi Exchange,(847) 739-9944,4.9,558,,102,Carrara White,Black,8-Speed Automatic,AWD
-2018 Audi Q7 Premium Plus,Audi,Blue,66795,Grossinger Motors,(888) 267-0011,4.8,51,,178,Galaxy Blue Metallic,Nougat Brown,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 3.0T Prestige quattro,Audi,White,71220,Audi North Shore,(414) 375-4847,3.5,14,,75,Glacier White Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,Black,69535,The Audi Exchange,(847) 739-9944,4.9,558,,102,Orca Black Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 Prestige,Audi,Black,71095,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,Black,BLACK INT,8-SPEED A/T,All Wheel Drive
-2018 Audi Q7 3.0T Premium quattro,Audi,White,70345,Carousel Motors,(319) 800-6780,4.8,147,,145,Glacier White Metallic,Pistachio Beige,Automatic with Tiptronic,AWD
-2018 Audi Q7 Prestige,Audi,Blue,71535,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,Blue,NOUGAT BROWN INT,8-SPEED A/T,All Wheel Drive
-2018 Audi Q7 3.0T Premium quattro,Audi,White,70820,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,White,73655,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,White,71345,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Prestige quattro,Audi,Blue,71735,Carousel Motors,(319) 800-6780,4.8,147,,145,Galaxy Blue Metallic,Rock Gray,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,White,71095,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Nougat Brown,8-Speed Automatic,AWD
-2018 Audi Q7 2.0T quattro Premium,Audi,White,57400,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,White,67200,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Rock Gray,8-Speed Automatic,AWD
-2018 Audi Q7 2.0T quattro Premium,Audi,White,65145,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,White,69535,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Prestige quattro,Audi,Black,71695,Carousel Motors,(319) 800-6780,4.8,147,,145,Orca Black Metallic,Pistachio Beige,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,Black,71535,The Audi Exchange,(847) 739-9944,4.9,558,,102,Orca Black Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,White,71095,Audi Morton Grove,(888) 510-2233,4.5,212,,109,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,Black,71235,Bergstrom Imports on Victory Lane,(877) 245-2925,4.4,390,,97,Orca Black Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,Gray,71245,The Audi Exchange,(847) 739-9944,4.9,558,,102,Graphite Gray Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium,Audi,Black,69535,Audi Orland Park,(708) 390-0186,4.7,248,,131,Orca Black Metallic,Black,8-Speed Automatic with Tiptronic,quattro
-2018 Audi Q7 3.0T Premium quattro,Audi,Blue,71220,Audi Morton Grove,(888) 510-2233,4.5,212,,109,Galaxy Blue Metallic,Rock Gray,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Prestige,Audi,White,71095,Audi Orland Park,(708) 390-0186,4.7,248,,131,White,,8-Speed Automatic with Tiptronic,quattro
-2018 Audi Q7 3.0T Premium quattro,Audi,Gray,71345,The Audi Exchange,(847) 739-9944,4.9,558,,102,Graphite Gray Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 Prestige,Audi,Other,71345,Audi Hoffman Estates,(847) 961-4989,4.9,1136,,100,Galaxy_Blue,,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,White,70110,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium Plus quattro,Audi,Black,67925,Audi La Crosse,(888) 357-2528,5,2,,103,Orca Black Metallic,Nougat Brown,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,White,71095,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,Black,71245,Audi Morton Grove,(888) 510-2233,4.5,212,,109,Orca Black Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Prestige quattro,Audi,Black,71495,Maple Hill Auto Group,(269) 203-2055,4.8,153,,200,Orca Black Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,White,71345,Napleton Autowerks Loves Park,(815) 916-4212,4.9,337,,57,Glacier White Metallic,Nougat Brown,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,White,71095,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Nougat Brown,8-Speed Automatic,AWD
 2018 Audi Q7 Prestige,Audi,White,71095,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,White,BLACK INT,8-SPEED A/T,All Wheel Drive
-2018 Audi Q7 3.0T Premium quattro,Audi,White,71535,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 Prestige,Audi,White,71245,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,White,BLACK INT,8-SPEED A/T,All Wheel Drive
+2018 Audi Q7 Prestige,Audi,White,71535,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,White,BEIGE,8-SPEED A/T,All Wheel Drive
+2018 Audi Q7 Prestige,Audi,Blue,71535,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,Blue,NOUGAT BROWN INT,8-SPEED A/T,All Wheel Drive
+2018 Audi Q7 Prestige,Audi,White,71535,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,White,BEIGE,8-SPEED A/T,All Wheel Drive
+2018 Audi Q7 Prestige,Audi,White,71535,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,White,BEIGE,8-SPEED A/T,All Wheel Drive
+2018 Audi Q7 Premium Plus,Audi,White,69225,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,White,BEIGE,8-SPEED A/T,All Wheel Drive
+2018 Audi Q7 Prestige,Audi,White,71535,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,White,BLACK INT,8-SPEED A/T,All Wheel Drive
 2018 Audi Q7 Prestige,Audi,Gray,71645,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,Gray,BLACK INT,8-SPEED A/T,All Wheel Drive
-2018 Audi Q7 Premium Plus,Audi,White,69535,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,White,BLACK INT,8-SPEED A/T,All Wheel Drive
-2018 Audi Q7 Prestige,Audi,Black,71535,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,Black,BLACK INT,8-SPEED A/T,All Wheel Drive
-2018 Audi Q7 3.0T Premium quattro,Audi,White,64350,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,White,71095,Audi Morton Grove,(888) 510-2233,4.5,212,,109,Glacier White Metallic,Nougat Brown,8-Speed Automatic,AWD
-2018 Audi Q7 Prestige,Audi,White,75235,Audi Westmont,(877) 457-9706,4.8,354,,115,Glacier White Metallic,Pistachio Beige,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,Other,68350,The Audi Exchange,(847) 739-9944,4.9,558,,102,Samurai Gray Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Prestige quattro,Audi,White,71220,Audi North Shore,(414) 375-4847,3.5,14,,75,Glacier White Metallic,Nougat Brown,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,Other,71495,Audi Morton Grove,(888) 510-2233,4.5,212,,109,Samurai Gray Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Prestige quattro,Audi,Other,68400,Autohaus of Peoria,(866) 753-0076,4,50,,156,Samurai Gray Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,White,68450,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 Prestige,Audi,White,71535,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,White,BLACK INT,8-SPEED A/T,All Wheel Drive
+2018 Audi Q7 3.0T Premium,Audi,White,70105,Audi Orland Park,(708) 390-0186,4.7,248,,131,Glacier White Metallic,Nougat Brown,8-Speed Automatic with Tiptronic,quattro
+2018 Audi Q7 3.0T Premium,Audi,White,62310,Audi Orland Park,(708) 390-0186,4.7,248,,131,Glacier White Metallic,Pistachio Beige,8-Speed Automatic with Tiptronic,quattro
+2018 Audi Q7 3.0T Prestige,Audi,White,71345,Audi Orland Park,(708) 390-0186,4.7,248,,131,Glacier White Metallic,Black,8-Speed Automatic with Tiptronic,quattro
+2018 Audi Q7 3.0T Prestige,Audi,Black,71245,Audi Orland Park,(708) 390-0186,4.7,248,,131,Orca Black Metallic,Black,8-Speed Automatic with Tiptronic,quattro
+2018 Audi Q7 3.0T Prestige,Audi,White,71535,Audi Orland Park,(708) 390-0186,4.7,248,,131,Glacier White Metallic,Black,8-Speed Automatic with Tiptronic,quattro
+2018 Audi Q7 3.0T Prestige quattro,Audi,White,72235,Carousel Motors,(319) 800-6780,4.8,147,,145,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Prestige quattro,Audi,Silver,71735,Carousel Motors,(319) 800-6780,4.8,147,,145,Florett Silver Metallic,Rock Gray,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Prestige quattro,Audi,White,71320,Carousel Motors,(319) 800-6780,4.8,147,,145,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Prestige quattro,Audi,White,71245,Team Audi Volkswagen,(219) 810-6621,3.8,8,,156,Glacier White Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,Black,65262,My Auto Import Center,(231) 981-0049,4.9,578,,164,Orca Black Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,Silver,65999,Luther Park Place BMW,(507) 226-9966,4.9,912,,166,Florett Silver Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,66599,Luther Park Place BMW,(507) 226-9966,4.9,912,,166,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,Silver,66799,Luther Park Place BMW,(507) 226-9966,4.9,912,,166,Florett Silver Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,Silver,67699,Luther Park Place BMW,(507) 226-9966,4.9,912,,166,Florett Silver Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Prestige quattro,Audi,White,71345,Maple Hill Auto Group,(269) 203-2055,4.8,153,,200,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Prestige quattro,Audi,White,71345,Maple Hill Auto Group,(269) 203-2055,4.8,153,,200,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Prestige quattro,Audi,Blue,69210,Maple Hill Auto Group,(269) 203-2055,4.8,153,,200,Galaxy Blue Metallic,Rock Gray,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,Black,71385,Bergstrom Imports on Victory Lane,(877) 245-2925,4.3,390,,97,Orca Black Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,Black,69535,The Audi Exchange,(847) 739-9944,4.9,558,,102,Orca Black Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,Gray,71245,The Audi Exchange,(847) 739-9944,4.9,558,,102,Graphite Gray Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,71345,Audi Morton Grove,(888) 510-2233,4.5,213,,109,Glacier White Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,71535,Audi Morton Grove,(888) 510-2233,4.5,213,,109,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
+2018 Audi Q7 Prestige,Audi,White,71535,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,White,BLACK INT,8-SPEED A/T,All Wheel Drive
 2018 Audi Q7 Prestige,Audi,Gray,71495,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,Gray,BLACK INT,8-SPEED A/T,All Wheel Drive
-2018 Audi Q7 Prestige,Audi,Black,71235,Audi Hoffman Estates,(847) 961-4989,4.9,1136,,100,Orca Black Metallic,Black,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 3.0T Prestige quattro,Audi,Gray,71245,Team Audi Volkswagen,(219) 810-6621,3.8,8,,156,Graphite Gray Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,White,71035,Audi Morton Grove,(888) 510-2233,4.5,212,,109,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
+2018 Audi Q7 Prestige,Audi,Blue,71535,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,Blue,NOUGAT BROWN INT,8-SPEED A/T,All Wheel Drive
+2018 Audi Q7 3.0T Prestige quattro,Audi,White,71425,Carousel Motors,(319) 800-6780,4.8,147,,145,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Prestige quattro,Audi,White,67920,Team Audi Volkswagen,(219) 810-6621,3.8,8,,156,Glacier White Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Prestige quattro,Audi,Gray,68544,My Auto Import Center,(231) 981-0049,4.9,578,,164,Graphite Gray Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 Prestige,Audi,Other,69995,Grossinger Motors,(888) 267-0011,4.8,51,,178,,,8-Speed Automatic w/OD,AWD
+2018 Audi Q7 3.0T Premium,Audi,Black,69535,Audi Orland Park,(708) 390-0186,4.7,248,,131,Orca Black Metallic,Black,8-Speed Automatic with Tiptronic,quattro
+2018 Audi Q7 3.0T Prestige quattro,Audi,White,71220,Audi North Shore,(414) 375-4847,3.5,14,,75,Glacier White Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Prestige quattro,Audi,Black,71495,Maple Hill Auto Group,(269) 203-2055,4.8,153,,200,Orca Black Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,70345,Carousel Motors,(319) 800-6780,4.8,147,,145,Glacier White Metallic,Pistachio Beige,Automatic with Tiptronic,AWD
+2018 Audi Q7 2.0T quattro Premium,Audi,White,65145,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Prestige quattro,Audi,White,71495,Autohaus of Peoria,(866) 753-0076,4,50,,156,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,Black,71235,Bergstrom Imports on Victory Lane,(877) 245-2925,4.3,390,,97,Orca Black Metallic,Black,8-Speed Automatic,AWD
 2018 Audi Q7 3.0T Premium quattro,Audi,White,70800,Lujack's Northpark Autoplaza,(888) 481-5702,3.5,5,,119,Glacier White Metallic,Nougat Brown,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Prestige,Audi,White,71645,Audi Orland Park,(708) 390-0186,4.7,248,,131,Glacier White Metallic,Pistachio Beige,8-Speed Automatic with Tiptronic,quattro
-2018 Audi Q7 Prestige,Audi,Black,80735,Audi Westmont,(877) 457-9706,4.8,354,,115,Orca Black Metallic,Black,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 3.0T Prestige quattro,Audi,Other,75925,Continental Audi of Naperville,(888) 514-9110,4.8,469,,111,Samurai Gray Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 Prestige,Audi,Other,71345,Audi Hoffman Estates,(847) 961-4989,4.9,1138,,100,Galaxy_Blue,,8-Speed Automatic w/OD,AWD
 2018 Audi Q7 3.0T Prestige,Audi,White,71095,Audi Orland Park,(708) 390-0186,4.7,248,,131,White,,8-Speed Automatic with Tiptronic,quattro
-2018 Audi Q7 3.0T Premium quattro,Audi,Other,71495,Audi Morton Grove,(888) 510-2233,4.5,212,,109,Samurai Gray Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Prestige quattro,Audi,Black,77730,Continental Audi of Naperville,(888) 514-9110,4.8,469,,111,Orca Black Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 2.0T Premium Plus quattro,Audi,Black,62575,Autohaus of Peoria,(866) 753-0076,4,50,,156,Orca Black Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,71095,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 2.0T quattro Premium,Audi,White,57400,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,71345,Napleton Autowerks Loves Park,(815) 916-4212,4.9,339,,57,Glacier White Metallic,Nougat Brown,8-Speed Automatic,AWD
+2018 Audi Q7 Prestige,Audi,Black,71235,Audi Hoffman Estates,(847) 961-4989,4.9,1138,,100,Orca Black Metallic,Black,8-Speed Automatic w/OD,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,Other,68350,The Audi Exchange,(847) 739-9944,4.9,558,,102,Samurai Gray Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,71535,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,64350,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,Gray,68150,The Audi Exchange,(847) 739-9944,4.9,558,,102,Graphite Gray Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,71095,Audi Morton Grove,(888) 510-2233,4.5,213,,109,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,71095,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Nougat Brown,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,68450,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,Other,71495,Audi Morton Grove,(888) 510-2233,4.5,213,,109,Samurai Gray Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 Prestige,Audi,Black,71095,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,Black,BLACK INT,8-SPEED A/T,All Wheel Drive
+2018 Audi Q7 3.0T Premium quattro,Audi,White,71035,Audi Morton Grove,(888) 510-2233,4.5,213,,109,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Prestige quattro,Audi,Other,75925,Continental Audi of Naperville,(888) 514-9110,4.8,470,,111,Samurai Gray Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,Other,71495,Audi Morton Grove,(888) 510-2233,4.5,213,,109,Samurai Gray Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,71095,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Nougat Brown,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,Black,71245,Audi Morton Grove,(888) 510-2233,4.5,213,,109,Orca Black Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,70110,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Prestige,Audi,White,71645,Audi Orland Park,(708) 390-0186,4.7,248,,131,Glacier White Metallic,Pistachio Beige,8-Speed Automatic with Tiptronic,quattro
+2018 Audi Q7 3.0T Premium Plus quattro,Audi,Black,67925,Audi La Crosse,(888) 357-2528,5,2,,103,Orca Black Metallic,Nougat Brown,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,73655,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 Prestige,Audi,Black,80735,Audi Westmont,(877) 457-9706,4.8,354,,115,Orca Black Metallic,Black,8-Speed Automatic w/OD,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,69535,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,69575,The Audi Exchange,(847) 739-9944,4.9,558,,102,Carrara White,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,71345,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,Gray,71345,The Audi Exchange,(847) 739-9944,4.9,558,,102,Graphite Gray Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 Prestige,Audi,White,75235,Audi Westmont,(877) 457-9706,4.8,354,,115,Glacier White Metallic,Pistachio Beige,8-Speed Automatic w/OD,AWD
+2018 Audi Q7 Premium Plus,Audi,Blue,66795,Grossinger Motors,(888) 267-0011,4.8,51,,178,Galaxy Blue Metallic,Nougat Brown,8-Speed Automatic w/OD,AWD
+2018 Audi Q7 3.0T Prestige quattro,Audi,Blue,71735,Carousel Motors,(319) 800-6780,4.8,147,,145,Galaxy Blue Metallic,Rock Gray,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Prestige,Audi,White,71095,Audi Orland Park,(708) 390-0186,4.7,248,,131,White,,8-Speed Automatic with Tiptronic,quattro
+2018 Audi Q7 3.0T Premium quattro,Audi,White,67200,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Rock Gray,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,70820,The Audi Exchange,(847) 739-9944,4.9,558,,102,Glacier White Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 Prestige,Audi,White,71095,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,White,BLACK INT,8-SPEED A/T,All Wheel Drive
+2018 Audi Q7 3.0T Premium quattro,Audi,Black,71535,The Audi Exchange,(847) 739-9944,4.9,558,,102,Orca Black Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 Prestige,Audi,Gray,71495,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,Gray,BLACK INT,8-SPEED A/T,All Wheel Drive
+2018 Audi Q7 3.0T Premium quattro,Audi,Blue,71220,Audi Morton Grove,(888) 510-2233,4.5,213,,109,Galaxy Blue Metallic,Rock Gray,8-Speed Automatic,AWD
+2018 Audi Q7 Prestige,Audi,Black,71535,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,Black,BLACK INT,8-SPEED A/T,All Wheel Drive
+2018 Audi Q7 3.0T Prestige quattro,Audi,White,71220,Audi North Shore,(414) 375-4847,3.5,14,,75,Glacier White Metallic,Nougat Brown,8-Speed Automatic,AWD
+2018 Audi Q7 Premium Plus,Audi,White,69535,Fletcher Jones Audi,(312) 635-7294,4.8,538,,121,White,BLACK INT,8-SPEED A/T,All Wheel Drive
+2018 Audi Q7 3.0T Prestige quattro,Audi,Black,71695,Carousel Motors,(319) 800-6780,4.8,147,,145,Orca Black Metallic,Pistachio Beige,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,White,71095,Audi Morton Grove,(888) 510-2233,4.5,213,,109,Glacier White Metallic,Nougat Brown,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Prestige quattro,Audi,Other,68400,Autohaus of Peoria,(866) 753-0076,4,50,,156,Samurai Gray Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Prestige quattro,Audi,Gray,71245,Team Audi Volkswagen,(219) 810-6621,3.8,8,,156,Graphite Gray Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,71,Orca Black Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,Gray,,Audi Morton Grove,(888) 510-2233,4.5,213,,109,Graphite Gray Metallic,Black,Automatic with Tiptronic,AWD
+2018 Audi Q7 Premium Plus,Audi,Other,59475,Audi Hoffman Estates,(847) 961-4989,4.9,1138,,100,Night_Black,,8-Speed Automatic w/OD,AWD
 2018 Audi Q7 3.0T Premium quattro,Audi,Other,82695,The Audi Exchange,(847) 739-9944,4.9,558,,102,Samurai Gray Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 2.0T Premium Plus quattro,Audi,Black,62575,Autohaus of Peoria,(866) 753-0076,4,50,,156,Orca Black Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 Prestige,Audi,Black,79350,Audi Hoffman Estates,(847) 961-4989,4.9,1138,,100,Orca_Black,,8-Speed Automatic w/OD,AWD
+2018 Audi Q7 3.0T Prestige quattro,Audi,Black,77730,Continental Audi of Naperville,(888) 514-9110,4.8,470,,111,Orca Black Metallic,Black,8-Speed Automatic,AWD
 2018 Audi Q7 3.0T Premium quattro,Audi,Black,79725,The Audi Exchange,(847) 739-9944,4.9,558,,102,Night Black,Cedar Brown,8-Speed Automatic,AWD
-2018 Audi Q7 Prestige,Audi,Black,79350,Audi Hoffman Estates,(847) 961-4989,4.9,1136,,100,Orca_Black,,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 Premium Plus,Audi,Other,59475,Audi Hoffman Estates,(847) 961-4989,4.9,1136,,100,Night_Black,,8-Speed Automatic w/OD,AWD
-2018 Audi Q7 3.0T Prestige quattro,Audi,Gray,,International Autos,(414) 203-5342,3.8,56,,71,Graphite Gray Metallic,Black,8-Speed Automatic,AWD
 2018 Audi Q7 3.0T Prestige quattro,Audi,White,,International Autos,(414) 203-5342,3.8,56,,71,Glacier White Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Prestige quattro,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,71,Orca Black Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Prestige quattro,Audi,White,,International Autos,(414) 203-5342,3.8,56,,71,Glacier White Metallic,Nougat Brown,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Prestige quattro,Audi,White,,International Autos,(414) 203-5342,3.8,56,,71,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Prestige quattro,Audi,White,,International Autos,(414) 203-5342,3.8,56,,71,Glacier White Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Prestige quattro,Audi,White,,International Autos,(414) 203-5342,3.8,56,,71,Glacier White Metallic,Nougat Brown,8-Speed Automatic,AWD
 2018 Audi Q7 3.0T Prestige quattro,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,71,Orca Black Metallic,Nougat Brown,8-Speed Automatic,AWD
 2018 Audi Q7 3.0T Prestige quattro,Audi,White,,International Autos,(414) 203-5342,3.8,56,,71,Glacier White Metallic,Black,8-Speed Automatic,AWD
 2018 Audi Q7 3.0T Prestige quattro,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,71,Orca Black Metallic,Black,8-Speed Automatic,AWD
 2018 Audi Q7 3.0T Prestige quattro,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,71,Orca Black Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Prestige quattro,Audi,White,,International Autos,(414) 203-5342,3.8,56,,71,Glacier White Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Prestige quattro,Audi,White,,International Autos,(414) 203-5342,3.8,56,,71,Glacier White Metallic,Black,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Prestige quattro,Audi,White,,International Autos,(414) 203-5342,3.8,56,,71,Glacier White Metallic,Nougat Brown,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Prestige quattro,Audi,White,,International Autos,(414) 203-5342,3.8,56,,71,Glacier White Metallic,Nougat Brown,8-Speed Automatic,AWD
 2018 Audi Q7 3.0T Premium quattro,Audi,White,,International Autos,(414) 203-5342,3.8,56,,71,Carrara White,Nougat Brown,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Prestige quattro,Audi,White,,International Autos,(414) 203-5342,3.8,56,,71,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
-2018 Audi Q7 2.0T quattro Premium,Audi,Black,,Continental Audi of Naperville,(888) 514-9110,4.8,469,,111,Orca Black Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Prestige quattro,Audi,White,,International Autos,(414) 203-5342,3.8,56,,71,Glacier White Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Prestige quattro,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,71,Orca Black Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Prestige quattro,Audi,Gray,,International Autos,(414) 203-5342,3.8,56,,71,Graphite Gray Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 2.0T quattro Premium,Audi,Black,,Continental Audi of Naperville,(888) 514-9110,4.8,470,,111,Orca Black Metallic,Black,8-Speed Automatic,AWD
 2018 Audi Q7 3.0T Prestige quattro,Audi,Blue,,"International Autos Jaguar, Land Rover, Subaru, Volvo Cars",(866) 968-7405,4.7,97,,131,Ink Blue Metallic,Nougat Brown,Automatic with Tiptronic,AWD
-2018 Audi Q7 3.0T Prestige quattro,Audi,Black,,Carousel Motors,(319) 800-6780,4.8,147,,145,Orca Black Metallic,Black,Automatic with Tiptronic,AWD
 2018 Audi Q7 3.0T Prestige quattro,Audi,White,,Carousel Motors,(319) 800-6780,4.8,147,,145,Glacier White Metallic,Pistachio Beige,Automatic with Tiptronic,AWD
-2018 Audi Q7 3.0T Prestige quattro,Audi,White,,My Auto Import Center,(231) 981-0049,4.9,576,,164,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD
-2018 Audi Q7 3.0T Premium quattro,Audi,Other,,My Auto Import Center,(231) 981-0049,4.9,576,,164,Samurai Gray Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Prestige quattro,Audi,Black,,Carousel Motors,(319) 800-6780,4.8,147,,145,Orca Black Metallic,Black,Automatic with Tiptronic,AWD
+2018 Audi Q7 3.0T Premium quattro,Audi,Other,,My Auto Import Center,(231) 981-0049,4.9,578,,164,Samurai Gray Metallic,Black,8-Speed Automatic,AWD
+2018 Audi Q7 3.0T Prestige quattro,Audi,White,,My Auto Import Center,(231) 981-0049,4.9,578,,164,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD

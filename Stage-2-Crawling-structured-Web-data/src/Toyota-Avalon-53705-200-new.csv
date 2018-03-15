@@ -1,0 +1,415 @@
+name,brand,color,price,seller_name,seller_phone,seller_average_rating,seller_review_count,miles,distance_from_Madison,Exterior Color,Interior Color,Transmission,Drivetrain
+2018 Toyota Avalon Touring,Toyota,Blue,35748,Smart Motors,(608) 318-4174,4.7,428,,1,Blue,,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon Limited,Toyota,White,42058,Toyota of Brookfield,(262) 558-4497,4.8,58,,64,Blizzard Pearl,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Gray,37833,Toyota of Brookfield,(262) 558-4497,4.8,58,,64,Magnetic Gray,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Beige,34211,Russ Darrow Toyota Scion,(888) 307-2932,4.8,587,,66,Creme Brulee Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Red,30719,Russ Darrow Toyota Scion,(888) 307-2932,4.8,587,,66,Ooh La La Rouge Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Gray,30719,Russ Darrow Toyota Scion,(888) 307-2932,4.8,587,,66,Magnetic Gray,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,34211,Russ Darrow Toyota Scion,(888) 307-2932,4.8,587,,66,Midnight Black,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Red,35062,Heiser Toyota,(414) 979-8442,4.8,780,,70,Ooh La La Rouge Mica,Almond,Automatic 6-Speed,Front Wheel Drive
+2018 Toyota Avalon XLE,Toyota,White,29969,Heiser Toyota,(414) 979-8442,4.8,780,,70,Blizzard Pearl,Almond,Automatic 6-Speed,Front Wheel Drive
+2018 Toyota Avalon XLE,Toyota,Black,29452,Heiser Toyota,(414) 979-8442,4.8,780,,70,Midnight Black Metallic,Black,Automatic 6-Speed,Front Wheel Drive
+2018 Toyota Avalon Limited,Toyota,Gray,38963,Wilde Toyota,(414) 312-4813,4.8,4010,,71,Magnetic Gray Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Silver,38797,Wilde Toyota,(414) 312-4813,4.8,4010,,71,Celestial Silver Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Silver,38953,Wilde Toyota,(414) 312-4813,4.8,4010,,71,Celestial Silver Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Red,38797,Wilde Toyota,(414) 312-4813,4.8,4010,,71,Ooh La La Rouge Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Plus,Toyota,Black,33352,Wilde Toyota,(414) 312-4813,4.8,4010,,71,Midnight Black Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Touring,Toyota,Silver,31875,Andrew Toyota,(888) 419-6495,4.9,1438,,76,Celestial Silver Metallic,Light Gray,6-SPEED A/T,Front Wheel Drive
+2018 Toyota Avalon Limited,Toyota,White,35025,Don Jacobs Toyota,(877) 848-2307,4.9,683,,76,Blizzard Pearl,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,White,35165,Andrew Toyota,(888) 419-6495,4.9,1438,,76,Blizzard Pearl,Almond,6-SPEED A/T,Front Wheel Drive
+2018 Toyota Avalon Limited,Toyota,Silver,34855,Don Jacobs Toyota,(877) 848-2307,4.9,683,,76,Celestial Silver Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Other,34615,Don Jacobs Toyota,(877) 848-2307,4.9,683,,76,,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,34975,Garber Fox Lake Toyota,(847) 978-0011,4.9,295,,79,Midnight Black Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Red,38007,AutoNation Toyota Libertyville,(888) 252-3709,4.7,407,,94,Ooh La La Rouge Mica,Almond,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon Limited,Toyota,White,38277,AutoNation Toyota Libertyville,(888) 252-3709,4.7,407,,94,Blizzard Pearl,Almond,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Red,34437,AutoNation Toyota Libertyville,(888) 252-3709,4.7,407,,94,Sizzling Crimson Mica,Almond,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon Touring,Toyota,Gray,35377,AutoNation Toyota Libertyville,(888) 252-3709,4.7,407,,94,Magnetic Gray Metallic,Black,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon Limited,Toyota,Red,38642,AutoNation Toyota Libertyville,(888) 252-3709,4.7,407,,94,Ooh La La Rouge Mica,Almond,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon Limited,Toyota,Red,38568,AutoNation Toyota Libertyville,(888) 252-3709,4.7,407,,94,Sizzling Crimson Mica,Light Gray,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Red,31106,AutoNation Toyota Libertyville,(888) 252-3709,4.7,407,,94,Ooh La La Rouge Mica,Almond,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon Limited,Toyota,Black,38767,AutoNation Toyota Libertyville,(888) 252-3709,4.7,407,,94,Midnight Black Metallic,Black,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon Limited,Toyota,Black,35159,AutoNation Toyota Libertyville,(888) 252-3709,4.7,407,,94,Midnight Black Metallic,Almond,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Red,33958,AutoNation Toyota Libertyville,(888) 252-3709,4.7,407,,94,Sizzling Crimson Mica,Almond,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon Touring,Toyota,Black,35377,AutoNation Toyota Libertyville,(888) 252-3709,4.7,407,,94,Midnight Black Metallic,Light Gray,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon Touring,Toyota,Beige,35377,AutoNation Toyota Libertyville,(888) 252-3709,4.7,407,,94,Creme Brulee Mica,Almond,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon Limited,Toyota,Black,38767,AutoNation Toyota Libertyville,(888) 252-3709,4.7,407,,94,Midnight Black Metallic,Almond,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon Limited,Toyota,White,39162,AutoNation Toyota Libertyville,(888) 252-3709,4.7,407,,94,Blizzard Pearl,Black,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon Limited,Toyota,Silver,38777,AutoNation Toyota Libertyville,(888) 252-3709,4.7,407,,94,Celestial Silver Metallic,Light Gray,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon Touring,Toyota,Black,35377,AutoNation Toyota Libertyville,(888) 252-3709,4.7,407,,94,Midnight Black Metallic,Almond,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Red,34167,AutoNation Toyota Libertyville,(888) 252-3709,4.7,407,,94,Ooh La La Rouge Mica,Black,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon Limited,Toyota,White,38392,Arlington Toyota,(866) 245-6958,4.8,485,,96,Blizzard Pearl,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Touring,Toyota,Black,32105,Arlington Toyota,(866) 245-6958,4.8,485,,96,Midnight Black Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,34795,Arlington Toyota,(866) 245-6958,4.8,485,,96,Midnight Black Metallic,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Beige,40450,Northbrook Toyota,(847) 686-3727,4.6,163,,107,Creme Brulee Mica,Lm17/Light Gray,E-CVT Automatic,Front Wheel Drive
+2018 Toyota Avalon XLE,Toyota,Black,33587,Northbrook Toyota,(847) 686-3727,4.6,163,,107,Midnight Black Metallic,Lf20/Black,6-Speed Automatic ECT-i,Front Wheel Drive
+2018 Toyota Avalon Limited,Toyota,White,39583,Northbrook Toyota,(847) 686-3727,4.6,163,,107,Blizzard Pearl,Lm03/Almond,6-Speed Automatic ECT-i,Front Wheel Drive
+2018 Toyota Avalon Limited,Toyota,Red,35131,Bredemann Toyota/Scion,(888) 518-2726,4.9,2228,,108,Sizzling Crimson Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Red,35488,Bredemann Toyota/Scion,(888) 518-2726,4.9,2228,,108,Ooh La La Rouge Mica,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,White,35183,Bredemann Toyota/Scion,(888) 518-2726,4.9,2228,,108,Blizzard Pearl,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE,Toyota,Red,27931,Bredemann Toyota/Scion,(888) 518-2726,4.9,2228,,108,Ooh La La Rouge Mica,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,35242,Bredemann Toyota/Scion,(888) 518-2726,4.9,2228,,108,Midnight Black Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Beige,39090,Toyota of Naperville,(630) 225-7560,4.9,4350,,110,Cream,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,38513,Toyota of Naperville,(630) 225-7560,4.9,4350,,110,Black,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,39090,Toyota of Naperville,(630) 225-7560,4.9,4350,,110,Black,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Plus,Toyota,Black,29785,Elmhurst Toyota,(630) 592-4565,4.7,1527,,110,Midnight Black Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Gray,39090,Toyota of Naperville,(630) 225-7560,4.9,4350,,110,Gray,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,White,31303,Elmhurst Toyota,(630) 592-4565,4.7,1527,,110,Blizzard Pearl,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Gray,39090,Toyota of Naperville,(630) 225-7560,4.9,4350,,110,Gray,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Silver,39090,Toyota of Naperville,(630) 225-7560,4.9,4350,,110,Silver,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Plus,Toyota,Black,29473,Elmhurst Toyota,(630) 592-4565,4.7,1527,,110,Midnight Black Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Silver,39291,Smart Toyota,(563) 514-4796,4.5,48,,117,Celestial Silver Metallic,Black,6 speed ect i automatic (u 660e),Front Wheel Drive
+2018 Toyota Avalon XLE Premium,Toyota,Gray,37843,Chicago Northside Toyota,(773) 649-6138,4.5,308,,118,Magnetic Gray Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Beige,42433,Chicago Northside Toyota,(773) 649-6138,4.5,308,,118,Creme Brulee Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,White,41663,Continental Toyota,(708) 498-0250,4.7,816,,121,Pearl,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Silver,37724,Thomas Toyota Scion,(815) 534-1239,4.8,1054,,125,Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Gray,42330,Thomas Toyota Scion,(815) 534-1239,4.8,1054,,125,Magnetic Gray Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,White,38572,Thomas Toyota Scion,(815) 534-1239,4.8,1054,,125,Blizzard Pearl,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,42007,Thomas Toyota Scion,(815) 534-1239,4.8,1054,,125,Midnight Black Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,White,35108,Cedar Rapids Toyota,(319) 774-5863,4.9,1199,,133,Blizzard Pearl,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Plus,Toyota,White,33967,Advantage Toyota of River Oaks,(888) 392-9763,4.7,40,,139,Blizzard Pearl,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Brown,33996,Advantage Toyota of River Oaks,(888) 392-9763,4.7,40,,139,Almond,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Silver,36980,Advantage Toyota of River Oaks,(888) 392-9763,4.7,40,,139,Celestial Silver Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,34995,Advantage Toyota of River Oaks,(888) 392-9763,4.7,40,,139,Slate,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,White,35024,Advantage Toyota of River Oaks,(888) 392-9763,4.7,40,,139,Blizzard Pearl,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,36333,Advantage Toyota of River Oaks,(888) 392-9763,4.7,40,,139,Midnight Black Metallic,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,White,31761,Advantage Toyota of River Oaks,(888) 392-9763,4.7,40,,139,Pearl,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Silver,44068,Planet Toyota,(888) 800-7288,4.8,219,,139,Celestial Silver Metallic,Lm17,E-CVT Automatic,Front Wheel Drive
+2018 Toyota Avalon XLE Plus,Toyota,Black,32492,Advantage Toyota of River Oaks,(888) 392-9763,4.7,40,,139,Black,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Beige,35994,David Bruce Toyota,(888) 719-4065,4.9,954,,154,Creme Brulee Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Red,35481,David Bruce Toyota,(888) 719-4065,4.9,954,,154,Sizzling Crimson Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,White,35176,David Bruce Toyota,(888) 719-4065,4.9,954,,154,Blizzard Pearl,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,White,36346,David Bruce Toyota,(888) 719-4065,4.9,954,,154,Blizzard Pearl,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Blue,43001,Lake Shore Ford Toyota Scion,(219) 728-5508,4.9,136,,156,Parisian Night Pearl,Black,6-Speed Automatic,FWD
+2017 Toyota Avalon Limited,Toyota,Red,43006,Lake Shore Ford Toyota Scion,(219) 728-5508,4.9,136,,156,Ooh La La Rouge Mica,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Plus,Toyota,Blue,36662,Lake Shore Ford Toyota Scion,(219) 728-5508,4.9,136,,156,Parisian Night Pearl,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE,Toyota,Other,31388,Markquart Toyota,(888) 237-4926,4.8,232,,158,01h2 Cosmic Gr,Lf20 Black,e cvt automatic,Front Wheel Drive
+2018 Toyota Avalon Limited,Toyota,Red,34806,Peoria Toyota,(888) 714-8126,4.8,33,,158,Sizzling Crimson Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Silver,41653,Rochester Toyota,(888) 710-9256,4.9,357,,162,Celestial Silver Metallic,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,White,30121,My Auto Import Center,(231) 981-0049,4.9,578,,164,Blizzard Pearl,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,38652,Deery Brothers,(319) 237-3698,4.7,97,,178,Midnight Black Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Other,34616,Rhinelander Auto Center,(715) 804-4110,5,52,,178,,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Plus,Toyota,Gray,33880,Gates Toyota,(574) 208-9057,4.9,190,,191,Magnetic Gray Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Blue,35204,Gates Toyota,(574) 208-9057,4.9,190,,191,Parisian Night Pearl,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Gray,35186,Gates Toyota,(574) 208-9057,4.9,190,,191,Cosmic Gray Mica,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Black,35370,Jordan Automotive Group,(888) 254-1657,4.9,1383,,193,Midnight Black Metallic,Black,6-Speed Automatic,FWD
+2017 Toyota Avalon Limited,Toyota,Red,36066,Jordan Automotive Group,(888) 254-1657,4.9,1383,,193,Sizzling Crimson Mica,Black,6-Speed Automatic,FWD
+2017 Toyota Avalon Limited,Toyota,Red,36076,Jordan Automotive Group,(888) 254-1657,4.9,1383,,193,Ooh La La Rouge Mica,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE,Toyota,White,29209,Toyota of Grand Rapids,(888) 251-9220,4.9,708,,194,Blizzard Pearl,,6-Speed Automatic,FWD
+2018 Toyota Avalon Touring,Toyota,Gray,33013,Toyota of Grand Rapids,(888) 251-9220,4.9,708,,194,Cosmic Gray Mica,,6-Speed Automatic,FWD
+2018 Toyota Avalon Touring,Toyota,Silver,33033,Toyota of Grand Rapids,(888) 251-9220,4.9,708,,194,Celestial Silver Metallic,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Purple,29826,Metro Toyota,(269) 932-4409,4.9,1621,,200,Sizzling Crimson,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,White,34986,Metro Toyota,(269) 932-4409,4.9,1621,,200,Blizzard Pearl,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,38797,Smart Motors,(608) 318-4174,4.7,428,,1,Black,,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon XLE Premium,Toyota,White,31205,East Madison Toyota,(888) 857-7826,3.7,27,,9,Blizzard Pearl,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Touring,Toyota,Black,39043,Toyota of Brookfield,(262) 558-4497,4.8,58,,64,Midnight Black,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Plus,Toyota,Gray,29504,Russ Darrow Toyota Scion,(888) 307-2932,4.8,587,,66,Magnetic Gray Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Gray,35014,Russ Darrow Toyota Scion,(888) 307-2932,4.8,587,,66,Magnetic Gray Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Gray,30813,Russ Darrow Toyota Scion,(888) 307-2932,4.8,587,,66,Cosmic Gray Mica,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,34858,Russ Darrow Toyota Scion,(888) 307-2932,4.8,587,,66,Midnight Black,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Beige,30924,Heiser Toyota,(414) 979-8442,4.8,780,,70,Creme Brulee Mica,Almond,Automatic 6-Speed,Front Wheel Drive
+2018 Toyota Avalon XLE Premium,Toyota,Red,30816,Heiser Toyota,(414) 979-8442,4.8,780,,70,Sizzling Crimson Mica,Almond,Automatic 6-Speed,Front Wheel Drive
+2018 Toyota Avalon Limited,Toyota,Beige,38797,Wilde Toyota,(414) 312-4813,4.8,4010,,71,Creme Brulee Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Red,30657,Don Jacobs Toyota,(877) 848-2307,4.9,683,,76,Sizzling Crimson Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Beige,30813,Don Jacobs Toyota,(877) 848-2307,4.9,683,,76,Creme Brulee Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Plus,Toyota,Gray,29523,Garber Fox Lake Toyota,(847) 978-0011,4.9,295,,79,Magnetic Gray Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Red,34796,Ken Nelson Auto Group,(815) 595-4049,4.4,13,,83,Sizzling Crimson Mica,Light Gray,6-Speed Automatic,FWD
+2017 Toyota Avalon Limited,Toyota,White,35968,Ken Nelson Auto Group,(815) 595-4049,4.4,13,,83,Blizzard Pearl,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,White,35108,Brian Bemis Toyota,(815) 264-2329,4.6,14,,86,Blizzard Pearl,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Red,34572,AutoNation Toyota Libertyville,(888) 252-3709,4.7,407,,94,Ooh La La Rouge Mica,Almond,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon Touring,Toyota,Beige,32195,AutoNation Toyota Libertyville,(888) 252-3709,4.7,407,,94,Creme Brulee Mica,Almond,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon Limited,Toyota,Beige,35221,AutoNation Toyota Libertyville,(888) 252-3709,4.7,407,,94,Creme Brulee Mica,Almond,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon Touring,Toyota,Black,35377,AutoNation Toyota Libertyville,(888) 252-3709,4.7,407,,94,Midnight Black Metallic,Black,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon Limited,Toyota,White,39162,AutoNation Toyota Libertyville,(888) 252-3709,4.7,407,,94,Blizzard Pearl,Black,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon Limited,Toyota,Beige,38443,AutoNation Toyota Libertyville,(888) 252-3709,4.7,407,,94,Creme Brulee Mica,Almond,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon Limited,Toyota,White,35511,AutoNation Toyota Libertyville,(888) 252-3709,4.7,407,,94,Blizzard Pearl,Almond,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon Limited,Toyota,Red,39047,AutoNation Toyota Libertyville,(888) 252-3709,4.7,407,,94,Ooh La La Rouge Mica,Almond,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon Limited,Toyota,Black,35215,Arlington Toyota,(866) 245-6958,4.8,485,,96,Midnight Black Metallic,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Blue,30851,Arlington Toyota,(866) 245-6958,4.8,485,,96,Parisian Night Pearl,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Touring,Toyota,Silver,39690,Elgin Toyota/Scion,(224) 523-7129,4.8,1068,,99,Celestial Silver Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,White,39511,Northbrook Toyota,(847) 686-3727,4.6,163,,107,Blizzard Pearl,Lm03/Almond,6-Speed Automatic ECT-i,Front Wheel Drive
+2018 Toyota Avalon XLE Premium,Toyota,Beige,36919,Northbrook Toyota,(847) 686-3727,4.6,163,,107,Creme Brulee Mica,Le03/Almond,E-CVT Automatic,Front Wheel Drive
+2018 Toyota Avalon Limited,Toyota,Black,39315,Northbrook Toyota,(847) 686-3727,4.6,163,,107,Midnight Black Metallic,Lm20/Black,6-Speed Automatic ECT-i,Front Wheel Drive
+2018 Toyota Avalon XLE Premium,Toyota,Black,30850,Bredemann Toyota/Scion,(888) 518-2726,4.9,2228,,108,Midnight Black Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,34965,Bredemann Toyota/Scion,(888) 518-2726,4.9,2228,,108,Midnight Black Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Blue,31269,Bredemann Toyota/Scion,(888) 518-2726,4.9,2228,,108,Parisian Night Pearl,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Gray,31269,Bredemann Toyota/Scion,(888) 518-2726,4.9,2228,,108,Magnetic Gray Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,35488,Bredemann Toyota/Scion,(888) 518-2726,4.9,2228,,108,Midnight Black Metallic,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Silver,34578,Bredemann Toyota/Scion,(888) 518-2726,4.9,2228,,108,Celestial Silver Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Gray,38320,Toyota of Naperville,(630) 225-7560,4.9,4350,,110,Gray,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Other,39090,Toyota of Naperville,(630) 225-7560,4.9,4350,,110,Oll Rge Mca,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Red,35261,Lombard Toyota,(888) 269-7838,4.8,624,,110,Rouge,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,39090,Toyota of Naperville,(630) 225-7560,4.9,4350,,110,Black,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Silver,30806,Elmhurst Toyota,(630) 592-4565,4.7,1527,,110,Celestial Silver Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,39090,Toyota of Naperville,(630) 225-7560,4.9,4350,,110,Black,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Touring,Toyota,Beige,36106,Grossinger Toyota/Scion North,(877) 516-3290,3.8,254,,113,Creme Brulee Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,39216,Grossinger Toyota/Scion North,(877) 516-3290,3.8,254,,113,Midnight Black Metallic,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Beige,42652,Oakbrook Toyota in Westmont,(630) 427-4084,4.8,726,,115,Creme Brulee Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Silver,42937,Oakbrook Toyota in Westmont,(630) 427-4084,4.8,726,,115,Celestial Silver Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Silver,37912,Oakbrook Toyota in Westmont,(630) 427-4084,4.8,726,,115,Celestial Silver Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Plus,Toyota,White,37515,Oakbrook Toyota in Westmont,(630) 427-4084,4.8,726,,115,Blizzard Pearl,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,White,38297,Oakbrook Toyota in Westmont,(630) 427-4084,4.8,726,,115,Blizzard Pearl,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Touring,Toyota,Silver,39321,Oakbrook Toyota in Westmont,(630) 427-4084,4.8,726,,115,Celestial Silver Metallic,Light Gray,6-Speed Automatic,FWD
+2017 Toyota Avalon XLE Premium,Toyota,Gray,34792,Smart Toyota,(563) 514-4796,4.5,48,,117,Magnetic Gray Metallic,Light Gray,6 speed ect i automatic (u 660e),Front Wheel Drive
+2018 Toyota Avalon XLE Premium,Toyota,Gray,34742,Smart Toyota,(563) 514-4796,4.5,48,,117,Magnetic Gray Metallic,Black,6 speed ect i automatic (u 660e),Front Wheel Drive
+2017 Toyota Avalon Limited,Toyota,White,40602,Smart Toyota,(563) 514-4796,4.5,48,,117,Blizzard Pearl,Almond,e cvt automatic,Front Wheel Drive
+2018 Toyota Avalon Limited,Toyota,Beige,39213,Smart Toyota,(563) 514-4796,4.5,48,,117,Creme Brulee Mica,Almond,6 speed ect i automatic (u 660e),Front Wheel Drive
+2018 Toyota Avalon XLE Plus,Toyota,White,36540,Chicago Northside Toyota,(773) 649-6138,4.5,308,,118,Blizzard Pearl,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,42433,Chicago Northside Toyota,(773) 649-6138,4.5,308,,118,Midnight Black Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,42443,Chicago Northside Toyota,(773) 649-6138,4.5,308,,118,Midnight Black Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Silver,38121,Continental Toyota,(708) 498-0250,4.7,816,,121,Celestial Silver Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Red,30976,Hiland Toyota,(309) 948-2273,4.9,731,,121,Sizzling Crimson Mica,,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Black,31242,Hiland Toyota,(309) 948-2273,4.9,731,,121,Midnight Black Metallic,,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Black,30976,Hiland Toyota,(309) 948-2273,4.9,731,,121,Midnight Black Metallic,,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Gray,38037,Continental Toyota,(708) 498-0250,4.7,816,,121,Magnetic Gray Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Plus,Toyota,White,36788,Continental Toyota,(708) 498-0250,4.7,816,,121,Blizzard Pearl,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Gray,30976,Hiland Toyota,(309) 948-2273,4.9,731,,121,Cosmic Gray Mica,,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon XLE Premium,Toyota,White,38500,Thomas Toyota Scion,(815) 534-1239,4.8,1054,,125,Pearl,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Silver,42443,Thomas Toyota Scion,(815) 534-1239,4.8,1054,,125,Celestial Silver Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Gray,34795,Oak Lawn Toyota,(888) 437-3574,4.7,679,,128,Magnetic Gray Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Black,31761,Advantage Toyota of River Oaks,(888) 392-9763,4.7,40,,139,Midnight Black Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Brown,37630,Advantage Toyota of River Oaks,(888) 392-9763,4.7,40,,139,Almond,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Gray,34828,Advantage Toyota of River Oaks,(888) 392-9763,4.7,40,,139,Light Gray,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Brown,36475,Advantage Toyota of River Oaks,(888) 392-9763,4.7,40,,139,Almond,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Gray,38112,Planet Toyota,(888) 800-7288,4.8,219,,139,Gray,Lf20,6-Speed Automatic ECT-i,Front Wheel Drive
+2018 Toyota Avalon Limited,Toyota,White,43107,Planet Toyota,(888) 800-7288,4.8,219,,139,Blizzard Pearl,Lm20,6-Speed Automatic ECT-i,Front Wheel Drive
+2018 Toyota Avalon XLE Premium,Toyota,Red,31302,Galesburg Toyota,(888) 478-8327,4.5,42,,151,Ooh La La Rouge Mica,Black,6-Speed Automatic ECT-i,Front Wheel Drive
+2018 Toyota Avalon XLE Premium,Toyota,Gray,33067,Galesburg Toyota,(888) 478-8327,4.5,42,,151,Cosmic Gray Mica,Light Gray,E-CVT Automatic,Front Wheel Drive
+2018 Toyota Avalon XLE Premium,Toyota,Silver,31351,Galesburg Toyota,(888) 478-8327,4.5,42,,151,Celestial Silver Metallic,Light Gray,6-Speed Automatic ECT-i,Front Wheel Drive
+2018 Toyota Avalon XLE Premium,Toyota,Beige,33222,Galesburg Toyota,(888) 478-8327,4.5,42,,151,Creme Brulee Mica,Almond,E-CVT Automatic,Front Wheel Drive
+2018 Toyota Avalon XLE Premium,Toyota,Red,30580,Galesburg Toyota,(888) 478-8327,4.5,42,,151,Ooh La La Rouge Mica,Black,6-Speed Automatic ECT-i,Front Wheel Drive
+2018 Toyota Avalon Limited,Toyota,Black,33978,Galesburg Toyota,(888) 478-8327,4.5,42,,151,Midnight Black Metallic,Light Gray,6-Speed Automatic ECT-i,Front Wheel Drive
+2018 Toyota Avalon Limited,Toyota,Red,35979,David Bruce Toyota,(888) 719-4065,4.9,954,,154,Ooh La La Rouge Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,White,31614,David Bruce Toyota,(888) 719-4065,4.9,954,,154,Blizzard Pearl,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Silver,35471,David Bruce Toyota,(888) 719-4065,4.9,954,,154,Celestial Silver Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Gray,31408,David Bruce Toyota,(888) 719-4065,4.9,954,,154,Magnetic Gray,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE,Toyota,Gray,28032,Dan Deery Toyota,(319) 774-5901,4.8,289,,156,Magnetic Gray Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Other,30814,Markquart Toyota,(888) 237-4926,4.8,232,,158,03t0 Ooh La La,Lf20 Black,6-SPEED A/T,Front Wheel Drive
+2018 Toyota Avalon XLE Premium,Toyota,Black,30824,Markquart Toyota,(888) 237-4926,4.8,232,,158,Midnight Black Metallic,Lf17 Light Gra,6-SPEED A/T,Front Wheel Drive
+2018 Toyota Avalon XLE Plus,Toyota,White,36768,Rochester Toyota,(888) 710-9256,4.9,357,,162,Blizzard Pearl,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,White,30950,My Auto Import Center,(231) 981-0049,4.9,578,,164,Blizzard Pearl,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE,Toyota,Black,26845,My Auto Import Center,(231) 981-0049,4.9,578,,164,Midnight Black Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Beige,33765,Signature Dealer Group,(888) 449-1097,4.8,315,,167,Cream,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Beige,35474,Fort's Toyota of Pekin,(309) 285-8389,4.6,143,,169,Creme Brulee Mica,Almond,6-Speed Automatic,FWD
+2017 Toyota Avalon Limited,Toyota,Black,38702,Crown Toyota-VW,(616) 931-5723,4.6,256,,172,Midnight Black,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,White,30669,Rhinelander Auto Center,(715) 804-4110,5,52,,178,Pearl,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,White,35528,Gates Toyota,(574) 208-9057,4.9,190,,191,Blizzard Pearl,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Touring,Toyota,Gray,36293,Gates Toyota,(574) 208-9057,4.9,190,,191,Magnetic Gray Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,White,35104,Jordan Automotive Group,(888) 254-1657,4.9,1383,,193,Blizzard Pearl,Black,6-Speed Automatic,FWD
+2017 Toyota Avalon Limited,Toyota,Black,38693,Toyota of Grand Rapids,(888) 251-9220,4.9,708,,194,Midnight Black Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Beige,36413,Toyota of Grand Rapids,(888) 251-9220,4.9,708,,194,Creme Brulee,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Gray,30947,Metro Toyota,(269) 932-4409,4.9,1621,,200,Cosmic Gray Mica,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Beige,29926,Metro Toyota,(269) 932-4409,4.9,1621,,200,Crme Brule,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Hybrid XLE Premium,Toyota,White,36716,AutoNation Toyota Libertyville,(888) 252-3709,4.7,407,,94,Blizzard Pearl,Almond,1-Speed CVT w/OD,FWD
+2018 Toyota Avalon XLE Premium,Toyota,White,38596,Elgin Toyota/Scion,(224) 523-7129,4.8,1068,,99,Blizzard Pearl,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Silver,39090,Toyota of Naperville,(630) 225-7560,4.9,4350,,110,Silver,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,42513,Pauly Toyota,(815) 261-0723,2.6,30,,81,Midnight Black,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Plus,Toyota,Gray,33880,Gates Toyota,(574) 208-9057,4.9,190,,191,Magnetic Gray Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE,Toyota,White,29969,Heiser Toyota,(414) 979-8442,4.8,780,,70,Blizzard Pearl,Almond,Automatic 6-Speed,Front Wheel Drive
+2018 Toyota Avalon Limited,Toyota,Silver,42443,Thomas Toyota Scion,(815) 534-1239,4.8,1054,,125,Celestial Silver Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Touring,Toyota,Beige,32195,AutoNation Toyota Libertyville,(888) 252-3709,4.7,407,,94,Creme Brulee Mica,Almond,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon Limited,Toyota,Red,39047,AutoNation Toyota Libertyville,(888) 252-3709,4.7,407,,94,Ooh La La Rouge Mica,Almond,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon XLE Premium,Toyota,White,31205,East Madison Toyota,(888) 857-7826,3.7,27,,9,Blizzard Pearl,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Red,42791,Pauly Toyota,(815) 261-0723,2.6,30,,81,Ooh La La Rouge Mica,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Red,43100,Oakbrook Toyota in Westmont,(630) 427-4084,4.8,726,,115,Ooh La La Rouge Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Gray,34828,Advantage Toyota of River Oaks,(888) 392-9763,4.7,40,,139,Light Gray,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Red,34806,Grossinger Toyota/Scion North,(877) 516-3290,3.8,254,,113,Ooh La La Rouge Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Touring,Toyota,Black,39043,Toyota of Brookfield,(262) 558-4497,4.8,58,,64,Midnight Black,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Beige,35474,Fort's Toyota of Pekin,(309) 285-8389,4.6,143,,169,Creme Brulee Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Gray,42568,Elgin Toyota/Scion,(224) 523-7129,4.8,1068,,99,Magnetic Gray Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Touring,Toyota,Gray,33013,Toyota of Grand Rapids,(888) 251-9220,4.9,708,,194,Cosmic Gray Mica,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Other,34962,Don Jacobs Toyota,(877) 848-2307,4.9,683,,76,,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Silver,43090,Pauly Toyota,(815) 261-0723,2.6,30,,81,Celestial,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Silver,30806,Elmhurst Toyota,(630) 592-4565,4.7,1527,,110,Celestial Silver Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Silver,38111,Pauly Toyota,(815) 261-0723,2.6,30,,81,Celestial,,6-Speed Automatic,FWD
+2017 Toyota Avalon Limited,Toyota,White,35968,Ken Nelson Auto Group,(815) 595-4049,4.4,13,,83,Blizzard Pearl,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,White,31303,Elmhurst Toyota,(630) 592-4565,4.7,1527,,110,Blizzard Pearl,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,39216,Grossinger Toyota/Scion North,(877) 516-3290,3.8,254,,113,Midnight Black Metallic,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Gray,35014,Russ Darrow Toyota Scion,(888) 307-2932,4.8,587,,66,Magnetic Gray Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Gray,42330,Thomas Toyota Scion,(815) 534-1239,4.8,1054,,125,Magnetic Gray Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Plus,Toyota,Black,29785,Elmhurst Toyota,(630) 592-4565,4.7,1527,,110,Midnight Black Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Plus,Toyota,Black,29949,Advantage Toyota of River Oaks,(888) 392-9763,4.7,40,,139,Black,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Gray,43090,Hosmercars.com,(888) 581-3824,3.7,7,,191,Magnetic Gray Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Silver,41753,Elgin Toyota/Scion,(224) 523-7129,4.8,1068,,99,Celestial Silver Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Red,34806,Peoria Toyota,(888) 714-8126,4.8,33,,158,Sizzling Crimson Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,42031,Elgin Toyota/Scion,(224) 523-7129,4.8,1068,,99,Midnight Black Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,38855,Toyota of Brookfield,(262) 558-4497,4.8,58,,64,Midnight Black,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Plus,Toyota,White,36857,Oakbrook Toyota in Westmont,(630) 427-4084,4.8,726,,115,Blizzard Pearl,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Silver,31271,Orland Toyota,(708) 263-6072,4.5,943,,131,Celestial Silver Metallic,Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Blue,42076,Oakbrook Toyota in Westmont,(630) 427-4084,4.8,726,,115,Parisian Night Pearl,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Touring,Toyota,Gray,35377,AutoNation Toyota Libertyville,(888) 252-3709,4.7,407,,94,Magnetic Gray Metallic,Black,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon XLE Premium,Toyota,White,31015,Andrew Toyota,(888) 419-6495,4.9,1438,,76,Blizzard Pearl,Black,6-SPEED A/T,Front Wheel Drive
+2018 Toyota Avalon Limited,Toyota,Black,42652,Pauly Toyota,(815) 261-0723,2.6,30,,81,Midnight Black,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Red,38951,Grossinger Toyota/Scion North,(877) 516-3290,3.8,254,,113,Sizzling Crimson Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Silver,34578,Bredemann Toyota/Scion,(888) 518-2726,4.9,2228,,108,Celestial Silver Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Other,38164,International Toyota Subaru,(920) 587-4203,4.4,115,,97,,,6-Speed Automatic,FWD
+2018 Toyota Avalon Touring,Toyota,White,39487,Lake Shore Ford Toyota Scion,(219) 728-5508,4.9,136,,156,Blizzard Pearl,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,White,43586,Oakbrook Toyota in Westmont,(630) 427-4084,4.8,726,,115,Blizzard Pearl,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,42592,Pauly Toyota,(815) 261-0723,2.6,30,,81,Midnight Black,,6-Speed Automatic,FWD
+2018 Toyota Avalon Touring,Toyota,White,40016,Hosmercars.com,(888) 581-3824,3.7,7,,191,Blizzard Pearl,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Touring,Toyota,White,36397,Team Toyota,(219) 629-8314,4.7,633,,147,Blizzard Pearl,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Gray,30976,Hiland Toyota,(309) 948-2273,4.9,731,,121,Cosmic Gray Mica,,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon Limited,Toyota,Gray,38814,International Toyota Subaru,(920) 587-4203,4.4,115,,97,Cosmic Gray Mica,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Black,31242,Hiland Toyota,(309) 948-2273,4.9,731,,121,Midnight Black Metallic,,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon Limited,Toyota,Beige,36413,Toyota of Grand Rapids,(888) 251-9220,4.9,708,,194,Creme Brulee,,6-Speed Automatic,FWD
+2018 Toyota Avalon Hybrid XLE Premium,Toyota,Beige,32847,Racine Toyota,(855) 570-7132,4.7,354,,79,Creme Brulee Mica,LE03 ALMOND,1-Speed CVT w/OD,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Gray,30813,Russ Darrow Toyota Scion,(888) 307-2932,4.8,587,,66,Cosmic Gray Mica,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,39315,Northbrook Toyota,(847) 686-3727,4.6,163,,107,Midnight Black Metallic,Lm20/Black,6-Speed Automatic ECT-i,Front Wheel Drive
+2018 Toyota Avalon Limited,Toyota,White,42908,Oakbrook Toyota in Westmont,(630) 427-4084,4.8,726,,115,Blizzard Pearl,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,35215,Arlington Toyota,(866) 245-6958,4.8,485,,96,Midnight Black Metallic,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Red,39216,Grossinger Toyota/Scion North,(877) 516-3290,3.8,254,,113,Ooh La La Rouge Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,White,35165,Andrew Toyota,(888) 419-6495,4.9,1438,,76,Blizzard Pearl,Almond,6-SPEED A/T,Front Wheel Drive
+2018 Toyota Avalon Limited,Toyota,Black,34211,Russ Darrow Toyota Scion,(888) 307-2932,4.8,587,,66,Midnight Black,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Blue,37843,Oakbrook Toyota in Westmont,(630) 427-4084,4.8,726,,115,Parisian Night Pearl,Black,6-Speed Automatic,FWD
+2017 Toyota Avalon XLE,Toyota,Black,30411,Northbrook Toyota,(847) 686-3727,4.6,163,,107,Midnight Black Metallic,Lf20/Black,6-Speed Automatic ECT-i,Front Wheel Drive
+2018 Toyota Avalon Limited,Toyota,White,39583,Northbrook Toyota,(847) 686-3727,4.6,163,,107,Blizzard Pearl,Lm03/Almond,6-Speed Automatic ECT-i,Front Wheel Drive
+2018 Toyota Avalon XLE Premium,Toyota,Gray,38250,Pauly Toyota,(815) 261-0723,2.6,30,,81,Cosmic Gray,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Plus,Toyota,White,36540,Chicago Northside Toyota,(773) 649-6138,4.5,308,,118,Blizzard Pearl,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Silver,36980,Advantage Toyota of River Oaks,(888) 392-9763,4.7,40,,139,Celestial Silver Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,White,38506,Elgin Toyota/Scion,(224) 523-7129,4.8,1068,,99,Blizzard Pearl,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Red,43170,Oakbrook Toyota in Westmont,(630) 427-4084,4.8,726,,115,Ooh La La Rouge Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Red,35131,Bredemann Toyota/Scion,(888) 518-2726,4.9,2228,,108,Sizzling Crimson Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Brown,37630,Advantage Toyota of River Oaks,(888) 392-9763,4.7,40,,139,Almond,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Plus,Toyota,White,33967,Advantage Toyota of River Oaks,(888) 392-9763,4.7,40,,139,Blizzard Pearl,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,42320,Elgin Toyota/Scion,(224) 523-7129,4.8,1068,,99,Midnight Black Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,White,41663,Continental Toyota,(708) 498-0250,4.7,816,,121,Pearl,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Plus,Toyota,Black,29473,Elmhurst Toyota,(630) 592-4565,4.7,1527,,110,Midnight Black Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE,Toyota,Black,29452,Heiser Toyota,(414) 979-8442,4.8,780,,70,Midnight Black Metallic,Black,Automatic 6-Speed,Front Wheel Drive
+2018 Toyota Avalon XLE Premium,Toyota,White,35528,Gates Toyota,(574) 208-9057,4.9,190,,191,Blizzard Pearl,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE,Toyota,Gray,28032,Dan Deery Toyota,(319) 774-5901,4.8,289,,156,Magnetic Gray Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Silver,31351,Galesburg Toyota,(888) 478-8327,4.5,42,,151,Celestial Silver Metallic,Light Gray,6-Speed Automatic ECT-i,Front Wheel Drive
+2018 Toyota Avalon Touring,Toyota,Black,38795,Lombard Toyota,(888) 269-7838,4.8,624,,110,Midnight Black,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,White,44617,Planet Toyota,(888) 800-7288,4.8,219,,139,Blizzard Pearl,Lm17,E-CVT Automatic,Front Wheel Drive
+2018 Toyota Avalon Limited,Toyota,Beige,35673,Kolosso Toyota,(866) 897-5301,4.9,358,,96,Cream,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Silver,39650,Toyota of Brookfield,(262) 558-4497,4.8,58,,64,Celestial Silver,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Gray,43090,Pauly Toyota,(815) 261-0723,2.6,30,,81,Magnetic Gray,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Other,34615,Don Jacobs Toyota,(877) 848-2307,4.9,683,,76,,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE,Toyota,White,29209,Toyota of Grand Rapids,(888) 251-9220,4.9,708,,194,Blizzard Pearl,,6-Speed Automatic,FWD
+2018 Toyota Avalon Touring,Toyota,Gray,35855,Brian Bemis Toyota,(815) 264-2329,4.6,14,,86,Magnetic Gray Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Plus,Toyota,White,37515,Oakbrook Toyota in Westmont,(630) 427-4084,4.8,726,,115,Blizzard Pearl,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,42732,Oakbrook Toyota in Westmont,(630) 427-4084,4.8,726,,115,Midnight Black Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Silver,41633,Oakbrook Toyota in Westmont,(630) 427-4084,4.8,726,,115,Celestial Silver Metallic,Light Gray,6-Speed Automatic,FWD
+2017 Toyota Avalon Touring,Toyota,White,37020,Grossinger Toyota/Scion North,(877) 516-3290,3.8,254,,113,Blizzard Pearl,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,43090,Pauly Toyota,(815) 261-0723,2.6,30,,81,Midnight Black,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Gray,38037,Continental Toyota,(708) 498-0250,4.7,816,,121,Magnetic Gray Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Silver,38121,Continental Toyota,(708) 498-0250,4.7,816,,121,Celestial Silver Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Black,34912,Brian Bemis Toyota,(815) 264-2329,4.6,14,,86,Midnight Black Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Other,34674,International Toyota Subaru,(920) 587-4203,4.4,115,,97,,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Beige,42281,Pauly Toyota,(815) 261-0723,2.6,30,,81,Cream,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,White,38218,MidTown Toyota/Scion Ltd.,(866) 453-4872,4.9,332,,117,Blizzard Pearl,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Touring,Toyota,White,32302,Garber Fox Lake Toyota,(847) 978-0011,4.9,295,,79,Blizzard Pearl,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Hybrid Limited,Toyota,Red,40156,Smart Motors,(608) 318-4174,4.7,428,,1,Ooh La La Rouge Mica,Light Gray,1-Speed CVT w/OD,FWD
+2018 Toyota Avalon Limited,Toyota,Black,35159,AutoNation Toyota Libertyville,(888) 252-3709,4.7,407,,94,Midnight Black Metallic,Almond,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon Hybrid XLE Premium,Toyota,Silver,36692,Smart Motors,(608) 318-4174,4.7,428,,1,Celestial Silver Metallic,Light Gray,1-Speed CVT w/OD,FWD
+2018 Toyota Avalon Limited,Toyota,Gray,42185,Pauly Toyota,(815) 261-0723,2.6,30,,81,Magnetic Gray,,6-Speed Automatic,FWD
+2017 Toyota Avalon Touring,Toyota,Silver,32651,Ken Nelson Auto Group,(815) 595-4049,4.4,13,,83,Celestial Silver Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Touring,Toyota,Black,31855,Garber Fox Lake Toyota,(847) 978-0011,4.9,295,,79,Midnight Black Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Touring,Toyota,Red,39928,Hosmercars.com,(888) 581-3824,3.7,7,,191,Ooh La La Rouge Mica,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Touring,Toyota,Silver,35855,Brian Bemis Toyota,(815) 264-2329,4.6,14,,86,Celestial Silver Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,42732,Oakbrook Toyota in Westmont,(630) 427-4084,4.8,726,,115,Midnight Black Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,42031,Elgin Toyota/Scion,(224) 523-7129,4.8,1068,,99,Midnight Black Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Gray,42568,Elgin Toyota/Scion,(224) 523-7129,4.8,1068,,99,Magnetic Gray Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Red,43100,Oakbrook Toyota in Westmont,(630) 427-4084,4.8,726,,115,Ooh La La Rouge Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Gray,35200,Toyota of La Crosse,(866) 784-9666,4,39,,103,Magnetic Gray Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Touring,Toyota,Black,38795,Lombard Toyota,(888) 269-7838,4.8,624,,110,Midnight Black,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Beige,34475,Advantage Toyota of River Oaks,(888) 392-9763,4.7,40,,139,Creme Brulee,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Gray,38250,Pauly Toyota,(815) 261-0723,2.6,30,,81,Cosmic Gray,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE,Toyota,White,35008,Le Mieux & Son Toyota,(920) 471-4883,2.5,20,,119,Blizzard Pearl,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,41882,Elgin Toyota/Scion,(224) 523-7129,4.8,1068,,99,Midnight Black Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,44600,Toyota of Merrillville,(219) 359-4968,3.4,40,,156,Midnight Black Metallic,Black,E-CVT Automatic,Front Wheel Drive
+2018 Toyota Avalon Limited,Toyota,Red,43170,Oakbrook Toyota in Westmont,(630) 427-4084,4.8,726,,115,Ooh La La Rouge Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,41663,Schaumburg Toyota,(888) 285-8469,4.8,775,,98,Midnight Black,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,42652,Pauly Toyota,(815) 261-0723,2.6,30,,81,Midnight Black,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,White,42818,Le Mieux & Son Toyota,(920) 471-4883,2.5,20,,119,Blizzard Pearl,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Silver,39650,Toyota of Brookfield,(262) 558-4497,4.8,58,,64,Celestial Silver,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,White,43485,Pauly Toyota,(815) 261-0723,2.6,30,,81,Blizzard Pearl,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Silver,43090,Pauly Toyota,(815) 261-0723,2.6,30,,81,Celestial,,6-Speed Automatic,FWD
+2018 Toyota Avalon Hybrid XLE Plus,Toyota,Black,35377,Smart Motors,(608) 318-4174,4.7,428,,1,Black,,1-Speed CVT w/OD,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Silver,34667,Toyota of Brookfield,(262) 558-4497,4.8,58,,64,Mica,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Beige,42281,Pauly Toyota,(815) 261-0723,2.6,30,,81,Cream,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Other,34674,International Toyota Subaru,(920) 587-4203,4.4,115,,97,,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Blue,38500,Oakbrook Toyota in Westmont,(630) 427-4084,4.8,726,,115,Parisian Night Pearl,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Silver,31271,Orland Toyota,(708) 263-6072,4.5,943,,131,Celestial Silver Metallic,Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,38806,Toyota of Brookfield,(262) 558-4497,4.8,58,,64,Midnight Black,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Beige,42443,Oakbrook Toyota in Westmont,(630) 427-4084,4.8,726,,115,Creme Brulee Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Touring,Toyota,White,36397,Team Toyota,(219) 629-8314,4.7,633,,147,Blizzard Pearl,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Other,38814,International Toyota Subaru,(920) 587-4203,4.4,115,,97,,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Red,34806,Grossinger Toyota/Scion North,(877) 516-3290,3.8,254,,113,Ooh La La Rouge Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Silver,42642,Oakbrook Toyota in Westmont,(630) 427-4084,4.8,726,,115,Celestial Silver Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Blue,42076,Oakbrook Toyota in Westmont,(630) 427-4084,4.8,726,,115,Parisian Night Pearl,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,White,42908,Oakbrook Toyota in Westmont,(630) 427-4084,4.8,726,,115,Blizzard Pearl,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Black,34912,Brian Bemis Toyota,(815) 264-2329,4.6,14,,86,Midnight Black Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Silver,42512,Pauly Toyota,(815) 261-0723,2.6,30,,81,Celestial,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Red,37912,Oakbrook Toyota in Westmont,(630) 427-4084,4.8,726,,115,Sizzling Crimson Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,43090,Pauly Toyota,(815) 261-0723,2.6,30,,81,Midnight Black,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Other,39174,International Toyota Subaru,(920) 587-4203,4.4,115,,97,,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,42722,Pauly Toyota,(815) 261-0723,2.6,30,,81,Midnight Black,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,42320,Elgin Toyota/Scion,(224) 523-7129,4.8,1068,,99,Midnight Black Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Other,38250,Pauly Toyota,(815) 261-0723,2.6,30,,81,Parisian,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Blue,30911,Dan Deery Toyota,(319) 774-5901,4.8,289,,156,Parisian Night Pearl,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Beige,39014,Brian Bemis Toyota,(815) 264-2329,4.6,14,,86,Creme Brulee Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,White,38596,Elgin Toyota/Scion,(224) 523-7129,4.8,1068,,99,Blizzard Pearl,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,White,34921,Dan Deery Toyota,(319) 774-5901,4.8,289,,156,White,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE,Toyota,Black,34613,Le Mieux & Son Toyota,(920) 471-4883,2.5,20,,119,Midnight Black Metallic,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Silver,37992,Oakbrook Toyota in Westmont,(630) 427-4084,4.8,726,,115,Celestial Silver Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Touring,Toyota,Silver,39700,Toyota of Merrillville,(219) 359-4968,3.4,40,,156,Celestial Silver Metallic,,6-Speed Automatic ECT-i,Front Wheel Drive
+2018 Toyota Avalon XLE Premium,Toyota,White,38218,MidTown Toyota/Scion Ltd.,(866) 453-4872,4.9,332,,117,Blizzard Pearl,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Red,38318,Brian Bemis Toyota,(815) 264-2329,4.6,14,,86,Ooh La La Rouge Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Blue,30757,Grossinger City Toyota Chevrolet Cadillac,(312) 324-0885,4.6,201,,122,Parisian Night,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Plus,Toyota,White,36788,Toyota of Brookfield,(262) 558-4497,4.8,58,,64,Blizzard Pearl,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,White,38506,Elgin Toyota/Scion,(224) 523-7129,4.8,1068,,99,Blizzard Pearl,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Silver,35060,Orland Toyota,(708) 263-6072,4.5,943,,131,Celestial Silver Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,White,38506,Elgin Toyota/Scion,(224) 523-7129,4.8,1068,,99,Blizzard Pearl,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,43090,Pauly Toyota,(815) 261-0723,2.6,30,,81,Midnight Black Metallic,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Purple,29798,Crown Toyota-VW,(616) 931-5723,4.6,256,,172,Sizzling Crimson,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Beige,35673,Kolosso Toyota,(866) 897-5301,4.9,358,,96,Cream,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,42433,Schaumburg Toyota,(888) 285-8469,4.8,775,,98,Midnight Black,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Silver,43090,Pauly Toyota,(815) 261-0723,2.6,30,,81,Celestial,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Black,30747,Orland Toyota,(708) 263-6072,4.5,943,,131,Midnight Black Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Beige,38042,Schaumburg Toyota,(888) 285-8469,4.8,775,,98,Creme Brulee,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Other,31843,Kolosso Toyota,(866) 897-5301,4.9,358,,96,Oll Rge Mca,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Touring,Toyota,Silver,39312,Planet Toyota,(888) 800-7288,4.8,219,,139,Celestial Silver Metallic,Lt20,6-Speed Automatic ECT-i,Front Wheel Drive
+2018 Toyota Avalon Limited,Toyota,Gray,43090,Pauly Toyota,(815) 261-0723,2.6,30,,81,Magnetic Gray,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Silver,30819,Toyota Scion On Western,(773) 492-6975,3.7,56,,127,Celestial Silver Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Beige,34975,Bredemann Toyota/Scion,(888) 518-2726,4.9,2228,,108,Creme Brulee Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Silver,38330,Toyota of Naperville,(630) 225-7560,4.9,4350,,110,Silver,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,42513,Pauly Toyota,(815) 261-0723,2.6,30,,81,Midnight Black,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,42592,Pauly Toyota,(815) 261-0723,2.6,30,,81,Midnight Black,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Gray,42777,Planet Toyota,(888) 800-7288,4.8,219,,139,Gray,Lm17,6-Speed Automatic ECT-i,Front Wheel Drive
+2018 Toyota Avalon Limited,Toyota,White,42267,Schaumburg Toyota,(888) 285-8469,4.8,775,,98,Blizzard,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Touring,Toyota,Gray,39342,Planet Toyota,(888) 800-7288,4.8,219,,139,Gray,Lt20,6-Speed Automatic ECT-i,Front Wheel Drive
+2018 Toyota Avalon Limited,Toyota,Black,42721,Schaumburg Toyota,(888) 285-8469,4.8,775,,98,Midnight Black,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Silver,38111,Pauly Toyota,(815) 261-0723,2.6,30,,81,Celestial,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Black,34668,Smart Motors,(608) 318-4174,4.7,428,,1,Black,,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon Hybrid Limited,Toyota,Blue,40157,Smart Motors,(608) 318-4174,4.7,428,,1,Blue,,1-Speed CVT w/OD,FWD
+2018 Toyota Avalon Touring,Toyota,Black,39750,Toyota of Merrillville,(219) 359-4968,3.4,40,,156,Midnight Black Metallic,,6-Speed Automatic ECT-i,Front Wheel Drive
+2018 Toyota Avalon Limited,Toyota,White,42137,Toyota of Brookfield,(262) 558-4497,4.8,58,,64,Blizzard Pearl,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,White,35672,Sam Leman Toyota - Bloomington,(888) 640-6535,5,34,,182,Blizzard Pearl,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Silver,38500,Continental Toyota,(708) 498-0250,4.7,816,,121,Celestial Silver Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Red,34577,Grossinger Toyota/Scion North,(877) 516-3290,3.8,254,,113,Ooh La La Rouge Mica,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Beige,34806,Lombard Toyota,(888) 269-7838,4.8,624,,110,Creme Brulee,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Plus,Toyota,Black,29973,Russ Darrow Toyota Scion,(888) 307-2932,4.8,587,,66,Midnight Black,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Other,44600,Toyota of Merrillville,(219) 359-4968,3.4,40,,156,Oll Rge Mca,Almond,E-CVT Automatic,Front Wheel Drive
+2018 Toyota Avalon Limited,Toyota,White,43495,Toyota of Merrillville,(219) 359-4968,3.4,40,,156,Blizzard Pearl,,6-Speed Automatic ECT-i,Front Wheel Drive
+2016 Toyota Avalon Limited,Toyota,White,35569,Toyota of Grand Rapids,(888) 251-9220,4.9,708,,194,Pearl,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Touring,Toyota,Silver,39252,Schaumburg Toyota,(888) 285-8469,4.8,775,,98,Celestial,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE,Toyota,Gray,27629,Heart City Toyota,(574) 821-4412,4.5,157,,200,Magnetic Gray Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,White,42443,Pauly Toyota,(815) 261-0723,2.6,30,,81,Pearl,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Silver,37912,Continental Toyota,(708) 498-0250,4.7,816,,121,Celestial Silver Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,34976,Orland Toyota,(708) 263-6072,4.5,943,,131,Midnight Black Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,42502,Schaumburg Toyota,(888) 285-8469,4.8,775,,98,Midnight Black,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Beige,36041,Schaumburg Toyota,(888) 285-8469,4.8,775,,98,Creme Brulee,,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Plus,Toyota,Beige,29487,Toyota Scion On Western,(773) 492-6975,3.7,56,,127,Creme Brulee Mica,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE,Toyota,Gray,27629,Heart City Toyota,(574) 821-4412,4.5,157,,200,Magnetic Gray Metallic,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,White,34921,Dan Deery Toyota,(319) 774-5901,4.8,289,,156,White,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Red,42622,Hosmercars.com,(888) 581-3824,3.7,7,,191,Sizzling Crimson Mica,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Plus,Toyota,Black,29973,Russ Darrow Toyota Scion,(888) 307-2932,4.8,587,,66,Midnight Black,,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Black,,East Madison Toyota,(888) 857-7826,3.7,27,,9,Midnight Black Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,White,,East Madison Toyota,(888) 857-7826,3.7,27,,9,Blizzard Pearl,Light Gray,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Silver,,East Madison Toyota,(888) 857-7826,3.7,27,,9,Celestial Silver Metallic,Black,6-Speed Automatic,FWD
+2018 Toyota Avalon Limited,Toyota,Beige,,Racine Toyota,(855) 570-7132,4.7,354,,79,Creme Brulee Mica,LM03 ALMOND,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon Limited,Toyota,Black,,Racine Toyota,(855) 570-7132,4.7,354,,79,Midnight Black Metallic,LM20 BLACK,6-Speed Automatic w/OD,FWD
+2018 Toyota Avalon Hybrid XLE Plus,Toyota,Gray,,Racine Toyota,(855) 570-7132,4.7,354,,79,Cosmic Gray Mica,LF17 LIGHT GRAY,1-Speed CVT w/OD,FWD
+2018 Toyota Avalon Limited,Toyota,White,43495,Oakbrook Toyota in Westmont,(630) 427-4084,4.8,726,,115,Blizzard Pearl,Light Gray,6-Speed Automatic,FWD
+2016 Toyota Avalon Touring,Toyota,Red,,Grossinger City Toyota Chevrolet Cadillac,(312) 324-0885,4.6,201,,122,Rouge,Black,6-Speed Automatic,FWD
+2016 Toyota Avalon Touring,Toyota,White,,Grossinger City Toyota Chevrolet Cadillac,(312) 324-0885,4.6,201,,122,Blizzard Pearl,Almond,6-Speed Automatic,FWD
+2018 Toyota Avalon XLE Premium,Toyota,Other,,Woodrum Automotive Inc,(309) 731-4346,3.8,20,,190,,,6-Speed Automatic,FWD
