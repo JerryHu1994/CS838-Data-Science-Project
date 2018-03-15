@@ -12,7 +12,7 @@ import os
 import urllib.request as urllib2
 from bs4 import BeautifulSoup as bs
 from handle_search import generate_url
-from data_analysis import analyze_price
+from data_analysis import load_csvfile, analyze_price
 
 
 # Initialize a csv writer for storing web data
@@ -110,7 +110,11 @@ def test():
     print("crawling...")
     craw_from_url(start_url, csv_name)
     print("finish crawling...")
-    analyze_price(csv_name)
+    df = load_csvfile(csv_name)
+    maker, model = csv_name.split('-')[:2]
+    maker = maker.upper()
+    model = model.upper()
+    analyze_price(df, maker, model)
 
 
 # craw from a start url
