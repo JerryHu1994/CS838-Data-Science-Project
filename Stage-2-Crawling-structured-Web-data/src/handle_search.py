@@ -3,7 +3,7 @@
 # University of Wisconsin-Madison
 # Author: Yaqi Zhang, Jieru Hu
 ##################################
-
+import re
 import json
 from pprint import pprint
 
@@ -45,6 +45,11 @@ def generate_url(maker, model, zipcode, radius, used=False, page_num=1,num_per_p
     return url
 
 
+def user_input():
+    """parse command line args"""
+    pass
+
+
 if __name__ == "__main__":
     # main()
     maker = 'Audi'
@@ -56,3 +61,5 @@ if __name__ == "__main__":
     num_per_page = 100
     url = generate_url(maker, model, zipcode, radius, used, page_num, num_per_page)
     print(url)
+    # url = re.sub(r'page=[0-9]+&perPage=[0-9]+', r'page=%d&perPage=%d', url)
+    # print(url)
