@@ -9,6 +9,19 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+def add_year_column(df):
+    """extract year info from name column and create a new column called year"""
+    names = df['name']
+    years = []
+    for name in names:
+        year_str = name.split()[0]
+        try:
+            year = int(year_str)
+        except ValueError:
+            year = 2018 # 0
+        years.append(year)
+    df['year'] = years
+
 def extract_cars(df, requirement):
     """filter all the cars satisfy the requirement
        requirement: ('price', (50000, 60000))
@@ -32,7 +45,10 @@ def extract_cars(df, requirement):
 
 def print_df(df):
     """only print the most important info of cars"""
-    print(df[['name', 'price', 'color']].sort_values('price'))
+    if df.empty:
+        print("Data frame is empty!")
+    else:
+        print(df[['name', 'price', 'color']].sort_values('price'))
 
 def load_csvfile(csvfile):
     """load csv file to pandas data frame"""
@@ -65,12 +81,15 @@ def main():
         sys.exit(1)
     csvfile = sys.argv[1]
     df = load_csvfile(csvfile)
+    if '/' in csvfile:
+        csvfile = csvfile[csvfile.rfind('/') + 1 : ]
     maker, model = csvfile.split('-')[:2]
     maker = maker.upper()
     model = model.upper()
     analyze_price(df, maker, model, plot=False)
     new_df = extract_cars(df, ('price', (90000, 110000)))
     print_df(new_df)
+    add_year_column(df)
     plt.show()
 
 if __name__ == "__main__":

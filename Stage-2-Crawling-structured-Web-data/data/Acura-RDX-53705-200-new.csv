@@ -1,0 +1,645 @@
+name,brand,color,price,seller_name,seller_phone,seller_average_rating,seller_review_count,miles,distance_from_Madison,Exterior Color,Interior Color,Transmission,Drivetrain
+2018 Acura RDX Base,Acura,Black,38495,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,45195,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,Crystal Black Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,42195,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,White Diamond Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,44975,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,Crystal Black Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology & AcuraWatch Plus Packages,Acura,Black,43275,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Silver,42195,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,Lunar Silver Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,42195,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Blue,44995,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,Fathom Blue Pearl,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,White,44995,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,White Diamond Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Black,38495,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Blue,42195,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,Fathom Blue Pearl,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,42195,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,White Diamond Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Gray,42949,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Modern Steel Metallic,Graystone,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,Black,40107,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Crystal Black Pearl,Ebony,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,Gray,42759,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Modern Steel Metallic,Ebony Leather,Automatic,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,Black,42949,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Crystal Black Pearl,Parchment,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,Blue,42949,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Fathom Blue Pearl,Graystone,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,White,34971,Acura of Brookfield,(866) 413-9831,4.9,490,,65,White Diamond Pearl,Parchment,Automatic,Front Wheel Drive
+2018 Acura RDX Base,Acura,Silver,40107,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Lunar Silver Metallic,Graystone,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,White,42949,Acura of Brookfield,(866) 413-9831,4.9,490,,65,White Diamond Pearl,Ebony,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,Red,42949,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Basque Red Pearl Ii,Parchment,Automatic,All Wheel Drive
+2018 Acura RDX Base,Acura,Blue,40107,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Fathom Blue Pearl,Graystone,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,Gray,36602,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Modern Steel Metallic,Ebony,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,White,36392,Acura of Brookfield,(866) 413-9831,4.9,490,,65,White Diamond Pearl,Parchment Leather,Automatic,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,Red,42949,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Basque Red Pearl Ii,Parchment,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,White,42949,Acura of Brookfield,(866) 413-9831,4.9,490,,65,White Diamond Pearl,Ebony,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,Gray,42759,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Modern Steel Metallic,Ebony Leather,Automatic,All Wheel Drive
+2018 Acura RDX Base,Acura,Gray,39917,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Modern Steel Metallic,Graystone Leather,Automatic,All Wheel Drive
+2018 Acura RDX Base,Acura,Gray,40107,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Modern Steel Metallic,Ebony,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,White,42759,Acura of Brookfield,(866) 413-9831,4.9,490,,65,White Diamond Pearl,Parchment Leather,Automatic,All Wheel Drive
+2018 Acura RDX Base,Acura,Blue,40107,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Fathom Blue Pearl,Graystone,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,Other,42949,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Bas Rd Prl Ii,PARCHMENT,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,Silver,36602,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Lunar Silver Metallic,Graystone,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,White,40107,Acura of Brookfield,(866) 413-9831,4.9,490,,65,White Diamond Pearl,Ebony,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,Black,42949,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Crystal Black Pearl,Parchment,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,Blue,42759,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Fathom Blue Pearl,Graystone Leather,Automatic,All Wheel Drive
+2018 Acura RDX Base,Acura,Black,36602,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Crystal Black Pearl,Ebony,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,White,40107,Acura of Brookfield,(866) 413-9831,4.9,490,,65,White Diamond Pearl,Ebony,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,Gray,42739,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Modern Steel Metallic,Graystone Leather,Automatic,All Wheel Drive
+2018 Acura RDX Base,Acura,Black,39917,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Crystal Black Pearl,Ebony Leather,Automatic,All Wheel Drive
+2018 Acura RDX Technology Package,Acura,White,40543,Acura Of Libertyville,(888) 771-8149,4.8,1489,,95,Diamond White Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,42195,Acura Of Libertyville,(888) 771-8149,4.8,1489,,95,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,White,43393,Acura Of Libertyville,(888) 771-8149,4.8,1489,,95,Diamond White Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,40353,Acura Of Libertyville,(888) 771-8149,4.8,1489,,95,Crystal Black Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,40353,Acura Of Libertyville,(888) 771-8149,4.8,1489,,95,Coffee Metallic,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,40353,Acura Of Libertyville,(888) 771-8149,4.8,1489,,95,Crystal Black Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Gray,44995,Acura Of Libertyville,(888) 771-8149,4.8,1489,,95,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,40543,Acura Of Libertyville,(888) 771-8149,4.8,1489,,95,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,40354,Acura Of Libertyville,(888) 771-8149,4.8,1489,,95,Diamond White Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,40543,Acura Of Libertyville,(888) 771-8149,4.8,1489,,95,Crystal Black Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,40543,Acura Of Libertyville,(888) 771-8149,4.8,1489,,95,Diamond White Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,42195,Acura Of Libertyville,(888) 771-8149,4.8,1489,,95,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Blue,42195,Acura Of Libertyville,(888) 771-8149,4.8,1489,,95,Fathom Blue Pearl,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,42195,Acura Of Libertyville,(888) 771-8149,4.8,1489,,95,Diamond White Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Red,38495,Bergstrom Acura,(888) 802-6191,5,34,,97,Red,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Red,41975,Bergstrom Acura,(888) 802-6191,5,34,,97,Red,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Blue,45195,Bergstrom Acura,(888) 802-6191,5,34,,97,Blue,Gray,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Red,38495,Bergstrom Acura,(888) 802-6191,5,34,,97,Red,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Black,36775,Bergstrom Acura,(888) 802-6191,5,34,,97,Black,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Advance Package,Acura,Blue,45195,Bergstrom Acura,(888) 802-6191,5,34,,97,Blue,Gray,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,41975,Bergstrom Acura,(888) 802-6191,5,34,,97,White,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Black,38495,Bergstrom Acura,(888) 802-6191,5,34,,97,Black,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,41995,Bergstrom Acura,(888) 802-6191,5,34,,97,White,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Beige,38275,Bergstrom Acura,(888) 802-6191,5,34,,97,Coffee,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,41975,Bergstrom Acura,(888) 802-6191,5,34,,97,Black,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,45195,Bergstrom Acura,(888) 802-6191,5,34,,97,Black,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Brown,45195,Bergstrom Acura,(888) 802-6191,5,34,,97,Kona Coffee Metallic,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,44995,Bergstrom Acura,(888) 802-6191,5,34,,97,Black,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,41975,Bergstrom Acura,(888) 802-6191,5,34,,97,White,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,45195,Bergstrom Acura,(888) 802-6191,5,34,,97,Black,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Gray,38495,Bergstrom Acura,(888) 802-6191,5,34,,97,Gray,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Gray,42862,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,Modern Steel Metallic,Ebony,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,Blue,40203,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,Fathom Blue Pearl,Graystone,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,Black,43052,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,Crystal Black Pearl,Ebony,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,Black,42862,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,Crystal Black Pearl,Parchment,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,Silver,40203,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,Lunar Silver Metallic,Ebony,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,Silver,43052,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,Lunar Silver Metallic,Ebony,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX AcuraWatch Plus Package,Acura,White,37924,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,White Diamond Pearl,Ebony,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,Blue,42862,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,Fathom Blue Pearl,Graystone,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,Red,43052,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,Basque Red Pearl Ii,Parchment,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,White,43052,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,White Diamond Pearl,Ebony,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,Other,42842,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,,,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,Black,45195,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,42195,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,White Diamond Pearl,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,40695,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,Modern Steel Metallic,,6-Speed Automatic,FWD
+2018 Acura RDX Base,Acura,Red,38495,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,Basque Red Pearl Ii,,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,45195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,44995,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Gray,36775,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Modern Steel Metallic,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Base,Acura,Red,36775,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Basque Red Pearl Ii,Parchment,6-Speed Automatic,FWD
+2018 Acura RDX Base,Acura,Gray,36775,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Modern Steel Metallic,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Technology Package,Acura,Black,42195,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Black,38295,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Black,36775,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Crystal Black Pearl,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Base,Acura,Black,36995,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Crystal Black Pearl,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Technology Package,Acura,White,42195,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,White Diamond Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Gray,45195,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,42195,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Modern Steel Metallic,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX AcuraWatch Plus Package,Acura,Gray,39595,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Black,38295,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,41995,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,42195,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,45195,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Silver,42195,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,Lunar Silver Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Silver,41995,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,Lunar Silver Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Black,39917,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Crystal Black Pearl,Ebony Leather,Automatic,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,Red,42949,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Basque Red Pearl Ii,Parchment,Automatic,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,Black,42949,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Crystal Black Pearl,Ebony,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,Brown,36412,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Kona Coffee Metallic,Parchment Leather,Automatic,All Wheel Drive
+2018 Acura RDX Base,Acura,Gray,40107,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Modern Steel Metallic,Graystone,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,Blue,42949,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Fathom Blue Pearl,Graystone,Automatic,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,Gray,42949,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Modern Steel Metallic,Graystone,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,Silver,42949,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Lunar Silver Metallic,Graystone,Automatic,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,Red,42759,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Basque Red Pearl Ii,Parchment Leather,Automatic,All Wheel Drive
+2018 Acura RDX Base,Acura,Red,40107,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Basque Red Pearl Ii,Parchment,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,Gray,40107,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Modern Steel Metallic,Graystone,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,Black,39917,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Crystal Black Pearl,Ebony Leather,Automatic,All Wheel Drive
+2018 Acura RDX Base,Acura,Silver,40107,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Lunar Silver Metallic,Graystone,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,Black,40107,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Crystal Black Pearl,Parchment,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,Gray,40107,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Modern Steel Metallic,Ebony,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,Other,42949,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Modern Steel M,EBONY,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,Red,36602,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Basque Red Pearl Ii,Parchment,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Technology Package,Acura,White,42195,Acura Of Libertyville,(888) 771-8149,4.8,1489,,95,Diamond White Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,40353,Acura Of Libertyville,(888) 771-8149,4.8,1489,,95,Diamond White Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,42195,Acura Of Libertyville,(888) 771-8149,4.8,1489,,95,Crystal Black Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,40334,Acura Of Libertyville,(888) 771-8149,4.8,1489,,95,Modern Steel Metallic,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,White,45195,Acura Of Libertyville,(888) 771-8149,4.8,1489,,95,Diamond White Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,40353,Acura Of Libertyville,(888) 771-8149,4.8,1489,,95,Diamond White Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,40543,Acura Of Libertyville,(888) 771-8149,4.8,1489,,95,Diamond White Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,37029,Acura Of Libertyville,(888) 771-8149,4.8,1489,,95,Diamond White Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Silver,41200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Lunar Silver,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Silver,41000,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Lunar Silver,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,White,44200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,White Diamond Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Gray,44000,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Modern Steel Metallic,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,41200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Lunar,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Black,37500,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Crystal Black,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,41200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,White Diamond,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,44200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Crystal Black,Ebony,6-Speed Automatic,AWD
+2017 Acura RDX Base,Acura,Gray,37070,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,White,44000,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,White Diamond,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Silver,44200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Lunar Silver,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Blue,41000,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Blue,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,41200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,41200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,White Diamond Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,36775,Bergstrom Acura,(888) 802-6191,5,34,,97,White,Parchment,6-Speed Automatic,FWD
+2018 Acura RDX Advance Package,Acura,Red,44200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Basque Red Pearl Ii,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,41200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Modern Steel,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,41200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,White Diamond,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,44200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Black,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,41200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Modern Steel Metallic,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,41200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,White Diamond,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,41200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,White Diamond,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,41200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Crystal Black,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Silver,38495,Bergstrom Acura,(888) 802-6191,5,34,,97,Silver,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Gray,38495,Bergstrom Acura,(888) 802-6191,5,34,,97,Gray,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,41200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Modern Steel Metallic,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Gray,42862,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,Modern Steel Metallic,Ebony,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,Black,39993,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,Crystal Black Pearl,Ebony,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX AcuraWatch Plus Package,Acura,Silver,36309,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,Lunar Silver Metallic,Graystone,6-SPEED A/T,Front Wheel Drive
+2018 Acura RDX Base,Acura,Silver,40203,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,Lunar Silver Metallic,Graystone,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX AcuraWatch Plus Package,Acura,Blue,41248,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,Fathom Blue Pearl,Graystone,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,Other,35055,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,,,6-SPEED A/T,Front Wheel Drive
+2018 Acura RDX Base,Acura,Gray,40203,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,Modern Steel Metallic,Ebony,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,Silver,43052,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,Lunar Silver Metallic,Ebony,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,White,38589,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,White Diamond Pearl,Ebony,6-SPEED A/T,Front Wheel Drive
+2018 Acura RDX Advance Package,Acura,Black,42842,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,Crystal Black Pearl,Parchment,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,Silver,38569,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,Lunar Silver Metallic,Ebony,6-SPEED A/T,Front Wheel Drive
+2018 Acura RDX Base,Acura,Blue,40013,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,Fathom Blue Pearl,Graystone,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,White,36995,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,White Diamond Pearl,,6-Speed Automatic,FWD
+2018 Acura RDX Technology Package,Acura,Gray,42195,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,Modern Steel Metallic,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,42195,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,Modern Steel Metallic,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,42195,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,Crystal Black Pearl,,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,45195,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,Crystal Black Pearl,,6-Speed Automatic,AWD
+2018 Acura RDX Technology & AcuraWatch Plus Packages,Acura,Other,43295,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,,,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,44975,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,38295,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,White Diamond Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Gray,36775,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Modern Steel Metallic,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Technology Package,Acura,Black,41995,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Crystal Black Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Gray,36775,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Modern Steel Metallic,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Technology Package,Acura,Silver,41995,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Lunar Silver Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,45195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,36975,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,White Diamond Pearl,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Base,Acura,Silver,36795,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Lunar Silver Metallic,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Base,Acura,Black,36995,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Crystal Black Pearl,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Technology Package,Acura,Gray,42195,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX AcuraWatch Plus Package,Acura,Gray,39795,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Blue,45195,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Fathom Blue Pearl,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Black,38495,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,42195,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Modern Steel Metallic,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Gray,38495,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,40695,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Modern Steel Metallic,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Base,Acura,Black,38295,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Silver,42195,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Lunar Silver Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Black,36995,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Crystal Black Pearl,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Technology Package,Acura,Black,40695,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,Crystal Black Pearl,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Advance Package,Acura,Black,44975,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,41995,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX AcuraWatch Plus Package,Acura,White,39595,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,White Diamond Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,44975,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Blue,41995,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,Fathom Blue Pearl,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,44975,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,Crystal Black Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Blue,42195,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,Fathom Blue Pearl,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Gray,38495,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Blue,41995,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,Fathom Blue Pearl,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,White,45195,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,White Diamond Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Blue,41995,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,Fathom Blue Pearl,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,41995,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Red,42195,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,Basque Red Pearl Ii,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,44975,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,Crystal Black Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,White,45195,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,White Diamond Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Blue,42759,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Fathom Blue Pearl,Graystone Leather,Automatic,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,Black,42949,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Crystal Black Pearl,Ebony,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,White,42949,Acura of Brookfield,(866) 413-9831,4.9,490,,65,White Diamond Pearl,Parchment,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,Silver,40107,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Lunar Silver Metallic,Ebony,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,Silver,40107,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Lunar Silver Metallic,Graystone,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,Silver,36602,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Lunar Silver Metallic,Ebony,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,Blue,40107,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Fathom Blue Pearl,Graystone,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,White,45195,Acura Of Libertyville,(888) 771-8149,4.8,1489,,95,Diamond White Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Blue,41200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Blue,Greystone,6-Speed Automatic,AWD
+2017 Acura RDX Advance Package,Acura,Gray,43720,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Silver,41200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Lunar Silver,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Red,37500,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Basque Red,Parchment,6-Speed Automatic,AWD
+2017 Acura RDX Technology Package,Acura,Gray,40870,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,44000,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Black,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Silver,44200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Lunar Silver,Greystone,6-Speed Automatic,AWD
+2017 Acura RDX Technology Package,Acura,White,40770,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,White Diamond Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,45195,Bergstrom Acura,(888) 802-6191,5,34,,97,Black,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Silver,44000,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Lunar Silver,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,41200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Modern Steel,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Blue,41200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Fathom Blue Pearl,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,44000,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Black,Ebony,6-Speed Automatic,AWD
+2017 Acura RDX Technology Package,Acura,Brown,40770,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Kona Coffee Metallic,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,41200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,41200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,White Diamond,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Red,44000,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Basque Red,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,41200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,White Diamond Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,41200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,White Diamond,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Blue,44200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Blue,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Brown,44000,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Kona Coffee Metallic,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Blue,41000,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Fathom Blue Pearl,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,White,45195,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Diamond White Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX AcuraWatch Plus Package,Acura,White,39795,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Diamond White Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Gray,43052,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,Modern Steel Metallic,Ebony,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,Red,39993,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,Basque Red Pearl Ii,,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,Silver,35075,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,Lunar Silver Metallic,Graystone,6-SPEED A/T,Front Wheel Drive
+2018 Acura RDX Base,Acura,Silver,40203,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,Lunar Silver Metallic,Graystone,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,Other,35055,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,,,6-SPEED A/T,Front Wheel Drive
+2018 Acura RDX Technology Package,Acura,White,42195,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,White Diamond Pearl,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,42195,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Gray,45195,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,Modern Steel Metallic,,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,White,45195,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,White Diamond Pearl,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,42195,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,White Diamond Pearl,,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,44995,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2017 Acura RDX Base,Acura,White,36645,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,White Diamond Pearl,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Base,Acura,Other,36795,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,,,6-Speed Automatic,FWD
+2018 Acura RDX Technology Package,Acura,Silver,41995,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Lunar Silver Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,41995,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,42195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,White Diamond Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Silver,42195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Lunar Silver Metallic,Ebony,6-Speed Automatic,AWD
+2017 Acura RDX Base,Acura,Gray,36510,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Modern Steel Metallic,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Technology Package,Acura,Black,42195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Crystal Black Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,41975,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,White Diamond Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,44975,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,44975,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,36795,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,White Diamond Pearl,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX,Acura,Blue,39100,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Blue Pearl,Graystone,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Black,41952,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Black,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Black,39110,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Black,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Black,38495,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,40695,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Crystal Black Pearl,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Advance Package,Acura,Gray,45195,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,45195,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,42195,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,White Diamond Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Silver,38495,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Lunar Silver Metallic,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Silver,42195,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Lunar Silver Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Silver,42195,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Lunar Silver Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,45195,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,45195,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,45195,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,42195,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,White Diamond Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Gray,45195,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,38495,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,White Diamond Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,41995,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,42195,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Silver,41975,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,Lunar Silver Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,41995,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,White Diamond Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Gray,38495,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,40695,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,Modern Steel Metallic,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Technology Package,Acura,Silver,40495,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,Lunar Silver Metallic,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Advance Package,Acura,White,45195,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,White Diamond Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Silver,42195,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,Lunar Silver Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Gray,38495,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology & AcuraWatch Plus Packages,Acura,Black,43295,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Blue,41995,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,Fathom Blue Pearl,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,41975,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,42195,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Black,38495,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Black,38495,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Other,41975,Pauly Acura,(847) 739-9962,4.9,188,,102,A,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Blue,45195,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Fathom Blue Pearl,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,42195,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Red,38495,Bergstrom Acura,(888) 802-6191,5,34,,97,Red,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Black,39110,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Black,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,41975,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2017 Acura RDX Advance Package,Acura,Gray,43720,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Gray,39100,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Modern Steel,Ebony,6-Speed Automatic,AWD
+2017 Acura RDX Base,Acura,Black,38145,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Black,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Other,38495,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Silver,42195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Lunar Silver Metallic,Ebony,6-Speed Automatic,AWD
+2017 Acura RDX Technology Package,Acura,Brown,41845,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Kona Coffee Metallic,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,42195,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,White Diamond Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,White,37689,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Diamond White,Parchment,6-Speed Automatic,FWD
+2018 Acura RDX Advance Package,Acura,Beige,44975,Bergstrom Acura,(888) 802-6191,5,34,,97,Coffee,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,White,44995,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Diamond White Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,White,45195,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,White Diamond Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Blue,45195,Bergstrom Acura,(888) 802-6191,5,34,,97,Blue,Gray,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,44975,Acura Of Libertyville,(888) 771-8149,4.8,1489,,95,Crystal Black,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,45195,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology & AcuraWatch Plus Packages,Acura,Blue,43495,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,Fathom Blue Pearl,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Black,36995,Acura Of Libertyville,(888) 771-8149,4.8,1489,,95,Crystal Black Pearl,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Technology Package,Acura,Black,41000,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Black,39100,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Black,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,37500,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,White Diamond,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Silver,44000,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Lunar Silver,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Silver,38495,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Silver Metallic,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,38495,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Diamond White Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Other,41975,Pauly Acura,(847) 739-9962,4.9,188,,102,A,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,White,45195,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Diamond White Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Gray,38495,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,Modern Steel Metallic,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,41995,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Gold,37689,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Copper,Parchment,6-Speed Automatic,FWD
+2018 Acura RDX Advance Package,Acura,White,44000,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,White Diamond,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Silver,40107,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Lunar Silver Metallic,Graystone,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,Silver,38495,Bergstrom Acura,(888) 802-6191,5,34,,97,Silver,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Other,38495,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,White,44995,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,White Diamond Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,41975,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Gray,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,White,44995,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Diamond White Pearl,,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Other,37285,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,,,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Technology Package,Acura,Gray,42195,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,Modern Steel Metallic,,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Gray,44000,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Lunar,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,44995,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Silver,36995,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Silver Metallic,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Technology Package,Acura,Black,41995,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,38495,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,White Diamond Pearl,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,41200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Modern Steel,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,41200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Steel,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,42195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,41200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,White Diamond,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,White,45195,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Diamond White Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Blue,41975,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,Blue,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,41995,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,White Diamond Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Brown,44000,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Kona Coffee Metallic,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Black,36995,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,Crystal Black Pearl,,6-Speed Automatic,FWD
+2018 Acura RDX,Acura,Blue,39100,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Blue Pearl,Graystone,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Red,41200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Basque Red,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Blue,37689,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Blue Pearl,Graystone,6-Speed Automatic,FWD
+2017 Acura RDX Advance Package,Acura,Silver,43720,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Slate Silver Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,42195,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,White Diamond Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Red,41000,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Basque Red,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,42195,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,41200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,White Diamond,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,38495,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,White Diamond Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,42195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,White Diamond Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,42195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,White Diamond Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Silver,40495,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,Lunar Silver Metallic,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Base,Acura,Other,36689,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,,,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,Black,38495,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,41995,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,White,45195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,White Diamond Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Other,36995,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,,,6-Speed Automatic,FWD
+2018 Acura RDX Technology Package,Acura,Gray,41995,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,40107,Acura of Brookfield,(866) 413-9831,4.9,490,,65,White Diamond Pearl,Ebony,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,Red,44000,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Basque Red,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Silver,45195,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,Lunar Silver Metallic,,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,White,43695,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,White,Parchment,6-Speed Automatic,FWD
+2018 Acura RDX Advance Package,Acura,White,45195,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,White Diamond Pearl,,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,38495,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,White Diamond Pearl,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,42195,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,White,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Gray,38495,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,Modern Steel Metallic,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,41995,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Other,42195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,,,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Brown,44000,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Kona Coffee Metallic,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,41200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Crystal Black,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Gray,38495,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Gray,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Black,41952,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Black,Ebony,6-Speed Automatic,AWD
+2017 Acura RDX Technology Package,Acura,Brown,40870,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Kona Coffee Metallic,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Brown,38295,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Kona Coffee Metallic,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX AcuraWatch Plus Package,Acura,White,39795,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Diamond White Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,44000,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Black,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Other,38495,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Blue,41975,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Fathom Blue Pearl,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,41975,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Modern Steel Metallic,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,41200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Modern Steel Metallic,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Gray,39110,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Modern Steel,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Red,38275,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,Basque Red Pearl Ii,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Black,38295,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,White,45195,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,White Diamond Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,36602,Acura of Brookfield,(866) 413-9831,4.9,490,,65,White Diamond Pearl,Ebony,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,Red,40107,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Basque Red Pearl Ii,Parchment,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,White,40879,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,White Diamond Pearl,Parchment,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Technology Package,Acura,Black,42195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Blue,44975,Pauly Acura,(847) 739-9962,4.9,188,,102,Crystal Blue,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,42195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,White Diamond Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,42195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Blue,45195,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Fathom Blue Pearl,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Gray,45195,Bob Lindsay Acura,(309) 413-0389,4,22,,158,Modern Steel,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Red,36795,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Basque Red Pearl Ii,Parchment,6-Speed Automatic,FWD
+2018 Acura RDX Advance Package,Acura,Silver,45195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Lunar Silver Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,36795,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,White Diamond Pearl,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Base,Acura,Black,38495,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Blue,45195,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Fathom Blue Pearl,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Blue,45195,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Fathom Blue Pearl,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Other,36995,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,,,6-Speed Automatic,FWD
+2018 Acura RDX Base,Acura,Silver,38495,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Silver Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,42195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,White,43495,Bob Lindsay Acura,(309) 413-0389,4,22,,158,Diamond White Pearl,Parchment,6-Speed Automatic,FWD
+2018 Acura RDX Base,Acura,Gray,38495,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Gray,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Red,40107,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Basque Red Pearl Ii,Parchment,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,Black,44000,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Black,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Blue,45195,Bergstrom Acura,(888) 802-6191,5,34,,97,Blue,Gray,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Red,41995,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Basque Red Pearl Ii,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Silver,42195,Bob Lindsay Acura,(309) 413-0389,4,22,,158,Silver Metallic,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Silver,38495,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Silver Metallic,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Silver,44995,Bob Lindsay Acura,(309) 413-0389,4,22,,158,Silver Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,42195,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,White Diamond Pearl,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,41975,Pauly Acura,(847) 739-9962,4.9,188,,102,Diamond,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,38495,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,White Diamond Pearl,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,41975,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,White,39110,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Diamond White,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Silver,38495,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Lunar Silver,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,45195,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,Crystal Black Pearl,,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,White,45195,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,White Diamond Pearl,,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Silver,45195,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Silver Metallic,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,41200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,White,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,42195,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Other,42195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,42195,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,Modern Steel Metallic,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,42195,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,White Diamond Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Other,38495,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,,,6-Speed Automatic,AWD
+2017 Acura RDX Base,Acura,Black,38145,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Black,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,42195,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Silver,41975,Pauly Acura,(847) 739-9962,4.9,188,,102,Lunar Silver,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,38495,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Diamond White Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,41995,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX AcuraWatch Plus Package,Acura,Black,36837,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Black,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Advance Package,Acura,Black,44995,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,42195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,37500,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,White Diamond,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Black,38495,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,Crystal Black Pearl,,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Gold,37689,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Copper,Parchment,6-Speed Automatic,FWD
+2018 Acura RDX Base,Acura,Other,38495,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,White,44995,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,White Diamond Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Silver,45195,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Silver Metallic,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,42195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Silver,45195,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Silver Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Silver,38495,Acura Of Libertyville,(888) 771-8149,4.8,1489,,95,Lunar Silver Metallic,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Silver,44995,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Lunar Silver Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Blue,42949,Acura of Brookfield,(866) 413-9831,4.9,490,,65,Fathom Blue Pearl,Graystone,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,Silver,45195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Lunar Silver Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,38495,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,White Diamond Pearl,,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,45195,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Black,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Red,42195,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,Basque Red Pearl Ii,Parchment,6-Speed Automatic,AWD
+2017 Acura RDX Technology Package,Acura,White,40770,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,White Diamond,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Gray,44995,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,40107,Acura of Brookfield,(866) 413-9831,4.9,490,,65,White Diamond Pearl,Ebony,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Advance Package,Acura,Other,44975,Pauly Acura,(847) 739-9962,4.9,188,,102,A,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,38495,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,White Diamond Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Beige,44975,Bergstrom Acura,(888) 802-6191,5,34,,97,Coffee,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Black,39110,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Black,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Brown,38295,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Kona Coffee Metallic,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,38495,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,White Diamond Pearl,,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,38495,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,White Diamond Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,45195,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,45195,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Black,Ebony,6-Speed Automatic,AWD
+2017 Acura RDX Base,Acura,Gray,38145,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,41200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,White,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Other,41995,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,42195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,White,44995,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,White Diamond Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,41200,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Crystal Black,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Blue,41975,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,Blue,,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,38495,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,White Diamond Pearl,,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Gray,39110,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Modern Steel,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Gray,45195,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Red,38495,Acura Of Libertyville,(888) 771-8149,4.8,1489,,95,Basque Red Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,42195,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Diamond White Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,44995,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Crystal Black Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Black,39110,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Black,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Black,36995,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,Crystal Black Pearl,,6-Speed Automatic,FWD
+2018 Acura RDX Technology Package,Acura,White,42195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,White Diamond Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,White,45195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,White Diamond Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,38495,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Diamond White Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Other,42195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,,,6-Speed Automatic,AWD
+2017 Acura RDX Technology Package,Acura,Brown,40870,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Kona Coffee Metallic,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,42195,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Diamond White Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,36602,Acura of Brookfield,(866) 413-9831,4.9,490,,65,White Diamond Pearl,Ebony,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,Black,36995,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Crystal Black Pearl,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Technology Package,Acura,White,42195,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,White Diamond Pearl,,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Blue,39110,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Blue Pearl,Graystone,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Black,38295,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,White,45195,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Diamond White Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Gray,45195,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Gray,38495,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,Modern Steel Metallic,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Other,41995,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,42195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Blue,37689,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Blue Pearl,Graystone,6-Speed Automatic,FWD
+2018 Acura RDX Base,Acura,Other,38495,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,,,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Silver,36995,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Lunar Silver Metallic,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Base,Acura,Black,38495,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,White,45195,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,White,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,White,45195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,White Diamond Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Silver,45195,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Silver Metallic,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Other,38495,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,41995,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,White Diamond Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Gray,39100,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Modern Steel,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,42195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Gray,45195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Blue,37689,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Blue Pearl,Graystone,6-Speed Automatic,FWD
+2018 Acura RDX Base,Acura,Other,38495,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,42195,Bob Lindsay Acura,(309) 413-0389,4,22,,158,Diamond White Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Black,39110,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Black,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Silver,41995,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Lunar Silver Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Black,45195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Black,36995,Bob Lindsay Acura,(309) 413-0389,4,22,,158,Crystal Black Pearl,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Technology Package,Acura,Red,41975,Bob Lindsay Acura,(309) 413-0389,4,22,,158,Basque Red Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,42195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,41995,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,38495,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,White Diamond Pearl,,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Silver,38495,Zimbrick Acura Volkswagen,(888) 863-5856,5,5,,3,Lunar Silver Metallic,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX AcuraWatch Plus Package,Acura,Black,39795,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,39110,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Black,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Other,37285,Ed Napleton Acura Kia,(866) 465-8390,4.7,443,,109,,,6-SPEED A/T,All Wheel Drive
+2018 Acura RDX Base,Acura,White,38295,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,White Diamond Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,41975,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Modern Steel Metallic,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,42195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,White Diamond Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Gray,44995,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Other,41995,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,,,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Gray,45195,Bob Lindsay Acura,(309) 413-0389,4,22,,158,Modern Steel,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Silver,44975,Bob Lindsay Acura,(309) 413-0389,4,22,,158,Silver Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Silver,45195,Muller Acura of Merrillville,(219) 649-7655,4.1,17,,153,Lunar Silver Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Red,42195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Basque Red Pearl Ii,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,42195,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Brown,38275,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Kona Coffee Metallic,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Gray,45125,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Silver,44995,Bob Lindsay Acura,(309) 413-0389,4,22,,158,Silver Metallic,Greystone,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Other,39110,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,,,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Blue,37689,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Blue Pearl,Graystone,6-Speed Automatic,FWD
+2018 Acura RDX Technology Package,Acura,Other,41995,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,,,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,34184,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Diamond White,Parchment,6-Speed Automatic,FWD
+2018 Acura RDX,Acura,Gray,37689,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Modern Steel,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Base,Acura,White,34184,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Diamond White,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX AcuraWatch Plus Package,Acura,Black,38800,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Black,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Technology Package,Acura,White,41995,Bob Lindsay Acura,(309) 413-0389,4,22,,158,Diamond White Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,White,39110,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Diamond White,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX AcuraWatch Plus Package,Acura,Other,39595,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,,,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Black,39110,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Black,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Silver,41975,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Silver Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Black,35605,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Black,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,38495,Acura Of Libertyville,(888) 771-8149,4.8,1489,,95,Diamond White Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,38495,Acura Of Libertyville,(888) 771-8149,4.8,1489,,95,Diamond White Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,42195,Acura Of Libertyville,(888) 771-8149,4.8,1489,,95,Diamond White Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Black,,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Black,,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Gray,38495,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Red,38295,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Basque Red Pearl Ii,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Gray,36995,Joe Rizza Acura,(888) 287-2430,4.4,377,,132,Modern Steel Metallic,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX,Acura,Black,41975,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Black,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Silver,41952,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Silver Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,34184,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Diamond White,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Base,Acura,Red,34184,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Basque Red,Parchment,6-Speed Automatic,FWD
+2018 Acura RDX Technology Package,Acura,Blue,37689,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Blue Pearl,Graystone,6-Speed Automatic,FWD
+2018 Acura RDX,Acura,Silver,35605,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Silver Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,White,35605,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Diamond White,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Red,41995,Muller's Woodfield Acura,(888) 611-2796,4.8,465,,98,Red,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Red,35605,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Basque Red,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,39100,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Modern Steel,Graystone,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Black,39110,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Black,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,34184,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,White Diamond Pearl,,6-Speed Automatic,FWD
+2018 Acura RDX Advance Package,Acura,Gray,41952,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Modern Steel,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,White,35605,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Diamond White,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Gray,35605,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Modern Steel,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Silver,39110,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Silver Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Gray,34184,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Modern Steel,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Technology Package,Acura,Black,39110,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Black,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Silver,41952,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Silver Metallic,Graystone,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Other,41952,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,39110,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Modern Steel,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,34184,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Diamond White,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Base,Acura,White,34184,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Diamond White,Parchment,6-Speed Automatic,FWD
+2018 Acura RDX Advance Package,Acura,Blue,41952,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Blue Pearl,Graystone,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Black,34184,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Black,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Base,Acura,Black,34184,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Black,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Base,Acura,White,34184,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Diamond White,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Advance Package,Acura,White,41952,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Diamond White,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Black,34184,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Black,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Base,Acura,Black,34184,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Black,Ebony,6-Speed Automatic,FWD
+2018 Acura RDX Technology Package,Acura,Blue,39110,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Blue Pearl,Graystone,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Lunar,,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,White,,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,White,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Red,,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Basque Red Pearl Ii,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Blue,,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Fathom Blue Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,Steel,,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,White,,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,White Diamond,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,,Arlington Acura in Palatine,(866) 231-0455,4.9,388,,97,White Diamond Pearl,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,,Pauly Acura,(847) 739-9962,4.9,188,,102,White Diamond,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Silver,,Pauly Acura,(847) 739-9962,4.9,188,,102,Lunar Silver,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,,Pauly Acura,(847) 739-9962,4.9,188,,102,Diamond,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Gray,,Pauly Acura,(847) 739-9962,4.9,188,,102,Modern Steel,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Blue,,Pauly Acura,(847) 739-9962,4.9,188,,102,Crystal Blue,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Blue,,Pauly Acura,(847) 739-9962,4.9,188,,102,Crystal Blue,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,,Pauly Acura,(847) 739-9962,4.9,188,,102,Diamond,Parchment,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Other,,Pauly Acura,(847) 739-9962,4.9,188,,102,,,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Other,,Pauly Acura,(847) 739-9962,4.9,188,,102,,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Blue,,Pauly Acura,(847) 739-9962,4.9,188,,102,Crystal Blue,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,White,,Pauly Acura,(847) 739-9962,4.9,188,,102,White Diamond,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,White,,Pauly Acura,(847) 739-9962,4.9,188,,102,White Diamond,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Blue,,Pauly Acura,(847) 739-9962,4.9,188,,102,Crystal Blue,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,,Pauly Acura,(847) 739-9962,4.9,188,,102,Modern Steel,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Blue,,Pauly Acura,(847) 739-9962,4.9,188,,102,Crystal Blue,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,,Pauly Acura,(847) 739-9962,4.9,188,,102,White Diamond,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Silver,,Pauly Acura,(847) 739-9962,4.9,188,,102,Lunar Silver,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,White,,Pauly Acura,(847) 739-9962,4.9,188,,102,White,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Blue,,Pauly Acura,(847) 739-9962,4.9,188,,102,Crystal Blue,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Black,,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,Black,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Silver,,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,Lunar Silver Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Other,,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Other,,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Other,,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,,,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Other,,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,White,,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,White Diamond Pearl,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Black,,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,Crystal Black Pearl,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Other,,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,,,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Other,,McGrath Acura in Morton Grove,(888) 318-3980,4.7,283,,110,,,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Technology Package,Acura,Gray,,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Modern Steel Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX Base,Acura,Silver,,McGrath Acura of Westmont,(866) 878-1910,4.4,838,,115,Lunar Silver Metallic,Ebony,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Blue,,McGrath Acura of Chicago,(888) 707-1649,4.1,158,,121,Blue Pearl,Graystone,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,White,,Bob Lindsay Acura,(309) 413-0389,4,22,,158,White Diamond Pearl,,6-Speed Automatic,AWD
+2018 Acura RDX Advance Package,Acura,Other,,Bob Lindsay Acura,(309) 413-0389,4,22,,158,,,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Other,,Bob Lindsay Acura,(309) 413-0389,4,22,,158,,,6-Speed Automatic,AWD
+2018 Acura RDX,Acura,Other,,Bob Lindsay Acura,(309) 413-0389,4,22,,158,,,6-Speed Automatic,AWD
