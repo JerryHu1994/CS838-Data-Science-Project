@@ -214,4 +214,4 @@ def main():
 
 if __name__ == "__main__":
   # main()
-  pipeline('../data/')
+  pipeline('../cars_com_data/')

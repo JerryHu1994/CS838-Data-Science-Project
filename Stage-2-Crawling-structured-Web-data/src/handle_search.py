@@ -17,7 +17,7 @@ def similar(sa, sb):
 
 def main():
     """print id information for different makers and models"""
-    data = json.load(open('car_make_model.json'))
+    data = json.load(open('cars_com_make_model.json'))
     data = data['all']
     for i, maker in enumerate(data, 1):
         print("{:2d}. {:s}\t{:d}".format(i, maker['nm'], maker['id']))
@@ -30,7 +30,7 @@ def main():
 
 def search_makerID_and_modelID(mk, md):
     '''search maker id and model id'''
-    data = json.load(open('car_make_model.json'))
+    data = json.load(open('cars_com_make_model.json'))
     data = data['all']
     mk = mk.lower()
     md = md.lower()
