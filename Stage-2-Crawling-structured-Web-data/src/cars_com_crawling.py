@@ -124,7 +124,8 @@ def pipeline(directory='./'):
 def craw_from_url(start_url, csv_name):
     url_lst = build_urls(start_url)
     f, w = csv_init(csv_name, ["name", "brand", "color", "price", "seller_name", "seller_phone",
-        "seller_average_rating", "seller_review_count", "miles", "distance_from_Madison", "Exterior Color", "Interior Color", "Transmission", "Drivetrain"])
+        "seller_average_rating", "seller_review_count", "miles", "distance_from_Madison", "Exterior Color",
+        "Interior Color", "Transmission", "Drivetrain", "VIN"])
     # start crawling given a list of cars.com urls
     count = 0
     for url in url_lst:
@@ -146,7 +147,8 @@ def craw_from_url(start_url, csv_name):
             count += 1
             # print (count, ": ", car_data['name'])
             car_info = {"name": car_data['name'], "brand": car_data['brand']['name'], "color":
-                    car_data['color'], "price": car_data['offers']['price'], "seller_name": car_data['offers']['seller']['name']}
+                    car_data['color'], "price": car_data['offers']['price'], "seller_name":
+                    car_data['offers']['seller']['name'], "VIN": car_data['vehicleIdentificationNumber']}
             # need to check for telephone because some sellers does not have telephone
             if 'telephone' in car_data['offers']['seller']:
                 car_info['seller_phone'] = car_data['offers']['seller']['telephone']
@@ -166,52 +168,5 @@ def craw_from_url(start_url, csv_name):
     f.close()
     print("Writing {:d} cars information to {:s}".format(count, csv_name))
 
-
-# main method
-def main():
-    cars_urls = construct_urls()
-    f, w = csv_init("cars_com.csv", ["name", "brand", "color", "price", "seller_name", "seller_phone",
-            "seller_average_rating", "seller_review_count", "miles", "distance_from_Madison", "Exterior Color", "Interior Color", "Transmission", "Drivetrain"])
-    # start crawling given a list of cars.com urls
-    count = 0
-    for url in cars_urls:
-        with urllib2.urlopen(url) as uopen:
-            oururl = uopen.read()
-        soup = bs(oururl, 'lxml')
-        # get car general information from json script
-        cars_info = json.loads(soup.find('script', type='application/ld+json').text)
-
-        # get more detailed car information from HTML tags
-        cars_detail_list = soup.find_all('div', class_='shop-srp-listings__listing')
-
-        if (len(cars_info) != len(cars_detail_list)):
-            print ("Error the size of car json information and size of car html information does not match")
-            continue
-
-        # for each car, extract and insert information into csv table
-        for ind, car_data in enumerate(cars_info):
-            count += 1
-            print (count, ": ", car_data['name'])
-            car_info = {"name": car_data['name'], "brand": car_data['brand']['name'], "color":
-        car_data['color'], "price": car_data['offers']['price'], "seller_name": car_data['offers']['seller']['name']}
-            # need to check for telephone because some sellers does not have telephone
-            if 'telephone' in car_data['offers']['seller']:
-                car_info['seller_phone'] = car_data['offers']['seller']['telephone']
-
-            # need to check for aggregateRating because some seller does not have rating
-            if 'aggregateRating' in car_data['offers']['seller']:
-                car_info['seller_average_rating'] = car_data['offers']['seller']['aggregateRating']['ratingValue']
-                car_info['seller_review_count'] = car_data['offers']['seller']['aggregateRating']['reviewCount']
-
-            car_details = get_more_info(cars_detail_list[ind])
-
-            # combine two dicts
-            car_dict = {**car_info, **car_details}
-            #print (car_dict)
-            # write current dict to csv file
-            w.writerow(car_dict)
-    f.close()
-
 if __name__ == "__main__":
-  # main()
   pipeline('../cars_com_data/')
