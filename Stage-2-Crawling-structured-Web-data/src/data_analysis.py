@@ -3,6 +3,10 @@
 # University of Wisconsin-Madison
 # Author: Yaqi Zhang, Jieru Hu
 ##################################
+# This module contains some functions
+# that analyze car data in csv file
+##################################
+
 import os
 import sys
 import pandas as pd
@@ -21,6 +25,7 @@ def add_year_column(df):
             year = 2018 # 0
         years.append(year)
     df['year'] = years
+
 
 def extract_cars(df, requirement):
     """filter all the cars satisfy the requirement
@@ -50,6 +55,7 @@ def print_df(df):
     else:
         print(df[['name', 'price', 'color']].sort_values('price'))
 
+
 def load_csvfile(csvfile):
     """load csv file to pandas data frame"""
     if not os.path.exists(csvfile):
@@ -57,6 +63,7 @@ def load_csvfile(csvfile):
         sys.exit(1)
     df = pd.read_csv(csvfile)
     return df
+
 
 def analyze_price(df, maker, model, plot=False):
     """analyze car price and give a rough idea how expensive the car is"""
@@ -73,6 +80,7 @@ def analyze_price(df, maker, model, plot=False):
     print("{:s} = $ {:,.2f}".format('median price'.ljust(n), df['price'].median()))
     print("{:s} = $ {:,.2f}".format('max price'.ljust(n), price_info['max']))
     print("{:s} = $ {:,.2f}".format('std price'.ljust(n), price_info['std']))
+
 
 def main():
     """show how to use analyze_price()"""

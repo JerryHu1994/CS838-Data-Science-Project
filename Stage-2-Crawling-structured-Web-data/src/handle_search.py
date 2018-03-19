@@ -3,6 +3,10 @@
 # University of Wisconsin-Madison
 # Author: Yaqi Zhang, Jieru Hu
 ##################################
+# This module contains functions
+# that generates url on cars.com
+# according to user's key words
+##################################
 
 import sys
 import re
