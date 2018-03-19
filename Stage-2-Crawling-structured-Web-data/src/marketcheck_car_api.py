@@ -7,13 +7,11 @@
 # from MarketCheck cars and stores the query response into a csv table.
 ##################################################################################
 
-import numpy as np
-import matplotlib.pyplot as plt
-import requests
+import os
 import sys
 import csv
-import os
 import json
+import requests
 from uszipcode import ZipcodeSearchEngine
 
 # Initialize a csv writer for storing web data
@@ -22,6 +20,7 @@ def csv_init(output_file, attribute_list):
     writer = csv.DictWriter(csvfile, fieldnames=attribute_list)
     writer.writeheader()
     return csvfile, writer
+
 
 def user_input():
     if len(sys.argv) != 6:
@@ -37,28 +36,29 @@ def user_input():
     condition = sys.argv[5]
     return (maker, model, zipcode, radius, condition)
 
-def assess_val(dic, key):
-    if key not in dic:
-        return None
-    else:
-        return dic[key]
 
-def pipeline(directory='./'):
-
+def pipeline_market_check(directory='./'):
+    """the whole crawling pipeline"""
     maker, model, zipcode , radius, condition = user_input()
-    csv_name = "{}-{}-{:d}-{:d}-{:s}.csv".format(maker, model, zipcode, radius, condition)
+    csv_name = "{}-{}-{:d}-{:d}-{:s}.csv".format(maker, model, zipcode, \
+            radius, condition)
     csv_name = os.path.join(directory, csv_name)
     if os.path.exists(csv_name):
         try:
             os.remove(csv_name)
             print("delete previous {}".format(csv_name))
         except OSError:
-            pass
-    f, w = csv_init(csv_name, ["name", "VIN", "year", "price", "miles","Exterior Color", "Interior Color", "seller_name", "seller_phone", "Transmission", "Drivetrain" ])
+            print("error in deleting {}".format(csv_name))
+            sys.exit(1)
+    long_csv_header = ["Name", "VIN", "Year", "Price", "Miles",\
+            "Exterior Color", "Interior Color", "Seller Name", \
+            "Seller Phone", "Transmission", "Drivetrain" ]
+
+    f, w = csv_init(csv_name, long_csv_header)
+
     # convert zipcode to latitude and longitude
     zipSearch = ZipcodeSearchEngine()
     zipinfo = zipSearch.by_zipcode(str(zipcode))
-
     latitude, longtitude = str(zipinfo["Latitude"]), str(zipinfo["Longitude"])
 
     # read assess key for api
@@ -68,45 +68,58 @@ def pipeline(directory='./'):
     car_market_url = "http://api.marketcheck.com/v1/search"
 
     # start with index = 0, rows = 50 (max cars per request)
-    querystring = {"api_key":api_key,"make":maker,"latitude":latitude,"longitude":longtitude,"radius":str(radius),"car_type":condition,"seller_type":"dealer",
-    "start":"0", "rows":"50"}
+    max_rows_per_request = 50
+    querystring = {"api_key" : api_key,
+            "make" : maker,
+            "model" : model,
+            "latitude" : latitude,
+            "longitude" : longtitude,
+            "radius" : str(radius),
+            "car_type" : condition,
+            "seller_type" : "dealer",
+            "start" : "0",
+            "rows" : str(max_rows_per_request),
+            }
 
     headers = {'Host': 'marketcheck-prod.apigee.net'}
 
-    response = requests.request("GET", car_market_url, headers=headers, params=querystring)
+    response = requests.request("GET", car_market_url, headers=headers,\
+            params=querystring)
 
     cars_json = json.loads(response.text)
     count = (cars_json["num_found"])
+    num_of_requests = (count + max_rows_per_request - 1) // max_rows_per_request
+    print("Total number of request is {:d}".format(num_of_requests))
 
-    if count % 50:
-        num_of_requests = (int)(count/50+1)
-    else:
-        num_of_requests = (int)(count/50)
-
+    short_csv_header = ["Name", "VIN", "Price", "Miles", "Exterior Color", "Interior Color"]
+    dict_header = ["heading", "vin", "price", "miles", "exterior_color", "interior_color"]
     for ite in range(num_of_requests):
         print ("Sending the {:d}th request".format(ite))
         # query the API with new offset json
         if ite !=0:
-            querystring["start"] = str(ite*50)
-            response = requests.request("GET", car_market_url, headers=headers, params=querystring)
+            querystring["start"] = str(ite * max_rows_per_request)
+            response = requests.request("GET", car_market_url,\
+                    headers=headers, params=querystring)
             cars_json = json.loads(response.text)
 
-        for car in cars_json["listings"]:
-            car_dict = {"name": assess_val(car,"heading"), "VIN": assess_val(car,"vin"),"price": assess_val(car,"price"), "miles":assess_val(car,"miles"),
-            "Exterior Color": assess_val(car,"exterior_color"), "Interior Color": assess_val(car,"interior_color")}
-            if assess_val(car,"dealer") != None:
-                car_dict["seller_phone"] = assess_val(assess_val(car,"dealer"), "phone")
-                car_dict["seller_name"] = assess_val(assess_val(car,"dealer"), "name")
-            if assess_val(car,"build") != None:
-                car_dict["Transmission"] = assess_val(assess_val(car,"build"), "transmission")
-                car_dict["Drivetrain"] = assess_val(assess_val(car,"build"), "drivetrain")
-                car_dict["year"] = assess_val(assess_val(car,"build"), "year")
+        for car in cars_json["listings"]: # car is a dictionary
+            car_dict = {ch : car.get(dh, None)
+                    for ch, dh in zip(short_csv_header, dict_header)}
+            if "dealer" in car:
+                dealer = car["dealer"]
+                car_dict["Seller Phone"] = dealer.get("phone", None)
+                car_dict["Seller Name"] = dealer.get("name", None)
+            if "build" in car:
+                build = car["build"]
+                car_dict["Transmission"] = build.get("transmission", None)
+                car_dict["Drivetrain"] = build.get("drivetrain", None)
+                car_dict["Year"] = build.get("year", None)
             w.writerow(car_dict)
-    f.close()
+    f.close() # this is dangerous
     print("Writing {:d} cars information to {:s}".format(count, csv_name))
-    with open("output.json", "w") as f:
-        f.write(response.text)
+    # why this?
+    # with open("output.json", "w") as f:
+    #    f.write(response.text)
 
 if __name__ == "__main__":
-    pipeline('../market_check_data/')
-
+    pipeline_market_check('../market_check_data/')
