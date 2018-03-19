@@ -14,7 +14,7 @@ import csv
 import json
 import urllib.request as urllib2
 from bs4 import BeautifulSoup as bs
-from handle_search import generate_url
+from handle_search_carscom import generate_url
 from utility import user_input, write_cars_to_csv
 from data_analysis import load_csvfile, analyze_price
 
