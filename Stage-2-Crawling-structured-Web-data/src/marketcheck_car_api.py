@@ -8,53 +8,15 @@
 ##################################################################################
 
 import os
-import sys
-import csv
 import json
 import requests
 from uszipcode import ZipcodeSearchEngine
-
-# Initialize a csv writer for storing web data
-def csv_init(output_file, attribute_list):
-    csvfile = open(output_file, 'w')
-    writer = csv.DictWriter(csvfile, fieldnames=attribute_list)
-    writer.writeheader()
-    return csvfile, writer
-
-
-def user_input():
-    if len(sys.argv) != 6:
-        print("Usage: >> python {} <maker> <model> <zip> <radius> <used or new>".\
-                format(sys.argv[0]))
-        print("e.g. python {} Honda Accord 53715 25 used".format(sys.argv[0]))
-        sys.exit(1)
-    # need to add validation check
-    maker = sys.argv[1]
-    model = sys.argv[2]
-    zipcode = int(sys.argv[3])
-    radius = int(sys.argv[4])
-    condition = sys.argv[5]
-    return (maker, model, zipcode, radius, condition)
+from utility import user_input, write_cars_to_csv
 
 
 def pipeline_market_check(directory='./'):
     """the whole crawling pipeline"""
-    maker, model, zipcode , radius, condition = user_input()
-    csv_name = "{}-{}-{:d}-{:d}-{:s}.csv".format(maker, model, zipcode, \
-            radius, condition)
-    csv_name = os.path.join(directory, csv_name)
-    if os.path.exists(csv_name):
-        try:
-            os.remove(csv_name)
-            print("delete previous {}".format(csv_name))
-        except OSError:
-            print("error in deleting {}".format(csv_name))
-            sys.exit(1)
-    long_csv_header = ["Name", "VIN", "Year", "Price", "Miles",\
-            "Exterior Color", "Interior Color", "Seller Name", \
-            "Seller Phone", "Transmission", "Drivetrain" ]
-
-    f, w = csv_init(csv_name, long_csv_header)
+    maker, model, zipcode, radius, condition = user_input()
 
     # convert zipcode to latitude and longitude
     zipSearch = ZipcodeSearchEngine()
@@ -93,6 +55,11 @@ def pipeline_market_check(directory='./'):
 
     short_csv_header = ["Name", "VIN", "Price", "Miles", "Exterior Color", "Interior Color"]
     dict_header = ["heading", "vin", "price", "miles", "exterior_color", "interior_color"]
+    long_csv_header = ["Name", "VIN", "Year", "Price", "Miles",\
+            "Exterior Color", "Interior Color", "Seller Name", \
+            "Seller Phone", "Transmission", "Drivetrain" ]
+    csv_rows = [] # store crawled data
+
     for ite in range(num_of_requests):
         print ("Sending the {:d}th request".format(ite))
         # query the API with new offset json
@@ -114,12 +81,17 @@ def pipeline_market_check(directory='./'):
                 car_dict["Transmission"] = build.get("transmission", None)
                 car_dict["Drivetrain"] = build.get("drivetrain", None)
                 car_dict["Year"] = build.get("year", None)
-            w.writerow(car_dict)
-    f.close() # this is dangerous
-    print("Writing {:d} cars information to {:s}".format(count, csv_name))
+            csv_rows.append(dict(car_dict))
+
+    # write data to csv file
+    csv_name = "{}-{}-{:d}-{:d}-{:s}.csv".format(maker, model, zipcode, \
+            radius, condition)
+    csv_name = os.path.join(directory, csv_name)
+    write_cars_to_csv(csv_name, long_csv_header, csv_rows)
     # why this?
     # with open("output.json", "w") as f:
     #    f.write(response.text)
+
 
 if __name__ == "__main__":
     pipeline_market_check('../market_check_data/')

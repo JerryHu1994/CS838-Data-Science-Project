@@ -3,50 +3,33 @@
 # University of Wisconsin-Madison
 # Author: Yaqi Zhang, Jieru Hu
 ##################################
-# This is the script for crawling used car data within 20 miles Madison, from cars.com.
+# This module contains function which can
+# crawl cars information from cars.com
+#########################################
+
+import os
 import sys
 import re
 import csv
 import json
-import os
 import urllib.request as urllib2
 from bs4 import BeautifulSoup as bs
 from handle_search import generate_url
+from utility import user_input, write_cars_to_csv
 from data_analysis import load_csvfile, analyze_price
 
 
-# Initialize a csv writer for storing web data
-def csv_init(output_file, attribute_list):
-    csvfile = open(output_file, 'w')
-    writer = csv.DictWriter(csvfile, fieldnames=attribute_list)
-    writer.writeheader()
-    return csvfile, writer
-
-# construct a list of urls for cars.com crawling
-def construct_urls():
-    cars_per_page = 100
-    url_list, url_template = [], "https://www.cars.com/for-sale/searchresults.action/?page=%d&perPage=%d&rd=20&searchSource=GN_REFINEMENT&showMore=true&sort=relevance&stkTypId=28881&zc=53715"
-    # get number of searched cars
-    first_url = url_template%(1, cars_per_page)
-    with urllib2.urlopen(first_url) as uopen:
-        car_url = uopen.read()
-        soup = bs(car_url, 'lxml')
-        total_cars = (int)(soup.find_all("div", class_="matchcount")[0].find_all("span", "count")[0].getText().replace(",", ""))
-    num_of_urls = (int)(total_cars/cars_per_page) + 1 if total_cars%cars_per_page else (int)(total_cars/cars_per_page)
-    print (num_of_urls)
-    for i in range(num_of_urls):
-        url_list.append(url_template%(i+1, cars_per_page))
-    return url_list
-
-
-# extract more car infomation from a bs4.element.Tag object into a python dictionary
 def get_more_info(car_detail):
+    """extract more car infomation from a bs4.element.Tag object into
+       a python dictionary
+    """
     # get mileage
     car_miles = car_detail.find('span', class_='listing-row__mileage')
     if car_miles != None:
         car_miles = (int)(car_miles.text.split()[0].replace(",",""))
     # distance away
-    distance = (int)(car_detail.find('div', class_='listing-row__distance listing-row__distance-mobile').text.split()[1])
+    distance = (int)(car_detail.find('div', \
+            class_='listing-row__distance listing-row__distance-mobile').text.split()[1])
 
     car_detail_dict = {"miles": car_miles, "distance_from_Madison" : distance }
     # car meta data
@@ -58,8 +41,8 @@ def get_more_info(car_detail):
     return car_detail_dict
 
 
-# general version of construct_urls()
-def build_urls(start_url):
+def populate_urls(start_url):
+    """populate urls according to the start_url"""
     cars_per_page = 100
     url_template = re.sub(r'page=[0-9]+&perPage=[0-9]+', r'page=%d&perPage=%d', start_url)
     url_list = []
@@ -75,39 +58,14 @@ def build_urls(start_url):
     return url_list
 
 
-# handle command line input return search tuple
-def user_input():
-    if len(sys.argv) != 6:
-        print("Usage: >> python {} <maker> <model> <zip> <radius> <used or new>".\
-                format(sys.argv[0]))
-        print("e.g. python {} Audi Q7 53705 200 used".format(sys.argv[0]))
-        sys.exit(1)
-    # need to add validation check
-    maker = sys.argv[1]
-    model = sys.argv[2]
-    zipcode = int(sys.argv[3])
-    radius = int(sys.argv[4])
-    if sys.argv[5].lower() == "used" or sys.argv[5].lower() == "old":
-        used = True
-    else:
-        used = False
-    return (maker, model, zipcode, radius, used)
-
-
-# run the pipeline
-def pipeline(directory='./'):
-    maker, model, zipcode, radius, used = user_input()
+def pipeline_carscom(directory='./'):
+    """crawling pipeline for cars.com"""
+    maker, model, zipcode, radius, condition = user_input()
     page_num = 1
     num_per_page = 100
-    start_url = generate_url(maker, model, zipcode, radius, used, page_num, num_per_page)
-    csv_name = "{}-{}-{:d}-{:d}-{:s}.csv".format(maker, model, zipcode, radius, "used" if used else "new")
+    start_url = generate_url(maker, model, zipcode, radius, condition, page_num, num_per_page)
+    csv_name = "{}-{}-{:d}-{:d}-{:s}.csv".format(maker, model, zipcode, radius, condition)
     csv_name = os.path.join(directory, csv_name)
-    if os.path.exists(csv_name):
-        try:
-            os.remove(csv_name)
-            print("delete previous {}".format(csv_name))
-        except OSError:
-            pass
     print("crawling...")
     craw_from_url(start_url, csv_name)
     print("finish crawling...")
@@ -120,12 +78,10 @@ def pipeline(directory='./'):
     analyze_price(df, maker, model)
 
 
-# craw from a start url
 def craw_from_url(start_url, csv_name):
-    url_lst = build_urls(start_url)
-    f, w = csv_init(csv_name, ["name", "brand", "color", "price", "seller_name", "seller_phone",
-        "seller_average_rating", "seller_review_count", "miles", "distance_from_Madison", "Exterior Color",
-        "Interior Color", "Transmission", "Drivetrain", "VIN"])
+    """craw data and write data to csv file"""
+    url_lst = populate_urls(start_url)
+    csv_rows = []
     # start crawling given a list of cars.com urls
     count = 0
     for url in url_lst:
@@ -162,11 +118,13 @@ def craw_from_url(start_url, csv_name):
 
             # combine two dicts
             car_dict = {**car_info, **car_details}
+            csv_rows.append(dict(car_dict))
 
-            # write current dict to csv file
-            w.writerow(car_dict)
-    f.close()
-    print("Writing {:d} cars information to {:s}".format(count, csv_name))
+    csv_header = ["name", "brand", "color", "price", "seller_name", "seller_phone",
+            "seller_average_rating", "seller_review_count", "miles", "distance_from_Madison", "Exterior Color",
+            "Interior Color", "Transmission", "Drivetrain", "VIN"]
+    write_cars_to_csv(csv_name, csv_header, csv_rows)
+
 
 if __name__ == "__main__":
-  pipeline('../cars_com_data/')
+  pipeline_carscom('../cars_com_data/')

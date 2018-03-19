@@ -3,6 +3,7 @@
 # University of Wisconsin-Madison
 # Author: Yaqi Zhang, Jieru Hu
 ##################################
+
 import sys
 import re
 import json
@@ -24,8 +25,6 @@ def main():
         for j, model in enumerate(maker['md'], 1):
             print("\t{:2d}.{:d} {:s}\t{}".format\
                     (i, j, model['nm'], model['id']))
-            # print("\t{:2d}.{:d} {:s}\t{:d}".format\
-            #        (i, j, model['nm'], model['id'] if type(model['id']) == int else -1))
 
 
 def search_makerID_and_modelID(mk, md):
@@ -39,7 +38,8 @@ def search_makerID_and_modelID(mk, md):
     if mk == "mb" or mk == "benz" or mk == "mercedes":
         mk = "mercedes-benz"
     if mk == "mercedes-benz":
-        if md in ['c', 'e', 'cla', 'cls', 'e', 'g', 'gl', 'gla', 'gle', 'glc', 'gls', 'm', 's']:
+        if md in ['c', 'e', 'cla', 'cls', 'e', 'g', 'gl', \
+                'gla', 'gle', 'glc', 'gls', 'm', 's']:
             md += "-class"
     # 2. BMW
     if mk == "bmw":
@@ -75,12 +75,14 @@ def search_makerID_and_modelID(mk, md):
     return None, None
 
 
-def generate_url(maker, model, zipcode, radius, used=False, page_num=1,num_per_page=100):
+def generate_url(maker, model, zipcode, radius, condition="new", page_num=1,num_per_page=100):
     '''generate url according to search'''
-    if not used:
-        new_used_code = 28880
-    else:
+    if condition.lower() == "used" or condition.lower() == "old":
+        used = True
         new_used_code = 28881
+    else:
+        used = False
+        new_used_code = 28880
     template_url = "https://www.cars.com/for-sale/searchresults.action/?mkId=%s&mdId=%s&page=%d&perPage=%d&rd=%d&zc=%d&stkTypId=%d&searchSource=QUICK_FORM"
     mkid, mdid = search_makerID_and_modelID(maker, model)
     if mkid and mdid:

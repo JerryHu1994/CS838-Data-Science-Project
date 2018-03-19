@@ -4,6 +4,7 @@
 # Author: Yaqi Zhang, Jieru Hu
 ##################################
 # This is the script for crawling used car data within 20 miles Madison, from autotrader.
+#########################################################################################
 
 from urllib.request import Request, urlopen
 from bs4 import BeautifulSoup as bs
@@ -85,4 +86,3 @@ def main(directory='./'):
 
 if __name__ == "__main__":
   main('../edmunds_data/')
-
