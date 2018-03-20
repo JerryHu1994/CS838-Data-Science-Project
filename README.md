@@ -17,4 +17,5 @@ cd Stage-1-IE-from-natural-text
 bash stage1_pipeline.sh
 ```
 
-* Stage 2: [Crawling and extrating structured data from web pages]
+* Stage 2: [Crawling and extrating structured data from web pages](https://sites.google.com/site/anhaidgroup/courses/cs-838-spring-2018/project-description/stage-2)
+In state 2, we select two two data sources to crawl used car information. One data source is [car.com](https://www.cars.com/), another source comes from APIs of [car marketcheck]https://apidocs.marketcheck.com/. We use beautiful soup to crawl used car information the cars.com page, and use JSON-formatted query to fetch used car data from the RESTFUL API provided by marketcheck. The used car information is stored into two seperate csv tables for future stage analysis.
