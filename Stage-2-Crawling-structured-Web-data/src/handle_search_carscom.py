@@ -9,10 +9,91 @@
 ##################################
 
 import sys
+import random
+import string
 import re
 import json
+import csv
 from difflib import SequenceMatcher
-from pprint import pprint
+from collections import OrderedDict, defaultdict
+from utility import write_cars_to_csv
+# from pprint import pprint
+
+
+
+def construct_maker_model_dict(data_file='model_codes_carscom.csv'):
+    """construct a dict d[maker][model] = (maker_id, model_id)"""
+    d = defaultdict(dict)
+    with open(data_file, 'r') as f:
+        reader = csv.DictReader(f)
+        for line in reader:
+            d[line['maker']][line['model']] = (line['maker code'],\
+                    line['model code'])
+    return d
+
+
+def guess_car_brand(data_file='model_codes_carscom.csv'):
+    """A terminal game which lets user guess car brand"""
+    num_questions = 10
+    num_correct = 0
+    num_choices = 4
+    letters = string.ascii_uppercase[:num_choices]
+    # load data
+    brands = set()
+    model_brand_pairs = {}
+    with open(data_file, 'r') as f:
+        reader = csv.DictReader(f)
+        for line in reader:
+            brands.add(line['maker'])
+            model_brand_pairs[line['model']] = line['maker']
+    count = num_questions
+    while count > 0:
+        count -= 1
+        model, brand = random.choice(list(model_brand_pairs.items()))
+        print("What is the brand of {}? (choose one from {} to {})".\
+                format(model, letters[0], letters[-1]))
+        choices = random.sample(brands, num_choices - 1)
+        choices.append(brand)
+        random.shuffle(choices)
+        d = OrderedDict(zip(letters, choices))
+        for letter, choice in d.items():
+            print("{}. {}  ".format(letter, choice), end="")
+        print()
+        while True:
+            user_choice = input("> ")
+            user_choice = user_choice.upper()
+            if user_choice in letters:
+                break
+            else:
+                print("please pick a valid choice")
+        if user_choice in d and d[user_choice] == brand:
+            print("correct!")
+            num_correct += 1
+        else:
+            print("wrong!")
+    print("Score {:d}/{:d}".format(num_correct, num_questions))
+
+
+def extract_maker_model_codes(csv_name):
+    """extract maker and model cars.com code and store in
+       a csv file
+    """
+    csv_header = ['maker', 'model', 'maker code', 'model code']
+    csv_rows = []
+    data = json.load(open('cars_com_make_model.json'))
+    data = data['all']
+    car_dict = {}
+    for i, maker in enumerate(data, 1):
+        car_dict['maker'] = maker['nm'].strip()
+        car_dict['maker code'] = maker['id']
+        for j, model in enumerate(maker['md'], 1):
+            model_name = model['nm'].strip()
+            if model_name[0] == '-':
+                model_name = model_name[1:].strip()
+            car_dict['model'] = model_name
+            car_dict['model code'] = model['id']
+            csv_rows.append(dict(car_dict))
+    write_cars_to_csv(csv_name, csv_header, csv_rows)
 
 
 def similar(sa, sb):
@@ -109,5 +190,9 @@ def test():
 
 
 if __name__ == "__main__":
-    main()
+    # main()
     # test()
+    # extract_maker_model_codes('model_codes_carscom.csv')
+    # guess_car_brand()
+    d = construct_maker_model_dict('model_codes_carscom.csv')
+    print(d)
