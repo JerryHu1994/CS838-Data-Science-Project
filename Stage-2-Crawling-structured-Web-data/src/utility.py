@@ -10,13 +10,11 @@ import os
 import sys
 import csv
 
-
 def user_input():
     """parse command line args"""
-    if len(sys.argv) != 6:
-        print("Usage: >> python {} <maker> <model> <zip> <radius> <used or new>".\
-                format(sys.argv[0]))
-        print("e.g. python {} Honda Accord 53715 25 used".format(sys.argv[0]))
+    if len(sys.argv) != 8:
+        print("Usage: >> python {} <maker> <model> <zip> <radius> <used or new> <json or keyfile> <output_dir>".format(sys.argv[0]))
+        print("e.g. python {} Honda Accord 53715 25 used <json or keyfile> ./data/".format(sys.argv[0]))
         sys.exit(1)
     # need to add validation check
     maker = sys.argv[1]
@@ -24,8 +22,9 @@ def user_input():
     zipcode = int(sys.argv[3])
     radius = int(sys.argv[4])
     condition = sys.argv[5]
-    return (maker, model, zipcode, radius, condition)
-
+    extra_file = sys.argv[6]
+    output_dir = sys.argv[7]
+    return (maker, model, zipcode, radius, condition, extra_file, output_dir)
 
 def write_cars_to_csv(csv_name, csv_header, csv_rows):
     """create csv file and write rows to the csv file"""
@@ -43,7 +42,6 @@ def write_cars_to_csv(csv_name, csv_header, csv_rows):
         for row in csv_rows:
             writer.writerow(row)
     print("Writing {:d} cars information to {:s}".format(len(csv_rows), csv_name))
-
 
 if __name__ == "__main__":
     print("Hello World")

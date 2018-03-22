@@ -12,11 +12,11 @@ import json
 import requests
 from uszipcode import ZipcodeSearchEngine
 from utility import user_input, write_cars_to_csv
-
+from data_analysis import analyze_price, load_csvfile
 
 def pipeline_market_check(directory='./'):
     """the whole crawling pipeline"""
-    maker, model, zipcode, radius, condition = user_input()
+    maker, model, zipcode, radius, condition, market_key_file, directory = user_input()
 
     # convert zipcode to latitude and longitude
     zipSearch = ZipcodeSearchEngine()
@@ -24,7 +24,7 @@ def pipeline_market_check(directory='./'):
     latitude, longtitude = str(zipinfo["Latitude"]), str(zipinfo["Longitude"])
 
     # read assess key for api
-    with open("marketcheck_key", "r") as key:
+    with open(market_key_file, "r") as key:
         api_key = key.read()
 
     car_market_url = "http://api.marketcheck.com/v1/search"
@@ -53,12 +53,12 @@ def pipeline_market_check(directory='./'):
     num_of_requests = (count + max_rows_per_request - 1) // max_rows_per_request
     print("Total number of request is {:d}".format(num_of_requests))
 
-    short_csv_header = ["Name", "VIN", "Price", "Miles", "Exterior Color", "Interior Color"]
-    dict_header = ["heading", "vin", "price", "miles", "exterior_color", "interior_color"]
-    long_csv_header = ["Name", "VIN", "Year", "Price", "Miles",\
+    short_csv_header = ["name", "VIN", "price", "miles", "Exterior Color", "Interior Color"]
+    dict_header = ["heading", "vin", "price", "miles", "exterior_color", "interior_color"] # names from API response
+    long_csv_header = ["name", "VIN", "year", "price", "miles",\
             "Exterior Color", "Interior Color", "Seller Name", \
-            "Seller Phone", "Transmission", "Drivetrain" ]
-    csv_rows = [] # store crawled data
+            "Seller Phone", "Transmission", "Drivetrain" ] # car attributes stored in csv table
+    csv_rows = [] # stores each crawled car as an dictionary
 
     for ite in range(num_of_requests):
         print ("Sending the {:d}th request".format(ite))
@@ -80,7 +80,7 @@ def pipeline_market_check(directory='./'):
                 build = car["build"]
                 car_dict["Transmission"] = build.get("transmission", None)
                 car_dict["Drivetrain"] = build.get("drivetrain", None)
-                car_dict["Year"] = build.get("year", None)
+                car_dict["year"] = build.get("year", None)
             csv_rows.append(dict(car_dict))
 
     # write data to csv file
@@ -88,10 +88,12 @@ def pipeline_market_check(directory='./'):
             radius, condition)
     csv_name = os.path.join(directory, csv_name)
     write_cars_to_csv(csv_name, long_csv_header, csv_rows)
-    # why this?
-    # with open("output.json", "w") as f:
-    #    f.write(response.text)
+
+    # do some price analysis there
+    df = load_csvfile(csv_name)
+    maker, model = maker.upper(), model.upper()
+    analyze_price(df, maker, model)
 
 
 if __name__ == "__main__":
-    pipeline_market_check('../market_check_data/')
+    pipeline_market_check()

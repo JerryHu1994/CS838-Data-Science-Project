@@ -60,10 +60,10 @@ def populate_urls(start_url):
 
 def pipeline_carscom(directory='./'):
     """crawling pipeline for cars.com"""
-    maker, model, zipcode, radius, condition = user_input()
+    maker, model, zipcode, radius, condition, car_json_file, directory = user_input()
     page_num = 1
     num_per_page = 100
-    start_url = generate_url(maker, model, zipcode, radius, condition, page_num, num_per_page)
+    start_url = generate_url(maker, model, zipcode, radius, car_json_file, condition, page_num, num_per_page)
     csv_name = "{}-{}-{:d}-{:d}-{:s}.csv".format(maker, model, zipcode, radius, condition)
     csv_name = os.path.join(directory, csv_name)
     print("crawling...")
@@ -127,4 +127,4 @@ def craw_from_url(start_url, csv_name):
 
 
 if __name__ == "__main__":
-  pipeline_carscom('../cars_com_data/')
+  pipeline_carscom('../data/cars_com_data/')
