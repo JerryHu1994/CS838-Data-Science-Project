@@ -7,7 +7,7 @@ names from natural text documents. The data we used is IMDb users' comments.
 Training set contains 1461 positive samples and 1500 negative samples.
 Cross validation (with 4 folds) is used to compare performace of random forest, decision tree,
 SVM, logistic regression and linear regression. We choose the model with best precision. Test set is
-composed of 850 positive samples and 850 negative samples. Oue IE can achieve more than 90 % recall
+composed of 850 positive samples and 850 negative samples. Our IE can achieve more than 90 % recall
 and more than 92 % precision.
 
 You can call the whole pipeline by running the [bash script](./Stage-1-IE-from-natural-text/stage1_pipeline.sh)
