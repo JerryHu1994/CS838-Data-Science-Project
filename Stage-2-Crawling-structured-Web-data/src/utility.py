@@ -24,6 +24,7 @@ def user_input():
     condition = sys.argv[5]
     extra_file = sys.argv[6]
     output_dir = sys.argv[7]
+    os.makedirs(output_dir, exist_ok=True) # if the output_dir does not exist, create it
     return (maker, model, zipcode, radius, condition, extra_file, output_dir)
 
 def write_cars_to_csv(csv_name, csv_header, csv_rows):
