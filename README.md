@@ -26,3 +26,7 @@ You can call the whole pipeline by running the [bash script](./Stage-2-Crawling-
 cd Stage-2-Crawling-structured-Web-data
 bash stage2_pipeline.sh
 ```
+
+* Stage 3: [Entity Matcing](https://sites.google.com/site/anhaidgroup/courses/cs-838-spring-2018/project-description/stage-3):
+
+
