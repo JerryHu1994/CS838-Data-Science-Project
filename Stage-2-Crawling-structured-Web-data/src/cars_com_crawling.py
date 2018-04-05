@@ -127,4 +127,4 @@ def craw_from_url(start_url, csv_name):
 
 
 if __name__ == "__main__":
-  pipeline_carscom('../data/cars_com_data/')
+  pipeline_carscom()
