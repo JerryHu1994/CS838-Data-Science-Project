@@ -1,12 +1,14 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 ##################################
 # University of Wisconsin-Madison
 # Author: Jieru Hu, Yaqi Zhang
 ##################################
+# main program
+##################################
+
 
 import py_entitymatching as em
 import pandas as pd
-
 
 
 def merge_by_VIN(table_a="./cars_com_luxury.csv", table_b="./market_check_luxury.csv"):
@@ -30,7 +32,6 @@ def main():
     # let's merge by VIN first
     merge_by_VIN()
 
-
 if __name__ == "__main__":
-  main()
+    main()
 
