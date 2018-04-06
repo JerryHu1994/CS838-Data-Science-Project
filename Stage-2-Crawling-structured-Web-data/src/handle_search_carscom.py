@@ -154,6 +154,8 @@ def search_makerID_and_modelID(mk, md, car_json_file):
     if not mkid:
         print("invalid maker name {}".format(mk))
         sys.exit(1)
+    elif md == "all":
+        return mkid, "all"
     elif not mdid:
         print("invalid model name {}".format(md))
         sys.exit(1)
@@ -190,6 +192,13 @@ def generate_url(maker, model, zipcode, radius, car_json_file, condition="new", 
     else:
         template_url = "https://www.cars.com/for-sale/searchresults.action/?mkId=%s&mdId=%s&page=%d&perPage=%d&rd=%d&zc=%d&stkTypId=%d&searchSource=QUICK_FORM"
     mkid, mdid = search_makerID_and_modelID(maker, model, car_json_file)
+    # user select all models
+    if mkid and model == "all":
+        if choose_all:
+            url = "https://www.cars.com/for-sale/searchresults.action/?mkId=%s&page=%d&perPage=%d&rd=%d&zc=%d&searchSource=QUICK_FORM"%(mkid, page_num, num_per_page, int(radius), zipcode)
+        else:
+            url = "https://www.cars.com/for-sale/searchresults.action/?mkId=%s&page=%d&perPage=%d&rd=%d&zc=%d&stkTypId=%d&searchSource=QUICK_FORM"%(mkid,page_num,num_per_page, int(radius), zipcode, new_used_code)
+        return url
     if mkid and mdid:
         if choose_all:
             url = template_url%(mkid, mdid, page_num, num_per_page, int(radius), zipcode)

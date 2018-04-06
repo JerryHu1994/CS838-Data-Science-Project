@@ -33,7 +33,6 @@ def pipeline_market_check(directory='./'):
     max_rows_per_request = 50
     querystring = {"api_key" : api_key,
             "make" : maker,
-            "model" : model,
             "latitude" : latitude,
             "longitude" : longtitude,
             "radius" : str(radius),
@@ -42,7 +41,8 @@ def pipeline_market_check(directory='./'):
             "start" : "0",
             "rows" : str(max_rows_per_request),
             }
-
+    if model != "all":
+        querystring["model"] = model
     headers = {'Host': 'marketcheck-prod.apigee.net'}
 
     response = requests.request("GET", car_market_url, headers=headers,\

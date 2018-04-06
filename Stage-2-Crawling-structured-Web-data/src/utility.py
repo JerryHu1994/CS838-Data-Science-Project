@@ -13,7 +13,7 @@ import csv
 def user_input():
     """parse command line args"""
     if len(sys.argv) != 8:
-        print("Usage: >> python {} <maker> <model> <zip> <radius> <used/new/all> <json or keyfile> <output_dir>".format(sys.argv[0]))
+        print("Usage: >> python {} <maker> <model/all> <zip> <radius> <used/new/all> <json or keyfile> <output_dir>".format(sys.argv[0]))
         print("e.g. python {} Honda Accord 53715 25 used <json or keyfile> ./data/".format(sys.argv[0]))
         sys.exit(1)
     # need to add validation check
