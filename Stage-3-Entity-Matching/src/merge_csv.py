@@ -20,6 +20,7 @@ def main():
     csv_files = [csv_path+f for f in os.listdir(csv_path)]
     all_data = [pd.read_csv(f) for f in csv_files]
     merged_data = pd.concat(all_data, ignore_index=True)
+    merged_data['id'] = range(0, len(merged_data))
     merged_data.to_csv(sys.argv[1], encoding='utf-8',index=False)
 
 if __name__ == "__main__":
