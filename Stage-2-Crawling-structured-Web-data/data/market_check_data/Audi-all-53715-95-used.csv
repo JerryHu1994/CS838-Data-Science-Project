@@ -1,0 +1,485 @@
+name,VIN,make,model,year,price,miles,Exterior Color,Interior Color,Seller Name,Seller Phone,Transmission,Drivetrain
+2017 Audi Q3 2.0T Premium SUV,WA1BCCFS6HR015081,Audi,Q3,2017,24995,17171,Cortina White,ROCK GRAY,Kayser Nissan,866-752-3695,Automatic,Front Wheel Drive
+2017 Audi Q3 2.0T Premium SUV,WA1ECCFS7HR015748,Audi,Q3,2017,27385,22498,Brilliant black,BLACK,Kayser Nissan,866-752-3695,Automatic,All Wheel Drive
+2017 Audi Q3 2.0T Premium SUV,WA1ECCFS4HR015934,Audi,Q3,2017,26449,21894,Brilliant black,BLACK,Kayser Nissan,866-752-3695,Automatic,All Wheel Drive
+2006 Audi A6 3.2 Sedan,WAUDH74F36N132034,Audi,A6,2006,8479,105855,Light Silver,BEIGE,Kayser Nissan,866-752-3695,Automatic,All Wheel Drive
+2012 Audi A5 2dr Cpe Auto quattro 2.0T Premium P Car,WAULFAFR7CA003657,Audi,A5,2012,15200,89942,Monsoon Gray Metallic,BLACK,Zimbrick Audi,(608) 258-4000,Automatic,All Wheel Drive
+2017 Audi A4 2.0 TFSI Auto Premium quattro AWD Car,WAUANAF43HN020955,Audi,A4,2017,36700,6876,Florett Silver Metallic,BLACK,Zimbrick Audi,(608) 258-4000,Automatic,All Wheel Drive
+2018 Audi Q3 2.0 TFSI Premium Plus quattro AWD Sport Utility,WA1JCCFS9JR008269,Audi,Q3,2018,35400,4458,Brilliant Black,CHESTNUT BROWN,Zimbrick Audi,(608) 258-4000,,All Wheel Drive
+2016 Audi Q5 quattro 4dr 2.0T Premium Plus Sport Utility,WA1L2AFP4GA004035,Audi,Q5,2016,34100,26376,Brilliant Black,BLACK,Zimbrick Audi,(608) 258-4000,Automatic,All Wheel Drive
+2017 Audi A3 2.0 TFSI Premium Plus quattro AWD Car,WAUJ8GFF7H1028981,Audi,A3,2017,32000,5238,Mythos Black Metallic,CHESTNUT BROWN,Zimbrick Audi,(608) 258-4000,,All Wheel Drive
+2016 Audi Q5 quattro 4dr 2.0T Premium Plus Sport Utility,WA1L2AFP3GA004009,Audi,Q5,2016,31400,44444,Brilliant Black,BLACK,Zimbrick Audi,(608) 258-4000,Automatic,All Wheel Drive
+2017 Audi A3 2.0 TFSI Premium Plus quattro AWD Car,WAUJ8GFF9H1045958,Audi,A3,2017,30800,13858,Brilliant Black,ROCK GRAY,Zimbrick Audi,(608) 258-4000,,All Wheel Drive
+2014 Audi A6 4dr Sdn quattro 3.0T Prestige Car,WAUHGAFCXEN017093,Audi,A6,2014,28300,47337,Glacier White Metallic,BLACK,Zimbrick Audi,(608) 258-4000,Automatic,All Wheel Drive
+2015 Audi A6 4dr Sdn quattro 2.0T Premium Plus Car,WAUGFAFC9FN027405,Audi,A6,2015,28000,31572,Brilliant Black,BLACK,Zimbrick Audi,(608) 258-4000,Automatic,All Wheel Drive
+2015 Audi A6 4dr Sdn quattro 2.0T Premium Plus Car,WAUGFAFC3FN004556,Audi,A6,2015,27000,39514,Quartz Gray Metallic,BLACK,Zimbrick Audi,(608) 258-4000,Automatic,All Wheel Drive
+2014 Audi TT 2dr Roadster S tronic quattro 2.0T Convertible,TRUSFAFK5E1008480,Audi,TT,2014,25000,61734,ICE Silver Metallic Black Roof,MAGMA RED,Zimbrick Audi,(608) 258-4000,Automated Manual,All Wheel Drive
+2013 Audi A6 4dr Sdn quattro 3.0T Prestige Car,WAUHGAFC6DN150190,Audi,A6,2013,24300,50449,Ibis White,BLACK,Zimbrick Audi,(608) 258-4000,Automatic,All Wheel Drive
+2013 Audi allroad 4dr Wgn Premium Plus Station Wagon,WA1UFAFL7DA060634,Audi,allroad,2013,23800,56581,Moonlight Blue Metallic,BEIGE / BROWN,Zimbrick Audi,(608) 258-4000,Automatic,All Wheel Drive
+2015 Audi A4 4dr Sdn Auto quattro 2.0T Premium Car,WAUBFAFL2FN028356,Audi,A4,2015,23500,27784,Ibis White,CHESTNUT BROWN / BLACK,Zimbrick Audi,(608) 258-4000,Automatic,All Wheel Drive
+2015 Audi A4 4dr Sdn Auto quattro 2.0T Premium Car,WAUBFAFL8FN023467,Audi,A4,2015,22500,40969,Brilliant Black,BLACK,Zimbrick Audi,(608) 258-4000,Automatic,All Wheel Drive
+2015 Audi A3 4dr Sdn quattro 2.0T Premium Car,WAUBFGFF2F1093227,Audi,A3,2015,22500,23187,Brilliant Black,BLACK,Zimbrick Audi,(608) 258-4000,,
+2015 Audi A3 4dr Sdn FWD 1.8T Premium Car,WAUACGFFXF1063025,Audi,A3,2015,20200,21585,Scuba Blue Metallic,BLACK,Zimbrick Audi,(608) 258-4000,Automated Manual,Front Wheel Drive
+2015 Audi A6 4dr Sdn quattro 3.0T Premium Plus,WAUFGAFC7FN028982,Audi,A6,2015,31900,28164,Phantom Black Pearl Effect,Black,Zimbrick Inc,608-620-7188,Automatic,All Wheel Drive
+2017 Audi A4 2.0 TFSI Auto Season of Audi Premiu,WAUDNAF45HN046972,Audi,A4,2017,31400,2769,Manhattan Gray Metallic,Atlas Beige/Gray,Zimbrick Inc,608-620-7188,,All Wheel Drive
+2015 Audi A6 4dr Sdn quattro 3.0T Premium Plus,WAUFGAFC4FN017146,Audi,A6,2015,30989,29591,Oolong Gray Metallic,Black,Zimbrick Inc,608-620-7188,Automatic,All Wheel Drive
+2014 Audi A6 4dr Sdn quattro 2.0T Premium Plus,WAUGFAFCXEN120108,Audi,A6,2014,25889,20324,Oolong Gray Metallic,Black,Zimbrick Inc,608-620-7188,Automatic,All Wheel Drive
+2015 Audi Q5 quattro 4dr 2.0T Premium Plus,WA1LFAFP1FA109697,Audi,Q5,2015,25500,41555,GRAY,,Zimbrick Inc,608-620-7188,Automatic,All Wheel Drive
+2010 Audi Q5 Premium Plus,WA1LKAFP9AA029326,Audi,Q5,2010,19995,57587,Gray,N/A,Schoepp Motors West,,Automatic,All Wheel Drive
+2016 Audi A5 Premium Plus,WAUM2AFH5GN002237,Audi,A5,2016,37800,9508,RED,N/A,Schoepp Motors West,,Automatic,All Wheel Drive
+2008 Audi A4 2.0T,WAUAF48H98K000290,Audi,A4,2008,11995,76407,BLUE,N/A,Schoepp Motors West,,Automatic,Front Wheel Drive
+2015 Audi A3 1.8T Premium,WAUACHFF5F1110063,Audi,A3,2015,21995,13862,WHITE,N/A,Schoepp Motors West,,Automated Manual,Front Wheel Drive
+2016 Audi Q5,WA1L2AFPXGA004007,Audi,Q5,2016,32950,11808,Brilliant Black,Black,Lexus of Madison,877-510-3625 877-545-4105,Automatic,All Wheel Drive
+2015 Audi A6,WAUGFAFC1FN005723,Audi,A6,2015,27950,24665,BLACK,,Lexus of Madison,877-510-3625 877-545-4105,Automatic,All Wheel Drive
+2014 Audi S7 4.0T Prestige quattro Tiptronic,WAUW2AFC9EN038958,Audi,S7,2014,36900,84938,Black,Leather,MSI Auto Sales,608-833-3012,Automated Manual,All Wheel Drive
+2013 Audi Q5 2.0T Quattro Premium Plus,WA1LFAFPXDA043129,Audi,Q5,2013,22995,64041,Brilliant Black,,Fields Jaguar Land Rover Volvo Madison,866-700-7434,Automatic,All Wheel Drive
+2015 Audi Q3 2.0T Quattro Prestige,WA1GFCFS7FR007355,Audi,Q3,2015,26995,35431,Silver,,Fields Jaguar Land Rover Volvo Madison,866-700-7434,Automatic,All Wheel Drive
+2009 Audi A6 3.0T Quattro,WAUSG74F39N018310,Audi,A6,2009,,122397,Ibis White,,Fields Jaguar Land Rover Volvo Madison,866-700-7434,Automatic,All Wheel Drive
+2015 Audi Q5 2.0T Quattro Premium,WA1LFAFP8FA098875,Audi,Q5,2015,25348,69199,Black,Black,Fields Jaguar Land Rover Volvo Madison,866-700-7434,Automatic,All Wheel Drive
+2014 Audi A6 3.0 Quattro TDI Premium Plus,WAUHMAFC0EN006709,Audi,A6,2014,29386,51336,Black,Black,Fields Jaguar Land Rover Volvo Madison,866-700-7434,Automatic,All Wheel Drive
+Used 2015 Audi A3 1.8T Premium,WAUACGFF1F1008589,Audi,A3,2015,17977,35595,Phantom Black Pearl Effect,Black,Russ Darrow Kia,888-356-1417,Automated Manual,Front Wheel Drive
+Used 2011 Audi A5 2.0T Prestige Quattro,WAUVFAFR0BA056093,Audi,A5,2011,12998,103654,Silver,,Russ Darrow Kia,888-356-1417,Automatic,All Wheel Drive
+Used 2013 Audi Allroad 2.0T Premium Plus Quattro,WA1UFAFLXDA232302,Audi,allroad,2013,21791,52597,Ice Silver Metallic,Black,Russ Darrow Kia,888-356-1417,Automatic,All Wheel Drive
+Used 2014 Audi A4 2.0T Premium Quattro,WAUDFAFL2EN031457,Audi,A4,2014,21444,36340,Red,,Russ Darrow Kia,888-356-1417,Manual,All Wheel Drive
+Used 2008 Audi Q7 4.2 Premium quattro,WA1BV74L08D028421,Audi,Q7,2008,10365,165133,Ice Silver Metallic,Black,Russ Darrow Kia,888-356-1417,Automatic,All Wheel Drive
+Used 2017 Audi A4 2.0T Premium Quattro,WAUANAF45HN052791,Audi,A4,2017,29997,18568,White,Black,Russ Darrow Kia,888-356-1417,Automatic,All Wheel Drive
+Used 2015 Audi A4 2.0T Premium Plus Quattro,WAUFFAFL4FN004979,Audi,A4,2015,22759,41716,White,gray/black,Russ Darrow Kia,888-356-1417,Automatic,All Wheel Drive
+Used 2008 Audi A4 2.0T,WAUDF78E38A018780,Audi,A4,2008,6944,101184,,,Russ Darrow Kia,888-356-1417,Automatic,All Wheel Drive
+Used 2015 Audi A3 2.0T Premium Plus Quattro,WAUEFGFF9F1023009,Audi,A3,2015,19577,45209,Monsoon Gray Metallic,Titanium Gray,Russ Darrow Kia,888-356-1417,Automated Manual,All Wheel Drive
+Used 2017 Audi Q5 2.0T Premium Quattro,WA1C2AFP7HA095772,Audi,Q5,2017,32996,20855,Brilliant Black,Black,Russ Darrow Kia,888-356-1417,,All Wheel Drive
+Used 1996 Audi A4 2.8 quattro,WAUEA88D1TA263831,Audi,A4,1996,1499,174554,Silver,Gray,Russ Darrow Kia,888-356-1417,Manual,All Wheel Drive
+2012 Audi A4 Premium,WAUBFAFL8CN011895,Audi,A4,2012,17599,40000,Silver,Gray,Carmax Madison,608-286-3969,Automatic,All Wheel Drive
+2017 Audi A4 Premium,WAUANAF43HN050554,Audi,A4,2017,29500,16498,Cuvee Silver Metallic,Black,Smart Motors,866-489-6405 877-240-4548,Automatic,All Wheel Drive
+2012 Audi A4 2.0T Premium,WAUBFAFL5CN005214,Audi,A4,2012,15997,80630,Silver,,Metro Kia of Madison,(608) 443-5700,Automatic,All Wheel Drive
+2013 Audi S4,WAUBGAFL6DA188998,Audi,S4,2013,21900,28795,Black,,Auto Works,608-222-3119,Automated Manual,All Wheel Drive
+2014 Audi S5,WAUGGAFR0EA014050,Audi,S5,2014,28995,26254,Brilliant Black,,Auto Works,608-222-3119,Manual,All Wheel Drive
+2013 Audi TTS 2.0T Prestige,TRUK1AFK2D1001600,Audi,TTS,2013,28500,28449,Black,,Dane County Chrysler Dodge Jeep RAM,888-217-4833 888-708-8920,Automated Manual,All Wheel Drive
+Pre-Owned 2012 Audi Q5 2.0T Premium,WA1LFAFP8CA074393,Audi,Q5,2012,16510,81296,Silver,Black,Francois Sales & Service,608-424-3375,Automatic,All Wheel Drive
+2012 Audi A7 Sedan V-6 cyl,WAUSGAFC8CN001932,Audi,A7,2012,25700,73145,Ice Silver Metallic,BLACK,Evansville Ford,(608) 882-4700,Automatic,All Wheel Drive
+2013 Audi S4 3.0T quattro Premium Plus,WAUBGAFL6DA052130,Audi,S4,2013,21995,83984,Silver,,Monticello Ford - Mercury,763-295-2056,Automated Manual,All Wheel Drive
+2017 Audi Q5 2.0T Premium,WA1C2AFP9HA099371,Audi,Q5,2017,33859,28062,Moonlight blue metallic,TITANIUM GRAY / STEEL GRAY,Griffin Ford Lincoln,888-767-2763,,All Wheel Drive
+Used 2011 Audi A4 2.0T Premium,WAUBFAFL2BN008294,Audi,A4,2011,10488,108417,Meteor Gray Pearl Effect,Black W/leather Seating Surfaces,Burtness Chevrolet,608-879-2973,Automatic,All Wheel Drive
+2011 Audi R8 5.2,WUAVNAFG4BN001601,Audi,R8,2011,82495,45387,Ibis White/Black Roof,Black,Kearns Motor Car,920-674-6777,Automated Manual,All Wheel Drive
+2010 Audi Q5 3.2 Premium,WA1LKAFP9AA090014,Audi,Q5,2010,12989,120054,Blue,Cinnamon,Kearns Motor Car,920-674-6777,Automatic,All Wheel Drive
+2015 Audi R8 5.2,WUAVNAFG2F7001607,Audi,R8,2015,129989,10918,Mythos Black Metallic/Black Roof,Black,Kearns Motor Car,920-674-6777,Automated Manual,All Wheel Drive
+2018 Audi A6 4d Sedan 2.0T Quattro Sport,WAUF8AFC8JN017012,Audi,A6,2018,39995,16175,BRILLIANT BLACK,,Ubersox Used Car Super Store,,,All Wheel Drive
+2012 Audi Q5 2.0T Premium Plus quattro 2.0T Premium Plus,WA1LFAFP8CA129585,Audi,Q5,2012,17803,63613,Daytona Gray Pearl Effect,CARDAMOM,Bryden Motors Chrysler Dodge Jeep Ram,(877) 588-8766,Automatic,All Wheel Drive
+2011 Audi A5 2.0T Premium (Tiptronic) All-wheel Drive quattro,WAULFAFRXBA079369,Audi,A5,2011,11971,111460,Brilliant Black,TAN,Koenecke Ford Inc,888-629-2701,Automatic,All Wheel Drive
+2017 Audi A3 2.0T Premium Plus Sedan 4-Cylinder TFSI,WAUJ8GFF5H1039655,Audi,A3,2017,31500,4581,Ibis White Black Roof,BLACK,Van Horn Ford of Oconomowoc,,,All Wheel Drive
+2018 Audi Q5 2.0T Premium Plus SUV TFSI,WA1BNAFY8J2004536,Audi,Q5,2018,46398,3067,Mythos Black Metallic,BLACK,Van Horn Ford of Oconomowoc,,,All Wheel Drive
+2015 Audi Q7 3.0 TDI Premium quattro,WA1CMAFE4FD005532,Audi,Q7,2015,29850,91266,,Black,Kunes Country Ford Lincoln,888-446-6028 888-439-7059,Automatic,All Wheel Drive
+2013 Audi S5 3.0T Premium Plus quattro,WAUVGAFH3DN009222,Audi,S5,2013,34500,48768,Silver,Black w/ Gray,Kunes Country Ford Lincoln,888-446-6028 888-439-7059,Automated Manual,All Wheel Drive
+2007 Audi Q7 Premium,WA1BY74L37D045591,Audi,Q7,2007,12672,109492,Quartz Gray Metallic,Cardamom Beige,Kunes Country Ford Lincoln Inc.,(888) 440-2312,Automatic,All Wheel Drive
+2014 Audi Q7 3.0L TDI Premium Plus,WA1LMAFE5ED012326,Audi,Q7,2014,34896,57292,,,Kunes Country Ford Lincoln Inc.,(888) 440-2312,Automatic,All Wheel Drive
+2013 Audi A6 3.0T Prestige,WAUHGAFC8DN044999,Audi,A6,2013,19900,98268,,,Kunes Country Ford Lincoln Inc.,(888) 440-2312,Automatic,All Wheel Drive
+2014 Audi Q5 3.0T Quattro Prestige S-Line,WA1WGAFP2EA036137,Audi,Q5,2014,32950,42040,White,Leather,Champion Motorcars,888-744-1402,Automatic,All Wheel Drive
+2007 Audi A6 3.2 with Tiptronic,WAUDH74FX7N051372,Audi,A6,2007,8750,91847,Black,Leather,Champion Motorcars,888-744-1402,Automatic,All Wheel Drive
+2014 Audi A6,WAUGFAFC7EN119871,Audi,A6,2014,19499,76860,,,Speedway Auto Mall,877-256-9311,Automatic,All Wheel Drive
+Used 2013 Audi A3 Premium Plus,WAUKEAFM0DA030574,Audi,A3,2013,16250,60971,Lava Grey,,Anderson Toyota Lexus,866-619-2362 866-913-8078,Automated Manual,Front Wheel Drive
+2013 Audi Q5 2.0T Premium (Tiptronic) SUV,WA1CFAFPXDA067446,Audi,Q5,2013,19899,64985,Monsoon gray metallic,BLACK,"Napleton's Autowerks, Inc.",877-441-8782,Automatic,All Wheel Drive
+2015 Audi Q7 3.0T S line Prestige (Tiptronic) SUV,WA1DGAFE9FD003237,Audi,Q7,2015,35750,45164,Daytona gray pearl,BLACK,"Napleton's Autowerks, Inc.",877-441-8782,Automatic,All Wheel Drive
+2013 Audi Q7 3.0 TDI Premium (Tiptronic) SUV,WA1LMAFE9DD006432,Audi,Q7,2013,23999,93919,Grey,,"Napleton's Autowerks, Inc.",877-441-8782,Automatic,All Wheel Drive
+2014 Audi Q5 3.0 TDI SUV,WA1CMAFP6EA002729,Audi,Q5,2014,32750,21301,Maya brown metallic,BEIGE,"Napleton's Autowerks, Inc.",877-441-8782,Automatic,All Wheel Drive
+2014 Audi A8 L 3.0T (Tiptronic) Sedan,WAURGAFD4EN004952,Audi,A8,2014,41987,28334,Phantom black pearl,NOUGAT BROWN,"Napleton's Autowerks, Inc.",877-441-8782,Automatic,All Wheel Drive
+2014 Audi A6 3.0 TDI Sedan,WAUHMAFC9EN082042,Audi,A6,2014,23999,80493,Brilliant black,BLACK,"Napleton's Autowerks, Inc.",877-441-8782,Automatic,All Wheel Drive
+2007 Audi A4 2.0T Sedan,WAUDF78E47A073656,Audi,A4,2007,2999,173959,Black,,"Napleton's Autowerks, Inc.",877-441-8782,Manual,All Wheel Drive
+2008 Audi A4 3.2 Avant Wagon,WAUEH98E58A151647,Audi,A4,2008,11999,70756,Gray,,"Napleton's Autowerks, Inc.",877-441-8782,Automatic,All Wheel Drive
+Used 2015 Audi A6 3.0T Prestige,WAUHGAFC1FN029733,Audi,A6,2015,25992,82975,Ice Silver Metallic,Nougat Brown,Napleton Autowerks Loves Park,855-204-8081,Automatic,All Wheel Drive
+2006 Audi A3 2.0T Sportback Hatchback,WAUNF68P86A000661,Audi,A3,2006,4250,142241,Light Silver,,Napleton Auto Werks,,Manual,Front Wheel Drive
+Used 2017 Audi Q3 2.0 TFSI Premium quattro AWD,WA1ECCFS4HR013178,Audi,Q3,2017,32050,16630,Cortina White,Black,MCGRATH CADILLAC,,Automatic,All Wheel Drive
+Used 2015 Audi A4 4dr Sdn Man quattro 2.0T Premium Plus,WAUHFAFL9FN032379,Audi,A4,2015,29994,20026,Mythos Black Metallic,Black,MCGRATH CADILLAC,,Manual,All Wheel Drive
+Used 2015 Audi A4 4dr Sdn CVT FrontTrak 2.0T Premium,WAUAFAFL3FA066178,Audi,A4,2015,18999,81356,Ibis White,Velvet Beige Black,MCGRATH CADILLAC,,Automatic,Front Wheel Drive
+Used 2014 Audi Q5 quattro 4dr 3.0L TDI Premium Plus,WA1DMAFP9EA070513,Audi,Q5,2014,35999,24689,Daytona Gray Pearl,Black,MCGRATH CADILLAC,,Automatic,All Wheel Drive
+Used 2013 Audi Q7 quattro 4dr 3.0L TDI Prestige,WA1WMAFE5DD015822,Audi,Q7,2013,30994,81740,Orca Black Metallic,Black,MCGRATH CADILLAC,,Automatic,All Wheel Drive
+Used 2005 Audi TT 2dr Cpe quattro D.S. Auto,TRUWD28N451015456,Audi,TT,2005,9500,120154,Light Silver,N/A,MCGRATH CADILLAC,,,
+2012 Audi A4 2.0T Premium AWD,WAUBFAFL7CN004226,Audi,A4,2012,11399,136429,Red (Red),Black (Black),Ewald's Hartford Ford,888-473-1309,Automatic,All Wheel Drive
+2014 Audi S4 3.0T Premium Plus Sedan V6 TFSI DOHC Supercharged,WAUBGAFL8EA114919,Audi,S4,2014,31994,53076,Monsoon gray metallic,BLACK,John Amato Ford,866-470-1717,Automated Manual,All Wheel Drive
+Used 2017 Audi Q7 Premium Plus,WA1LAAF78HD018703,Audi,Q7,2017,54984,9897,Glacier White Metallic,Black,Napleton Auto Group,815-398-0505,Automatic,All Wheel Drive
+Used 2017 Audi Q5 Premium,WA1C2AFP3HA077480,Audi,Q5,2017,,29913,Gray,,Napleton Auto Group,815-398-0505,,All Wheel Drive
+Used 2018 Audi SQ5 Premium Plus,WA1A4AFY3J2008394,Audi,SQ5,2018,48995,10913,Black,,Napleton Auto Group,815-398-0505,,All Wheel Drive
+Used 2015 Audi A3 1.8T Premium,WAUACGFFXF1008722,Audi,A3,2015,20000,31385,Scuba Blue Metallic,Black,Napleton Auto Group,815-398-0505,Automated Manual,Front Wheel Drive
+Used 2015 Audi RS 5 RS 5,WUAC6AFH9FN900098,Audi,RS 5,2015,57995,22758,Black,Black,Napleton Cadillac,8779021636,Automated Manual,All Wheel Drive
+Used 2015 Audi A5 Auto quattro 2.0T Premium Plus,WAUMFAFH9FN001742,Audi,A5,2015,35995,13770,Blue,N/A,Napleton Cadillac,8779021636,Automatic,All Wheel Drive
+Used 2015 Audi A5 Auto quattro 2.0T Premium Plus,WAUMFAFH8FN001344,Audi,A5,2015,33995,24315,Blue,N/A,Napleton Cadillac,8779021636,Automatic,All Wheel Drive
+Used 2014 Audi A5 Auto quattro 2.0T Premium,WAUCFAFHXEN011674,Audi,A5,2014,28995,22569,White,N/A,Napleton Cadillac,8779021636,Automatic,All Wheel Drive
+Used 2014 Audi A6 2.0T Premium Plus,WAUGFAFC4EN048970,Audi,A6,2014,21679,47149,Quartz Gray Metallic,,Napleton Auto Group,815-398-0505,Automatic,All Wheel Drive
+Used 2017 Audi A4 Premium,WAUANAF45HN052189,Audi,A4,2017,25783,28784,Brilliant Black,Black,Napleton Auto Group,815-398-0505,Automatic,All Wheel Drive
+Used 2012 Audi A4 2.0T Premium,WAUBFAFL7CN014822,Audi,A4,2012,13481,88142,Blue,,Napleton Auto Group,815-398-0505,Automatic,All Wheel Drive
+Used 2016 Audi A3 2.0T Premium Plus,WAUE8GFF2G1003289,Audi,A3,2016,23991,34822,White,,Napleton Auto Group,815-398-0505,Automated Manual,All Wheel Drive
+Used 2014 Audi Q7 quattro 4dr 3.0T S line Prestige,WA1DGAFE5ED019868,Audi,Q7,2014,33590,43100,White,N/A,RUNDE CHEVROLET BUICK GMC,(877) 241-4358,Automatic,All Wheel Drive
+Used 2014 Audi Q5 quattro 4dr 3.0L TDI Premium Plus,WA1CMAFP8EA082826,Audi,Q5,2014,36370,42434,White,N/A,RUNDE CHEVROLET BUICK GMC,(877) 241-4358,Automatic,All Wheel Drive
+Used 2013 Audi Q7 quattro 4dr 3.0L TDI Premium,WA1CMAFE2DD016753,Audi,Q7,2013,29900,71674,Charcoal,N/A,RUNDE CHEVROLET BUICK GMC,(877) 241-4358,Automatic,All Wheel Drive
+Used 2009 Audi A5 2dr Cpe Auto,WAUDK78T39A049345,Audi,A5,2009,10991,106141,Silver/grey,Black,RUNDE CHEVROLET BUICK GMC,(877) 241-4358,Manual,All Wheel Drive
+Used 2013 Audi A8 L 4.0,WAUR2AFD1DN018997,Audi,A8,2013,26893,93100,Phantom Black Pearl Effect,Black,Boucher Hyundai,888-383-3649 866-508-6541,Automatic,All Wheel Drive
+2014 Audi Q5 3.0T Prestige SUV,WA1WGAFP8EA024574,Audi,Q5,2014,24918,86975,Phantom black pearl,BLACK,Boucher Nissan of Waukesha,877-917-4507,Automatic,All Wheel Drive
+Used 2012 Audi A7 4dr HB quattro 3.0 Prestige,WAUSGAFCXCN001897,Audi,A7,2012,26420,79152,N/A,N/A,International Autos of Waukesha,866-920-8034,Automatic,All Wheel Drive
+2015 Audi A3 2.0T Premium,WAUBFGFF5F1104611,Audi,A3,2015,,25625,White,,Wilde Chrysler Jeep Dodge Subaru,877-437-4505,,
+2017 Audi Q3 Premium,WA1ECCFS9HR004749,Audi,Q3,2017,,26242,Mythos Black Metallic,BLACK,Wilde Chrysler Jeep Dodge Subaru,877-437-4505,Automatic,All Wheel Drive
+2015 Audi A4 2.0T Premium (Tiptronic) Sedan,WAUBFAFLXFN006816,Audi,A4,2015,19000,47874,Monsoon gray metallic,Black,Wilde Honda New & Used Cars,888-582-4889,Automatic,All Wheel Drive
+PRE-OWNED 2010 AUDI A6 3.0T PREMIUM PLUS AWD,WAUFGAFB3AN074566,Audi,A6,2010,10958,130525,Silver,,Wilde Chrysler Jeep Dodge Ram,(888) 459-3431,Automatic,All Wheel Drive
+2017 Audi Q5 Premium Plus,WA1L2AFP2HA059729,Audi,Q5,2017,38998,7000,Silver,Brown,Carmax Waukesha,262-207-6249,Automatic,All Wheel Drive
+Used 2012 Audi A7 4dr HB quattro 3.0 Premium Plus,WAUYGAFC4CN089629,Audi,A7,2012,32772,12696,Gray,N/A,BOUCHER CADILLAC,(877) 205-7085,Automatic,All Wheel Drive
+Pre-Owned 2014 Audi A4 2.0T Premium,WAUBFAFL1EN001101,Audi,A4,2014,17299,71411,White,Black,Wilde Automotive Group,262-290-2181,Automatic,All Wheel Drive
+2015 Audi S5 3.0T Cabriolet,WAUCGAFH1FN005129,Audi,S5,2015,36000,27996,Daytona gray pearl / Black roof,Black,International Alfa Romeo,,Automated Manual,All Wheel Drive
+2013 Audi S4 3.0T Sedan,WAUDGAFL3DA146233,Audi,S4,2013,27491,66286,Ice silver metallic,Black,International Alfa Romeo,,Manual,All Wheel Drive
+2015 Audi Q7 3.0T Premium (Tiptronic) SUV,WA1CGAFE8FD013222,Audi,Q7,2015,40000,12139,Carrara white,Limestone,International Alfa Romeo,,Automatic,All Wheel Drive
+2015 Audi Q7 3.0T Premium (Tiptronic) SUV,WA1LGAFE6FD006141,Audi,Q7,2015,33452,46983,Daytona gray pearl,Limestone gray,International Alfa Romeo,,Automatic,All Wheel Drive
+2013 Audi Q7 3.0 TDI Premium (Tiptronic) SUV,WA1LMBFE8DD012616,Audi,Q7,2013,29000,56743,Daytona gray pearl,Espresso,International Alfa Romeo,,Automatic,All Wheel Drive
+2015 Audi Q5 3.0T SUV,WA1DGAFP9FA068740,Audi,Q5,2015,33500,21374,Moonlight blue metallic,Chestnut brown,International Alfa Romeo,,Automatic,All Wheel Drive
+2015 Audi Q5 3.0T SUV,WA1DGAFP7FA048261,Audi,Q5,2015,31900,35942,Monsoon gray metallic,Black,International Alfa Romeo,,Automatic,All Wheel Drive
+2015 Audi Q5 3.0 TDI SUV,WA1CMAFP3FA128161,Audi,Q5,2015,36000,34476,Brilliant black,Black,International Alfa Romeo,,Automatic,All Wheel Drive
+2012 Audi Q5 2.0T Premium Plus (Tiptronic) SUV,WA1CFBFP9CA044308,Audi,Q5,2012,16500,89610,Brilliant Black,Black,International Alfa Romeo,,Automatic,All Wheel Drive
+2015 Audi Q5 2.0T Premium (Tiptronic) SUV,WA1LFAFP6FA028744,Audi,Q5,2015,28500,39570,Moonlight blue metallic,Beige,International Alfa Romeo,,Automatic,All Wheel Drive
+2016 Audi Q5 2.0T Premium SUV,WA1L2AFP6GA094904,Audi,Q5,2016,35000,17907,Moonlight blue metallic,Pistachio beige,International Alfa Romeo,,Automatic,All Wheel Drive
+2017 Audi Q5 2.0T Premium SUV,WA1C2AFP8HA054700,Audi,Q5,2017,36000,4875,Ibis white,Black,International Alfa Romeo,,,All Wheel Drive
+2018 Audi Q5 2.0T Premium SUV,WA1BNAFY9J2080668,Audi,Q5,2018,46900,14,Mythos black metallic,Black,International Alfa Romeo,,,All Wheel Drive
+2018 Audi Q5 2.0T Premium SUV,WA1BNAFY6J2021089,Audi,Q5,2018,47900,66,Manhattan gray metallic,Black,International Alfa Romeo,,,All Wheel Drive
+2018 Audi Q3 2.0T SUV,WA1ECCFS0JR001311,Audi,Q3,2018,33500,6002,Glacier white metallic,Chestnut brown,International Alfa Romeo,,Automatic,
+2018 Audi Q3 2.0T SUV,WA1JCCFSXJR000519,Audi,Q3,2018,34500,2634,Brilliant black,Black,International Alfa Romeo,,,All Wheel Drive
+2018 Audi Q3 2.0T SUV,WA1JCCFSXJR005641,Audi,Q3,2018,34500,5585,Glacier white metallic,Chestnut brown,International Alfa Romeo,,,All Wheel Drive
+2015 Audi A8 L 3.0T Sedan,WAU3GAFD5FN006281,Audi,A8,2015,42793,43361,Phantom black pearl,Black,International Alfa Romeo,,Automatic,All Wheel Drive
+2015 Audi A7 3.0T Sedan,WAUWGAFC5FN007063,Audi,A7,2015,37435,49532,Phantom black pearl,Black,International Alfa Romeo,,Automatic,All Wheel Drive
+2015 Audi A6 3.0T Sedan,WAUFGAFC0FN030637,Audi,A6,2015,34000,31921,Aviator blue metallic,Black,International Alfa Romeo,,Automatic,All Wheel Drive
+2016 Audi A6 2.0T Premium Sedan,WAUFFAFC3GN106288,Audi,A6,2016,34000,39945,Brilliant black,Black,International Alfa Romeo,,Automatic,All Wheel Drive
+2015 Audi A5 2.0T Premium Coupe,WAUSFAFR1FA034306,Audi,A5,2015,29000,31540,Monsoon gray metallic,Chestnut brown,International Alfa Romeo,,Manual,All Wheel Drive
+2018 Audi A5 2.0T Premium Sportback,WAUENCF53JA028329,Audi,A5,2018,45000,4522,Glacier white metallic,NOUGAT BROWN / BLACK,International Alfa Romeo,,,All Wheel Drive
+2012 Audi A4 2.0T Premium (Tiptronic) Sedan,WAUFFAFL8CA101492,Audi,A4,2012,14900,88075,Glacier White Metallic,Cardamom Beige,International Alfa Romeo,,Automatic,All Wheel Drive
+2017 Audi A4 2.0T Premium Sedan,WAUDNAF4XHN046823,Audi,A4,2017,35000,5720,Ibis white,Black,International Alfa Romeo,,,All Wheel Drive
+2009 Audi A4 2.0T Premium (Tiptronic) Sedan,WAULF78K19N033001,Audi,A4,2009,10000,103949,Ice Silver Metallic,Black,International Alfa Romeo,,Automatic,All Wheel Drive
+2017 Audi A4 2.0T Premium Sedan,WAUANAF43HN028456,Audi,A4,2017,39757,16,Monsoon gray metallic,Black,International Alfa Romeo,,Automatic,All Wheel Drive
+2018 Audi A4 2.0T Premium Sedan,WAUENAF49JA019906,Audi,A4,2018,40953,3987,Mythos black metallic,Black,International Alfa Romeo,,Automatic,
+2018 Audi A4 2.0T Premium Sedan,WAUENAF43JN002298,Audi,A4,2018,41593,4049,Moonlight blue metallic,Nougat brown / Black,International Alfa Romeo,,Automatic,
+2017 Audi A3 2.0T Premium Sedan,WAUJ8GFF0H1005476,Audi,A3,2017,31757,8200,Brilliant black,Black,International Alfa Romeo,,,All Wheel Drive
+2017 Audi A3 2.0T Premium Sedan,WAUJ8GFF6H1036831,Audi,A3,2017,32000,5374,Nano gray metallic,Black,International Alfa Romeo,,,All Wheel Drive
+2016 Audi A3 1.8T Premium Sedan,WAUA7GFF6G1066509,Audi,A3,2016,22500,19184,Brilliant black,Black,International Alfa Romeo,,Automated Manual,Front Wheel Drive
+2015 Audi 2.0T Premium Sedan,WAUBFGFF0F1140691,Audi,A3,2015,33500,24259,Sepang blue pearl,Black / Titanium,International Alfa Romeo,,,
+2014 Audi allroad 2.0T Premium (Tiptronic) Wagon,WA1TFAFL9EA141910,Audi,allroad,2014,24500,41976,Moonlight blue metallic,Beige / Brown,International Alfa Romeo,,Automatic,All Wheel Drive
+2016 Audi S5 3.0T Premium Plus Coupe,WAUC4AFR6GA020977,Audi,S5,2016,43500,27075,Daytona gray pearl,Black,International Alfa Romeo,,Automated Manual,All Wheel Drive
+2012 Audi Q7 3.0T Premium Plus,WA1LGAFE5CD007101,Audi,Q7,2012,26500,6,White,,Lomira Auto Sales & Svc,920-269-4420,Automatic,All Wheel Drive
+2014 Audi Q7 3.0L TDI Prestige,WA1VMAFEXED018941,Audi,Q7,2014,26500,109023,Blue,Black,Lomira Auto Sales & Svc,920-269-4420,Automatic,All Wheel Drive
+2015AudiTT2.0T quattro,TRUSFAFK8F1000696,Audi,TT,2015,31989,18515,Ibis White,,Wheels by R.T.,,Automated Manual,All Wheel Drive
+,WA1WMAFE4ED008880,Audi,Q7,2014,38900,44000,Charcoal,Black,Midwest Highline,,Automatic,All Wheel Drive
+,WAUF2AFC3DN150492,Audi,S6,2013,38900,32550,Moonlight Blue Metallic,Black,Midwest Highline,,Automated Manual,All Wheel Drive
+,WA1LFAFP5CA128930,Audi,Q5,2012,20900,51124,Black,Black,Midwest Highline,,Automatic,All Wheel Drive
+,WAUKFAFL4CN008654,Audi,A4,2012,16500,77146,Black,Black,Midwest Highline,,Automatic,All Wheel Drive
+2016 Audi A6 2.0T Premium,WAUFFAFC1GN115538,Audi,A6,2016,31000,39015,White,BLACK,Jack Safro's Lexus of Brookfield,888-462-0997 888-889-7155,Automatic,All Wheel Drive
+2015 Audi A4 2.0T Premium Plus,WAUFFAFL5FN035920,Audi,A4,2015,22500,40163,Dark Blue,BLACK,Jack Safro's Lexus of Brookfield,888-462-0997 888-889-7155,Automatic,All Wheel Drive
+2014 Audi A4 4DR SDN A4 PREMIUM,WAUBFAFL0EN045199,Audi,A4,2014,,34184,Black,Black,Volkswagen,888-441-0425,Automatic,All Wheel Drive
+2015 Audi A4 4DR SDN MAN QUATTRO 2.0T,WAUDFAFL5FN032717,Audi,A4,2015,,39583,Tornado Gray,,Volkswagen,888-441-0425,Manual,All Wheel Drive
+2014 Audi Q7 TDI Premium Plus,WA1LMAFE4ED017811,Audi,Q7,2014,36991,19607,Daytona Gray Pearl Effect,Black,Volkswagen,888-441-0425,Automatic,All Wheel Drive
+2014 Audi A6 TDI Premium Plus quattro,WAUFMAFC1EN064271,Audi,A6,2014,29991,18842,Phantom Black Pearl Effect,Black,Volkswagen,888-441-0425,Automatic,All Wheel Drive
+2014 Audi A6 TDI Prestige quattro,WAUHMAFC7EN032692,Audi,A6,2014,26991,61829,Moonlight Blue Metallic,Velvet Beige,Volkswagen,888-441-0425,Automatic,All Wheel Drive
+2014 Audi A4 4DR SDN A4 PREMIUM,WAUBFAFL7EN045877,Audi,A4,2014,21990,22220,Black,Black,Volkswagen,(888) 441-0425,Automatic,All Wheel Drive
+2014 Audi A5 2.0T Premium,WAUCFAFR2EA071139,Audi,A5,2014,23388,36826,Ibis White,Black,Ernie von Schledorn Buick GMC Volkswagen,888-231-8988,Automatic,All Wheel Drive
+2008 Audi A4 2.0T quattro,WAUDF78E38A166539,Audi,A4,2008,8495,129095,Ocean Blue Pearl Effect,Beige,Reina International,(262) 781-3336,Automatic,All Wheel Drive
+2013 Audi A4 2.0T quattro Premium,WAUBFAFL1DN036221,Audi,A4,2013,15995,79496,Phantom Black Pearl Effect,Gray with Gray,Reina International,(262) 781-3336,Automatic,All Wheel Drive
+2013 Audi S4 3.0T Premium Plus Sedan quattro,WAUBGAFL0DA200692,Audi,S4,2013,23329,65950,Phantom black pearl,BLACK,Jack Safro Toyota,414-691-0603,Automated Manual,All Wheel Drive
+2011 Audi S4 Prestige,WAUKGAFL3BA009300,Audi,S4,2011,18699,89999,Quartz Gray Metallic,Black w/Leather/Alcantara Seat Trim or Silk Nappa,Heiser Chevrolet Cadillac of West Bend,888-417-1323 866-752-7864,Automated Manual,All Wheel Drive
+2003 Audi A6,WAULD64B83N105874,Audi,A6,2003,4995,127005,Black,Black,Medina Cars Inc,815-678-0374,Automatic,All Wheel Drive
+2015 Audi Q5 AWD Premium:,WA1CFAFP9FA030486,Audi,Q5,2015,,48770,Gray,Black,Lenz Sales & Service,920-922-8818,Automatic,All Wheel Drive
+2015 Audi Q5 AWD Premium Plus: MOON-BENCH-LEATHER-CD PLAYER-AWD,WA1LFAFPXFA057390,Audi,Q5,2015,,33906,Silver,Black,Lenz Sales & Service,920-922-8818,Automatic,All Wheel Drive
+2014 Audi A5 2.0T Premium Plus Cabriolet quattro,WAULFAFH9EN012153,Audi,A5,2014,24995,53221,Black,Leather,Selig Auto Sales and Leasing,877-208-7980,Automatic,All Wheel Drive
+2014 Audi A5 2.0T Premium Plus Cabriolet quattro,WAULFAFH4EN011282,Audi,A5,2014,28596,39181,Black,Leather,Selig Auto Sales and Leasing,877-208-7980,Automatic,All Wheel Drive
+2011 Audi A4 2.0T Premium Plus Avant Quattro,WAUWFAFL0BA051184,Audi,A4,2011,16467,52078,White,Leather,Selig Auto Sales and Leasing,877-208-7980,Automatic,All Wheel Drive
+2016 Audi Q5 2.0T Premium Plus SUV,WA1L2AFP9GA047950,Audi,Q5,2016,35950,22608,Mythos Black Metallic,Chestnut Brown,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi A6 2.0T Premium Plus Sedan,WAUGFAFC6FN040564,Audi,A6,2015,29500,37211,Moonlight Blue Metallic,Nougat Brown,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi Q5 3.0T Premium Plus SUV,WA1DGAFP7FA108734,Audi,Q5,2015,40950,22974,Daytona Gray Pearl Effect,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi A6 2.0T Premium Plus Sedan,WAUGFAFC8FN018386,Audi,A6,2015,28950,30396,Quartz Gray Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2012 Audi A5 2.0T Premium Coupe,WAUCFAFR6CA000815,Audi,A5,2012,,39890,,,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi SQ5 3.0T Premium Plus SUV,WA1CGAFP7FA033724,Audi,SQ5,2015,40950,46951,Glacier White Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2014 Audi A7 3.0 TDI Prestige Hatchback,WAU2MAFC5EN107699,Audi,A7,2014,,50236,Gray,,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi S4 3.0T Premium Plus Sedan,WAUBGAFL7FA040832,Audi,S4,2015,38950,23349,Moonlight Blue Metallic,Black/Silver,INTERNATIONAL AUTOS GROUP,414-543-3000,,
+2016 Audi Q5 2.0T Premium Plus SUV,WA1L2AFP2GA130555,Audi,Q5,2016,37950,12189,Glacier White Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi A4 2.0T Premium Sedan,WAUBFAFL9FN040780,Audi,A4,2015,24950,35701,Brilliant Black,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi Q3 2.0T Premium Plus SUV,WA1GFCF27FR013222,,,,26988,27319,Gray,,INTERNATIONAL AUTOS GROUP,414-543-3000,,
+2018 Audi A3 2.0T Premium Sedan,WAUB8GFF2J1037842,Audi,A3,2018,35288,420,Tango Red Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,
+2015 Audi A3 1.8T Premium (S tronic) Sedan,WAUACGFF0F1111566,Audi,A3,2015,19767,26850,Brilliant red,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automated Manual,Front Wheel Drive
+2018 Audi A5 2.0T Premium Coupe,WAUUNAF59JA008506,Audi,A5,2018,45567,3987,Manhattan gray metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,,All Wheel Drive
+2018 Audi A4 2.0T Prestige Sedan,WAUFNAF43JN003570,Audi,A4,2018,45750,9009,Florett Silver Metallic,Black/Red Contrast Stitch,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,
+2011 Audi A4 2.0T Premium Plus Sedan,WAUFFAFL3BN012064,Audi,A4,2011,10950,103758,Deep Sea Blue Pearl,Cardamom Beige,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2014 Audi A4 2.0T Premium Plus Sedan,WAUFFAFL0EN019154,Audi,A4,2014,24950,30389,Dakota Gray Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2013 Audi A4 2.0T Premium Plus Sedan,WAUFFAFLXDN021637,Audi,A4,2013,20159,41241,Scuba Blue Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi A4 2.0T Premium Plus Sedan,WAUFFAFL4FN033043,Audi,A4,2015,25500,43738,Moonlight Blue Metallic,Beige/Brown,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi A4 2.0T Premium Plus Sedan,WAUFFAFL6FN017460,Audi,A4,2015,24498,35227,Brilliant Black,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi A4 2.0T Premium Plus Sedan,WAUFFAFLXFN037355,Audi,A4,2015,27350,22547,Tornado Gray Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi A4 2.0T Premium Plus Sedan,WAUFFAFL0FN021567,Audi,A4,2015,26950,29151,Florett Silver Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi A4 2.0T Premium Plus Sedan,WAUFFAFL6FN035893,Audi,A4,2015,26976,12212,Florett Silver Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2017 Audi A4 2.0T Premium Plus Sedan,WAUENAF45HN022840,Audi,A4,2017,32850,38103,Moonlight Blue Metallic,Nougat Brown/Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi A4 2.0T Premium Plus Sedan,WAUFFAFL3FA075405,Audi,A4,2015,27650,16837,Ibis White,Beige/Brown,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2018 Audi A4 2.0T Premium Plus Sedan,WAUENAF49JA038097,Audi,A4,2018,41850,5429,Mythos Black Metallic,Black/Red Contrast Stitch,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,
+2017 Audi Q3 2.0T Premium SUV,WA1JCCFS3HR004759,Audi,Q3,2017,,3570,Glacier white metallic,Chestnut brown,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2016 Audi Allroad 2.0T Premium Plus Wagon,WA1UFAFL0GA014941,Audi,allroad,2016,36750,11602,Glacier White Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi A8 L 4.0T Sedan,WAU32AFD2FN024445,Audi,A8,2015,55850,16663,Moonlight Blue Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi A8 L 3.0T Sedan,WAU3GAFD6FN000604,Audi,A8,2015,40950,42600,Monsoon Gray Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi A8 L 3.0T Sedan,WAU3GAFD8FN000880,Audi,A8,2015,39511,53158,Phantom Black Pearl Effect,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi A7 3.0T Prestige Hatchback,WAU2GAFC4FN027674,Audi,A7,2015,48942,34938,Quartz Gray Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi A7 3.0T Prestige Hatchback,WAU2GBFC1FN004696,Audi,A7,2015,39500,62747,Daytona Gray Pearl Effect,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2018 Audi Q7 3.0T Prestige SUV,WA1VAAF79JD004212,Audi,Q7,2018,72500,6117,Florett Silver Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,,
+2015 Audi Q7 3.0T Premium (Tiptronic) SUV,WA1LGAFE0FD028670,Audi,Q7,2015,36967,36820,Graphite gray metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2014 Audi Q7 3.0T Premium SUV,WA1CGAFE8ED013087,Audi,Q7,2014,39407,52732,Daytona Gray Pearl Effect,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi Q7 3.0T Premium SUV,WA1LGAFEXFD012587,Audi,Q7,2015,34950,44968,Carrara White,Cardamom,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi Q7 3.0T Premium SUV,WA1LGAFE3FD020563,Audi,Q7,2015,35750,38649,Glacier White Metallic,Cardamom,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi Q7 3.0T Premium SUV,WA1LGAFEXFD013500,Audi,Q7,2015,39253,39466,Graphite Gray Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2018 Audi Q7 3.0T Premium SUV,WA1LAAF75JD001766,Audi,Q7,2018,,5179,Orca black metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,,
+2017 Audi Q7 3.0T Premium SUV,WA1VAAF76HD059064,Audi,Q7,2017,65767,6796,Orca black metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2018 Audi Q7 3.0T Premium SUV,WA1VAAF78JD011622,Audi,Q7,2018,65967,4945,Orca black metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,,
+2015 Audi Q7 3.0 TDI Premium (Tiptronic) SUV,WA1VMAFEXFD024580,Audi,Q7,2015,34967,61038,Orca black metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2013 Audi Q7 3.0 TDI Premium SUV,WA1LMAFE0DD006562,Audi,Q7,2013,33945,30918,Ice Silver Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2014 Audi Q7 3.0 TDI Premium SUV,WA1LMAFE4ED003925,Audi,Q7,2014,30750,74225,Daytona Gray Pearl Effect,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2012 Audi A4 2.0T Premium (Tiptronic) Sedan,WAUFFAFL0CN011052,Audi,A4,2012,,81283,Ice Silver,,INTERNATIONAL AUTOS GROUP,414-543-3000,Manual,All Wheel Drive
+2015 Audi A4 2.0T Premium (Tiptronic) Sedan,WAUFFAFL1FN014384,Audi,A4,2015,25967,31880,Moonlight blue metallic,Titanium gray / Steel gray,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi A4 2.0T Premium (Tiptronic) Sedan,WAUFFAFL2FN012031,Audi,A4,2015,24767,37814,Florett silver metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2009 Audi A4 2.0T Premium Sedan,WAUSF78K59N013877,Audi,A4,2009,8498,110666,Ice Silver Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2010 Audi A4 2.0T Premium Sedan,WAUBFAFLXAN035273,Audi,A4,2010,9750,115812,Dakar Beige Metallic,Cardamom Beige,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2011 Audi A4 2.0T Premium Sedan,WAUBFAFL7BN003592,Audi,A4,2011,11850,102707,Brilliant Black,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2012 Audi A4 2.0T Premium Wagon,WAUWFAFL3CA011361,Audi,A4,2012,15500,108697,Ice Silver Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2016 Audi A4 2.0T Premium Sedan,WAUBFAFL9GN005027,Audi,A4,2016,26500,45249,Brilliant Black,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2017 Audi A4 2.0T Premium Sedan,WAUANAF45HN030841,Audi,A4,2017,33537,4922,Florett Silver Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2017 Audi A4 2.0T Premium Sedan,WAUANAF47HN008498,Audi,A4,2017,33967,4323,Ibis white,Nougat brown / Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi A5 2.0T Premium Plus Coupe,WAUMFAFR9FA029606,Audi,A5,2015,32404,6131,Mythos Black Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2011 Audi A5 2.0T Premium Plus Coupe,WAURFAFR9BA001806,Audi,A5,2011,16750,90900,Ice Silver Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Manual,All Wheel Drive
+2015 Audi A5 2.0T Premium Plus Coupe,WAUMFAFR2FA032086,Audi,A5,2015,30450,21817,Mythos Black Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi A5 2.0T Premium Plus Coupe,WAUMFAFR4FA054445,Audi,A5,2015,27011,47424,Glacier White Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi A5 2.0T Premium Plus Coupe,WAUMFAFR9FA027967,Audi,A5,2015,28458,32489,Monsoon Gray Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi A5 2.0T Premium Plus Convertible,WAUMFAFH5FN003763,Audi,A5,2015,39750,5207,Tornado Gray Metallic Black Roof,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2013 Audi A5 2.0T Premium (Tiptronic) Coupe,WAULFAFR8DA039018,Audi,A5,2013,13667,114675,Monsoon gray metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2013 Audi A5 2.0T Premium (Tiptronic) Coupe,WAULFAFR8DA080300,Audi,A5,2013,20967,31825,Ice silver metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2018 Audi A5 2.0T Premium Sportback,WAUENCF59JA021532,Audi,A5,2018,45867,5959,Moonlight blue metallic,Nougat brown / Black,INTERNATIONAL AUTOS GROUP,414-543-3000,,All Wheel Drive
+2017 Audi A4 2.0T Premium Sedan,WAUANAF48HN009658,Audi,A4,2017,34967,4959,Ibis white,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2018 Audi A4 2.0T Premium Sedan,WAUENAF43JA029332,Audi,A4,2018,41967,3637,Mythos black metallic,Black / Express red stitching,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,
+2015 Audi A3 2.0T Premium Plus Convertible,WAU3FLFF2F1040718,Audi,A3,2015,24715,46959,Shiraz Red Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automated Manual,All Wheel Drive
+2015 Audi A3 2.0T Premium Plus Convertible,WAU3FLFF7F1055182,Audi,A3,2015,27144,15127,Florett Silver Metallic Black Roof,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automated Manual,All Wheel Drive
+2015 Audi A3 2.0T Premium Plus Sedan,WAUEFGFF3F1018761,Audi,A3,2015,22876,35156,Brilliant Black,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automated Manual,All Wheel Drive
+2015 Audi A3 2.0T Premium Plus Sedan,WAUEFGFF3F1075817,Audi,A3,2015,26750,21380,Scuba Blue Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automated Manual,All Wheel Drive
+2015 Audi A3 2.0T Premium Plus Sedan,WAUEFGFFXF1057671,Audi,A3,2015,23950,20937,Dakota Gray Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automated Manual,All Wheel Drive
+2015 Audi A3 2.0T Premium Sedan,WAUBFGFF5F1109582,Audi,A3,2015,22680,17363,Florett Silver Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,,
+2015 Audi A3 2.0T Premium (S tronic) Sedan,WAUEFGFF1F1089120,Audi,A3,2015,24867,29339,Monsoon gray metallic,Titanium gray,INTERNATIONAL AUTOS GROUP,414-543-3000,Automated Manual,All Wheel Drive
+2015 Audi A3 2.0T Premium (S tronic) Sedan,WAUBFGFF3F1040584,Audi,A3,2015,20867,31372,Monsoon gray metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,,
+2016 Audi A7 3.0T Prestige Hatchback,WAU2GAFC6GN010263,Audi,A7,2016,50500,35294,Mythos Black Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2016 Audi A6 3.0T Premium Plus Sedan,WAUFGAFC0GN003343,Audi,A6,2016,,43488,Ibis white,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2018 Audi A6 3.0T Premium Plus Sedan,WAUH3AFC5JN005200,Audi,A6,2018,53967,4483,Mythos black metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,
+2015 Audi A6 3.0T Sedan,WAUHGAFC1FN047861,Audi,A6,2015,35767,29431,Ice silver metallic,Titanium gray,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2010 Audi A6 3.0 Prestige Sedan,WAUKGBFB2AN045046,Audi,A6,2010,16250,56857,Condor Gray Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi A6 2.0T Premium Plus Sedan,WAUGFAFCXFN005168,Audi,A6,2015,30445,28029,Glacier White Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2016 Audi A6 2.0T Premium Plus Sedan,WAUGFAFC7GN008997,Audi,A6,2016,35846,40893,Mythos Black Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2013 Audi A6 2.0T Premium (Tiptronic) Sedan,WAUGFBFC4DN099275,Audi,A6,2013,16767,88078,Garnet red pearl,Nougat brown,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi A6 2.0T Premium (Tiptronic) Sedan,WAUGFAFC5FN033377,Audi,A6,2015,29967,35816,Phantom black pearl,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2014 Audi Q5 2.0T Premium Plus SUV,WA1LFAFP3EA100983,Audi,Q5,2014,29950,26922,Lava Gray Pearl Effect,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2014 Audi Q5 2.0T Premium Plus SUV,WA1LFAFP0EA063262,Audi,Q5,2014,28250,39472,Cuvee Silver Metallic,Pistachio Beige,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi Q5 2.0T Premium Plus SUV,WA1LFAFPXFA070625,Audi,Q5,2015,30750,31077,Glacier White Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi Q5 2.0T Premium Plus SUV,WA1LFAFP5FA092564,Audi,Q5,2015,28350,59974,Florett Silver Metallic,Titanium Gray,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi Q5 2.0T Premium Plus SUV,WA1LFAFP6FA040005,Audi,Q5,2015,30650,48001,Ibis White,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi Q5 2.0T Premium Plus SUV,WA1LFAFP8FA089674,Audi,Q5,2015,31820,32757,Ibis White,Chestnut Brown,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2018 Audi Q5 2.0T Premium Plus SUV,WA1BNAFY0J2053178,Audi,Q5,2018,46750,6508,Utopia Blue Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,,All Wheel Drive
+2018 Audi Q5 2.0T Premium Plus SUV,WA1BNAFY1J2025518,Audi,Q5,2018,46450,9692,Matador Red Metallic,Nougat Brown,INTERNATIONAL AUTOS GROUP,414-543-3000,,All Wheel Drive
+2018 Audi Q5 2.0T Premium Plus SUV,WA1BNAFY6J2045375,Audi,Q5,2018,46350,5558,Manhattan Gray Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,,All Wheel Drive
+2015 Audi Q5 2.0T Premium (Tiptronic) SUV,WA1LFAFP1FA081884,Audi,Q5,2015,,30000,Monsoon gray metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi Q5 2.0T Premium (Tiptronic) SUV,WA1LFAFP3FA108602,Audi,Q5,2015,,24370,Brilliant black,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi Q5 2.0T Premium (Tiptronic) SUV,WA1LFAFP0FA057155,Audi,Q5,2015,26967,59215,Monsoon gray metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi Q5 2.0T Premium (Tiptronic) SUV,WA1LFAFP2FA078458,Audi,Q5,2015,31967,25867,Mythos black metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2018 Audi Q5 2.0T Premium SUV,WA1BNAFY6J2021092,Audi,Q5,2018,49967,6811,Monsoon gray metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,,All Wheel Drive
+2018 Audi Q5 2.0T Premium SUV,WA1ANAFY7J2007388,Audi,Q5,2018,43436,9648,Manhattan Gray Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,,All Wheel Drive
+2018 Audi Q5 2.0T Premium SUV,WA1BNAFY0J2022092,Audi,Q5,2018,46967,5780,Manhattan gray metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,,All Wheel Drive
+2018 Audi Q5 2.0T Premium SUV,WA1CNAFYXJ2048476,Audi,Q5,2018,47967,4193,Manhattan gray metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automated Manual,All Wheel Drive
+2015 Audi Q3 2.0T Prestige SUV,WA1GFCFS1FR004564,Audi,Q3,2015,26988,51337,Monsoon Gray Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi Q3 2.0T Premium Plus SUV,WA1EFCFS1FR007262,Audi,Q3,2015,26985,26314,Mythos Black Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2014 Audi Q5 3.0T Prestige SUV,WA1VMAFP7EA089517,Audi,Q5,2014,29500,74911,Ibis White,Pistachio Beige,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2014 Audi Q5 3.0T Prestige SUV,WA1WGAFP3EA048071,Audi,Q5,2014,34950,33451,Daytona Gray Pearl Effect,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi Q5 3.0T Premium Plus SUV,WA1DGAFP6FA087519,Audi,Q5,2015,33375,33400,Brilliant Black,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2016 Audi Q5 3.0T Premium Plus SUV,WA1D7AFP3GA114225,Audi,Q5,2016,42500,13670,Moonlight Blue Metallic,Titanium Gray,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2016 Audi Q5 3.0T Premium Plus SUV,WA1D7AFP4GA003540,Audi,Q5,2016,,24119,Glacier white metallic,Pistachio beige,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi Q5 3.0T Premium Plus SUV,WA1DGAFP9FA073047,Audi,Q5,2015,34750,35411,Mythos Black Metallic,Pistachio Beige,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2016 Audi Q5 3.0T Premium Plus SUV,WA1W7AFP8GA012296,Audi,Q5,2016,41967,15222,Glacier white metallic,Pistachio beige,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi S5 3.0T Premium Plus Convertible,WAUCGAFH5FN005974,Audi,S5,2015,42500,14264,Monsoon Gray Metallic Black Roof,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automated Manual,All Wheel Drive
+2018 Audi S5 3.0T Premium Plus Sportback,WAUB4CF54JA008483,Audi,S5,2018,,9231,Glacier white metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,,All Wheel Drive
+2015 Audi S5 3.0T Premium Plus Convertible,WAUCGAFH1FN001372,Audi,S5,2015,41850,22030,Moonlight Blue Metallic Black Roof,Black/Magma Red,INTERNATIONAL AUTOS GROUP,414-543-3000,Automated Manual,All Wheel Drive
+2015 Audi S5 3.0T Coupe,WAUCGAFR3FA033837,Audi,S5,2015,37867,30194,Brilliant black,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automated Manual,All Wheel Drive
+2017 Audi S5 3.0 Cabriolet Convertible,WAUC4AFH5HN002164,Audi,S5,2017,54950,7707,Glacier White Metallic Black Roof,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,,All Wheel Drive
+2015 Audi S4 3.0T Premium Plus Sedan,WAUBGAFL2FA066075,Audi,S4,2015,37950,33782,Daytona Gray Pearl Effect,Black/Brown,INTERNATIONAL AUTOS GROUP,414-543-3000,,
+2016 Audi S3 2.0T Premium Plus Sedan,WAUB1GFF6G1038778,Audi,S3,2016,36967,24236,Florett silver metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automated Manual,All Wheel Drive
+2015 Audi Q7 3.0T S Line Prestige SUV,WA1DGAFE4FD025730,Audi,Q7,2015,39390,36376,Orca Black Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2013 Audi RS 5 4.2 (S tronic) Cabriolet,WUAC6AFH0DN900228,Audi,RS 5,2013,47967,16253,Estoril blue crystal / Black roof,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automated Manual,All Wheel Drive
+2015 Audi SQ5 3.0T SUV,WA1CGAFP8FA023560,Audi,SQ5,2015,38867,33392,Mythos black metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automatic,All Wheel Drive
+2015 Audi S6 4.0T Sedan,WAUF2AFC3FN022420,Audi,S6,2015,54650,21099,Glacier White Metallic,Black,INTERNATIONAL AUTOS GROUP,414-543-3000,Automated Manual,All Wheel Drive
+2004 Audi A4 3.0 quattro,WAULT68E04A213258,Audi,A4,2004,3000,134707,BLACK,,Brown Deer Sales,414-365-1455,Automatic,All Wheel Drive
+1997 Audi A8 4.2 Quattro,WAUBG84DXVN007724,Audi,A8,1997,4995,93026,BLUE,,Brown Deer Sales,414-365-1455,Automatic,All Wheel Drive
+2013 Audi A6 2.0T Premium quattro,WAUGFAFC9DN019544,Audi,A6,2013,16995,66630,Black,Select,Smart Sales & Leasing,414-425-4500,Automatic,All Wheel Drive
+2012 Audi A7 3.0T Premium quattro,WAUSGAFCXCN003214,Audi,A7,2012,25895,76711,Black,Leather,Smart Sales & Leasing,414-425-4500,Automatic,All Wheel Drive
+2013 Audi TT 2.0T Roadster quattro S tronic,TRUSFAFK3D1000702,Audi,TT,2013,27996,19266,Black,Leather,Marengo Auto Group,866-387-6926,Automated Manual,All Wheel Drive
+2007 Audi Q7 4.2 quattro Premium,WA1BV94LX7D058133,Audi,Q7,2007,10999,136107,,,Car King,,Automatic,All Wheel Drive
+2008 Audi A6 3.2 with Tiptronic,WAUDH74F88N173858,Audi,A6,2008,7999,139408,,,Car King,,Automatic,All Wheel Drive
+2007 Audi A8 4.0L quattro,WAUMV44E27N018560,Audi,A8,2007,8999,142637,,,Car King,,Automatic,All Wheel Drive
+2006 Audi A6 3.2 with Tiptronic,WAUDG74F56N053886,Audi,A6,2006,7499,120632,,,Car King,,Automatic,All Wheel Drive
+2006 Audi A4 2.0T quattro,WAUDF78EX6A193640,Audi,A4,2006,6999,122141,,,Car King,,Automatic,All Wheel Drive
+2013 AUDI A5 2.0T PREMIUM PLUS QUATTRO 2L 4inline AWD 8-speed AUTOMATIC,WAULFAFR3DA078762,Audi,A5,2013,19995,24998,GLACIER WHITE METALLIC,S LINE BLACK,Classic Motorcars,866-541-6288,Automatic,All Wheel Drive
+2009 AUDI A5 QUATTRO 3.2L 6V AWD 6-speed MANUAL,WAUDK78T49A008268,Audi,A5,2009,10995,139184,IBIS WHITE,BLACK,Classic Motorcars,866-541-6288,Manual,All Wheel Drive
+2009 AUDI A4 2.0T PREMIUM QUATTRO 2L 4inline AWD 6-speed AUTOMATIC,WAUSF78KX9N048981,Audi,A4,2009,10495,57060,BRILLIANT BLACK,CARDAMOM BEIGE,Classic Motorcars,866-541-6288,Automatic,All Wheel Drive
+2002 Audi A6 2.7T Sedan,WAULD64B72N058867,Audi,A6,2002,3495,188195,Tan,TAN LEATHER,Benoy Motor Sales,(888) 696-3954,Manual,All Wheel Drive
+Used 2014 Audi A6 4dr Sdn quattro 2.0T Premium Plus,WAUGFAFC8EN074889,Audi,A6,2014,23686,47619,Quartz Gray Metallic,Black,Reichert Chevrolet Buick of Woodstock,(815) 321-4542,Automatic,All Wheel Drive
+Used 2017 Audi Q5 2.0 TFSI Premium Plus,WA1M2AFP5HA078716,Audi,Q5,2017,38498,14776,Brilliant Black,Black,Holiday Automotive,(877) 860-9048,,
+Used 2016 Audi S4 4dr Sdn S Tronic Premium Plus,WAUBGAFL6GA005992,Audi,S4,2016,41998,22315,N/A,Aluminum,Holiday Automotive,(877) 860-9048,Automated Manual,All Wheel Drive
+Used 2012 Audi Q5 quattro 4dr 2.0T Premium Plus,WA1LFAFP3CA116534,Audi,Q5,2012,16998,86428,Moonlight Blue Metallic,Light Gray,Holiday Automotive,(877) 860-9048,Automatic,All Wheel Drive
+Used 2014 Audi A6 4dr Sdn quattro 3.0L TDI Prestige,WAUHMAFC3EN019003,Audi,A6,2014,36998,32904,Brilliant Black,Black,Holiday Automotive,(877) 860-9048,Automatic,All Wheel Drive
+Used 2017 Audi A4 2.0T Prestige quattro,WAUFNAF42HN063009,Audi,A4,2017,39999,9633,Mythos Black Metallic,Atlas Beige/black,Van Horn Hyundai Fond Du Lac,,Automatic,All Wheel Drive
+Used 2017 Audi A3 Sedan 2.0T Premium FrontTrak,WAUAUGFF8H1038074,Audi,A3,2017,24288,2869,Brilliant Black,Black,Van Horn Hyundai Fond Du Lac,,Automated Manual,Front Wheel Drive
+Used 2017 Audi A3 Sedan 2.0T Premium Plus,WAUGUGFFXH1041682,Audi,A3,2017,26699,3031,Monsoon Gray Metallic,Black,Van Horn Hyundai Fond Du Lac,,Automated Manual,Front Wheel Drive
+2012 Audi Q5 2.0T Premium Plus 4WD Sport Utility Vehicles,WA1LFAFP9CA138831,Audi,Q5,2012,16911,82725,Black,,Ewald Chrysler Jeep Dodge RAM,414-427-2000,Automatic,All Wheel Drive
+2014 Audi S4 3.0T Sedan,WAUBGAFL1EA154257,Audi,S4,2014,30900,45670,Ice silver metallic,BLACK,5 Corners Dodge,262-375-3900,Automated Manual,All Wheel Drive
+2013AudiS53.0T Cabriolet Quattro,WAUCGAFH3DN001192,Audi,S5,2013,32999,26987,Monsoon Gray Metallic,Black,"Campbells Auto Sport, Inc.",866-455-1745,Automated Manual,All Wheel Drive
+Used 2013 Audi A4 4dr Sdn Auto quattro 2.0T Premium Plus,WAUFFAFL3DN023875,Audi,A4,2013,13766,104112,Silver,Black W/leather Seating Surfaces,Andrew Chevrolet,(414) 228-6200,Automatic,All Wheel Drive
+Pre-Owned 2013 Audi Q7 3.0 TDI Premium Stock:KDD000897,WA1LMAFE1DD000897,Audi,Q7,2013,31633,24232,Black,Black,Volkswagen of Milwaukee North,(888) 336-6441,Automatic,All Wheel Drive
+Pre-Owned 2017 Audi Q3 2.0T Premium Stock:KHR014897,WA1ECCFS8HR014897,Audi,Q3,2017,28595,11459,White,,Volkswagen of Milwaukee North,(888) 336-6441,Automatic,All Wheel Drive
+Pre-Owned 2015 Audi A8 L 3.0 TDI Stock:KFN023311,WAU3MAFD6FN023311,Audi,A8,2015,46501,18764,Black,Black,Volkswagen of Milwaukee North,(888) 336-6441,Automatic,All Wheel Drive
+Pre-Owned 2014 Audi RS 5 4.2 Stock:HV667863C,WUAC6AFR4EA901108,Audi,RS 5,2014,42740,44823,,Black,Volkswagen of Milwaukee North,(888) 336-6441,Automated Manual,All Wheel Drive
+Pre-Owned 2012 Audi A8 4.2 Stock:HLB61183A,WAUAVAFDXCN021335,Audi,A8,2012,21717,107689,Gray,Black,Volkswagen of Milwaukee North,(888) 336-6441,Automatic,All Wheel Drive
+Pre-Owned 2015 Audi A3 2.0T Premium Plus Stock:KF1011009,WAUEFGFF4F1011009,Audi,A3,2015,21343,37314,White,Black,Volkswagen of Milwaukee North,(888) 336-6441,Automated Manual,All Wheel Drive
+Pre-Owned 2001 Audi TT Base Stock:KG8230191A,TRUWX28N811025182,Audi,TT,2001,5879,117351,Blue,Denim Blue,Volkswagen of Milwaukee North,(888) 336-6441,Manual,Front Wheel Drive
+2012 Audi S4 3.0 Premium Plus Sedan,WAUBGAFL7CA017613,Audi,S4,2012,23953,55721,Brilliant Black,BLACK,Umansky Motor Cars,877-650-2166,Automated Manual,All Wheel Drive
+2015 Audi Q5,WA1LFAFP1FA078435,Audi,Q5,2015,31500,15758,Florett silver metallic,BLACK,Lexus of Milwaukee,(414) 386-1368,Automatic,All Wheel Drive
+2014 Audi A4,WAUFFAFL1EN014030,Audi,A4,2014,21000,53652,Brilliant black,BLACK,Lexus of Milwaukee,(414) 386-1368,Automatic,All Wheel Drive
+2015 Audi A3 2.0T Premium (S tronic) Sedan,WAUEFGFF9F1011846,Audi,A3,2015,17495,63281,Dakota gray metallic,BLACK,Diamond Jim's Motorcars,888-261-9579,Automated Manual,All Wheel Drive
+2013 Audi A5 2.0T Premium (Tiptronic) Cabriolet,WAULFAFH3DN003561,Audi,A5,2013,21997,58389,Moonlight blue metallic / Black roof,BROWN,Diamond Jim's Motorcars,888-261-9579,Automatic,All Wheel Drive
+2014 Audi A5 2.0T Prestige Convertible,WAUWFAFHXEN000543,Audi,A5,2014,29000,32307,Monsoon Gray Metallic Black Roof,BLACK,Rosen Nissan Kia,414-282-9300,Automatic,All Wheel Drive
+2017 Audi Q5 Premium SUV,WA1C2AFP4HA096460,Audi,Q5,2017,33173,28953,Black,Black w/Leather Seating Surfaces,Van Horn Latino,(855) 416-3161,,All Wheel Drive
+2014 Audi A6 3.0 TDI Premium Plus quattro Sedan,WAUFMAFC0EN013697,Audi,A6,2014,27887,49633,White,Titanium Gray,Van Horn Latino,(855) 416-3161,Automatic,All Wheel Drive
+2014 Audi Q5 quattro 4dr 3.0L TDI Premium Plus SUV,WA1CMAFP0EA043910,Audi,Q5,2014,29995,23747,Lava Gray Pearl Effect,Titanium Gray,Autosource Motors Inc.,888-784-8893,Automatic,All Wheel Drive
+2014 Audi Q7 TDI PREMIUM PLUS SUV,WA1LMAFE6ED011671,Audi,Q7,2014,30998,29869,Ice Silver Metallic,Black,Autosource Motors Inc.,888-784-8893,Automatic,All Wheel Drive
+2014 Audi Q7 TDI PREMIUM PLUS SUV,WA1LMAFE8ED001322,Audi,Q7,2014,28995,60671,Night Black,Black,Autosource Motors Inc.,888-784-8893,Automatic,All Wheel Drive
+2014 Audi Q7 quattro 4dr 3.0L TDI Premium Plus SUV,WA1LMAFE9ED003998,Audi,Q7,2014,27999,56678,Graphite Gray Metallic,Black,Autosource Motors Inc.,888-784-8893,Automatic,All Wheel Drive
+2014 Audi Q7 TDI DIESEL SUV,WA1LMAFE2ED009920,Audi,Q7,2014,27995,64327,Daytona Gray Pearl Effect,Black,Autosource Motors Inc.,888-784-8893,Automatic,All Wheel Drive
+2014 Audi Q7 quattro 4dr 3.0L TDI Premium Plus SUV,WA1LMAFE5ED005490,Audi,Q7,2014,25999,75270,Graphite Gray Metallic,Black,Autosource Motors Inc.,888-784-8893,Automatic,All Wheel Drive
+2015 Audi Q7 quattro 4dr 3.0L TDI Premium Plus SUV,WA1LMAFE8FD028537,Audi,Q7,2015,38999,5924,Ice Silver Metallic,Black,Autosource Motors Inc.,888-784-8893,Automatic,All Wheel Drive
+2014 Audi Q5 TDI PREMIUM PLUS SUV,WA1CMAFP4EA065828,Audi,Q5,2014,27995,39580,Brilliant Black,Black,Autosource Motors Inc.,888-784-8893,Automatic,All Wheel Drive
+2012 Audi Q5 quattro 4dr 2.0T Premium Plus SUV,WA1LFAFPXCA045588,Audi,Q5,2012,,86466,Ice Silver Metallic,Black,Autosource Motors Inc.,888-784-8893,Automatic,All Wheel Drive
+2015 Audi Q7 quattro 4dr 3.0L TDI Premium Plus SUV,WA1LMAFE3FD021737,Audi,Q7,2015,33995,31556,Graphite Gray Metallic,Black,Autosource Motors Inc.,888-784-8893,Automatic,All Wheel Drive
+2015 Audi Q5 quattro 4dr 3.0L TDI Premium Plus SUV,WA1CMAFP3FA077731,Audi,Q5,2015,28995,39269,Moonlight Blue Metallic,Black,Autosource Motors Inc.,888-784-8893,Automatic,All Wheel Drive
+2016 Audi Q3 quattro 4dr 2.0T Prestige SUV,WA1GFCFS0GR000149,Audi,Q3,2016,26999,39049,Florett Silver Metallic,Black,Autosource Motors Inc.,888-784-8893,Automatic,All Wheel Drive
+2014 Audi A8 L TDI PREMIUM SEDAN,WAURMAFD8EN001027,Audi,A8,2014,33998,59788,Phantom Black Pearl Effect,Black,Autosource Motors Inc.,888-784-8893,Automatic,All Wheel Drive
+2011 Audi A6 4dr Sedan quattro 3.0T Prestige,WAUKGAFB9BN063894,Audi,A6,2011,14588,77614,Night Blue Pearl,Cardamom Beige,Autosource Motors Inc.,888-784-8893,Automatic,All Wheel Drive
+2013 Audi A6 4dr Sedan quattro 2.0T Premium Plus,WAUGFAFC2DN145650,Audi,A6,2013,15995,91321,Quartz Gray Metallic,Black,Autosource Motors Inc.,888-784-8893,Automatic,All Wheel Drive
+2016 Audi A6 4dr Sedan quattro 3.0L TDI Premium Plus,WAUFMAFC8GN010534,Audi,A6,2016,36998,10597,Tornado Gray Metallic,Black,Autosource Motors Inc.,888-784-8893,Automatic,All Wheel Drive
+2015 Audi A6 4dr Sedan quattro 3.0L TDI Premium Plus,WAUFMBFC2FN031335,Audi,A6,2015,35998,14530,Oolong Gray Metallic,Black,Autosource Motors Inc.,888-784-8893,Automatic,All Wheel Drive
+2015 Audi A3 4dr Sedan quattro 2.0T Premium,WAUBFGFF8F1011825,Audi,A3,2015,19999,22174,Ice Silver Metallic,Black,Autosource Motors Inc.,888-784-8893,,
+2015 Audi A3 4dr Sedan FWD 1.8T Premium,WAUACGFF4F1020414,Audi,A3,2015,16999,44556,Brilliant Black,Black,Autosource Motors Inc.,888-784-8893,Automated Manual,Front Wheel Drive
+2016 Audi A3 4dr Sedan quattro 2.0T Premium,WAUB8GFF8G1084916,Audi,A3,2016,21999,15705,Brilliant Black,Black,Autosource Motors Inc.,888-784-8893,Automated Manual,All Wheel Drive
+2013 Audi Q7 quattro 4dr 3.0L TDI Premium Plus SUV,WA1LMAFE0DD010854,Audi,Q7,2013,28995,45191,Lava Gray Pearl Effect,Black,Autosource Motors Inc.,888-784-8893,Automatic,All Wheel Drive
+2010 Audi S5 Cabriolet 2dr Cabriolet Prestige Convertible,WAUVGAFH8AN010779,Audi,S5,2010,19995,48138,Brilliant Black,Black,Autosource Motors Inc.,888-784-8893,Automated Manual,All Wheel Drive
+2013 Audi Q7 quattro 4dr 3.0L TDI Premium Plus SUV,WA1LMAFE5DD008890,Audi,Q7,2013,28995,46118,Lava Gray Pearl Effect,Black,Autosource Motors Inc.,888-784-8893,Automatic,All Wheel Drive
+2013 Audi Q7 quattro 4dr 3.0L TDI Prestige SUV,WA1WMAFEXDD012477,Audi,Q7,2013,27999,70623,Glacier White Metallic,Black,Autosource Motors Inc.,888-784-8893,Automatic,All Wheel Drive
+2013 Audi Q7 quattro 4dr 3.0L TDI Premium Plus SUV,WA1LMAFE7DD008583,Audi,Q7,2013,23998,76926,Glacier White Metallic,Black,Autosource Motors Inc.,888-784-8893,Automatic,All Wheel Drive
+2013 Audi Q7 quattro 4dr 3.0L TDI Premium Plus SUV,WA1LMAFE7DD010916,Audi,Q7,2013,26999,62436,Glacier White Metallic,Black,Autosource Motors Inc.,888-784-8893,Automatic,All Wheel Drive
+2013 Audi Q7 quattro 4dr 3.0L TDI Premium Plus SUV,WA1LMAFE8DD006454,Audi,Q7,2013,26995,52917,Orca Black Metallic,Cardamom,Autosource Motors Inc.,888-784-8893,Automatic,All Wheel Drive
+2014 Audi Q7 quattro 4dr 3.0L TDI Premium Plus SUV,WA1LMAFE1ED012940,Audi,Q7,2014,,23659,Graphite Gray Metallic,Black,Autosource Motors Inc.,888-784-8893,Automatic,All Wheel Drive
+2014 Audi Q7 quattro 4dr 3.0L TDI Prestige SUV,WA1VMAFE6ED016264,Audi,Q7,2014,33999,29878,Night Black,Black,Autosource Motors Inc.,888-784-8893,Automatic,All Wheel Drive
+2003 Audi A6 2.7t Quattro AWD,WAULD64B43N070055,Audi,A6,2003,,,SILVER,,Awesome Autos 2,920-230-6655,Automatic,All Wheel Drive
+2009 Audi A4 2.0T Premium (Tiptronic) Sedan,WAULF78K79A122577,Audi,A4,2009,9425,123133,Black,,Anderson-Weber Toyota,888-631-3882,Automatic,All Wheel Drive
+Used 2014 Audi Q7 3.0T S line Prestige,WA1DGAFE1ED017714,Audi,Q7,2014,31500,52198,Black,Black,MAZDA OF CRYSTAL LAKE,,Automatic,All Wheel Drive
+Used 2004 Audi A4 1.8T,WAUJC68E14A073213,Audi,A4,2004,3750,148490,Blue,,MAZDA OF CRYSTAL LAKE,,Manual,Front Wheel Drive
+2010 Audi A4 2.0T Sedan quattro Tiptronic 6-Speed Automatic,WAUFFAFL4AN054323,Audi,A4,2010,10499,104669,Silver,Black,Gateway Motors,414-208-1777,Automatic,All Wheel Drive
+2008 Audi A4 2.0T quattro with Tiptronic 6-Speed Automatic,WAUDF78E88A094639,Audi,A4,2008,6999,101862,Blue,,Gateway Motors,(414) 208-1777,Automatic,All Wheel Drive
+2017 Audi Q5 2.0T Premium SUV,WA1C2AFP1HA092849,Audi,Q5,2017,31994,18829,Brilliant black,BLACK,Gregory Hyundai,888-612-9983 888-612-9986,,All Wheel Drive
+2017 Audi Q5 2.0T Premium SUV,WA1C2AFP3HA066169,Audi,Q5,2017,31774,23746,Glacier white metallic,BLACK,Gregory Hyundai,888-612-9983 888-612-9986,,All Wheel Drive
+2015 Audi A3 2.0T Premium Sedan,WAUBFGFF3F1055960,Audi,A3,2015,17796,39825,Mythos black metallic,TITANIUM GRAY,Gregory Hyundai,888-612-9983 888-612-9986,,
+2017 Audi Q5 2.0T Premium SUV,WA1C2AFP9HA069450,Audi,Q5,2017,,33846,Ibis white,PISTACHIO BEIGE,Zeigler Nissan Gurnee,847-265-1122,,All Wheel Drive
+2017 Audi Q3 2.0T Premium SUV,WA1ECCFSXHR008342,Audi,Q3,2017,30850,30155,Glacier white metallic,BLACK,Zeigler Nissan Gurnee,847-265-1122,Automatic,All Wheel Drive
+2008 Audi TT 3.2 (S-tronic) Convertible,TRURD38J581005023,Audi,TT,2008,9888,149412,Sahara Silver Metallic,SADDLE BROWN,Zeigler Nissan Gurnee,847-265-1122,Automated Manual,All Wheel Drive
+2014 Audi S5 3.0T Coupe,WAUVGAFR8EA038720,Audi,S5,2014,32963,34926,Phantom black pearl,BLACK,Zeigler Nissan Gurnee,847-265-1122,Automated Manual,All Wheel Drive
+2015 Audi Q7 3.0T Quattro Premium Plus AWD 3.0T quattro Premium Plus SUV,WA1LGAFE5FD005952,Audi,Q7,2015,33500,29897,Glacier White Metallic,,Zeigler Nissan Gurnee,847-265-1122,Automatic,All Wheel Drive
+2015 Audi Q7 3.0T Premium (Tiptronic) SUV,WA1LGAFE8FD006092,Audi,Q7,2015,29995,46135,Orca black metallic,BLACK,Zeigler Nissan Gurnee,847-265-1122,Automatic,All Wheel Drive
+2017 Audi Q7 3.0T Premium SUV,WA1LAAF76HD043129,Audi,Q7,2017,50992,14315,Night black,BLACK,Zeigler Nissan Gurnee,847-265-1122,Automatic,All Wheel Drive
+2015 Audi Q3 2.0T Premium Plus (Tiptronic) SUV,WA1EFCFS4FR006865,Audi,Q3,2015,20997,73683,Mythos black metallic,CHESTNUT BROWN,Zeigler Nissan Gurnee,847-265-1122,Automatic,All Wheel Drive
+2016 Audi Q3 2.0T Premium Plus SUV,WA1EFCFS2GR017266,Audi,Q3,2016,28000,17716,Hainan Blue Metallic,ROCK GRAY,Zeigler Nissan Gurnee,847-265-1122,Automatic,All Wheel Drive
+2017 Audi A8 L 3.0T Sedan,WAU44AFD6HN013420,Audi,A8,2017,52995,14520,Brilliant black,BLACK,Zeigler Nissan Gurnee,847-265-1122,,All Wheel Drive
+2013 Audi A7 3.0T Premium Sedan,WAUYGAFC7DN098035,Audi,A7,2013,25990,79907,Black,NOUGAT BROWN,Zeigler Nissan Gurnee,847-265-1122,Automatic,All Wheel Drive
+2010 Audi A4 2.0T Premium Sedan,WAUBFAFL8AN046658,Audi,A4,2010,9999,139258,,,Zeigler Nissan Gurnee,847-265-1122,Automatic,All Wheel Drive
+2017 Audi A4 2.0T Premium Sedan,WAUANAF40HN051869,Audi,A4,2017,27689,16750,Manhattan gray metallic,BLACK,Zeigler Nissan Gurnee,847-265-1122,Automatic,All Wheel Drive
+2016 Audi A3 Sportback e-Tron 1.4T Premium 1.4T Premium Sportback,WAUUPBFF4GA075922,Audi,A3 Sportback E-tron,2016,,23274,Brilliant Black,,Zeigler Nissan Gurnee,847-265-1122,Automated Manual,Front Wheel Drive
+2014 Audi A6 2.0T Premium Plus (Multitronic),WAUDFAFC4EN024803,Audi,A6,2014,22995,37019,Brilliant black,BLACK,CJ Wilson Mazda of Lake Villa,847-245-7600,Automatic,Front Wheel Drive
+2015 Audi A6 3.0T Quattro Premium Plus,WAUFGAFC9FN025615,Audi,A6,2015,28491,45025,Brilliant Black,,Anastos Motors,262-657-6020,Automatic,All Wheel Drive
+2016 Audi A3 2.0T Quattro Premium Sedan,WAUB8GFF9G1030492,Audi,A3,2016,19990,29813,Monsoon gray metallic,Titanium gray,Hertz Car Sales Crystal Lake,888-800-6849,Automated Manual,All Wheel Drive
+2000 AUDI A6 2.8 QUATTRO,WAUEH24B9YN129159,Audi,A6,2000,5990,58114,SILVER,,Boutique Motors Inc,(224) 249-3776,Automatic,All Wheel Drive
+2008 Audi A8 L 4.2L Sedan,WAUMV94E48N015903,Audi,A8,2008,,60220,White,,Palmen Dodge Chrysler Jeep,855-457-7752,Automatic,All Wheel Drive
+2015 Audi A3 2.0T quattro Premium AWD Sedan,WAUBFGFF6F1065219,Audi,A3,2015,22100,28999,Brilliant Black,Black,Jacobson Auto Sales Inc,920-235-3040,,
+2015 Audi A3 2.0T quattro Premium Plus Sedan,WAUEFGFF0F1093966,Audi,A3,2015,27000,9484,Lotus Gray Metallic,Black,Jacobson Auto Sales Inc,920-235-3040,Automated Manual,All Wheel Drive
+Used 2015 Audi A3 2.0T Prestige,WAUWFLFF8F1037786,Audi,A3,2015,25934,25156,Gray,N/A,Dekalb Sycamore Chevrolet Cadillac GMC,888-776-7860 888-476-5859,Automated Manual,All Wheel Drive
+2007 Audi A3,WAUHF78P17A207543,Audi,A3,2007,9495,87422,Brilliant Red,Black Full Leather,Autowerks Group Inc.,,Manual,Front Wheel Drive
+2009 Audi Q5,WA1KK78R89A031299,Audi,Q5,2009,,82679,Brilliant Black,Full Leather,Autowerks Group Inc.,,Automatic,All Wheel Drive
+2015 AUDI R8,WUASUAFG8F7002038,Audi,R8,2015,109999,29000,DAYTONA GREY,TITANIUM GREY NAPPA LEATHER I,International European Motor Group,877-647-2584,Automated Manual,All Wheel Drive
+2014 Audi A6 Premium Plus,WAUGFAFC8EN001800,Audi,A6,2014,24998,53000,Brown,Black,Carmax Kenosha,262-857-6212,Automatic,All Wheel Drive
+2015 Audi Q7 3.0T S line Prestige 1 Owner Clean Carfax,WA1DGAFE7FD014396,Audi,Q7,2015,26999,107673,Atlantis Blue Metallic,Black,XL Auto Group,888-693-1642,Automatic,All Wheel Drive
+2013 Audi S5 Prestige,WAUVGAFR2DA007980,Audi,S5,2013,29999,42509,Brilliant Black,Black,XL Auto Group,888-693-1642,Automated Manual,All Wheel Drive
+2013 Audi S8 Quattro Driver Assist Pkg Cold Weather Pkg Carbon Fiber,WAUD2AFD8DN021972,Audi,S8,2013,34777,95037,Phantom Black Pearl,Black,XL Auto Group,888-693-1642,Automatic,All Wheel Drive
+2014 Audi S8 $119k Msrp Full leather Pkg 1 Owner California car!,WAUD2AFD8EN007832,Audi,S8,2014,44999,63720,Ice Silver Metallic,Black,XL Auto Group,888-693-1642,Automatic,All Wheel Drive
+2013 Audi S8 B&O Drivers Asst Rear DVD's Night Vision 1 Owner Clean Carfax,WAUD2AFD0DN016376,Audi,S8,2013,130495,73707,Glacier White Metallic,Black,XL Auto Group,888-693-1642,Automatic,All Wheel Drive
+2007 Audi S8 Quattro Premium Pkg Carbon Fiber,WAUPN44EX7N019226,Audi,S8,2007,16999,97649,Brilliant Black,Black,XL Auto Group,888-693-1642,Automatic,All Wheel Drive
+2009 Audi S5! 6-Speed Manual Trans!,WAURV78T79A030374,Audi,S5,2009,19999,81502,Sprint Blue Pearl,Black,XL Auto Group,888-693-1642,Automatic,All Wheel Drive
+2011 Audi A8 L Quattro Night Vision Clean Carfax California Car!,WAURVAFD7BN026736,Audi,A8,2011,22999,76148,Ice Silver Metallic,Black,XL Auto Group,888-693-1642,Automatic,All Wheel Drive
+2012 Audi S4 Prestige,WAUKGAFLXCA059144,Audi,S4,2012,22999,85758,Monsoon Gray Metallic,Black/Silver,XL Auto Group,888-693-1642,Automated Manual,All Wheel Drive
+2012 Audi S4 Prestige,WAUKGAFL9CA004698,Audi,S4,2012,23999,73759,Ibis White,Black,XL Auto Group,888-693-1642,Automated Manual,All Wheel Drive
+2016 Audi TTS Coupe 2.0T,TRUC1AFV6G1017608,Audi,TTS,2016,39990,20415,Gray,Black,Executive Motor Carz,877-668-1553,Automated Manual,All Wheel Drive
+2001 Audi S4 2.7 QUATTRO,WAURD68D31A044752,Audi,S4,2001,8990,115770,Blue,Black,Executive Motor Carz,877-668-1553,Automatic,All Wheel Drive
+2005 Audi S4 QUATTRO,WAUGL68E45A482768,Audi,S4,2005,9980,101254,Gray,Other,Executive Motor Carz,877-668-1553,Automatic,All Wheel Drive
+2015 Audi A3 2.0T Premium Sedan,WAUBFGFF8F1099145,Audi,A3,2015,30580,36782,Misano Red Pearl Effect,Black,Van Horn Auto Group,(800) 236-1415,,
+2001 Audi TT Coupe Quattro,TRUWT28N911033447,Audi,TT,2001,5991,134392,Black,,Route 41 Budget Auto,877-201-9062,Manual,All Wheel Drive
+2005 Audi S4 Sport Sedan,WAUPL68E25A048428,Audi,S4,2005,9999,106459,Blue,,Route 41 Budget Auto,877-201-9062,Manual,All Wheel Drive
+2015 Audi A4 Premium Plus 2.0T Quattro S-line Navigation,WAUFFAFL8FN005617,Audi,A4,2015,28995,21481,Exterior: Florett Silver Metallic,,Cucci Ford,888-554-0855,Automatic,All Wheel Drive
+2012 Audi A4 2.0T Sedan quattro Tiptronic,WAUBFAFL4CA022447,Audi,A4,2012,11995,95453,Gray,Select,Economy Plus Auto Sales,,Automatic,All Wheel Drive
+2014 Audi A4 2.0T Premium,WAUAFAFL9EN024458,Audi,A4,2014,18995,38435,Ice Silver Metallic,Black,Gurnee Volkswagen,866-413-5581 866-413-3570,Automatic,Front Wheel Drive
+2007 Audi A4 3.2,WAUDH78E67A111754,Audi,A4,2007,7492,131374,Light Silver Metallic,Platinum,Gurnee Volkswagen,866-413-5581 866-413-3570,Manual,All Wheel Drive
+2002 Audi TT 1.8T Roadster,TRUTC28N321020858,Audi,TT,2002,5706,150426,Lake Silver Metallic,Aviator Gray,Gurnee Volkswagen,866-413-5581 866-413-3570,Manual,Front Wheel Drive
+Used 2014 Audi allroad 4dr Wgn Premium Plus,WA1UFAFL3EA050698,Audi,allroad,2014,24674,36733,Black,Black,Anthony Pontiac-gmc-buick,847-856-3080,Automatic,All Wheel Drive
+Used 2011 Audi A6 3.0T Prestige,WAUKGAFB0BN007343,Audi,A6,2011,23996,36481,Gray,Black,Gillespie Ford,847-281-5507,Automatic,All Wheel Drive
+Used 2014 Audi A4 Premium Plus,WAUFFAFL2EN007572,Audi,A4,2014,19995,50224,,,Muller Honda of Gurnee,847-906-8774,Automatic,All Wheel Drive
+Used 2015 Audi A3 2.0T Premium Plus,WAUEFGFF9F1018604,Audi,A3,2015,20495,31432,,,Muller Honda of Gurnee,847-906-8774,Automated Manual,All Wheel Drive
+Used 2009 Audi A5 Quattro,WAUDK78T49A022977,Audi,A5,2009,13999,103206,Black,,MAJESKI MOTORS INC,815-625-9600,Manual,All Wheel Drive
+2011 Audi A4 2.0T Premium Plus quattro Sedan,WAUFFAFL3BN055447,Audi,A4,2011,13995,77090,Black,Select,8th Street Auto,,Automatic,All Wheel Drive
+2010 Audi A4 2.0T QUATTRO PREMIUM PLUS,WAUFFAFL4AN016915,Audi,A4,2010,12200,56697,Gray,Leather,Premium Auto Sales Inc.,847-837-1234,Automatic,All Wheel Drive
+2012 Audi A3 2.0T PZEV PREMIUM S-LINE,WAUBEAFM3CA111745,Audi,A3,2012,11900,73994,Silver,Leather,Premium Auto Sales Inc.,847-837-1234,Automated Manual,Front Wheel Drive
+2015 Audi Q7 3.0 TDI Premium (Tiptronic) SUV 8-Speed Automatic with Tiptronic TDI Clean Diesel Glacier white metallic quattro,WA1LMAFE3FD011676,Audi,Q7,2015,40423,80437,Glacier white metallic,ESPRESSO,Midwest Motors,847-201-4949,Automatic,All Wheel Drive
+2011 Audi Q5 2.0T Premium quattro,WA1LFAFP2BA045549,Audi,Q5,2011,13627,107763,,,Motorwerks of Barrington,888-570-6761 888-570-6837,Automatic,All Wheel Drive
+2015 Audi Q3 2.0T Premium Plus,WA1EFCFS1FR012445,Audi,Q3,2015,24959,39594,,,Motorwerks of Barrington,888-570-6761 888-570-6837,Automatic,All Wheel Drive
+2014 Audi Q5 2.0T Premium Plus quattro,WA1LFAFP1EA075369,Audi,Q5,2014,24991,48196,Gray,Black,Motorwerks of Barrington,888-570-6761 888-570-6837,Automatic,All Wheel Drive
+2012 Audi A6 3.0 Prestige quattro,WAUHGAFCXCN083981,Audi,A6,2012,16991,105309,,,Motorwerks of Barrington,888-570-6761 888-570-6837,Automatic,All Wheel Drive
+2015 Audi Q7 3.0 TDI Premium quattro,WA1LMAFEXFD019550,Audi,Q7,2015,40000,29653,Glacier White Metallic,Black,Motorwerks of Barrington,888-570-6761 888-570-6837,Automatic,All Wheel Drive
+2015 Audi S3 2.0T Premium Plus quattro,WAUBFGFF3F1071785,Audi,A3,2015,32000,24457,Monsoon Gray Metallic,Black,Motorwerks of Barrington,888-570-6761 888-570-6837,,
+2008 Audi Q7 4.2 Premium With Navigation,WA1BV74LX8D061975,Audi,Q7,2008,12923,113674,Gray,Black,Motorwerks of Barrington,888-570-6761 888-570-6837,Automatic,All Wheel Drive
+2008 Audi A4 2.0T,WAUDF78E98A099042,Audi,A4,2008,6991,122600,,,Motorwerks of Barrington,888-570-6761 888-570-6837,Automatic,All Wheel Drive
+2016 Audi S6 4.0T Premium Plus quattro,WAUF2AFCXGN110284,Audi,S6,2016,,14346,,,Motor Werks Honda,847-381-8900,Automated Manual,All Wheel Drive
+2016 Audi A6 2.0T Premium Plus,WAUGFAFC1GN123630,Audi,A6,2016,34991,28039,Black,Black,Motor Werks Honda,847-381-8900,Automatic,All Wheel Drive
+2017 Audi Q7 3.0T Prestige quattro,WA1VAAF79HD030917,Audi,Q7,2017,,11589,,,Motor Werks Honda,847-381-8900,Automatic,All Wheel Drive
+2015 Audi S5 3.0T Coupe,WAUCGAFR5FA061476,Audi,S5,2015,34900,27080,Mythos black metallic,BLACK,Wickstrom Chrysler Jeep Dodge Ram,847-382-5400,Automated Manual,All Wheel Drive
+2015 Audi A3 2.0T Premium Plus quattro,WAUEFGFF8F1069043,Audi,A3,2015,25500,11933,Monsoon Gray Metallic,Titanium Gray,Motor Werks Honda,847-381-8900,Automated Manual,All Wheel Drive
+2015 Audi Q5 2.0T Premium Plus quattro,WA1LFAFP8FA047263,Audi,Q5,2015,25499,69069,Brilliant Black,Black,Motor Werks Honda,847-381-8900,Automatic,All Wheel Drive
+2017 Audi SQ5 3.0T Premium Plus quattro,WA1CCAFP0HA013457,Audi,SQ5,2017,47800,21349,,,Motor Werks Honda,847-381-8900,,All Wheel Drive
+2011 Audi R8 5.2 quattro,WUAVNAFG8BN000483,Audi,R8,2011,,30000,,,Motor Werks Honda,847-381-8900,Automated Manual,All Wheel Drive
+2017 Audi A4 2.0T Premium Plus quattro,WAUENAF40HN039657,Audi,A4,2017,35999,14560,Florett Silver Metallic,Black,Motor Werks Honda,847-381-8900,Automatic,All Wheel Drive
+2015 Audi Q7 3.0T Premium quattro,WA1LGAFE0FD029866,Audi,Q7,2015,35000,30448,Glacier White Metallic,Black,Motor Werks Honda,847-381-8900,Automatic,All Wheel Drive
+2014 Audi A7 3.0T Premium Plus quattro,WAUWGAFC8EN151754,Audi,A7,2014,34991,38255,,,Motor Werks Honda,847-381-8900,Automatic,All Wheel Drive
+2013 Audi A8 L 3.0T quattro,WAURGAFD2DN016063,Audi,A8,2013,30949,45573,Gray,Black,Motor Werks Honda,847-381-8900,Automatic,All Wheel Drive
+2015 Audi S3 2.0T Prestige quattro,WAUFFGFF8F1084808,Audi,S3,2015,34800,19370,Sepang Blue Pearl,Black,Motor Werks Honda,847-381-8900,Automated Manual,All Wheel Drive
+2014 Audi RS 7 4.0T Prestige quattro,WUAW2CFC7EN904125,Audi,RS7,2014,67500,27085,Mythos Black Metallic,Valcona Leather Seats,Motor Werks Honda,847-381-8900,,
+2015 Audi A6 2.0T Premium Plus quattro,WAUGFAFC3FN022832,Audi,A6,2015,26500,28215,Oolong Gray Metallic,Black,Motor Werks Honda,847-381-8900,Automatic,All Wheel Drive
+Used 2013 Audi A8 L 4dr Sdn 4.0L,WAUR2AFD2DN015302,Audi,A8,2013,36901,43166,Phantom Black Pearl,Black,Marquardt Of Barrington,(224) 633-1627,Automatic,All Wheel Drive
+2015 Audi A3 2.0T Premium Plus Convertible 4-Cylinder TFSI,WAU3FLFF1F1037339,Audi,A3,2015,25778,23846,Chrome,BLACK,Libertyville Lincoln,866-765-8730 866-665-3737,Automated Manual,All Wheel Drive
+2008 Audi A4 SE 2.0T,WAUDF78EX8A135515,Audi,A4,2008,8797,81592,Quartz Gray Metallic,Black,Pauly Honda,888-268-0057 888-367-5201,Automatic,All Wheel Drive
+2016 Audi A4 2.0T Premium,WAUBFAFL5GN011181,Audi,A4,2016,25437,24564,Monsoon Gray Metallic,Black,Liberty Chrysler Jeep Dodge & Ram,(888) 346-7082,Automatic,All Wheel Drive
+2016 Audi S3 2.0T Premium Plus Sedan,WAUF1GFF3G1007716,Audi,S3,2016,34642,36321,Glacier white metallic,BLACK,Libertyville Nissan,866-808-7060 888-553-3947,Automated Manual,All Wheel Drive
+Used 2010 Audi A4 4dr Sdn Auto quattro 2.0T Premium,WAUBFAFL7AN039622,Audi,A4,2010,11593,83265,Quartz Gray Metallic,Black,Gregory Infiniti,855-335-0517,Automatic,All Wheel Drive
+2012 Audi A5 2.0T Premium Plus quattro,WAULFAFR3CA005051,Audi,A5,2012,,84452,,,Elgin Volkswagen,877-797-6424,Automatic,All Wheel Drive
+2015 Audi Q5 3.0T Premium Plus quattro,WA1CMAFP3FA037729,Audi,Q5,2015,30646,47914,Brilliant Black,Black,Elgin Volkswagen,(877) 797-6424,Automatic,All Wheel Drive
+2005 Audi A4 1.8T Cabriolet,WAUAC48H85K009079,Audi,A4,2005,5988,135316,Gold,,A & S Grand,888-988-1633,Automatic,Front Wheel Drive
+1999 Audi A6 -,WAUBA24B9XN052797,Audi,A6,1999,2250,,Maroon,Tan,"FindCars.com, Inc.",608-372-3164,Automatic,All Wheel Drive
+2011 Audi S4 3.0 Premium Plus Sedan All-wheel Drive,WAUBGAFL8BA045161,Audi,S4,2011,15491,110779,Charcoal,Black,Biggers Mitsubishi,866-511-0017 888-619-2702,Automated Manual,All Wheel Drive
+2002 Audi TT 2dr Cpe 5-Spd Car,TRUSC28N521029153,Audi,TT,2002,5990,142738,Brilliant White,AVIATOR GRAY,Feeny Chrysler Jeep Dodge,(877) 276-3034,Manual,Front Wheel Drive
+2016 Audi S5 2dr Cpe Auto Premium Plus Car,WAUC4AFRXGA053240,Audi,S5,2016,36990,31234,Sepang Blue Pearl Effect,BLACK,Feeny Chrysler Jeep Dodge,(877) 276-3034,Automated Manual,All Wheel Drive
+2006 Audi A6 4dr Sdn 3.2L Quattro Auto Car,WAUDH74F96N079629,Audi,A6,2006,7590,117866,Silver,BLACK,Feeny Chrysler Jeep Dodge,(877) 276-3034,Automatic,All Wheel Drive
+2002 Audi A4 3.0L quattro AWD,WAULT68E52A251498,Audi,A4,2002,3950,139381,Gray,,Quick Sales Corporation,,Manual,All Wheel Drive
+Used 2018 Audi Q5 2.0 TFSI Premium Plus,WA1BNAFY8J2017383,Audi,Q5,2018,42999,464,Monsoon Gray Metallic,Black W/leather Seating Surfaces,Brenengen Chevrolet Buick,(608) 269-2158,,All Wheel Drive
+2017 Audi RS 7 4.0T performance Prestige Sedan quattro,WUAWRBFC2HN904852,Audi,RS 7,2017,,7192,Nardo gray,BLACK,Billion Toyota of Clinton,,,All Wheel Drive
+2012 Audi Q5 2.0T Premium Plus (Tiptronic) SUV All-wheel Drive,WA1LFAFP1CA118279,Audi,Q5,2012,12499,138922,Ice Silver,BLACK,Billion Toyota of Clinton,,Automatic,All Wheel Drive
+2017 Audi Q5 2.0T Premium SUV quattro,WA1L2AFP4HA043709,Audi,Q5,2017,39781,2759,Moonlight blue metallic,CHESTNUT BROWN,Billion Toyota of Clinton,,Automatic,All Wheel Drive
+2006 Audi A4 2.0T Sedan All-wheel Drive,WAUDF78E36A166022,Audi,A4,2006,6999,124229,Brilliant Black,EBONY,Billion Toyota of Clinton,,Automatic,All Wheel Drive
+2012 Audi A4 2.0T Premium Plus,WAUFFAFL0CA031261,Audi,A4,2012,18498,40378,Moonlight Blue Metallic,Cardamom Beige,Arlington Acura in Palatine,866-231-0455 866-892-7510,Automatic,All Wheel Drive
+2010 Audi Q5 3.2 quattro Premium,WA1CKAFP8AA039510,Audi,Q5,2010,15990,61597,White,Leather,Car City Inc,866-901-0639,Automatic,All Wheel Drive
+2010 Audi A6 3.0T quattro Tiptronic,WAUBGAFB7AN062290,Audi,A6,2010,11990,96353,Dark Blue,Leather,Car City Inc,866-901-0639,Automatic,All Wheel Drive
+2006 Audi S4 4dr Sdn quattro,WAUGL78E66A128824,Audi,S4,2006,11995,94208,,Black,Auto Alliance,,Automatic,All Wheel Drive

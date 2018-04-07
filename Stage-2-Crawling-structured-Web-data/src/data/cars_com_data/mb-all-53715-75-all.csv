@@ -1,0 +1,756 @@
+name,brand,color,price,seller_name,seller_phone,seller_average_rating,seller_review_count,miles,distance_from_Madison,Exterior Color,Interior Color,Transmission,Drivetrain,VIN
+2010 Mercedes-Benz  GL 450 4MATIC,Mercedes-Benz,Black,15998,Kayser Ford Lincoln,(608) 807-5359,4.7,399,107545,2,Black,Cashmere,7-Speed Automatic,AWD,4JGBF7BEXAA543808
+2015 Mercedes-Benz  ML 350,Mercedes-Benz,Gray,29998,CarMax Madison,(608) 286-3923,4.3,3,36642,5,Gray,Black,7-Speed Automatic w/OD,AWD,4JGDA5HB7FA445741
+2013 Mercedes-Benz  E 350 4MATIC,Mercedes-Benz,Black,16500,Lexus of Madison,(608) 478-2660,5,68,80614,6,Black,Black,7-Speed Automatic,AWD,WDDHF8JB7DA667069
+2015 Mercedes-Benz  C 300,Mercedes-Benz,Black,26988,Zimbrick Hyundai Eastside,(608) 338-1462,4.9,303,30090,7,Black,Black,7-Speed A/T,All Wheel Drive,55SWF4KB2FU026106
+2015 Mercedes-Benz  SLK 250,Mercedes-Benz,Black,29988,Zimbrick Hyundai Eastside,(608) 338-1462,4.9,303,25344,7,Black,Sahara Beige,7-Speed A/T,Rear Wheel Drive,WDDPK4HA2FF108712
+2007 Mercedes-Benz  S 550 4MATIC,Mercedes-Benz,Gray,15974,Portage Motors,(608) 402-4824,4.8,20,98889,32,Flint Gray Metallic,GRAY,7 speed automatic,AWD,WDDNG86X37A103136
+2008 Mercedes-Benz  C 300 Luxury 4MATIC,Mercedes-Benz,Red,10850,Jim O'Connor Select Auto,(262) 347-4147,4.9,157,99224,45,Red,Black,7-Speed Automatic,AWD,WDDGF81X58F143788
+2015 Mercedes-Benz  GL 350 BlueTEC 4MATIC,Mercedes-Benz,Orange,43977,Kunes Country Chevrolet Cadillac of Delavan,(262) 586-4283,4.7,720,39027,49,Burnt Orange,Black,7-Speed Automatic,AWD,4JGDF2EEXFA490266
+2012 Mercedes-Benz  ML 350 4MATIC,Mercedes-Benz,Black,21080,Kunes Country Chevrolet GMC Buick of Elkhorn,(877) 465-8196,4.9,298,83500,51,Black,Almond Beige,7-Speed Automatic,AWD,4JGDA5HB5CA016030
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Blue,63410,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Blue,,7-Speed Automatic,AWD,4JGDA5HB1JB095669
+2018 Mercedes-Benz GLS 450 Base 4MATIC,Mercedes-Benz,Black,82290,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Black,,9-Speed Automatic,AWD,4JGDF6EE8JB106463
+2018 Mercedes-Benz  E 300,Mercedes-Benz,Black,65630,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Black,,9-Speed Automatic,AWD,WDDZF4KB4JA399265
+2007 Mercedes-Benz  R 350 4MATIC,Mercedes-Benz,Other,10995,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,122845,55,,,7-Speed Automatic,AWD,4JGCB65E07A047267
+2017 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Black,64060,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Black,,7-Speed Automatic,AWD,4JGDA5HB1HA982639
+2018 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,White,46975,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Polar White,,9-Speed Automatic,AWD,55SWF4KB2JU256396
+2014 Mercedes-Benz  GL 450 4MATIC,Mercedes-Benz,Black,33424,Boucher Hyundai,(866) 508-6541,4.9,881,54577,60,Black,Black,7-Speed Automatic,AWD,4JGDF7CE1EA403577
+2017 Mercedes-Benz  E 300,Mercedes-Benz,Silver,60495,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Iridium Silver Metallic,Black,9-Speed Automatic,AWD,WDDZF4KB9HA173684
+2015 Mercedes-Benz  Sport,Mercedes-Benz,Blue,29998,CarMax Waukesha,(262) 207-2339,,,22687,61,Blue,Tan,7-Speed Automatic w/OD,AWD,WDDHF8JB0FB136258
+2017 Mercedes-Benz  E 300,Mercedes-Benz,Black,65665,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Black,Black,9-Speed Automatic,AWD,WDDZF4KB3HA282271
+2018 Mercedes-Benz AMG C 63 S,Mercedes-Benz,Black,88910,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Obsidian Black Metallic,Black,7-Speed Automatic,RWD,WDDWJ8HB2JF645877
+2015 Mercedes-Benz  ML 350 4MATIC,Mercedes-Benz,White,31681,Mercedes-Benz of Elmbrook,(262) 510-2426,4.5,39,35346,61,Polar White,Black,7-Speed Automatic,AWD,4JGDA5HB6FA511177
+2018 Mercedes-Benz AMG C 43 Base 4MATIC,Mercedes-Benz,Black,63835,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Obsidian Black Metallic,Black,9-Speed Automatic,AWD,55SWF6EB5JU256965
+2017 Mercedes-Benz CLS 550 Base 4MATIC,Mercedes-Benz,Gray,88100,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Selenite Gray Metallic,Black,9-Speed Automatic,AWD,WDDLJ9BB6HA198155
+2018 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,Black,48825,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Black,Black,9-Speed Automatic,AWD,WDDWF4KB9JR336487
+2015 Mercedes-Benz  ML 350 4MATIC,Mercedes-Benz,White,31681,International Porsche of Waukesha,(262) 395-7647,5,4,35346,61,Polar White,Black,7-Speed Automatic,AWD,4JGDA5HB6FA511177
+2017 Mercedes-Benz  E 300,Mercedes-Benz,Blue,61945,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Lunar Blue Metallic,Macchiato,9-Speed Automatic,AWD,WDDZF4KB5HA239616
+2017 Mercedes-Benz  E 300,Mercedes-Benz,Silver,50521,Mercedes-Benz of Elmbrook,(262) 510-0488,4.5,39,5626,61,Iridium Silver Metallic,Black,9-Speed Automatic,AWD,WDDZF4KB4HA104109
+2017 Mercedes-Benz AMG C 63 S,Mercedes-Benz,Black,91785,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Obsidian Black Metallic,Black,7-Speed Automatic,RWD,WDDWK8HB9HF498772
+2014 Mercedes-Benz  CLA250,Mercedes-Benz,Silver,22998,CarMax Waukesha,(262) 207-2339,,,31428,61,Silver,Black,7-Speed Auto-Shift Manual w/OD,FWD,WDDSJ4EB8EN067839
+2017 Mercedes-Benz  E 300,Mercedes-Benz,Silver,51021,International Porsche of Waukesha,(262) 395-7647,5,4,5626,61,Iridium Silver Metallic,Black,9-Speed Automatic,AWD,WDDZF4KB4HA104109
+2017 Mercedes-Benz  E 300,Mercedes-Benz,White,60175,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Polar White,Black,9-Speed Automatic,AWD,WDDZF4KB7HA137444
+2011 Mercedes-Benz  C 300 Sport,Mercedes-Benz,White,10998,Heiser Toyota,(414) 375-4859,4.8,822,81185,67,Arctic White,Black,Automatic 7-Speed,All Wheel Drive,WDDGF8BB9BR164667
+2014 Mercedes-Benz  E 350 4MATIC,Mercedes-Benz,Silver,19990,Boucher Volkswagen Marketplace of Franklin,(866) 571-8206,5,58,77403,68,Iridium Silver Metallic,Black,7-Speed Automatic,AWD,WDDHF8JB6EA921596
+2014 Mercedes-Benz  SLK250,Mercedes-Benz,Blue,25998,CarMax Metro Parc,(414) 214-9772,4,2,29960,68,Blue,Tan,7-Speed Automatic w/OD,RWD,WDDPK4HA4EF080815
+2014 Mercedes-Benz  C 300,Mercedes-Benz,White,21995,Griffin Chevrolet,(414) 375-4241,4.8,57,39293,68,White,Black,7G-TRONIC PLUS 7-Speed Automatic,4Matic,WDDGF8AB9ER310538
+2014 Mercedes-Benz  ML 550 4MATIC,Mercedes-Benz,White,34333,BMW of Milwaukee North,(877) 591-3075,4.8,106,37645,73,Diamond White Metallic,Black,7-Speed Automatic,AWD,4JGDA7DB2EA364226
+2010 Mercedes-Benz  C 300,Mercedes-Benz,White,10990,Runde Chevrolet,(888) 380-6201,4.8,108,93487,73,White,,7-Speed Automatic,AWD,WDDGF8BB2AF402701
+2014 Mercedes-Benz  GLK 350,Mercedes-Benz,White,24493,INFINITI North Shore,(888) 675-1554,,,28493,73,Diamond White Metallic,Black,7-Speed Automatic,4Matic,WDCGG8JB3EG289120
+2016 Mercedes-Benz  GLE 450 AMG,Mercedes-Benz,Blue,58863,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,17181,74,Lunar Blue Metallic,Crystal Grey/Black,9-SPEED A/T,All Wheel Drive,4JGED6EB8GA044433
+2014 Mercedes-Benz  E 350,Mercedes-Benz,Black,28595,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,26764,74,Black,Black,7-SPEED A/T,All Wheel Drive,WDDHF8JB5EB032122
+2015 Mercedes-Benz  C 350,Mercedes-Benz,Red,29989,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,25415,74,Mars Red,Sport Black,7-SPEED A/T,All Wheel Drive,WDDGJ8JB3FG369502
+2014 Mercedes-Benz  CLS 550,Mercedes-Benz,White,39993,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,25992,74,Diamond White Metallic,Black,7-SPEED A/T,All Wheel Drive,WDDLJ9BB2EA118815
+2015 Mercedes-Benz  C 300,Mercedes-Benz,Silver,25298,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,29556,74,Iridium Silver Metallic,Black,7-SPEED A/T,All Wheel Drive,55SWF4KB9FU008900
+2014 Mercedes-Benz  GLK 350,Mercedes-Benz,White,24950,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,52775,74,Polar White,Black,7-SPEED A/T,All Wheel Drive,WDCGG8JB3EG179037
+2014 Mercedes-Benz  GL 450,Mercedes-Benz,Gray,39966,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,39313,74,Steel Gray Metallic,Black,7-SPEED A/T,All Wheel Drive,4JGDF7CE9EA374877
+2015 Mercedes-Benz  C 300,Mercedes-Benz,White,26898,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,21811,74,Polar White,Beige/Black,7-SPEED A/T,All Wheel Drive,55SWF4KB4FU004060
+2015 Mercedes-Benz  C 300,Mercedes-Benz,White,26944,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,20578,74,Polar White,Silk Beige,7-SPEED A/T,All Wheel Drive,55SWF4KB7FU026232
+2017 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Red,48705,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,9667,74,Designo Cardinal Red Metallic,Ginger Beige/Espresso Brown,7-SPEED A/T,All Wheel Drive,4JGDA5HB0HA929009
+2017 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Gray,50944,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,9723,74,Selenite Grey Metallic,Black,7-SPEED A/T,All Wheel Drive,4JGDA5HB1HA852408
+2014 Mercedes-Benz  CLS550,Mercedes-Benz,Gray,33980,VROOM (Milwaukee),(877) 682-3020,,,37762,73,Gray,Black,7-Speed Automatic w/OD,RWD,WDDLJ7DB6EA093130
+2015 Mercedes-Benz  GLA 250,Mercedes-Benz,White,21730,VROOM (Milwaukee),(877) 682-3020,,,52168,73,White,Black,7-Speed Auto-Shift Manual w/OD,AWD,WDCTG4GB3FJ029125
+2016 Mercedes-Benz  C300 4MATIC Sport,Mercedes-Benz,Gray,27480,VROOM (Milwaukee),(877) 682-3020,,,24387,73,Gray,Gray,7-Speed Automatic w/OD,AWD,55SWF4KB1GU137456
+2015 Mercedes-Benz  ML 350,Mercedes-Benz,Blue,30730,VROOM (Milwaukee),(877) 682-3020,,,39215,73,Blue,Gray,7-Speed Automatic w/OD,AWD,4JGDA5HB4FA584970
+2014 Mercedes-Benz  GLK350,Mercedes-Benz,Gray,25230,VROOM (Milwaukee),(877) 682-3020,,,30220,73,Gray,Tan,7-Speed Automatic w/OD,RWD,WDCGG5HB3EG295519
+2017 Mercedes-Benz GLE 350 Base,Mercedes-Benz,Black,48230,VROOM (Milwaukee),(877) 682-3020,,,9083,73,Black,Black,7-Speed Automatic w/OD,RWD,4JGDA5JB8HA884136
+2018 Mercedes-Benz AMG GLE 43 Base 4MATIC,Mercedes-Benz,White,65980,VROOM (Milwaukee),(877) 682-3020,,,9879,73,White,Black,9-Speed Automatic w/OD,AWD,4JGDA6EB1JA997206
+2016 Mercedes-Benz  GLC 300,Mercedes-Benz,Blue,35980,VROOM (Milwaukee),(877) 682-3020,,,17888,73,Blue,Tan,9-Speed Automatic w/OD,RWD,WDC0G4JB7GF092342
+2013 Mercedes-Benz  C250 Luxury,Mercedes-Benz,Blue,16230,VROOM (Milwaukee),(877) 682-3020,,,47065,73,Blue,Black,7-Speed Automatic,RWD,WDDGF4HB4DR250214
+2017 Mercedes-Benz  E 300,Mercedes-Benz,Silver,45980,VROOM (Milwaukee),(877) 682-3020,,,3531,73,Silver,Black,9-Speed Automatic w/OD,RWD,WDDZF4JB2HA229837
+2014 Mercedes-Benz  E 350,Mercedes-Benz,Gray,23230,VROOM (Milwaukee),(877) 682-3020,,,56262,73,Gray,Gray,7-Speed Automatic w/OD,RWD,WDDKJ5KB8EF238724
+2014 Mercedes-Benz  CLS550,Mercedes-Benz,Gray,34730,VROOM (Milwaukee),(877) 682-3020,,,47733,73,Gray,Black,7-Speed Automatic w/OD,RWD,WDDLJ7DB2EA122350
+2014 Mercedes-Benz  CLS550,Mercedes-Benz,Gray,36980,VROOM (Milwaukee),(877) 682-3020,,,29875,73,Gray,Black,7-Speed Automatic w/OD,RWD,WDDLJ7DBXEA095155
+2015 Mercedes-Benz  C 300,Mercedes-Benz,Brown,23730,VROOM (Milwaukee),(877) 682-3020,,,46141,73,Brown,Tan,7-Speed Automatic w/OD,RWD,55SWF4JB8FU060679
+2015 Mercedes-Benz  E 350,Mercedes-Benz,Black,30980,VROOM (Milwaukee),(877) 682-3020,,,35705,73,Black,Black,7-Speed Automatic w/OD,RWD,WDDHF5KBXFB112322
+2016 Mercedes-Benz  E 350,Mercedes-Benz,Silver,33480,VROOM (Milwaukee),(877) 682-3020,,,23821,73,Silver,Gray,7-Speed Automatic w/OD,RWD,WDDHF5KB9GB329684
+2012 Mercedes-Benz  E 350 Luxury 4dr Sedan,Mercedes-Benz,Blue,19730,VROOM (Milwaukee),(877) 682-3020,,,51453,73,Blue,Tan,7-Speed Automatic,RWD,WDDHF5KB3CA603560
+2016 Mercedes-Benz  E 350,Mercedes-Benz,Black,36480,VROOM (Milwaukee),(877) 682-3020,,,22152,73,Black,Black,7-Speed Automatic w/OD,RWD,WDDHF5KB4GB290597
+2015 Mercedes-Benz  C300 4MATIC,Mercedes-Benz,Brown,25480,VROOM (Milwaukee),(877) 682-3020,,,22074,73,Brown,Tan,7-Speed Automatic w/OD,AWD,55SWF4KBXFU021705
+2016 Mercedes-Benz  C300 Sport,Mercedes-Benz,Black,26730,VROOM (Milwaukee),(877) 682-3020,,,32263,73,Black,Black,7-Speed Automatic w/OD,RWD,55SWF4JB6GU126230
+2015 Mercedes-Benz  E 350,Mercedes-Benz,Black,30980,VROOM (Milwaukee),(877) 682-3020,,,35869,73,Black,Black,7-Speed Automatic w/OD,RWD,WDDHF5KB8FB100167
+2016 Mercedes-Benz  C300 Luxury,Mercedes-Benz,White,26230,VROOM (Milwaukee),(877) 682-3020,,,31045,73,White,Tan,7-Speed Automatic w/OD,RWD,55SWF4JB8GU145278
+2014 Mercedes-Benz  E 350,Mercedes-Benz,Black,31980,VROOM (Milwaukee),(877) 682-3020,,,30412,73,Black,Black,7-Speed Automatic w/OD,RWD,WDDKK5KF8EF269018
+2015 Mercedes-Benz  GLA 250,Mercedes-Benz,Red,22480,VROOM (Milwaukee),(877) 682-3020,,,32276,73,Red,Black,7-Speed Auto-Shift Manual w/OD,FWD,WDCTG4EBXFJ119391
+2014 Mercedes-Benz  E 350 Sport 4dr Sedan,Mercedes-Benz,White,23980,VROOM (Milwaukee),(877) 682-3020,,,55772,73,White,Tan,7-Speed Automatic w/OD,RWD,WDDHF5KB7EA831676
+2014 Mercedes-Benz  E 350 Sport 4dr Sedan,Mercedes-Benz,Gray,23230,VROOM (Milwaukee),(877) 682-3020,,,51101,73,Gray,Tan,7-Speed Automatic w/OD,RWD,WDDHF5KB6EA788996
+2014 Mercedes-Benz  ML 350,Mercedes-Benz,Black,29980,VROOM (Milwaukee),(877) 682-3020,,,29054,73,Black,Black,7-Speed Automatic w/OD,RWD,4JGDA5JB2EA391788
+2015 Mercedes-Benz  C 400 4MATIC,Mercedes-Benz,White,27980,VROOM (Milwaukee),(877) 682-3020,,,44754,73,White,Black,7-Speed Automatic w/OD,AWD,55SWF6GB7FU019883
+2014 Mercedes-Benz  E 350,Mercedes-Benz,Blue,25480,VROOM (Milwaukee),(877) 682-3020,,,47700,73,Blue,Black,7-Speed Automatic w/OD,AWD,WDDKJ8JB6EF278982
+2017 Mercedes-Benz  E 300 4MATIC,Mercedes-Benz,Silver,46230,VROOM (Milwaukee),(877) 682-3020,,,9909,73,Silver,Black,9-Speed Automatic w/OD,AWD,WDDZF4KBXHA036317
+2015 Mercedes-Benz  S 550,Mercedes-Benz,Black,51480,VROOM (Milwaukee),(877) 682-3020,,,47734,73,Black,Black,7-Speed Automatic w/OD,AWD,WDDUG8FB3FA069407
+2014 Mercedes-Benz  E 350,Mercedes-Benz,Silver,26480,VROOM (Milwaukee),(877) 682-3020,,,26609,73,Silver,Black,7-Speed Automatic w/OD,RWD,WDDKJ5KB2EF239545
+2014 Mercedes-Benz  E 350,Mercedes-Benz,Black,27980,VROOM (Milwaukee),(877) 682-3020,,,49206,73,Black,Black,7-Speed Automatic w/OD,RWD,WDDKK5KF8EF249206
+2014 Mercedes-Benz  E 350,Mercedes-Benz,Black,26480,VROOM (Milwaukee),(877) 682-3020,,,37599,73,Black,Black,7-Speed Automatic w/OD,RWD,WDDKJ5KB2EF284498
+2014 Mercedes-Benz  CLA250,Mercedes-Benz,Gray,23730,VROOM (Milwaukee),(877) 682-3020,,,21867,73,Gray,Black,7-Speed Auto-Shift Manual w/OD,FWD,WDDSJ4EBXEN159289
+2015 Mercedes-Benz  ML400,Mercedes-Benz,Gray,38480,VROOM (Milwaukee),(877) 682-3020,,,25832,73,Gray,Tan,7-Speed Automatic w/OD,AWD,4JGDA5GBXFA535838
+2016 Mercedes-Benz  GLE 300d,Mercedes-Benz,White,40730,VROOM (Milwaukee),(877) 682-3020,,,31779,73,White,Black,7-Speed Automatic w/OD,AWD,4JGDA0EB6GA641663
+2015 Mercedes-Benz  C 300,Mercedes-Benz,Gray,22980,VROOM (Milwaukee),(877) 682-3020,,,46822,73,Gray,Black,7-Speed Automatic w/OD,RWD,55SWF4JB1FU054318
+2014 Mercedes-Benz  CLA250,Mercedes-Benz,Gray,21730,VROOM (Milwaukee),(877) 682-3020,,,36626,73,Gray,Gray,7-Speed Auto-Shift Manual w/OD,FWD,WDDSJ4EB9EN128065
+2015 Mercedes-Benz  C300 4MATIC,Mercedes-Benz,Black,24730,VROOM (Milwaukee),(877) 682-3020,,,41071,73,Black,Black,7-Speed Automatic w/OD,AWD,55SWF4KB3FU023442
+2017 Mercedes-Benz GLE 350 Base,Mercedes-Benz,White,47480,VROOM (Milwaukee),(877) 682-3020,,,9229,73,White,Tan,7-Speed Automatic w/OD,RWD,4JGDA5JB1HA927506
+2014 Mercedes-Benz  ML 350,Mercedes-Benz,Gray,27480,VROOM (Milwaukee),(877) 682-3020,,,61328,73,Gray,Gray,7-Speed Automatic w/OD,AWD,4JGDA5HB8EA434164
+2015 Mercedes-Benz  S 550,Mercedes-Benz,Black,50730,VROOM (Milwaukee),(877) 682-3020,,,46812,73,Black,Black,7-Speed Automatic w/OD,AWD,WDDUG8FB9FA178082
+2014 Mercedes-Benz  E 350,Mercedes-Benz,Silver,25230,VROOM (Milwaukee),(877) 682-3020,,,40305,73,Silver,Gray,7-Speed Automatic w/OD,RWD,WDDKJ5KB0EF239513
+2014 Mercedes-Benz  E 350,Mercedes-Benz,White,31480,VROOM (Milwaukee),(877) 682-3020,,,43817,73,White,Tan,7-Speed Automatic w/OD,RWD,WDDKK5KF7EF254039
+2015 Mercedes-Benz  GLK350,Mercedes-Benz,White,27730,VROOM (Milwaukee),(877) 682-3020,,,31667,73,White,Tan,7-Speed Automatic w/OD,RWD,WDCGG5HB5FG410977
+2015 Mercedes-Benz  C300 4MATIC,Mercedes-Benz,White,24730,VROOM (Milwaukee),(877) 682-3020,,,26453,73,White,Tan,7-Speed Automatic w/OD,AWD,55SWF4KB1FU023018
+2015 Mercedes-Benz  SL63 AMG,Mercedes-Benz,Brown,85980,VROOM (Milwaukee),(877) 682-3020,,,15740,73,Brown,Tan,7-Speed Automatic w/OD,RWD,WDDJK7EA8FF035101
+2014 Mercedes-Benz  C250,Mercedes-Benz,White,21480,VROOM (Milwaukee),(877) 682-3020,,,33439,73,White,Black,7-Speed Automatic w/OD,RWD,WDDGJ4HBXEG299848
+2014 Mercedes-Benz  E 350,Mercedes-Benz,Gray,24230,VROOM (Milwaukee),(877) 682-3020,,,45841,73,Gray,Black,7-Speed Automatic w/OD,RWD,WDDKJ5KB0EF224736
+2013 Mercedes-Benz  E 350,Mercedes-Benz,Black,21480,VROOM (Milwaukee),(877) 682-3020,,,58769,73,Black,Tan,7-Speed Automatic w/Manual Shift,RWD,WDDKJ5KB4DF194784
+2014 Mercedes-Benz  GL450 4MATIC,Mercedes-Benz,White,34998,CarMax Madison,(608) 286-3923,4.3,3,57218,5,White,Tan,7-Speed Automatic w/OD,AWD,4JGDF7CE1EA410478
+2015 Mercedes-Benz  C 300,Mercedes-Benz,Gray,26998,CarMax Madison,(608) 286-3923,4.3,3,22917,5,Gray,Black,7-Speed Automatic w/OD,AWD,55SWF4KB3FU059616
+2014 Mercedes-Benz  CLA250 4MATIC,Mercedes-Benz,White,23998,CarMax Madison,(608) 286-3923,4.3,3,20986,5,White,Black,7-Speed Auto-Shift Manual w/OD,AWD,WDDSJ4GB2EN143634
+2014 Mercedes-Benz  E 350,Mercedes-Benz,Red,28900,Zimbrick Nissan,(608) 338-0718,4.6,111,22057,7,Mars Red,Silk Beige/Espresso Brown,7-SPEED A/T,All Wheel Drive,WDDKJ8JB8EF279034
+2013 Mercedes-Benz  GL 450 4MATIC,Mercedes-Benz,White,33944,Stark Automotive Stoughton,(608) 205-4260,4.6,57,65237,12,Diamond White Metallic,Almond Beige,7-Speed Automatic,AWD,4JGDF7CE5DA249101
+2018 Mercedes-Benz AMG C 43 Base 4MATIC,Mercedes-Benz,White,62065,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Polar White,,9-Speed Automatic,AWD,55SWF6EB4JU261154
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,Black,52495,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Black,,9-Speed Automatic,AWD,WDC0G4KB8JV067980
+2014 Mercedes-Benz  GL450 4MATIC,Mercedes-Benz,Gray,37709,Wilde Honda,(262) 226-8570,4.5,631,41022,60,Steel Gray Metallic,,7-Speed Automatic w/OD,AWD,4JGDF7CE8EA370335
+2018 Mercedes-Benz GLS 450 Base 4MATIC,Mercedes-Benz,Gray,74053,Mercedes-Benz of Elmbrook,(262) 510-2426,4.5,39,5143,61,Selenite Gray,Black,9-Speed Automatic,AWD,4JGDF6EE9JB021227
+2014 Mercedes-Benz  GLK 350 4MATIC,Mercedes-Benz,Blue,24803,Mercedes-Benz of Elmbrook,(262) 510-0488,4.5,39,62517,61,Lunar Blue Metallic,Shara Beige,7-Speed Automatic,AWD,WDCGG8JB1EG291206
+2018 Mercedes-Benz GLS 450 Base 4MATIC,Mercedes-Benz,Gray,74053,International Porsche of Waukesha,(262) 395-7647,5,4,5143,61,Selenite Gray,Black,9-Speed Automatic,AWD,4JGDF6EE9JB021227
+2018 Mercedes-Benz  E 300,Mercedes-Benz,Black,62060,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Black,Black,9-Speed Automatic,AWD,WDDZF4KBXJA370451
+2014 Mercedes-Benz  GLK 350 4MATIC,Mercedes-Benz,Blue,24803,International Porsche of Waukesha,(262) 395-7647,5,4,62517,61,Lunar Blue Metallic,Shara Beige,7-Speed Automatic,AWD,WDCGG8JB1EG291206
+2017 Mercedes-Benz Metris Base,Mercedes-Benz,White,44610,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Mountain Crystal White Metallic,Black,7-Speed Automatic,RWD,WD4PG2EE5H3321364
+2014 Mercedes-Benz  Sport,Mercedes-Benz,White,20998,CarMax Waukesha,(262) 207-2339,,,40371,61,White,Gray,7-Speed Automatic w/OD,RWD,WDDGF4HB0EG212024
+2018 Mercedes-Benz SL 450 Base,Mercedes-Benz,Black,97595,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Black,Black,9-Speed Automatic,RWD,WDDJK6GA3JF051058
+2018 Mercedes-Benz  S 560 4MATIC,Mercedes-Benz,White,114315,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Designo Diamond White,Black,9-Speed Automatic,AWD,WDDUG8GB1JA381815
+2017 Mercedes-Benz  E 300,Mercedes-Benz,White,61225,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Polar White,Macchiato,9-Speed Automatic,AWD,WDDZF4KB7HA220839
+2017 Mercedes-Benz  C 300,Mercedes-Benz,Black,37065,Mercedes-Benz of Elmbrook,(262) 510-2426,4.5,39,5105,61,Black,Black,7-Speed Automatic,AWD,55SWF4KB6HU212265
+2013 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,Black,16645,Mercedes-Benz of Elmbrook,(262) 510-2426,4.5,39,62917,61,Black,Black,7-Speed Automatic,AWD,WDDGF8AB6DR287461
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,Black,54685,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Black,Black,9-Speed Automatic,AWD,WDC0J4KBXJF355527
+2018 Mercedes-Benz GLS 450 Base 4MATIC,Mercedes-Benz,Gray,76245,Mercedes-Benz of Elmbrook,(262) 510-2426,4.5,39,2745,61,Selenite Gray Metallic,Black,9-Speed Automatic,AWD,4JGDF6EE9JB041235
+2017 Mercedes-Benz  E 300,Mercedes-Benz,Black,52515,Mercedes-Benz of Elmbrook,(262) 510-0488,4.5,39,6820,61,Black,Brown,9-Speed Automatic,AWD,WDDZF4KB1HA041454
+2017 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,White,60990,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Polar White,Espresso Brown,7-Speed Automatic,AWD,4JGDA5HB6HA984516
+2017 Mercedes-Benz  C 300,Mercedes-Benz,Black,38429,International Porsche of Waukesha,(262) 395-7647,5,4,5105,61,Black,Black,7-Speed Automatic,AWD,55SWF4KB6HU212265
+2013 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,Black,16645,International Porsche of Waukesha,(262) 395-7647,5,4,62917,61,Black,Black,7-Speed Automatic,AWD,WDDGF8AB6DR287461
+2018 Mercedes-Benz  E 400 4MATIC,Mercedes-Benz,White,82260,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Designo Diamond White Metallic,Beige,9-Speed Automatic,AWD,WDD1K6GB3JF042191
+2017 Mercedes-Benz  C 300,Mercedes-Benz,Silver,46655,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Iridium Silver Metallic,Black,7-Speed Automatic,AWD,55SWF4KB2HU204874
+2017 Mercedes-Benz  E 300,Mercedes-Benz,Black,53909,International Porsche of Waukesha,(262) 395-7647,5,4,6820,61,Black,Brown,9-Speed Automatic,AWD,WDDZF4KB1HA041454
+2008 Mercedes-Benz  S 550 4MATIC,Mercedes-Benz,Blue,11995,Twins Auto Sales,(815) 580-4037,4.4,15,135361,61,Blue,Tan,7-Speed Automatic,AWD,WDDNG86X48A166103
+2018 Mercedes-Benz AMG C 43 Base 4MATIC,Mercedes-Benz,Gray,68104,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Selenite Gray Metallic,Black,9-Speed Automatic,AWD,55SWF6EB9JU245113
+2018 Mercedes-Benz  E 400 4MATIC,Mercedes-Benz,Silver,63910,Mercedes-Benz of Elmbrook,(262) 510-2426,4.5,39,3231,61,Iridium Silver Metallic,Black,9-Speed Automatic,AWD,WDD1J6GB1JF017499
+2018 Mercedes-Benz AMG C 43 Base 4MATIC,Mercedes-Benz,Gray,72330,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Selenite Gray Metallic,Black,9-Speed Automatic,AWD,WDDWK6EB5JF662033
+2015 Mercedes-Benz  ML 350 4MATIC,Mercedes-Benz,Black,33701,Mercedes-Benz of Elmbrook,(262) 510-0488,4.5,39,30004,61,Black,Black,7-Speed Automatic,AWD,4JGDA5HB0FA509067
+2015 Mercedes-Benz  E400 4MATIC,Mercedes-Benz,Black,31998,CarMax Waukesha,(262) 207-2339,,,35399,61,Black,Brown,7-Speed Automatic w/OD,AWD,WDDKJ6HB6FF294921
+2018 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,Blue,51420,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Brilliant Blue Metallic,Black,9-Speed Automatic,AWD,WDDWF4KB8JR348372
+2010 Mercedes-Benz  ML350 BlueTEC 4MATIC,Mercedes-Benz,Gray,13995,Twins Auto Sales,(815) 580-4037,4.4,15,82363,61,Gray,Black,7-Speed Automatic,AWD,4JGBB2FB8AA533650
+2018 Mercedes-Benz  E 400 4MATIC,Mercedes-Benz,Silver,63910,International Porsche of Waukesha,(262) 395-7647,5,4,3231,61,Iridium Silver Metallic,Black,9-Speed Automatic,AWD,WDD1J6GB1JF017499
+2018 Mercedes-Benz SL 550 Base,Mercedes-Benz,Black,119895,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Black,Black,9-Speed Automatic,RWD,WDDJK7DA6JF052456
+2018 Mercedes-Benz AMG CLA 45 Base 4MATIC,Mercedes-Benz,Black,60250,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Cosmos Black Metallic,,7-Speed Automatic with Auto-Shift,AWD,WDDSJ5CB1JN616493
+2018 Mercedes-Benz CLA 250 Base 4MATIC,Mercedes-Benz,Blue,41170,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Lunar Blue Metallic,Shara Beige,7-Speed Automatic with Auto-Shift,AWD,WDDSJ4GB1JN602968
+2018 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,White,46425,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,White,Black,9-Speed Automatic,AWD,WDDWF4KBXJR346297
+2015 Mercedes-Benz  ML 350 4MATIC,Mercedes-Benz,Black,33701,International Porsche of Waukesha,(262) 395-7647,5,4,30004,61,Black,Black,7-Speed Automatic,AWD,4JGDA5HB0FA509067
+2014 Mercedes-Benz  E 350 4MATIC,Mercedes-Benz,White,27745,Russ Darrow Nissan of West Bend,(888) 457-9504,4.8,55,40864,64,Polar White,Black,7-Speed Automatic,AWD,WDDHF8JB6EB004720
+2014 Mercedes-Benz  E 350 4MATIC,Mercedes-Benz,Black,26798,Holiday Mazda,(855) 294-9011,4.9,96,50841,67,Obsidian Black Metallic,Black,7-Speed Automatic,AWD,WDDHF8JB2EA821205
+2013 Mercedes-Benz  E 350 4MATIC,Mercedes-Benz,Black,16798,Holiday Mazda,(855) 294-9011,4.9,96,108660,67,Black,Almond / Black,7-Speed Automatic,AWD,WDDHF8JBXDA738779
+2014 Mercedes-Benz  CLA250,Mercedes-Benz,Black,21998,CarMax Metro Parc,(414) 214-9772,4,2,22930,68,Black,Black,Automatic,FWD,WDDSJ4EB3EN105011
+2000 Mercedes-Benz  S430,Mercedes-Benz,Silver,3695,Russ Darrow Kia of Wauwatosa,(414) 269-8713,4.8,471,89016,68,Silver,Ash,5-Speed Automatic,RWD,WDBNG70J4YA109438
+2014 Mercedes-Benz  ML 350,Mercedes-Benz,Black,29998,CarMax Metro Parc,(414) 214-9772,4,2,32895,68,Black,Tan,7-Speed Automatic w/OD,AWD,4JGDA5HB4EA430533
+2014 Mercedes-Benz  ML 350,Mercedes-Benz,Black,29998,CarMax Metro Parc,(414) 214-9772,4,2,35248,68,Black,Black,7-Speed Automatic w/OD,AWD,4JGDA5HB5EA423221
+2015 Mercedes-Benz  ML 350 4MATIC,Mercedes-Benz,Black,30995,International Autos,(414) 455-4870,3.8,56,43709,68,Black,Gray / Dark Gray,7-Speed Automatic,AWD,4JGDA5HB7FA477508
+2017 Mercedes-Benz  E 300,Mercedes-Benz,White,48443,International Autos,(414) 939-8502,3.8,56,5013,68,White,Macchiato,9-Speed Automatic,AWD,WDDZF4KB3HA188102
+2015 Mercedes-Benz  GLA 250,Mercedes-Benz,Black,25998,CarMax Metro Parc,(414) 214-9772,4,2,14334,68,Black,Black,7-Speed Auto-Shift Manual w/OD,AWD,WDCTG4GB4FJ056401
+2014 Mercedes-Benz  GLK 350,Mercedes-Benz,Black,26995,Griffin Chevrolet,(414) 375-4241,4.8,57,36125,68,Black,Black,7-Speed Automatic,4Matic,WDCGG8JB1EG310224
+2014 Mercedes-Benz  GLK350,Mercedes-Benz,White,23998,CarMax Metro Parc,(414) 214-9772,4,2,45008,68,White,Tan,7-Speed Automatic w/OD,RWD,WDCGG5HB7EG174931
+2015 Mercedes-Benz  CLS 400 4MATIC,Mercedes-Benz,Gray,31799,Russ Darrow Honda,(414) 751-6997,4.7,781,73485,69,Steel Gray Metallic,Black,7-Speed Automatic,AWD,WDDLJ6HB5FA134210
+2013 Mercedes-Benz  E 350,Mercedes-Benz,Gray,19990,Bull Valley Ford,(888) 649-4692,4.7,56,52467,71,Gray,,Automatic 7-Speed,All Wheel Drive,WDDHF8JB6DA735278
+2014 Mercedes-Benz  ML 350 4MATIC,Mercedes-Benz,Black,28542,BMW of Milwaukee North,(877) 591-3075,4.8,106,47262,73,Black,Almond Beige,7-Speed Automatic,AWD,4JGDA5HB2EA278087
+2014 Mercedes-Benz  E 350,Mercedes-Benz,Black,26980,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,47842,74,Black,Black,7-SPEED A/T,All Wheel Drive,WDDHF8JB4EA870499
+2015 Mercedes-Benz  CLA 45 AMG,Mercedes-Benz,Black,38455,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,36189,74,Night Black,Black,7-SPEED A/T,All Wheel Drive,WDDSJ5CBXFN232123
+2015 Mercedes-Benz  GL 450,Mercedes-Benz,Blue,40942,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,42415,74,Lunar Blue Metallic,Almond Beige,7-SPEED A/T,All Wheel Drive,4JGDF6EE2FA506760
+2015 Mercedes-Benz  C 300,Mercedes-Benz,Silver,26130,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,40234,74,Palladium Silver Metallic,Black,7-SPEED A/T,All Wheel Drive,55SWF4KB5FU007551
+2018 Mercedes-Benz GLC 300 Base 4Matic,Mercedes-Benz,Brown,51940,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Dakota Brown Metallic,beige,9-SPEED A/T,All Wheel Drive,WDC0G4KBXJV065616
+2015 Mercedes-Benz  S 550,Mercedes-Benz,White,82879,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,20810,74,Designo Diamond White Metallic,Black,7-SPEED A/T,All Wheel Drive,WDDXJ8FB8FA001201
+2018 Mercedes-Benz GLC 300 Base 4Matic,Mercedes-Benz,Black,50095,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,Black,9-SPEED A/T,All Wheel Drive,WDC0G4KBXJV050503
+2015 Mercedes-Benz  CLA 250,Mercedes-Benz,Black,24672,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,21970,74,Black,Black,7-SPEED A/T,All Wheel Drive,WDDSJ4GB2FN199137
+2015 Mercedes-Benz  GLK 350,Mercedes-Benz,White,26997,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,32677,74,Polar White,Sahara Beige/Mocha,7-SPEED A/T,All Wheel Drive,WDCGG8JB5FG353644
+2013 Mercedes-Benz  SL 550,Mercedes-Benz,Black,46944,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,30892,74,Black,Black,7-SPEED A/T,Rear Wheel Drive,WDDJK7DA9DF008861
+2001 Mercedes-Benz  S500,Mercedes-Benz,Silver,3995,Car Planet,(414) 292-9743,2.6,5,129530,74,Silver,Gray,5-Speed Automatic,RWD,WDBNG75J51A172773
+2018 Mercedes-Benz GLC 300 Base 4Matic,Mercedes-Benz,Red,49405,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Designo Cardinal Red Metallic,beige,9-SPEED A/T,All Wheel Drive,WDC0G4KB1JV068078
+2017 Mercedes-Benz  C 300,Mercedes-Benz,Black,37736,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,6422,74,Black,Black,7-SPEED A/T,All Wheel Drive,55SWF4KB6HU189571
+2018 Mercedes-Benz  E 300,Mercedes-Benz,Blue,63530,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Lunar Blue Metallic,beige,9-SPEED A/T,All Wheel Drive,WDDZF4KB7JA348164
+2015 Mercedes-Benz  ML 350,Mercedes-Benz,White,33737,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,30549,74,Polar White,Black,7-SPEED A/T,All Wheel Drive,4JGDA5HB3FA529524
+2018 Mercedes-Benz GLC 300 Base 4Matic,Mercedes-Benz,Black,49995,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,Black,9-SPEED A/T,All Wheel Drive,WDC0G4KB6JV074507
+2018 Mercedes-Benz  E 400,Mercedes-Benz,White,64630,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Polar White,beige,9-SPEED A/T,All Wheel Drive,WDDZF6GBXJA416266
+2018 Mercedes-Benz AMG C 63 Base,Mercedes-Benz,Gray,78005,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Selenite Grey Metallic,Black,7-SPEED A/T,Rear Wheel Drive,55SWF8GB6JU255249
+2018 Mercedes-Benz  C 300,Mercedes-Benz,Black,47025,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,Black,9-SPEED A/T,All Wheel Drive,55SWF4KB4JU235016
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Blue,64910,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Lunar Blue Metallic,beige,7-SPEED A/T,All Wheel Drive,4JGDA5HB7JB082876
+2015 Mercedes-Benz  C 300,Mercedes-Benz,Silver,26870,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,24981,74,Palladium Silver Metallic,Black,7-SPEED A/T,All Wheel Drive,55SWF4KB8FU047719
+2016 Mercedes-Benz  GLE 350,Mercedes-Benz,Black,36980,VROOM (Milwaukee),(877) 682-3020,,,45657,73,Black,Black,Automatic,RWD,4JGDA5JB3GA662344
+2014 Mercedes-Benz  E 350,Mercedes-Benz,Gray,26230,VROOM (Milwaukee),(877) 682-3020,,,50263,73,Gray,Gray,Automatic,AWD,WDDKJ8JB4EF260545
+2012 Mercedes-Benz  AWD E 350 Luxury 4MATIC 4dr Sedan,Mercedes-Benz,Silver,20730,VROOM (Milwaukee),(877) 682-3020,,,39353,73,Silver,Black,Automatic,AWD,WDDHF8JB6CA627919
+2014 Mercedes-Benz  E 350 Sport 4dr Sedan,Mercedes-Benz,Black,24980,VROOM (Milwaukee),(877) 682-3020,,,43278,73,Black,Black,7-Speed Automatic w/OD,RWD,WDDHF5KBXEA878345
+2016 Mercedes-Benz  GLA 250,Mercedes-Benz,Red,26730,VROOM (Milwaukee),(877) 682-3020,,,21133,73,Red,Black,7-Speed Auto-Shift Manual w/OD,AWD,WDCTG4GB5GJ191291
+2013 Mercedes-Benz  C250 Luxury,Mercedes-Benz,Gray,16730,VROOM (Milwaukee),(877) 682-3020,,,44293,73,Gray,Gray,Automatic,RWD,WDDGF4HB9DR291826
+2016 Mercedes-Benz  GLE 350,Mercedes-Benz,White,37980,VROOM (Milwaukee),(877) 682-3020,,,42784,73,White,Black,7-Speed Automatic w/OD,RWD,4JGDA5JB8GA743341
+2015 Mercedes-Benz  C 300,Mercedes-Benz,Black,24980,VROOM (Milwaukee),(877) 682-3020,,,25152,73,Black,Black,7-Speed Automatic w/OD,RWD,55SWF4JBXFU052146
+2015 Mercedes-Benz  C 300,Mercedes-Benz,Blue,24980,VROOM (Milwaukee),(877) 682-3020,,,25571,73,Blue,Gray,7-Speed Automatic w/OD,RWD,55SWF4JBXFU056584
+2014 Mercedes-Benz  E 350,Mercedes-Benz,Black,30980,VROOM (Milwaukee),(877) 682-3020,,,39675,73,Black,Brown,7-Speed Automatic w/OD,RWD,WDDKK5KF3EF240624
+2014 Mercedes-Benz  E 350 Sport 4dr Sedan,Mercedes-Benz,White,25480,VROOM (Milwaukee),(877) 682-3020,,,43824,73,White,Tan,7-Speed Automatic w/OD,RWD,WDDHF5KB9EA908838
+2015 Mercedes-Benz  S 550,Mercedes-Benz,Black,79780,VROOM (Milwaukee),(877) 682-3020,,,18683,73,Black,Black,7-Speed Automatic w/OD,AWD,WDDXJ8FB6FA009362
+2015 Mercedes-Benz  C300 4MATIC,Mercedes-Benz,Silver,28730,VROOM (Milwaukee),(877) 682-3020,,,3827,73,Silver,Gray,7-Speed Automatic w/OD,AWD,55SWF4KB4FU036135
+2015 Mercedes-Benz  C250,Mercedes-Benz,Red,21730,VROOM (Milwaukee),(877) 682-3020,,,35152,73,Red,Black,Automatic,RWD,WDDGJ4HB3FG384404
+2013 Mercedes-Benz  E 350,Mercedes-Benz,White,21230,VROOM (Milwaukee),(877) 682-3020,,,46072,73,White,Tan,7-Speed Automatic w/Manual Shift,RWD,WDDKJ5KB0DF194930
+2015 Mercedes-Benz  GLA 250,Mercedes-Benz,Black,23730,VROOM (Milwaukee),(877) 682-3020,,,35339,73,Black,Black,7-Speed Auto-Shift Manual w/OD,AWD,WDCTG4GB0FJ034878
+2014 Mercedes-Benz  E 350 Sport 4dr Sedan,Mercedes-Benz,Silver,21730,VROOM (Milwaukee),(877) 682-3020,,,64816,73,Silver,Gray,7-Speed Automatic w/OD,RWD,WDDHF5KB6EA829076
+2016 Mercedes-Benz  CLA 250,Mercedes-Benz,White,23980,VROOM (Milwaukee),(877) 682-3020,,,25693,73,White,Tan,7-Speed Auto-Shift Manual w/OD,FWD,WDDSJ4EB5GN360651
+2017 Mercedes-Benz SLC 300 Base,Mercedes-Benz,Black,41980,VROOM (Milwaukee),(877) 682-3020,,,8375,73,Black,Black,9-Speed Automatic w/OD,RWD,WDDPK3JA2HF144522
+2015 Mercedes-Benz  ML 350,Mercedes-Benz,Black,33980,VROOM (Milwaukee),(877) 682-3020,,,27524,73,Black,Black,7-Speed Automatic w/OD,RWD,4JGDA5JB7FA520657
+2014 Mercedes-Benz  CLS550,Mercedes-Benz,Black,37230,VROOM (Milwaukee),(877) 682-3020,,,35327,73,Black,Black,7-Speed Automatic w/OD,RWD,WDDLJ7DB8EA127696
+2013 Mercedes-Benz  E 350 4MATIC,Mercedes-Benz,Silver,14995,German Auto House,(608) 467-4941,5,1,114796,2,Silver,White,7-Speed Automatic,AWD,WDDHF8JB0DA679788
+2014 Mercedes-Benz  Sport,Mercedes-Benz,Gray,19998,CarMax Madison,(608) 286-3923,4.3,3,24850,5,Gray,Black,7-Speed Automatic w/OD,RWD,WDDGF4HB0ER314346
+2015 Mercedes-Benz  GLA 250,Mercedes-Benz,Black,25998,CarMax Madison,(608) 286-3923,4.3,3,26442,5,Black,Tan,7-Speed Auto-Shift Manual w/OD,AWD,WDCTG4GBXFJ092318
+2013 Mercedes-Benz  GL 450 4MATIC,Mercedes-Benz,Black,30995,Fields Jaguar Land Rover Volvo Cars Madison,(608) 216-2301,4.3,21,64995,5,Black,Black,7-Speed Automatic,AWD,4JGDF7CEXDA193222
+2013 Mercedes-Benz  GL 450 4MATIC,Mercedes-Benz,Blue,27995,Schoepp Motors West,(608) 729-3822,2.7,5,93653,6,Lunar Blue Metallic,,7-Speed Automatic,AWD,4JGDF7CE9DA148238
+2012 Mercedes-Benz,Mercedes-Benz,White,18995,Schoepp Motors West,(608) 729-3822,2.7,5,52369,6,White,,7-Speed Automatic,RWD,WDDGF4HB9CR217367
+2005 Mercedes-Benz  E500 4MATIC,Mercedes-Benz,Silver,8995,Pete Raskovic Automotive,(888) 285-2231,,,138005,33,Silver,Black,5-Speed Automatic,AWD,WDBUF83J25X171896
+2015 Mercedes-Benz  E 350 4MATIC,Mercedes-Benz,Silver,29855,Kayser Chrysler Center Watertown,(920) 545-2133,5,124,35199,35,Silver,Gray / Dark Gray,7-Speed Automatic,AWD,WDDHF8JB4FB086738
+2010 Mercedes-Benz  GLK 350 4MATIC,Mercedes-Benz,Blue,13899,Ewald Chrysler Dodge Jeep Ram of Oconomowoc,(262) 326-1871,4.5,89,105338,46,Blue,Black,7-Speed Automatic,AWD,WDCGG8HB5AF427083
+2018 Mercedes-Benz  E 300,Mercedes-Benz,Gray,66350,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Gray,,9-Speed Automatic,AWD,WDDZF4KB3JA400485
+2018 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,Silver,50595,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Silver,,9-Speed Automatic,AWD,55SWF4KB9JU262647
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,White,67220,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,White,,7-Speed Automatic,AWD,4JGDA5HB6JB103698
+2009 Mercedes-Benz  C 300 Sport,Mercedes-Benz,White,7250,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,132285,55,White,,7-Speed Automatic,AWD,WDDGF81X39R058965
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Gray,67200,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Gray Metallic,,7-Speed Automatic,AWD,4JGDA5HB4JB030556
+2018 Mercedes-Benz CLA 250 Base 4MATIC,Mercedes-Benz,White,39280,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,White,,7-Speed Automatic with Auto-Shift,AWD,WDDSJ4GB5JN550356
+2008 Mercedes-Benz  E 350 4MATIC,Mercedes-Benz,White,8500,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,148268,55,White,,5-Speed Automatic,AWD,WDBUF87X28B291147
+2018 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,Gray,46095,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Gray,,9-Speed Automatic,AWD,55SWF4KB6JU256207
+2018 Mercedes-Benz  E 300,Mercedes-Benz,Gray,67500,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Gray,,9-Speed Automatic,AWD,WDDZF4KB8JA425186
+2016 Mercedes-Benz Sprinter 2500 Normal Roof,Mercedes-Benz,White,32433,Lynch Chrysler Dodge Jeep RAM,(262) 684-4253,4.9,323,13341,56,Arctic White,Black,7-Speed Automatic,RWD,8BRPE7DD3GE123308
+2018 Mercedes-Benz AMG C 63 S,Mercedes-Benz,White,83850,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Designo Diamond White Metallic,Black,7-Speed Automatic,RWD,55SWF8HBXJU247167
+2018 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,Blue,40261,Mercedes-Benz of Elmbrook,(262) 510-2426,4.5,39,2670,61,Lunar Blue Metallic,Silk Beige / Black,9-Speed Automatic,AWD,55SWF4KB9JU244990
+2018 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,Blue,40261,International Porsche of Waukesha,(262) 395-7647,5,4,2670,61,Lunar Blue Metallic,Silk Beige / Black,9-Speed Automatic,AWD,55SWF4KB9JU244990
+2017 Mercedes-Benz  E 300,Mercedes-Benz,Black,56905,International Porsche of Waukesha,(262) 395-7647,5,4,4310,61,Black,Black,9-Speed Automatic,AWD,WDDZF4KB8HA206416
+2018 Mercedes-Benz AMG GLE 43 Base 4MATIC,Mercedes-Benz,White,77080,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Designo Diamond White Metallic,Black,9-Speed Automatic,AWD,4JGDA6EBXJB057092
+2018 Mercedes-Benz CLA 250 Base 4MATIC,Mercedes-Benz,White,43500,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Citrus White,Black,7-Speed Automatic with Auto-Shift,AWD,WDDSJ4GB7JN537057
+2018 Mercedes-Benz AMG GLE 43 Base 4MATIC,Mercedes-Benz,Black,80795,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Obsidian Black Metallic,Black,9-Speed Automatic,AWD,4JGDA6EB9JB100367
+2018 Mercedes-Benz AMG C 63 S,Mercedes-Benz,White,86125,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,White,Black,7-Speed Automatic,RWD,WDDWJ8HB8JF622717
+2018 Mercedes-Benz  S 450 4MATIC,Mercedes-Benz,White,106130,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Designo Diamond White,Beige,9-Speed Automatic,AWD,WDDUG6EB7JA347773
+2015 Mercedes-Benz  SLK 250,Mercedes-Benz,White,33416,Mercedes-Benz of Elmbrook,(262) 510-0488,4.5,39,16858,61,Polar White,Two-Tone Brown / Black,7-Speed Automatic,RWD,WDDPK4HA6FF101486
+2015 Mercedes-Benz  GLA 250,Mercedes-Benz,Gray,26522,Mercedes-Benz of Elmbrook,(262) 510-0488,4.5,39,30381,61,Mountain Gray Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WDCTG4GB8FJ067563
+2017 Mercedes-Benz  E 300,Mercedes-Benz,White,50775,Mercedes-Benz of Elmbrook,(262) 510-0488,4.5,39,4501,61,Polar White,Black,9-Speed Automatic,AWD,WDDZF4KB2HA206038
+2014 Mercedes-Benz  E 550 4MATIC,Mercedes-Benz,Black,34875,Mercedes-Benz of Elmbrook,(262) 510-0488,4.5,39,63265,61,Black,Chestnut Brown,7-Speed Automatic,AWD,WDDHF9BB5EA866711
+2015 Mercedes-Benz  SLK 250,Mercedes-Benz,White,33416,International Porsche of Waukesha,(262) 395-7647,5,4,16858,61,Polar White,Two-Tone Brown / Black,7-Speed Automatic,RWD,WDDPK4HA6FF101486
+2015 Mercedes-Benz  GLA 250,Mercedes-Benz,Gray,26522,International Porsche of Waukesha,(262) 395-7647,5,4,30381,61,Mountain Gray Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WDCTG4GB8FJ067563
+2017 Mercedes-Benz  E 300,Mercedes-Benz,White,51648,International Porsche of Waukesha,(262) 395-7647,5,4,4501,61,Polar White,Black,9-Speed Automatic,AWD,WDDZF4KB2HA206038
+2014 Mercedes-Benz  E 550 4MATIC,Mercedes-Benz,Black,34875,International Porsche of Waukesha,(262) 395-7647,5,4,63265,61,Black,Chestnut Brown,7-Speed Automatic,AWD,WDDHF9BB5EA866711
+2018 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,Black,45925,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Black,Black,9-Speed Automatic,AWD,55SWF4KB5JU251435
+2015 Mercedes-Benz  E 350 4MATIC,Mercedes-Benz,Black,34396,Mercedes-Benz of Elmbrook,(262) 510-0488,4.5,39,16206,61,Black,Black,7-Speed Automatic,AWD,WDDHF8JB7FB130831
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,Blue,50865,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Lunar Blue Metallic,Beige,9-Speed Automatic,AWD,WDC0G4KB3JV066218
+2012 Mercedes-Benz  SLK350,Mercedes-Benz,Black,25271,Mercedes-Benz of Elmbrook,(262) 510-2426,4.5,39,31502,61,Black,Ash,7-Speed Automatic,RWD,WDDPK5HA7CF039369
+2017 Mercedes-Benz  C 300,Mercedes-Benz,Gray,49180,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Selenite Gray Metallic,Black,7-Speed Automatic,AWD,55SWF4KBXHU232289
+2015 Mercedes-Benz  E 350 4MATIC,Mercedes-Benz,Black,34396,International Porsche of Waukesha,(262) 395-7647,5,4,16206,61,Black,Black,7-Speed Automatic,AWD,WDDHF8JB7FB130831
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,Black,50445,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Black,Black,9-Speed Automatic,AWD,WDC0G4KB5JV059285
+2012 Mercedes-Benz  SLK350,Mercedes-Benz,Black,25271,International Porsche of Waukesha,(262) 395-7647,5,4,31502,61,Black,Ash,7-Speed Automatic,RWD,WDDPK5HA7CF039369
+2018 Mercedes-Benz  E 300,Mercedes-Benz,Blue,65680,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Lunar Blue Metallic,Beige,9-Speed Automatic,AWD,WDDZF4KBXJA383474
+2017 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,White,57420,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Designo Diamond White Metallic,Cranberry Red / Black,7-Speed Automatic,AWD,WDDWJ4KB6HF549553
+2018 Mercedes-Benz  E 300,Mercedes-Benz,White,55155,Mercedes-Benz of Elmbrook,(262) 510-2426,4.5,39,10,61,Polar White,Macchiato,9-Speed Automatic,AWD,WDDZF4KB3JA299058
+2018 Mercedes-Benz AMG C 43 Base 4MATIC,Mercedes-Benz,White,64830,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Designo Diamond White Metallic,Black,9-Speed Automatic,AWD,55SWF6EB4JU257850
+2018 Mercedes-Benz  E 300,Mercedes-Benz,White,55155,International Porsche of Waukesha,(262) 395-7647,5,4,10,61,Polar White,Macchiato,9-Speed Automatic,AWD,WDDZF4KB3JA299058
+2015 Mercedes-Benz  GLK 350 4MATIC,Mercedes-Benz,Black,20900,Lannon Motors LLC,(414) 455-5644,5,4,41088,62,Black,BLACK,AUTO,AWD,WDCGG8JB1FG375205
+2015 Mercedes-Benz  GLK 350,Mercedes-Benz,Gray,25995,Alpha Motors,(262) 649-5754,4.8,4,25612,63,Steel Gray Metallic,Black,7-SPEED A/T,All Wheel Drive,WDCGG8JB4FG338231
+2008 Mercedes-Benz  3.0L CDI,Mercedes-Benz,Silver,9995,Alpha Motors,(262) 649-5754,4.8,4,133995,63,Silver,Ash,7-SPEED A/T,All Wheel Drive,4JGCB22E38A080049
+2011 Mercedes-Benz  ML 350 4MATIC,Mercedes-Benz,Black,19995,Reina International,(262) 510-2733,4,6,59826,66,Black,Black,7-Speed Automatic,AWD,4JGBB8GB4BA692085
+2008 Mercedes-Benz  E 350 4MATIC,Mercedes-Benz,Black,11995,Reina International,(262) 510-2733,4,6,94051,66,Black,Black,5-Speed Automatic,AWD,WDBUF87X08B249821
+2011 Mercedes-Benz  GL 450 4MATIC,Mercedes-Benz,Black,21995,Reina International,(262) 510-2733,4,6,97223,66,Black,Black,7-Speed Automatic,AWD,4JGBF7BE9BA749364
+2014 Mercedes-Benz  GL450 4MATIC,Mercedes-Benz,Black,32997,Lenz Truck Center,(920) 933-8265,4.8,1030,78590,67,Black,Gray,7-Speed Automatic w/OD,AWD,4JGDF7CE3EA306476
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,White,43772,International Autos,(414) 939-8502,3.8,56,7701,68,Polar White,Silk Beige,9-Speed Automatic,AWD,WDC0G4KB2JV025353
+2014 Mercedes-Benz  CLA250,Mercedes-Benz,Black,21998,CarMax Metro Parc,(414) 214-9772,4,2,18088,68,Black,Black,7-Speed Auto-Shift Manual w/OD,FWD,WDDSJ4EB4EN109455
+2015 Mercedes-Benz  Sport,Mercedes-Benz,White,27998,CarMax Metro Parc,(414) 214-9772,4,2,20859,68,White,Tan,7-Speed Automatic w/OD,RWD,WDDHF5KB2FB143614
+2014 Mercedes-Benz  CLA 250,Mercedes-Benz,Black,19892,International Autos,(414) 939-8502,3.8,56,52267,68,Midnight Black,Black,7-Speed Automatic with Auto-Shift,FWD,WDDSJ4EB3EN150546
+2015 Mercedes-Benz  GLA 250,Mercedes-Benz,Blue,25492,International Autos,(414) 455-4870,3.8,56,28121,68,Blue Metallic,Beige,7-Speed Automatic with Auto-Shift,AWD,WDCTG4GB6FJ083356
+2015 Mercedes-Benz  GLA 250,Mercedes-Benz,White,26552,International Autos,(414) 455-4870,3.8,56,29777,68,Citrus White,Black,7-Speed Automatic with Auto-Shift,AWD,WDCTG4GB5FJ035136
+2017 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Gray,71999,International Autos,(414) 203-5342,3.8,56,,68,Selenite Gray Metallic,Black,7-Speed Automatic,AWD,4JGDA5HB8HA963537
+2013 Mercedes-Benz  C 300,Mercedes-Benz,Black,18599,CarMax Metro Parc,(414) 214-9772,4,2,47595,68,Black,Black,7-Speed Automatic,AWD,WDDGF8AB3DA820378
+2014 Mercedes-Benz  E 350 4MATIC,Mercedes-Benz,Black,26883,International Autos,(414) 939-8502,3.8,56,46989,68,Black,Silk Beige / Espresso Brown,7-Speed Automatic,AWD,WDDHF8JB9EB042149
+2017 Mercedes-Benz GLA 250 Base 4MATIC,Mercedes-Benz,White,37499,International Autos,(414) 203-5342,3.8,56,,68,Citrus White,Black,7-Speed Automatic with Auto-Shift,AWD,WDCTG4GB6HJ359960
+2013 Mercedes-Benz  ML 350 4MATIC,Mercedes-Benz,Brown,20995,Diamond Jim's Motorcars,(414) 326-9166,4,68,98834,73,Dakota Brown Metallic,Tan,7-Speed Automatic,AWD,4JGDA5HB8DA119833
+2018 Mercedes-Benz GLA 250 GLA 250,Mercedes-Benz,Blue,41670,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Lunar Blue Metallic,Sahara Beige,7-SPEED A/T,All Wheel Drive,WDCTG4GBXJJ411032
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,White,69980,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Designo Diamond White Metallic,Black,7-SPEED A/T,All Wheel Drive,4JGDA5HB3JB111029
+2014 Mercedes-Benz  C 300,Mercedes-Benz,Gray,20978,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,34425,74,Steel Gray Metallic,,7-SPEED A/T,All Wheel Drive,WDDGF8AB7EA892668
+2018 Mercedes-Benz AMG C 63 Base,Mercedes-Benz,Black,84490,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Obsidian Black Metallic,Black,7-SPEED A/T,Rear Wheel Drive,WDDWK8GB4JF681603
+2015 Mercedes-Benz  CLS 63 AMG S-Model,Mercedes-Benz,White,62940,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,52391,74,Designo Diamond White Metallic,Black,7-SPEED A/T,All Wheel Drive,WDDLJ7GB6FA133638
+2018 Mercedes-Benz GLC 300 Base 4Matic,Mercedes-Benz,Black,50095,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,Black,9-SPEED A/T,All Wheel Drive,WDC0G4KB8JV060124
+2015 Mercedes-Benz  CLS 550,Mercedes-Benz,Silver,45986,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,45759,74,Iridium Silver Metallic,Black,7-SPEED A/T,All Wheel Drive,WDDLJ9BB5FA154340
+2018 Mercedes-Benz AMG GLE 43 Base 4MATIC,Mercedes-Benz,Black,81330,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Obsidian Black Metallic,Black,9-SPEED A/T,All Wheel Drive,4JGDA6EB8JA997428
+2015 Mercedes-Benz  E 400,Mercedes-Benz,White,41690,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,18936,74,Designo Diamond White,Espresso Brown/Silk Beige,7-SPEED A/T,Rear Wheel Drive,WDDKK6FF4FF297271
+2014 Mercedes-Benz  E 350,Mercedes-Benz,Black,24730,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,49975,74,Black,Black,7-SPEED A/T,All Wheel Drive,WDDHF8JB2EA900101
+2017 Mercedes-Benz  E 300,Mercedes-Benz,Silver,54225,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,7298,74,Iridium Silver Metallic,Black,9-SPEED A/T,All Wheel Drive,WDDZF4KB0HA035600
+2017 Mercedes-Benz  S 550,Mercedes-Benz,White,121100,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Designo Diamond White Metallic,Black,9-SPEED A/T,All Wheel Drive,WDDUG8FB7HA317273
+2018 Mercedes-Benz GLC 300 Base 4Matic,Mercedes-Benz,Black,50095,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,Black,9-SPEED A/T,All Wheel Drive,WDC0G4KB8JV056042
+2018 Mercedes-Benz  E 300,Mercedes-Benz,Gray,68200,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Selenite Grey Metallic,Black,9-SPEED A/T,All Wheel Drive,WDDZF4KB1JA392841
+2018 Mercedes-Benz GLA 250 GLA 250,Mercedes-Benz,Silver,42145,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Polar Silver Metallic,Black,7-SPEED A/T,All Wheel Drive,WDCTG4GB5JJ474023
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,White,62690,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Designo Diamond White Metallic,Black,7-SPEED A/T,All Wheel Drive,4JGDA5HBXJB092687
+2018 Mercedes-Benz GLC 300 Base 4Matic,Mercedes-Benz,Blue,53215,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Lunar Blue Metallic,Black,9-SPEED A/T,All Wheel Drive,WDC0G4KB2JV066727
+2003 Mercedes-Benz  E320,Mercedes-Benz,Gold,3950,Car Planet,(414) 292-9743,2.6,5,130000,74,Gold,Tan,5-Speed Automatic,RWD,WDBUF65J23A193799
+2005 Mercedes-Benz  C230 Kompressor Sport,Mercedes-Benz,Red,6777,Auto Outpost - North Inc.,(815) 572-6094,3.8,14,105315,74,Red,Black,5-Speed Automatic,RWD,WDBRF40J35F706226
+2018 Mercedes-Benz  C 300,Mercedes-Benz,White,46375,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Polar White,Black,9-SPEED A/T,All Wheel Drive,55SWF4KB7JU237911
+2018 Mercedes-Benz  E 300,Mercedes-Benz,White,67580,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Polar White,Black,9-SPEED A/T,All Wheel Drive,WDDZF4KBXJA397892
+2017 Mercedes-Benz  E 400,Mercedes-Benz,White,78085,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Polar White,beige,9-SPEED A/T,All Wheel Drive,WDDZH6GB0HA136683
+2018 Mercedes-Benz GLC 300 Base 4Matic,Mercedes-Benz,White,55335,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Designo Diamond White Metallic,Black,9-SPEED A/T,All Wheel Drive,WDC0G4KB7JV066237
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Black,63340,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Obsidian Black Metallic,Black,7-SPEED A/T,All Wheel Drive,4JGDA5HB3JB092403
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Black,60590,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,beige,7-SPEED A/T,All Wheel Drive,4JGDA5HB2JB089637
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Black,68670,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Obsidian Black Metallic,beige,7-SPEED A/T,All Wheel Drive,4JGDA5HB8JB041303
+2018 Mercedes-Benz  E 400,Mercedes-Benz,Gray,74835,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Selenite Grey Metallic,Black,9-SPEED A/T,All Wheel Drive,WDD1J6GBXJF007702
+2018 Mercedes-Benz  S 560,Mercedes-Benz,Black,125195,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,Black,9-SPEED A/T,All Wheel Drive,WDDUG8GB4JA398740
+2018 Mercedes-Benz GLA 250 GLA 250,Mercedes-Benz,White,40750,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Cirrus White,Sahara Beige,7-SPEED A/T,All Wheel Drive,WDCTG4GB2JJ464792
+2014 Mercedes-Benz  E 350,Mercedes-Benz,White,24480,VROOM (Milwaukee),(877) 682-3020,,,38666,73,White,Black,7-Speed Automatic w/OD,RWD,WDDKJ5KB7EF283315
+2015 Mercedes-Benz  E 400,Mercedes-Benz,Black,34980,VROOM (Milwaukee),(877) 682-3020,,,40687,73,Black,Black,7-Speed Automatic w/OD,RWD,WDDKK6FF0FF297798
+2013 Mercedes-Benz  ML 350,Mercedes-Benz,White,25780,VROOM (Milwaukee),(877) 682-3020,,,48637,73,White,Black,7-Speed Automatic w/Manual Shift,RWD,4JGDA5JBXDA161916
+2014 Mercedes-Benz  GLK350,Mercedes-Benz,White,25730,VROOM (Milwaukee),(877) 682-3020,,,37794,73,White,Black,7-Speed Automatic w/OD,RWD,WDCGG5HB8EG196260
+2009 Mercedes-Benz  S 550 4MATIC,Mercedes-Benz,Black,25995,German Auto House,(608) 467-4941,5,1,40375,2,Black,Black,7-Speed Automatic,AWD,WDDNG86X49A258457
+2018 Mercedes-Benz  S 450 4MATIC,Mercedes-Benz,Silver,107215,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Iridium Silver,,9-Speed Automatic,AWD,WDDUG6EB9JA357043
+2013 Mercedes-Benz  C 300 Sport 4MATIC,Mercedes-Benz,Silver,18500,Napleton Autowerks Loves Park,(855) 789-0937,4.9,519,46932,55,Silver,,7-Speed Automatic,AWD,WDDGF8AB7DR287131
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,White,47245,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Polar White,,9-Speed Automatic,AWD,WDC0G4KB4JV067989
+2015 Mercedes-Benz  C 300 Luxury,Mercedes-Benz,Black,25500,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,49805,55,Black,,7-Speed Automatic,AWD,55SWF4KB3FU015230
+2015 Mercedes-Benz  GLA 250,Mercedes-Benz,Gray,23500,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,68231,55,Gray,,7-Speed Automatic with Auto-Shift,AWD,WDCTG4GB0FJ030667
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,White,54645,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,White,,9-Speed Automatic,AWD,WDC0G4KB7JVC07326
+2015 Mercedes-Benz  GLK 350 4MATIC,Mercedes-Benz,White,30250,Napleton Autowerks Loves Park,(855) 789-0937,4.9,519,23968,55,White,,7-Speed Automatic,AWD,WDCGG8JB4FG439012
+2017 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Black,45000,Fields Jaguar Land Rover Volvo Waukesha,(262) 229-4393,4.6,57,12052,60,Black,,7-Speed Automatic,AWD,4JGDA5HB7HA853238
+2017 Mercedes-Benz  C 300,Mercedes-Benz,Black,44485,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Black,Black,7-Speed Automatic,AWD,WDDWF4KBXHR307297
+2018 Mercedes-Benz  E 300,Mercedes-Benz,Black,70520,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Black,Black,9-Speed Automatic,AWD,WDDZF4KB1JA321283
+2007 Mercedes-Benz  6.0L V12 AMG,Mercedes-Benz,Black,31900,Midwest Highline,(815) 516-8789,,,61250,61,Black,Black,5-SPEED A/T,Rear Wheel Drive,WDDNG79X37A083234
+2018 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,Gray,47395,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Selenite Gray Metallic,Black,9-Speed Automatic,AWD,WDDWF4KB3JR345590
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,Gray,56055,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Selenite Gray Metallic,Black,9-Speed Automatic,AWD,WDC0G4KB1JV066007
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,Gray,44975,Mercedes-Benz of Elmbrook,(262) 510-2426,4.5,39,6673,61,Selenite Gray Metallic,Black,9-Speed Automatic,AWD,WDC0G4KB9JV033093
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,Gray,44975,International Porsche of Waukesha,(262) 395-7647,5,4,6673,61,Selenite Gray Metallic,Black,9-Speed Automatic,AWD,WDC0G4KB9JV033093
+2018 Mercedes-Benz AMG GLC 43 Base 4MATIC,Mercedes-Benz,Gray,66475,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Selenite Gray Metallic,Black,9-Speed Automatic,AWD,WDC0G6EB8JF380108
+2018 Mercedes-Benz AMG C 63 S,Mercedes-Benz,White,86200,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Designo Diamond White Metallic,Black,7-Speed Automatic,RWD,55SWF8HB4JU250632
+2017 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,White,58150,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Polar White,Silk Beige / Black,9-Speed Automatic,AWD,WDDWK4KB6HF509552
+2010 Mercedes-Benz  S 550,Mercedes-Benz,Gray,29900,Midwest Highline,(815) 516-8789,,,61435,61,Gray,Black,7-SPEED A/T,All Wheel Drive,WDDNG8GB2AA311132
+2003 Mercedes-Benz  2dr Roadster 5.0L,Mercedes-Benz,Silver,16900,Midwest Highline,(815) 516-8789,,,54079,61,Silver,Black,5-SPEED A/T,Rear Wheel Drive,WDBSK75F43F048299
+2018 Mercedes-Benz AMG GT Base,Mercedes-Benz,Gray,138090,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Selenite Gray Metallic,Red Pepper,7-Speed Automatic with Auto-Shift,RWD,WDDYK7HA0JA016641
+2001 Mercedes-Benz  2dr Cabriolet 4.3L,Mercedes-Benz,Black,5998,Alpha Motors,(262) 649-5754,4.8,4,97829,63,Black,Grey,5-SPEED A/T,Rear Wheel Drive,WDBLK70G51T077295
+2014 Mercedes-Benz  E 350 4MATIC,Mercedes-Benz,White,33995,Reina International,(262) 510-2733,4,6,22436,66,Polar White,Black,7-Speed Automatic,AWD,WDDHF8JBXEB028745
+2017 Mercedes-Benz  E 300,Mercedes-Benz,Silver,52992,International Autos,(414) 939-8502,3.8,56,7229,68,Iridium Silver Metallic,Black,9-Speed Automatic,AWD,WDDZF4KB6HA202901
+2014 Mercedes-Benz  CLA 250,Mercedes-Benz,Gray,22252,Andrew Toyota,(866) 786-0878,4.9,1460,20880,73,Mountain Gray Metallic,Black,7-SPEED A/T,All Wheel Drive,WDDSJ4GB8EN146473
+2018 Mercedes-Benz  E 300,Mercedes-Benz,Gray,65865,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Selenite Grey Metallic,beige,9-SPEED A/T,All Wheel Drive,WDDZF4KB1JA339525
+2018 Mercedes-Benz AMG GLE 43 Base 4MATIC,Mercedes-Benz,White,79605,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Polar White,Black,9-SPEED A/T,All Wheel Drive,4JGED6EB9JA111287
+2018 Mercedes-Benz GLC 300 Base 4Matic,Mercedes-Benz,Black,50845,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,Black,9-SPEED A/T,All Wheel Drive,WDC0G4KB6JV073082
+2018 Mercedes-Benz GLA 250 GLA 250,Mercedes-Benz,White,44400,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Cirrus White,Black,7-SPEED A/T,All Wheel Drive,WDCTG4GB2JJ382299
+2018 Mercedes-Benz GLC 300 Base 4Matic,Mercedes-Benz,Gray,54105,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Selenite Grey Metallic,Black,9-SPEED A/T,All Wheel Drive,WDC0G4KB4JV027248
+2018 Mercedes-Benz  E 300,Mercedes-Benz,Black,69320,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Obsidian Black Metallic,Black,9-SPEED A/T,All Wheel Drive,WDDZF4KBXJA320651
+2018 Mercedes-Benz GLC 300 Base 4Matic,Mercedes-Benz,Silver,48315,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Iridium Silver Metallic,Black,9-SPEED A/T,All Wheel Drive,WDC0G4KB5JV074479
+2017 Mercedes-Benz  E 300,Mercedes-Benz,Black,62095,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Obsidian Black Metallic,Black,9-SPEED A/T,All Wheel Drive,WDDZF4KB1HA209822
+2017 Mercedes-Benz  C 300,Mercedes-Benz,Black,46035,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,Black,7-SPEED A/T,All Wheel Drive,55SWF4KB7HU215112
+2018 Mercedes-Benz GLA 250 GLA 250,Mercedes-Benz,Brown,41820,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Cocoa Brown Metallic,Sahara Beige,7-SPEED A/T,All Wheel Drive,WDCTG4GB1JJ475606
+2018 Mercedes-Benz GLC 300 Base 4Matic,Mercedes-Benz,Black,50445,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,Black,9-SPEED A/T,All Wheel Drive,WDC0G4KB0JV045519
+2018 Mercedes-Benz  C 300,Mercedes-Benz,Black,52590,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,Black,9-SPEED A/T,All Wheel Drive,WDDWJ4KB6JF671903
+2018 Mercedes-Benz GLC 300 Base 4Matic,Mercedes-Benz,Black,52495,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,Black,9-SPEED A/T,All Wheel Drive,WDC0G4KB4JV066602
+2018 Mercedes-Benz  S 560,Mercedes-Benz,Gray,109695,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Selenite Grey Metallic,brown,9-SPEED A/T,All Wheel Drive,WDDUG8GB6JA346770
+2018 Mercedes-Benz  C 300,Mercedes-Benz,Black,47695,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Obsidian Black Metallic,Black,9-SPEED A/T,All Wheel Drive,55SWF4KB6JU263173
+2018 Mercedes-Benz AMG C 63 Base,Mercedes-Benz,Black,79395,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Obsidian Black Metallic,Black,7-SPEED A/T,Rear Wheel Drive,WDDWJ8GB9JF670812
+2018 Mercedes-Benz  E 300,Mercedes-Benz,Gray,65300,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Selenite Grey Metallic,Black,9-SPEED A/T,All Wheel Drive,WDDZF4KB0JA344330
+2018 Mercedes-Benz GLS 450 Base 4MATIC,Mercedes-Benz,Gray,80450,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Selenite Grey Metallic,beige,9-SPEED A/T,All Wheel Drive,4JGDF6EE3JB018940
+2015 Mercedes-Benz  ML 350,Mercedes-Benz,White,28730,VROOM (Milwaukee),(877) 682-3020,,,51156,73,White,Tan,Automatic,RWD,4JGDA5JB1FA583656
+2014 Mercedes-Benz  CLA250,Mercedes-Benz,Black,24480,VROOM (Milwaukee),(877) 682-3020,,,2870,73,Black,Black,7-Speed Auto-Shift Manual w/OD,FWD,WDDSJ4EB7EN037957
+2018 Mercedes-Benz AMG GLA 45 AMG GLA 45,Mercedes-Benz,White,60480,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Cirrus White,Black,7-SPEED A/T,All Wheel Drive,WDDTG5CBXJJ433555
+2018 Mercedes-Benz GLA 250 Base 4MATIC,Mercedes-Benz,Black,40080,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Black,Shara Beige,7-Speed Automatic with Auto-Shift,AWD,WDCTG4GB1JJ435543
+2001 Mercedes-Benz  C320,Mercedes-Benz,Black,5499,Car King,(414) 255-0262,3.2,39,93582,68,Black,Gray,5-SPEED A/T,Rear Wheel Drive,WDBRF64J91F077202
+2018 Mercedes-Benz GLS 550 Base 4MATIC,Mercedes-Benz,Black,100605,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,Black,9-SPEED A/T,All Wheel Drive,4JGDF7DE8JB067834
+2018 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,White,46525,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,White,Black,9-Speed Automatic,AWD,55SWF4KB1JU248046
+2006 Mercedes-Benz  E 350 4MATIC,Mercedes-Benz,Gray,8950,Kunes Country Chevrolet Cadillac of Delavan,(262) 586-4283,4.7,720,173702,49,Gray,,5-Speed Automatic,AWD,WDBUF87J86X188732
+2018 Mercedes-Benz GLA 250 GLA 250,Mercedes-Benz,Gray,41145,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Mountain Grey Metallic,Black,7-SPEED A/T,All Wheel Drive,WDCTG4GB3JJ398673
+2018 Mercedes-Benz GLC 300 Base 4Matic,Mercedes-Benz,White,50145,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Polar White,beige,9-SPEED A/T,All Wheel Drive,WDC0G4KB5JV066737
+2018 Mercedes-Benz  C 300,Mercedes-Benz,Gray,48695,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Selenite Grey Metallic,Black,9-SPEED A/T,All Wheel Drive,55SWF4KBXJU255822
+2018 Mercedes-Benz  E 300,Mercedes-Benz,White,70665,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Designo Diamond White,Black,9-SPEED A/T,All Wheel Drive,WDDZF4KB1JA308792
+2018 Mercedes-Benz  C 300,Mercedes-Benz,Red,47655,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Designo Cardinal Red Metallic,Black,9-SPEED A/T,All Wheel Drive,55SWF4KB7JU234863
+2018 Mercedes-Benz GLA 250 GLA 250,Mercedes-Benz,Blue,43345,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Lunar Blue Metallic,Sahara Beige,7-SPEED A/T,All Wheel Drive,WDCTG4GB9JJ435029
+2018 Mercedes-Benz GLA 250 GLA 250,Mercedes-Benz,Black,39675,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,Black,7-SPEED A/T,All Wheel Drive,WDCTG4GB1JJ395495
+2018 Mercedes-Benz GLS 550 Base 4MATIC,Mercedes-Benz,White,101660,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Designo Diamond White Metallic,Black,9-SPEED A/T,All Wheel Drive,4JGDF7DE6JB121423
+2018 Mercedes-Benz GLC 300 Base 4Matic,Mercedes-Benz,Gray,54105,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Selenite Grey Metallic,Black,9-SPEED A/T,All Wheel Drive,WDC0G4KB9JV038858
+2018 Mercedes-Benz CLA 250 Base 4MATIC,Mercedes-Benz,Red,39650,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Jupiter Red,Black,7-Speed Automatic with Auto-Shift,AWD,WDDSJ4GB3JN597255
+2017 Mercedes-Benz Sprinter 2500 Standard Roof,Mercedes-Benz,Red,59412,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Velvet Red,Black,5-Speed Automatic,4WD,WD4FE7CD3HP574541
+2018 Mercedes-Benz  E 300,Mercedes-Benz,White,66510,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Polar White,Black,9-SPEED A/T,All Wheel Drive,WDDZF4KB6JA425137
+2018 Mercedes-Benz  S 560,Mercedes-Benz,Black,124805,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Obsidian Black Metallic,Black,9-SPEED A/T,All Wheel Drive,WDDUG8GB3JA386255
+2018 Mercedes-Benz GLC 300 Base 4Matic,Mercedes-Benz,Gray,53215,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Selenite Grey Metallic,Black,9-SPEED A/T,All Wheel Drive,WDC0G4KB8JF401080
+2018 Mercedes-Benz  C 300,Mercedes-Benz,Silver,51060,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Iridium Silver Metallic,Black,9-SPEED A/T,All Wheel Drive,55SWF4KB9JU265127
+2018 Mercedes-Benz AMG GLS 63 Base,Mercedes-Benz,Black,129950,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Obsidian Black Metallic,Black,7-SPEED A/T,All Wheel Drive,4JGDF7FE1JB048135
+2018 Mercedes-Benz  E 300,Mercedes-Benz,Black,68900,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,Black,9-SPEED A/T,All Wheel Drive,WDDZF4KB0JA300893
+1982 Mercedes-Benz  380SL,Mercedes-Benz,Black,7900,MSI Auto Sales,(608) 478-2670,3.9,12,177770,6,Black,Gray,Automatic,Front Wheel Drive,WDBBA45A5CB015308
+2013 Mercedes-Benz  SLK 250,Mercedes-Benz,Black,25995,Schoepp Motors West,(608) 729-3822,2.7,5,35227,6,Black,,7-Speed Automatic,RWD,WDDPK4HA6DF060452
+2018 Mercedes-Benz CLA 250 Base 4MATIC,Mercedes-Benz,Blue,41670,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Lunar Blue Metallic,Shara Beige,7-Speed Automatic with Auto-Shift,AWD,WDDSJ4GB0JN637131
+2017 Mercedes-Benz  E 300,Mercedes-Benz,Black,57065,Mercedes-Benz of Elmbrook,(262) 510-0488,4.5,39,4310,61,Black,Black,9-Speed Automatic,AWD,WDDZF4KB8HA206416
+2017 Mercedes-Benz  E 300,Mercedes-Benz,Red,66843,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Designo Cardinal Red Metallic,Beige,9-Speed Automatic,AWD,WDDZF4KB6HA259163
+2017 Mercedes-Benz  E 400,Mercedes-Benz,White,58999,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,3189,74,Polar White,beige,7-SPEED A/T,All Wheel Drive,WDDKJ6HB5HF356327
+2018 Mercedes-Benz GLA 250 GLA 250,Mercedes-Benz,White,41480,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Cirrus White,Sahara Beige,7-SPEED A/T,All Wheel Drive,WDCTG4GB9JJ435905
+2007 Mercedes-Benz  4MATIC 4dr 4.7L,Mercedes-Benz,Silver,10995,Classic Motorcars,(414) 219-1011,4.8,149,94253,70,Desert Silver Metallic,MACADAMIA,7-SPEED A/T,Four Wheel Drive,4JGBF71E57A208806
+2018 Mercedes-Benz  AMG E 63 S,Mercedes-Benz,White,110780,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Designo Diamond White Metallic,Black,9-SPEED A/T,All Wheel Drive,WDDZF8KB8JA389457
+2017 Mercedes-Benz  C 300,Mercedes-Benz,Gray,42084,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,5950,74,Selenite Grey Metallic,Black,7-SPEED A/T,All Wheel Drive,55SWF4KB7HU189661
+2018 Mercedes-Benz GLC 300 Base 4Matic,Mercedes-Benz,Blue,52055,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Lunar Blue Metallic,Black,9-SPEED A/T,All Wheel Drive,WDC0G4KB5JV051896
+2018 Mercedes-Benz  E 300,Mercedes-Benz,Gray,62350,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Selenite Grey Metallic,Black,9-SPEED A/T,All Wheel Drive,WDDZF4KB9JA345878
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,Blue,47965,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Brilliant Blue Metallic,Black,9-Speed Automatic,AWD,WDC0G4KB9JV067695
+2014 Mercedes-Benz  E 350 4MATIC,Mercedes-Benz,Silver,26534,Lynch Chrysler Dodge Jeep RAM,(262) 684-4253,4.9,323,34483,56,Iridium Silver Metallic,Black,7-Speed Automatic,AWD,WDDHF8JB5EA922528
+2018 Mercedes-Benz  C 300,Mercedes-Benz,Red,47155,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Designo Cardinal Red Metallic,Black,9-SPEED A/T,All Wheel Drive,55SWF4KB5JU253332
+2014 Mercedes-Benz  CLS 550 4MATIC,Mercedes-Benz,White,36000,Van Horn Latino of Milwaukee,(414) 375-4933,5,1,35581,73,White,,7-Speed Automatic,AWD,WDDLJ9BB2EA100847
+2015 Mercedes-Benz  ML 350,Mercedes-Benz,White,32980,VROOM (Milwaukee),(877) 682-3020,,,33424,73,White,Tan,7-Speed Automatic w/OD,AWD,4JGDA5HB7FA607870
+2018 Mercedes-Benz AMG GLE 63 Base 4Matic,Mercedes-Benz,Black,119155,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Obsidian Black Metallic,black,7-SPEED A/T,All Wheel Drive,4JGED7FBXJA102408
+2011 Mercedes-Benz  GLK 350,Mercedes-Benz,White,16495,Scott Motors,(608) 318-4095,,,78277,4,White,Tan,Automatic,All Wheel Drive,WDCGG8HB2BF584314
+2018 Mercedes-Benz GLS 550 Base 4MATIC,Mercedes-Benz,Black,101135,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,Black,9-SPEED A/T,All Wheel Drive,4JGDF7DE6JB106811
+2017 Mercedes-Benz  C 300,Mercedes-Benz,Black,42762,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,5041,74,Black,Black,7-SPEED A/T,All Wheel Drive,55SWF4KB5HU231261
+2018 Mercedes-Benz CLA 250 CLA 250,Mercedes-Benz,Black,45200,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,Black,7-SPEED A/T,All Wheel Drive,WDDSJ4GB8JN602577
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Black,62240,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,Black,7-SPEED A/T,All Wheel Drive,4JGDA5HB0JB102014
+2017 Mercedes-Benz GLS 550 Base 4MATIC,Mercedes-Benz,Gray,92999,International Autos,(414) 203-5342,3.8,56,,68,Selenite Gray Metallic,Black,9-Speed Automatic,AWD,4JGDF7DE9HA963849
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Black,66480,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Obsidian Black Metallic,Black,7-Speed Automatic,AWD,4JGDA5HB3JB099061
+2018 Mercedes-Benz  C 300,Mercedes-Benz,Black,46175,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,Black,9-SPEED A/T,All Wheel Drive,55SWF4KB1JU257409
+2018 Mercedes-Benz  E 400,Mercedes-Benz,Black,80315,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Obsidian Black Metallic,Black,9-SPEED A/T,All Wheel Drive,WDD1K6GB5JF046078
+2018 Mercedes-Benz AMG GLE 43 Base 4MATIC,Mercedes-Benz,Gray,80640,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Selenite Grey Metallic,Black,9-SPEED A/T,All Wheel Drive,4JGED6EB9JA109717
+2018 Mercedes-Benz GLC 300 Base 4Matic,Mercedes-Benz,White,50145,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Polar White,beige,9-SPEED A/T,All Wheel Drive,WDC0G4KB5JV069654
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,White,63780,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Designo Diamond White Metallic,beige,7-SPEED A/T,All Wheel Drive,4JGDA5HB9JB104621
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,White,62690,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Designo Diamond White Metallic,Black,7-SPEED A/T,All Wheel Drive,4JGDA5HB1JB086020
+2018 Mercedes-Benz  S 560 4MATIC,Mercedes-Benz,Black,114415,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Black,Black,9-Speed Automatic,AWD,WDDUG8GB2JA382052
+2018 Mercedes-Benz  E 300,Mercedes-Benz,Blue,69250,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Lunar Blue Metallic,Beige,9-Speed Automatic,AWD,WDDZF4KB9JA354922
+2013 Mercedes-Benz  GL 450 4MATIC,Mercedes-Benz,White,25683,Boucher Chevrolet of Waukesha,(866) 590-9089,4.5,55,90052,59,Arctic White,Black,7-Speed Automatic,AWD,4JGDF7CEXDA145963
+2018 Mercedes-Benz GLC 300 Base 4Matic,Mercedes-Benz,Black,53765,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,Black,9-SPEED A/T,All Wheel Drive,WDC0G4KB2JV078750
+2014 Mercedes-Benz  CLA 250,Mercedes-Benz,Blue,17995,Classic Motorcars,(414) 219-1011,4.8,149,45061,70,Universe Blue Metallic,BROWN,7-SPEED A/T,Front Wheel Drive,WDDSJ4EB7EN049316
+2018 Mercedes-Benz AMG GLE 43 Base 4MATIC,Mercedes-Benz,Blue,78040,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Lunar Blue Metallic,Black,9-SPEED A/T,All Wheel Drive,4JGED6EB5JA100822
+2018 Mercedes-Benz AMG C 63 Base,Mercedes-Benz,White,86100,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Designo Diamond White Metallic,Black,7-SPEED A/T,Rear Wheel Drive,55SWF8HB4JU259718
+2015 Mercedes-Benz  E400W4,Mercedes-Benz,Black,34900,Zimbrick European,,5,7,42732,2,Black,Black Leather,AUTOMATIC,AWD,WDDHF6HB6FA997461
+2018 Mercedes-Benz AMG GLC 43 AMG GLC 43,Mercedes-Benz,Black,69970,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Obsidian Black Metallic,brown,9-SPEED A/T,All Wheel Drive,WDC0J6EB0JF428640
+2018 Mercedes-Benz  C 300,Mercedes-Benz,White,51340,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Polar White,Black,9-SPEED A/T,All Wheel Drive,55SWF4KB0JU262746
+2018 Mercedes-Benz AMG C 63 Base,Mercedes-Benz,White,95260,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Designo Diamond White Metallic,Black,7-SPEED A/T,Rear Wheel Drive,WDDWK8HB7JF629591
+2017 Mercedes-Benz  E 300,Mercedes-Benz,Gray,64195,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Selenite Grey Metallic,Black,9-SPEED A/T,All Wheel Drive,WDDZF4KB9HA265099
+2018 Mercedes-Benz  E 400,Mercedes-Benz,White,74145,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Polar White,beige,9-SPEED A/T,All Wheel Drive,WDD1J6GB9JF019243
+2018 Mercedes-Benz  AMG C 43,Mercedes-Benz,White,67810,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Designo Diamond White Metallic,Black,9-SPEED A/T,All Wheel Drive,WDDWJ6EB5JF655862
+2018 Mercedes-Benz  C 300,Mercedes-Benz,Gray,54120,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Selenite Grey Metallic,Black,9-SPEED A/T,All Wheel Drive,WDDWJ4KB8JF618376
+2018 Mercedes-Benz CLA 250 CLA 250,Mercedes-Benz,Gray,42420,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Mountain Grey Metallic,Black,7-SPEED A/T,All Wheel Drive,WDDSJ4GB6JN531203
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Gray,61310,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Selenite Gray Metallic,Beige,7-Speed Automatic,AWD,4JGDA5HB7JB098110
+2018 Mercedes-Benz CLA 250 CLA 250,Mercedes-Benz,Silver,45895,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Polar Silver Metallic,Black,7-SPEED A/T,All Wheel Drive,WDDSJ4GB4JN597586
+2018 Mercedes-Benz CLA 250 CLA 250,Mercedes-Benz,White,40050,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Cirrus White,Black,7-SPEED A/T,All Wheel Drive,WDDSJ4GB1JN527849
+2018 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,White,50425,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Polar White,,9-Speed Automatic,AWD,55SWF4KB8JU265541
+2018 Mercedes-Benz GLA 250 GLA 250,Mercedes-Benz,White,44475,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Cirrus White,Black,7-SPEED A/T,All Wheel Drive,WDCTG4GB4JJ393949
+2018 Mercedes-Benz CLA 250 CLA 250,Mercedes-Benz,White,40750,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Cirrus White,crystal,7-SPEED A/T,All Wheel Drive,WDDSJ4GB0JN572362
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,White,63690,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Designo Diamond White Metallic,Black,7-SPEED A/T,All Wheel Drive,4JGDA5HB6JB104365
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Blue,64560,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Lunar Blue Metallic,beige,7-SPEED A/T,All Wheel Drive,4JGDA5HB8JB130417
+2017 Mercedes-Benz,Mercedes-Benz,Silver,47141,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Pearl Silver Metallic,Black,5-Speed Automatic,RWD,WD3PE7CD9HP568073
+2018 Mercedes-Benz  SLC 300,Mercedes-Benz,Black,60165,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,Black,9-SPEED A/T,Rear Wheel Drive,WDDPK3JA8JF152100
+2017 Mercedes-Benz  C 300,Mercedes-Benz,Black,39599,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,5337,74,Black,Black,7-SPEED A/T,All Wheel Drive,55SWF4KB2HU215177
+2017 Mercedes-Benz  C 300,Mercedes-Benz,Silver,39651,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,6820,74,Iridium Silver Metallic,Black,7-SPEED A/T,All Wheel Drive,55SWF4KB6HU215733
+2018 Mercedes-Benz CLA 250 CLA 250,Mercedes-Benz,Blue,46170,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Lunar Blue Metallic,Black,7-SPEED A/T,All Wheel Drive,WDDSJ4GB1JN551679
+2018 Mercedes-Benz CLA 250 CLA 250,Mercedes-Benz,White,40225,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Cirrus White,Black,7-SPEED A/T,All Wheel Drive,WDDSJ4GB0JN602170
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Silver,65660,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Silver,,7-Speed Automatic,AWD,4JGDA5HB1JB087278
+2018 Mercedes-Benz  AMG C 43,Mercedes-Benz,Silver,74680,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Iridium Silver Metallic,Black,9-SPEED A/T,All Wheel Drive,WDDWK6EB7JF678363
+2018 Mercedes-Benz GLC 300 Base 4Matic,Mercedes-Benz,Black,51355,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Obsidian Black Metallic,Black,9-SPEED A/T,All Wheel Drive,WDC0G4KB3JV083343
+2017 Mercedes-Benz Metris Base,Mercedes-Benz,White,31990,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Arctic White,Black,7-Speed Automatic,RWD,WD3PG2EA8H3201222
+2017 Mercedes-Benz  E 400,Mercedes-Benz,Black,60699,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,4203,74,Obsidian Black Metallic,beige,7-SPEED A/T,All Wheel Drive,WDDKJ6HB2HF357175
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Blue,63900,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Lunar Blue Metallic,beige,7-SPEED A/T,All Wheel Drive,4JGDA5HB9J2092003
+2005 Mercedes-Benz  E320,Mercedes-Benz,Blue,8995,Classic Motorcars,(414) 219-1011,4.8,149,59845,70,Platinum Blue Metallic,CHARCOAL,5-SPEED A/T,All Wheel Drive,WDBUF82J95X178717
+2017 Mercedes-Benz CLA 250 CLA 250,Mercedes-Benz,Blue,35210,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,3020,74,Lunar Blue Metallic,Sahara Beige,7-SPEED A/T,All Wheel Drive,WDDSJ4GBXHN494408
+2017 Mercedes-Benz  C 300,Mercedes-Benz,White,39240,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,4247,74,Polar White,Silk Beige/Black,7-SPEED A/T,All Wheel Drive,55SWF4KBXHU220160
+2017 Mercedes-Benz  C 300,Mercedes-Benz,Red,43454,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,3138,74,Designo Cardinal Red Metallic,beige,7-SPEED A/T,All Wheel Drive,55SWF4KB9HU217587
+2017 Mercedes-Benz  E 300,Mercedes-Benz,White,55876,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,5286,74,Polar White,beige,9-SPEED A/T,All Wheel Drive,WDDZF4KB0HA128696
+2015 Mercedes-Benz  GL450W4,Mercedes-Benz,White,43317,Zimbrick European,,5,7,37705,2,Polar White,Black Mb-Tex,AUTOMATIC,AWD,4JGDF6EE8FA509582
+2016 Mercedes-Benz  GLE350W4,Mercedes-Benz,Gray,41900,Zimbrick European,,5,7,37594,2,Steel Grey,Black Mb-Tex,AUTOMATIC,AWD,4JGDA5HB0GA671797
+2015 Mercedes-Benz  GL450W4,Mercedes-Benz,Gray,42900,Zimbrick European,,5,7,40315,2,Steel Grey,Black Mb-Tex,AUTOMATIC,AWD,4JGDF6EE8FA521828
+2018 Mercedes-Benz  E 300,Mercedes-Benz,White,61095,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Polar White,beige,9-SPEED A/T,All Wheel Drive,WDDZF4KB0JA366232
+2015 Mercedes-Benz  C300W4,Mercedes-Benz,Gray,27900,Zimbrick European,,5,7,14270,2,Steel Grey,Black Mb-Tex,AUTOMATIC,AWD,55SWF4KB5FU084971
+2003 Mercedes-Benz  5.0L,Mercedes-Benz,Black,6977,Viking Motorcars,(608) 205-4446,4,13,93890,13,Black,Charcoal,5-SPEED A/T,Rear Wheel Drive,WDBUF70J03A267654
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,White,62530,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Polar White,,7-Speed Automatic,AWD,4JGDA5HB6JB082190
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,White,52495,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Polar White,Black,9-Speed Automatic,AWD,WDC0G4KB7JV066366
+2018 Mercedes-Benz CLA 250 CLA 250,Mercedes-Benz,White,45755,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Cirrus White,Black,7-SPEED A/T,All Wheel Drive,WDDSJ4GB1JN552153
+2017 Mercedes-Benz GLS 450 Base 4MATIC,Mercedes-Benz,Silver,70990,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,19204,74,Palladium Silver Metallic,Black,9-SPEED A/T,All Wheel Drive,4JGDF6EE5HA758473
+2018 Mercedes-Benz  E 300,Mercedes-Benz,Black,65960,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Black,Black,9-Speed Automatic,AWD,WDDZF4KB5JA400293
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Gray,61620,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Selenite Gray Metallic,Black,7-Speed Automatic,AWD,4JGDA5HB5JB100159
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,White,52985,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Designo Diamond White Metallic,Beige,9-Speed Automatic,AWD,WDC0G4KB9JV070709
+2006 Mercedes-Benz  C280 4MATIC,Mercedes-Benz,Black,4995,Car Planet,(414) 292-9743,2.6,5,105280,74,Black,Black,5-Speed Automatic,AWD,WDBRF92H36F773000
+2018 Mercedes-Benz CLA 250 Base 4MATIC,Mercedes-Benz,Red,42375,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Jupiter Red,Black,7-Speed Automatic with Auto-Shift,AWD,WDDSJ4GB8JN645655
+2018 Mercedes-Benz  SL 550,Mercedes-Benz,Black,120495,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Obsidian Black Metallic,beige,9-SPEED A/T,Rear Wheel Drive,WDDJK7DA0JF053151
+2018 Mercedes-Benz GLC 300 Base 4Matic,Mercedes-Benz,Black,49995,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,Black,9-SPEED A/T,All Wheel Drive,WDC0G4KB6JV066522
+2018 Mercedes-Benz Metris Base,Mercedes-Benz,Black,40997,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Obsidian Black Metallic,Black,7-Speed Automatic,RWD,WD4PG2EE9J3392640
+2017 Mercedes-Benz  S 550,Mercedes-Benz,Black,98962,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,253,74,Obsidian Black Metallic,Black,9-SPEED A/T,All Wheel Drive,WDDUG8FB2HA330352
+2017 Mercedes-Benz GLS 450 Base 4MATIC,Mercedes-Benz,White,73945,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,5167,74,Designo Diamond White Metallic,beige,9-SPEED A/T,All Wheel Drive,4JGDF6EE4HA970698
+2017 Mercedes-Benz GLS 450 Base 4MATIC,Mercedes-Benz,Black,72549,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,6058,74,Obsidian Black Metallic,beige,9-SPEED A/T,All Wheel Drive,4JGDF6EEXHA949712
+2017 Mercedes-Benz GLS 450 Base 4MATIC,Mercedes-Benz,Gray,71896,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,5015,74,Gray Metallic,Black,9-SPEED A/T,All Wheel Drive,4JGDF6EE6HA977703
+2017 Mercedes-Benz GLS 450 Base 4MATIC,Mercedes-Benz,Blue,71599,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,7770,74,Lunar Blue Metallic,beige,9-SPEED A/T,All Wheel Drive,4JGDF6EE7HA907580
+2015 Mercedes-Benz  ML350W4,Mercedes-Benz,Black,33900,Zimbrick European,,5,7,35549,2,Black,Black Mb-Tex,AUTOMATIC,AWD,4JGDA5HB2FA498007
+2018 Mercedes-Benz CLA 250 CLA 250,Mercedes-Benz,Blue,44495,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Lunar Blue Metallic,red,7-SPEED A/T,All Wheel Drive,WDDSJ4GB9JN518168
+2018 Mercedes-Benz  G 550 4MATIC,Mercedes-Benz,Black,125345,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Black,Black,7-Speed Automatic,AWD,WDCYC3KHXJX293438
+2018 Mercedes-Benz AMG GLC 43 AMG GLC 43,Mercedes-Benz,Red,65670,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Designo Cardinal Red Metallic,brown,9-SPEED A/T,All Wheel Drive,WDC0J6EB8JF434038
+2018 Mercedes-Benz CLA 250 CLA 250,Mercedes-Benz,Gray,45525,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Mountain Grey Metallic,red,7-SPEED A/T,All Wheel Drive,WDDSJ4GB3JN563512
+2015 Mercedes-Benz  GL 450 4MATIC,Mercedes-Benz,White,43991,International Autos,(414) 939-8502,3.8,56,44847,68,Polar White,Almond Beige,7-Speed Automatic,AWD,4JGDF6EE2FA543789
+2018 Mercedes-Benz GLA 250 Base 4MATIC,Mercedes-Benz,Gray,44720,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Gray,,7-Speed Automatic with Auto-Shift,AWD,WDCTG4GB9JJ488569
+2015 Mercedes-Benz  C 300,Mercedes-Benz,White,26492,International Autos,(414) 939-8502,3.8,56,43025,68,Polar White,Black,7-Speed Automatic,AWD,55SWF4KB5FU030747
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,White,50145,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Polar White,,9-Speed Automatic,AWD,WDC0G4KB1JV064127
+2017 Mercedes-Benz CLA 250 CLA 250,Mercedes-Benz,Gray,42179,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,2208,74,Mountain Grey Metallic,Black/Green,7-SPEED A/T,All Wheel Drive,WDDSJ4GB0HN438493
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,Black,52495,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Black,Black,9-Speed Automatic,AWD,WDC0G4KB0JV067780
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Black,69030,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Obsidian Black Metallic,Black,7-SPEED A/T,All Wheel Drive,4JGDA5HB8JB037946
+2017 Mercedes-Benz  E 300,Mercedes-Benz,Black,57781,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,4387,74,Obsidian Black Metallic,Black,9-SPEED A/T,All Wheel Drive,WDDZF4KB0HA206992
+2017 Mercedes-Benz  E 300,Mercedes-Benz,Gray,55553,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,5353,74,Selenite Grey Metallic,Black,9-SPEED A/T,All Wheel Drive,WDDZF4KB5HA222458
+2017 Mercedes-Benz  E 300,Mercedes-Benz,Gray,55085,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,4320,74,Selenite Grey Metallic,Black,9-SPEED A/T,All Wheel Drive,WDDZF4KBXHA203839
+2017 Mercedes-Benz  E 300,Mercedes-Benz,White,51056,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,11025,74,Polar White,beige,9-SPEED A/T,All Wheel Drive,WDDZF4KB1HA153560
+2017 Mercedes-Benz  E 300,Mercedes-Benz,Black,56499,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,4499,74,Black,Macchiato Beige,9-SPEED A/T,All Wheel Drive,WDDZF4KB9HA023218
+2017 Mercedes-Benz  E 300,Mercedes-Benz,Black,52999,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,4678,74,Black,Black,9-SPEED A/T,All Wheel Drive,WDDZF4KB6HA238393
+2017 Mercedes-Benz  E 300,Mercedes-Benz,Black,57304,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,5356,74,Black,Macchiato Beige / Black,9-SPEED A/T,All Wheel Drive,WDDZF4KB3HA152524
+2017 Mercedes-Benz  E 300,Mercedes-Benz,White,54499,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,4420,74,Polar White,Black,9-SPEED A/T,All Wheel Drive,WDDZF4KB6HA143509
+2017 Mercedes-Benz  E 300,Mercedes-Benz,Black,55443,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,4383,74,Black,Black,9-SPEED A/T,All Wheel Drive,WDDZF4KB7HA213910
+2017 Mercedes-Benz  E 300,Mercedes-Benz,Gray,55499,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,4163,74,Selenite Grey Metallic,Black,9-SPEED A/T,All Wheel Drive,WDDZF4KB3HA135206
+2017 Mercedes-Benz  E 300,Mercedes-Benz,White,52559,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,5915,74,Polar White,Black,9-SPEED A/T,All Wheel Drive,WDDZF4KB0HA186131
+2017 Mercedes-Benz  E 300,Mercedes-Benz,Gray,56892,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,5044,74,Selenite Grey Metallic,Black,9-SPEED A/T,All Wheel Drive,WDDZF4KB5HA229121
+2018 Mercedes-Benz  AMG CLA 45,Mercedes-Benz,Black,62725,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,Black,7-SPEED A/T,All Wheel Drive,WDDSJ5CB2JN546647
+2018 Mercedes-Benz  AMG SLC 43,Mercedes-Benz,Silver,69345,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Iridium Silver Metallic,Black,9-SPEED A/T,Rear Wheel Drive,WDDPK6GA2JF153736
+2015 Mercedes-Benz  C300W4,Mercedes-Benz,White,25250,Zimbrick European,,5,7,41862,2,Polar White,Black Mb-Tex,AUTOMATIC,AWD,55SWF4KB7FU025792
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Black,64190,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,Black,7-SPEED A/T,All Wheel Drive,4JGDA5HB7JB119327
+2015 Mercedes-Benz  C 300,Mercedes-Benz,White,28769,Mercedes-Benz of Elmbrook,(262) 510-2426,4.5,39,29598,61,Designo Diamond White Metallic,Black,7-Speed Automatic,AWD,55SWF4KB9FU041041
+2018 Mercedes-Benz  Base,Mercedes-Benz,Black,70360,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Black,Black,9-Speed Automatic,AWD,WDDZF6GB7JA371416
+2017 Mercedes-Benz  E 300,Mercedes-Benz,Silver,55695,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,5656,74,Iridium Silver Metallic,Black,9-SPEED A/T,All Wheel Drive,WDDZF4KB1HA181326
+2015 Mercedes-Benz  CLA 45 AMG 4MATIC,Mercedes-Benz,White,36881,Schlossmann Honda City,(888) 229-4007,4.3,43,37549,68,Citrus White,Black,7-Speed Automatic with Auto-Shift,AWD,WDDSJ5CB3FN209640
+2007 Mercedes-Benz  C230 Sport,Mercedes-Benz,Silver,5580,BMW of Milwaukee North,(877) 591-3075,4.8,106,158619,73,Iridium Silver Metallic,Black,7-Speed Automatic,RWD,WDBRF52H17F934311
+2011 Mercedes-Benz  ML350 BlueTEC,Mercedes-Benz,Silver,17900,Mark Berger Motors,(815) 580-3154,5,12,141571,58,Silver,Gray,7 speed automatic,,4JGBB2FBXBA707087
+2015 Mercedes-Benz  C 300,Mercedes-Benz,White,28769,International Porsche of Waukesha,(262) 395-7647,5,4,29598,61,Designo Diamond White Metallic,Black,7-Speed Automatic,AWD,55SWF4KB9FU041041
+2018 Mercedes-Benz CLA 250 CLA 250,Mercedes-Benz,Gray,43270,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Mountain Grey Metallic,Black,7-SPEED A/T,All Wheel Drive,WDDSJ4GB7JN544347
+2018 Mercedes-Benz  AMG C 43,Mercedes-Benz,Silver,65025,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Iridium Silver Metallic,cranberry,9-SPEED A/T,All Wheel Drive,55SWF6EB1JU258471
+2001 Mercedes-Benz  S430,Mercedes-Benz,Black,7995,German Auto House,(608) 467-4941,5,1,78039,2,Black,Black,5-Speed Automatic,RWD,WDBNG70J61A202225
+2018 Mercedes-Benz GLS 550 Base 4MATIC,Mercedes-Benz,Red,119750,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Designo Cardinal Red,Black,9-Speed Automatic,AWD,4JGDF7DE4JB063506
+2011 Mercedes-Benz  ML 350 BlueTEC,Mercedes-Benz,Black,12900,MSI Auto Sales,(608) 478-2670,3.9,12,128126,6,Black,Black,7-SPEED A/T,All Wheel Drive,4JGBB2FB6BA699179
+2003 Mercedes-Benz  E320,Mercedes-Benz,Black,4300,Michael,,,,135000,71,Black,Black,Automanual,RWD,WDBUF65J33A334797
+2016 Mercedes-Benz  GLE 450 AMG 4MATIC,Mercedes-Benz,Black,63991,International Autos,(414) 939-8502,3.8,56,23539,68,Black,Black,9-Speed Automatic,AWD,4JGED6EB2GA011900
+2018 Mercedes-Benz GLS 450 Base 4MATIC,Mercedes-Benz,Black,80610,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Black,,9-Speed Automatic,AWD,4JGDF6EE4JB120358
+2018 Mercedes-Benz CLA 250 CLA 250,Mercedes-Benz,Gray,40595,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Mountain Grey Metallic,crystal,7-SPEED A/T,All Wheel Drive,WDDSJ4GB9JN543488
+2008 Mercedes-Benz  5.5L V8,Mercedes-Benz,Black,15900,MSI Auto Sales,(608) 478-2670,3.9,12,121701,6,Black,Black,7-SPEED A/T,All Wheel Drive,WDDNG86X38A161216
+2012 Mercedes-Benz  GLK 350 4MATIC,Mercedes-Benz,Other,21999,Lakeland Chevrolet Buick,(262) 912-6920,5,21,65697,25,,,7-Speed Automatic,AWD,WDCGG8HB0CF904697
+2015 Mercedes-Benz  C300W4,Mercedes-Benz,Black,26900,Zimbrick European,,5,7,23045,2,Black,Black Mb-Tex,AUTOMATIC,AWD,55SWF4KB4FU031842
+2005 Mercedes-Benz  5.0L,Mercedes-Benz,Black,8990,Used Car Factory,(608) 440-2351,3,4,90259,33,Black,Black,5-SPEED A/T,All Wheel Drive,WDBUF83J55X170659
+2018 Mercedes-Benz CLA 250 CLA 250,Mercedes-Benz,Gray,46070,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Mountain Grey Metallic,Black,7-SPEED A/T,All Wheel Drive,WDDSJ4GB8JN601946
+2005 Mercedes-Benz  5.0L,Mercedes-Benz,Gray,8990,Used Car Factory,(608) 440-2351,3,4,94742,33,Gray,Gray,5-SPEED A/T,All Wheel Drive,WDBUF83J35X172667
+2018 Mercedes-Benz GLS 450 Base 4MATIC,Mercedes-Benz,Gray,83700,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Selenite Gray Metallic,Black,9-Speed Automatic,AWD,4JGDF6EE7JB081359
+2016 Mercedes-Benz  GLE350W4,Mercedes-Benz,Silver,41900,Zimbrick European,,5,7,46165,2,Iridium Silver,Black Mb-Tex,AUTOMATIC,AWD,4JGDA5HB8GA635484
+2018 Mercedes-Benz  AMG C 43,Mercedes-Benz,White,66555,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Polar White,Black,9-SPEED A/T,All Wheel Drive,55SWF6EB9JU246701
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,Blue,52465,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Lunar Blue Metallic,Black,9-Speed Automatic,AWD,WDC0G4KB6JV068044
+2018 Mercedes-Benz GLC 300 Base 4Matic,Mercedes-Benz,Blue,53855,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Lunar Blue Metallic,beige,9-SPEED A/T,All Wheel Drive,WDC0G4KB7JV076203
+2018 Mercedes-Benz GLE 550e Plug-In Hybrid 4MATIC,Mercedes-Benz,White,78630,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Polar White,,7-Speed Automatic,AWD,4JGDA6DB3JB115156
+2010 Mercedes-Benz  E 350,Mercedes-Benz,Beige,17985,International Autos,(414) 939-8502,3.8,56,40825,68,Beige,,7-Speed Automatic,RWD,WDDHF5GB5AA030621
+2018 Mercedes-Benz  S 560 4MATIC,Mercedes-Benz,Black,125345,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Obsidian Black Metallic,Black,9-Speed Automatic,AWD,WDDUG8GB7JA405809
+2017 Mercedes-Benz  SL450R,Mercedes-Benz,Black,82900,Zimbrick European,,5,7,1011,2,Black,Saddle Brown/Black Nappa Leather,AUTOMATIC,RWD,WDDJK6GA8HF047517
+2018 Mercedes-Benz GLS 450 Base 4MATIC,Mercedes-Benz,White,79755,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Polar White,,9-Speed Automatic,AWD,4JGDF6EE1JB030925
+1996 Mercedes-Benz  SL500 Roadster,Mercedes-Benz,Green,8495,Bender Auto Sales,(262) 622-0153,5,20,73907,62,Green,Tan,5-Speed Automatic,,WDBFA67F6TF130496
+2010 Mercedes-Benz  ML 350 4MATIC,Mercedes-Benz,Black,16900,Galena Chrysler,(815) 402-3517,3.8,9,74791,69,Black,Black,7-Speed Automatic,AWD,4JGBB8GB6AA592522
+2018 Mercedes-Benz  E 300,Mercedes-Benz,White,62430,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Polar White,beige,9-SPEED A/T,All Wheel Drive,WDDZF4KB5JA437795
+2012 Mercedes-Benz  GLK 350 4MATIC,Mercedes-Benz,Gray,20248,Mercedes-Benz of Elmbrook,(262) 510-2426,4.5,39,34932,61,Steel Gray Metallic,Black,7-Speed Automatic,AWD,WDCGG8HB5CF814915
+2018 Mercedes-Benz  AMG E 43,Mercedes-Benz,Black,85915,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,Black,9-SPEED A/T,All Wheel Drive,WDDZF6EB1JA403859
+2018 Mercedes-Benz  AMG S 63,Mercedes-Benz,Black,170785,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Obsidian Black Metallic,Black,9-SPEED A/T,All Wheel Drive,WDDUG8JB0JA392457
+2018 Mercedes-Benz  C 300,Mercedes-Benz,White,50200,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Polar White,Black,9-SPEED A/T,All Wheel Drive,55SWF4KB0JU260169
+2012 Mercedes-Benz  GLK 350 4MATIC,Mercedes-Benz,Gray,20248,International Porsche of Waukesha,(262) 395-7647,5,4,34932,61,Steel Gray Metallic,Black,7-Speed Automatic,AWD,WDCGG8HB5CF814915
+2014 Mercedes-Benz  CLS 550 4MATIC,Mercedes-Benz,Black,39995,Reina International,(262) 510-2733,4,6,70189,66,Black,designo Light Brown,7-Speed Automatic,AWD,WDDLJ9BB9EA129648
+2018 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,White,45925,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Polar White,,9-Speed Automatic,AWD,55SWF4KB3JU263115
+2009 Mercedes-Benz  S 550 4MATIC,Mercedes-Benz,Black,22995,Reina International,(262) 510-2733,4,6,88440,66,Black,Black,7-Speed Automatic,AWD,WDDNG86X69A264678
+2018 Mercedes-Benz  E 300,Mercedes-Benz,Green,65550,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Piedmont Green Metallic,beige,9-SPEED A/T,All Wheel Drive,WDDZF4KB0JA439857
+2018 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,Black,54790,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Black,Black,9-Speed Automatic,AWD,WDDWJ4KB5JF682634
+2002 Mercedes-Benz  C230,Mercedes-Benz,Black,2200,Kevin,,,,186000,59,Black,Black,Manual,RWD,
+2018 Mercedes-Benz  SLC 300,Mercedes-Benz,White,61295,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Polar White,Black,9-SPEED A/T,Rear Wheel Drive,WDDPK3JA7JF149883
+2007 Mercedes-Benz  3.5L,Mercedes-Benz,White,9995,Classic Motorcars,(414) 219-1011,4.8,149,74442,70,Alabaster White,MACADAMIA,7-SPEED A/T,Four Wheel Drive,4JGCB65EX7A056722
+2017 Mercedes-Benz,Mercedes-Benz,White,43392,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Arctic White,,5-Speed Automatic,RWD,WD3PE7CD9HP576772
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,Blue,57245,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Brilliant Blue Metallic,Black,9-Speed Automatic,AWD,WDC0G4KB8JV051567
+2018 Mercedes-Benz,Mercedes-Benz,White,54191,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,White,,5-Speed Automatic,4WD,WD3FE8CD4JP583541
+2018 Mercedes-Benz CLA 250 Base 4MATIC,Mercedes-Benz,Blue,42545,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Lunar Blue Metallic,,7-Speed Automatic with Auto-Shift,AWD,WDDSJ4GB0JN651188
+2018 Mercedes-Benz  AMG C 43,Mercedes-Benz,White,64930,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,White,Black,9-SPEED A/T,All Wheel Drive,55SWF6EB1JU248863
+2018 Mercedes-Benz  AMG C 43,Mercedes-Benz,White,61435,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Polar White,Black,9-SPEED A/T,All Wheel Drive,55SWF6EB0JU255691
+2007 Mercedes-Benz  5.5L V8,Mercedes-Benz,Blue,13900,MSI Auto Sales,(608) 478-2670,3.9,12,100973,6,Light Blue,Black,7-SPEED A/T,Rear Wheel Drive,WDDNG71XX7A069097
+2018 Mercedes-Benz GLS 450 Base 4MATIC,Mercedes-Benz,Black,84380,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,Black,9-SPEED A/T,All Wheel Drive,4JGDF6EE6JB119633
+2018 Mercedes-Benz  C 300,Mercedes-Benz,Black,66010,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Obsidian Black Metallic,Black,9-SPEED A/T,All Wheel Drive,WDDWK4KB8JF595324
+2018 Mercedes-Benz  AMG C 43,Mercedes-Benz,Black,62925,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Obsidian Black Metallic,Black,9-SPEED A/T,All Wheel Drive,55SWF6EB1JU243386
+2007 Mercedes-Benz  C280 4MATIC,Mercedes-Benz,Silver,7200,Nick,,,,110828,43,Silver,Black,Automatic,AWD,
+2018 Mercedes-Benz  AMG CLA 45,Mercedes-Benz,White,62580,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Cirrus White,Black,7-SPEED A/T,All Wheel Drive,WDDSJ5CB2JN567708
+2018 Mercedes-Benz GLC 300 Base 4Matic,Mercedes-Benz,Blue,59765,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Lunar Blue Metallic,Black,9-SPEED A/T,All Wheel Drive,WDC0G4KB5JV080718
+1987 Mercedes-Benz  560SL,Mercedes-Benz,Beige,16000,Sally,,,,98900,53,Beige,Brown,Automatic,,
+2018 Mercedes-Benz  AMG CLA 45,Mercedes-Benz,Black,63330,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Night Black,Black,7-SPEED A/T,All Wheel Drive,WDDSJ5CB3JN567409
+2018 Mercedes-Benz  C 300,Mercedes-Benz,Black,50340,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,Black,9-SPEED A/T,All Wheel Drive,55SWF4KB9JU267184
+1999 Mercedes-Benz  CLK320,Mercedes-Benz,Silver,7995,Reina International,(262) 510-2733,4,6,87074,66,Brilliant Silver Metallic,Ash,5-Speed Automatic,RWD,WDBLK65G5XT019229
+1981 Mercedes-Benz  380 SL,Mercedes-Benz,Silver,13995,Diamond Jim's West Allis,(888) 377-2649,4.8,10,56771,68,Silver,Black,4-Speed Automatic,Rear Wheel Drive,WDBBA45AXBB008868
+2018 Mercedes-Benz  E 300,Mercedes-Benz,Gray,75590,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Selenite Gray Metallic,Black,9-Speed Automatic,AWD,WDDZF4KB3JA319616
+2018 Mercedes-Benz  AMG CLA 45,Mercedes-Benz,Black,59545,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,Black,7-SPEED A/T,All Wheel Drive,WDDSJ5CB9JN503424
+2011 Mercedes-Benz  GL 450 4MATIC,Mercedes-Benz,Silver,21100,International Porsche of Waukesha,(262) 395-7647,5,4,72916,61,Palladium Silver Metallic,Black,7-Speed Automatic,AWD,4JGBF7BE1BA668133
+2018 Mercedes-Benz CLA 250 CLA 250,Mercedes-Benz,Silver,45795,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Polar Silver Metallic,red,7-SPEED A/T,All Wheel Drive,WDDSJ4GB9JN539909
+2003 Mercedes-Benz  SL500 Roadster,Mercedes-Benz,Black,18995,Reina International,(262) 510-2733,4,6,65366,66,Designo Graphite,Ash,5-Speed Automatic,RWD,WDBSK75F73F013823
+2018 Mercedes-Benz AMG GT S,Mercedes-Benz,Black,138420,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,Black,7-SPEED A/T,Rear Wheel Drive,WDDYJ7JA0JA020055
+2018 Mercedes-Benz  AMG S 63,Mercedes-Benz,White,177340,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Designo Diamond White,Black,9-SPEED A/T,All Wheel Drive,WDDXJ8JB5JA033992
+2018 Mercedes-Benz  E 300,Mercedes-Benz,Black,71430,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,Black,9-SPEED A/T,All Wheel Drive,WDDZF4KB4JA391876
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Gray,70075,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Selenite Gray Metallic,Black,7-Speed Automatic,AWD,4JGDA5HB6JB092251
+2018 Mercedes-Benz,Mercedes-Benz,White,54191,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,White,,5-Speed Automatic,4WD,WD3FE8CD3JP583580
+2009 Mercedes-Benz  C 300 Luxury,Mercedes-Benz,Black,9495,Classic Motorcars,(414) 219-1011,4.8,149,119110,70,Black,BLACK,7-SPEED A/T,All Wheel Drive,WDDGF81X79R061366
+2018 Mercedes-Benz  C 300,Mercedes-Benz,Gray,52285,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Selenite Grey Metallic,Black,9-SPEED A/T,All Wheel Drive,55SWF4KB7JU252473
+2018 Mercedes-Benz AMG C 43 Base 4MATIC,Mercedes-Benz,Red,66500,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Designo Cardinal Red Metallic,Black,9-Speed Automatic,AWD,WDDWJ6EB5JF720502
+2017 Mercedes-Benz AMG GLE 63 Base 4MATIC,Mercedes-Benz,Black,102999,International Autos,(414) 203-5342,3.8,56,,68,Black,Black,7-Speed Automatic,AWD,4JGDA7EB8HA915147
+2018 Mercedes-Benz  C 300,Mercedes-Benz,White,50340,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Polar White,Black,9-SPEED A/T,All Wheel Drive,55SWF4KBXJU267145
+2001 Mercedes-Benz  E320,Mercedes-Benz,Silver,4295,Reina International,(262) 510-2733,4,6,196457,66,Brilliant Silver,Oyster,5-Speed Automatic,RWD,WDBJF65J41B212489
+2002 Mercedes-Benz  S430,Mercedes-Benz,Black,8995,"A Auto, Inc.",(414) 939-8506,5,22,117000,67,Black,Blacke,5 speed automatic,RWD,WDBNG70J92A299969
+2014 Mercedes-Benz  CLA 250 4MATIC,Mercedes-Benz,Black,26995,Reina International,(262) 510-2733,4,6,33209,66,Midnight Black,Black,7-Speed Automatic with Auto-Shift,AWD,WDDSJ4GB5EN072901
+2018 Mercedes-Benz  C 300,Mercedes-Benz,White,66115,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Designo Diamond White Metallic,Black,9-SPEED A/T,All Wheel Drive,WDDWK4KB4JF697994
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Gray,62620,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Selenite Grey Metallic,Black,7-SPEED A/T,All Wheel Drive,4JGDA5HB7JB133289
+2018 Mercedes-Benz  E 400 4MATIC,Mercedes-Benz,Blue,86685,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Lunar Blue Metallic,Beige,9-Speed Automatic,AWD,WDD1K6GB9JF039991
+1981 Mercedes-Benz 380SL,Mercedes-Benz,Blue,12995,Reina International,(262) 510-2733,4,6,102115,66,Blue,Beige / Tan,Automatic,RWD,WDBBA45A0BB008118
+2018 Mercedes-Benz AMG GLE 63 S 4MATIC,Mercedes-Benz,Black,118005,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Black,Black,7-Speed Automatic,AWD,4JGED7FB2JA103665
+2001 Mercedes-Benz  S500,Mercedes-Benz,Gold,8950,"A Auto, Inc.",(414) 939-8506,5,22,81908,67,Gold,Tan,5 speed automatic,RWD,WDBNG75J01A150809
+2006 Mercedes-Benz  CLS55 AMG,Mercedes-Benz,Gold,16500,Jeff,,,,110000,69,Gold,Beige,Automanual,RWD,wdddj76x96a033146
+2015 Mercedes-Benz  C 300 4MATIC Sport,Mercedes-Benz,Silver,27900,"Autohandler, LLC",,,,40775,4,Silver,Gray,Automatic,AWD,
+2018 Mercedes-Benz CLA 250 Base 4MATIC,Mercedes-Benz,Silver,42545,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Polar Silver Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WDDSJ4GB5JN652532
+2018 Mercedes-Benz CLA 250 CLA 250,Mercedes-Benz,White,40450,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Cirrus White,Sahara Beige,7-SPEED A/T,All Wheel Drive,WDDSJ4GB6JN611374
+2016 Mercedes-Benz Sprinter 2500,Mercedes-Benz,White,84995,David,,,,21100,75,White,Black,Automatic,4x4/4-wheel drive,WD3FE7CD0GP229664
+2007 Mercedes-Benz  R 350 4MATIC,Mercedes-Benz,Silver,7750,Bhanu,,,,114450,62,Silver,Gray,Automatic,AWD,
+2018 Mercedes-Benz AMG C 63 Base,Mercedes-Benz,Black,97510,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Obsidian Black Metallic,Black,7-SPEED A/T,Rear Wheel Drive,WDDWK8HB4JF597103
+2018 Mercedes-Benz GLA 250 Base 4MATIC,Mercedes-Benz,White,40080,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Polar White,Shara Beige,7-Speed Automatic with Auto-Shift,AWD,WDCTG4GB5JJ477679
+2011 Mercedes-Benz  GL 450 4MATIC,Mercedes-Benz,Silver,21100,Mercedes-Benz of Elmbrook,(262) 510-2426,4.5,39,72916,61,Palladium Silver Metallic,Black,7-Speed Automatic,AWD,4JGBF7BE1BA668133
+2018 Mercedes-Benz GLA 250 Base 4MATIC,Mercedes-Benz,White,40080,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Citrus White,Shara Beige,7-Speed Automatic with Auto-Shift,AWD,WDCTG4GB9JJ463770
+2018 Mercedes-Benz  E 300,Mercedes-Benz,Black,71330,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,Black,9-SPEED A/T,All Wheel Drive,WDDZF4KB4JA400270
+2018 Mercedes-Benz  C 300,Mercedes-Benz,White,52240,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,White,Black,9-SPEED A/T,All Wheel Drive,55SWF4KB4JU235310
+2018 Mercedes-Benz  Base,Mercedes-Benz,Gray,69630,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Selenite Gray Metallic,Black,9-Speed Automatic,AWD,WDDZF6GB3JA407909
+2018 Mercedes-Benz GLA 250 Base 4MATIC,Mercedes-Benz,Gray,40800,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Mountain Gray Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WDCTG4GB7JJ486626
+2018 Mercedes-Benz  C 300,Mercedes-Benz,Gray,52635,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Selenite Grey Metallic,Black,9-SPEED A/T,All Wheel Drive,55SWF4KB2JU236018
+2018 Mercedes-Benz GLC 300 Base 4Matic,Mercedes-Benz,Black,57985,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Black,Black,9-SPEED A/T,All Wheel Drive,WDC0J4KB7JF427655
+2018 Mercedes-Benz GLA 250 Base 4MATIC,Mercedes-Benz,Blue,44125,Mercedes-Benz of Elmbrook,(262) 510-0498,4.5,39,,61,Lunar Blue Metallic,,7-Speed Automatic with Auto-Shift,AWD,WDCTG4GB9JJ486059
+2012 Mercedes-Benz  S 550 4MATIC,Mercedes-Benz,Black,27500,Meghan,,,,91000,34,Black,Black,Automatic,AWD,
+2018 Mercedes-Benz  C 300,Mercedes-Benz,Silver,54120,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Iridium Silver Metallic,Black,9-SPEED A/T,All Wheel Drive,55SWF4KBXJU267341
+2018 Mercedes-Benz  C 300,Mercedes-Benz,Silver,52910,Mercedes-Benz of Milwaukee North,(888) 224-9092,4.8,203,,74,Iridium Silver Metallic,Black,9-SPEED A/T,All Wheel Drive,55SWF4KB6JU264985
+2017 Mercedes-Benz  GLE350W4,Mercedes-Benz,Gray,47900,Zimbrick European,,5,7,22223,2,Selenite Grey,Black Mb-Tex,AUTOMATIC,AWD,4JGDA5HB5HA882527
+2015 Mercedes-Benz  GLK350W4,Mercedes-Benz,Gray,30900,Zimbrick European,,5,7,22525,2,Steel Grey,Black Mb-Tex,AUTOMATIC,AWD,WDCGG8JB0FG398300
+2016 Mercedes-Benz  E350W4,Mercedes-Benz,White,36900,Zimbrick European,,5,7,33438,2,Polar White,Silk Beige Mb-Tex,AUTOMATIC,AWD,WDDHF8JB6GB256955
+2005 Mercedes-Benz  E320,Mercedes-Benz,Silver,9900,Zimbrick at Fish Hatchery Road,(608) 338-1471,4.3,376,77857,2,Brilliant Silver Metallic,Stone,5-Speed Automatic,RWD,WDBUF26J15A718409
+2011 Mercedes-Benz  GL 550 4MATIC,Mercedes-Benz,Black,28900,Zimbrick at Fish Hatchery Road,(608) 338-1471,4.3,376,43144,2,Black,Charcoal,7-Speed Automatic,AWD,4JGBF8GE1BA723081
+2014 Mercedes-Benz  CLA 250,Mercedes-Benz,Black,19900,MSI Auto Sales,(608) 478-2670,3.9,12,55129,6,Black,Black,7-SPEED A/T,All Wheel Drive,WDDSJ4GB1EN103593
+2014 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,White,22700,Schoepp Motors West,(608) 729-3822,2.7,5,29100,6,White,,7-Speed Automatic,AWD,WDDGF8AB0ER320570
+2015 Mercedes-Benz  ML 350,Mercedes-Benz,White,31989,Zimbrick Hyundai Eastside,(608) 338-1462,4.9,303,39394,7,Polar White,Almond Beige/Mocha,7-Speed A/T,All Wheel Drive,4JGDA5HB8FA459261
+2011 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,Black,12790,Jim O'Connor Select Auto,(262) 347-4147,4.9,157,86949,45,Black,,7-Speed Automatic,AWD,WDDGF8BB4BR177097
+2010 Mercedes-Benz  GLK 350 4MATIC,Mercedes-Benz,Black,13999,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,97149,55,Black,,7-Speed Automatic,AWD,WDCGG8HB2AF298977
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Black,,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Black,,7-Speed Automatic,AWD,4JGDA5HB5JB014852
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,White,,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Polar White,,7-Speed Automatic,AWD,4JGDA5HB0JB086817
+2012 Mercedes-Benz  SLK350,Mercedes-Benz,Red,28990,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,36289,55,Red,,7-Speed Automatic,RWD,WDDPK5HA3CF005428
+2013 Mercedes-Benz  E 350,Mercedes-Benz,White,28500,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,20230,55,Polar White,,7-Speed Automatic,RWD,WDDKK5KF1DF188912
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,Gray,,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Gray,,9-Speed Automatic,AWD,WDC0G4KB7JV063192
+2018 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,White,,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Polar White,,9-Speed Automatic,AWD,WDDWF4KB6JR323762
+2017 Mercedes-Benz  S 550 4MATIC,Mercedes-Benz,Black,,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Obsidian Black,,9-Speed Automatic,AWD,WDDUG8FB2HA331422
+2018 Mercedes-Benz  S 560 4MATIC,Mercedes-Benz,Gray,,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Gray,,9-Speed Automatic,AWD,WDDUG8GB0JA346005
+2015 Mercedes-Benz  C 300 Luxury,Mercedes-Benz,Blue,27987,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,46103,55,Blue,,7-Speed Automatic,AWD,55SWF4KB6FU038386
+2008 Mercedes-Benz,Mercedes-Benz,Beige,10992,Napleton Cadillac Rockford,(815) 552-1411,4.8,476,122478,58,Sand Beige Metallic,Macadamia,7-Speed Automatic,AWD,4JGBB86E18A357631
+2011 Mercedes-Benz  GL 550 4MATIC,Mercedes-Benz,Black,24990,Lou Bachrodt Automall,(815) 580-3156,4.8,1634,90268,60,Black,Black,7-Speed Automatic,AWD,4JGBF8GE9BA740761
+2018 Mercedes-Benz GLS 450 Base 4MATIC,Mercedes-Benz,Gray,76245,International Porsche of Waukesha,(262) 395-7647,5,4,2745,61,Selenite Gray Metallic,Black,9-Speed Automatic,AWD,4JGDF6EE9JB041235
+2015 Mercedes-Benz  S 550 4MATIC,Mercedes-Benz,Black,64979,International Porsche of Waukesha,(262) 395-7647,5,4,18178,61,Designo Mocha Black,Brown,7-Speed Automatic,AWD,WDDUG8FB1FA135050
+2016 Mercedes-Benz  S 550 4MATIC,Mercedes-Benz,Black,74869,International Porsche of Waukesha,(262) 395-7647,5,4,11971,61,Ruby Black Metallic,Silk Beige / Espresso Brown,7-Speed Automatic,AWD,WDDUG8FB9GA225130
+2017 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Silver,52679,International Porsche of Waukesha,(262) 395-7647,5,4,12767,61,Iridium Silver Metallic,Black,7-Speed Automatic,AWD,4JGDA5HB8HA924396
+2014 Mercedes-Benz  ML 350 4MATIC,Mercedes-Benz,Silver,30679,International Porsche of Waukesha,(262) 395-7647,5,4,51524,61,Palladium Silver Metallic,Gray,7-Speed Automatic,AWD,4JGDA5HB4EA342341
+2017 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Gray,52180,International Porsche of Waukesha,(262) 395-7647,5,4,9683,61,Selenite Gray Metallic,Black,7-Speed Automatic,AWD,4JGDA5HB9HA936606
+2016 Mercedes-Benz  C 300,Mercedes-Benz,White,32683,International Porsche of Waukesha,(262) 395-7647,5,4,23151,61,Polar White,Silk Beige,7-Speed Automatic,AWD,55SWF4KB2GU121363
+2017 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Gray,52180,Mercedes-Benz of Elmbrook,(262) 510-2426,4.5,39,9683,61,Selenite Gray Metallic,Black,7-Speed Automatic,AWD,4JGDA5HB9HA936606
+2016 Mercedes-Benz  S 550 4MATIC,Mercedes-Benz,Black,74869,Mercedes-Benz of Elmbrook,(262) 510-2426,4.5,39,11971,61,Ruby Black Metallic,Silk Beige / Espresso Brown,7-Speed Automatic,AWD,WDDUG8FB9GA225130
+2016 Mercedes-Benz  C 300,Mercedes-Benz,White,32683,Mercedes-Benz of Elmbrook,(262) 510-2426,4.5,39,23151,61,Polar White,Silk Beige,7-Speed Automatic,AWD,55SWF4KB2GU121363
+2017 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Silver,52679,Mercedes-Benz of Elmbrook,(262) 510-2426,4.5,39,12767,61,Iridium Silver Metallic,Black,7-Speed Automatic,AWD,4JGDA5HB8HA924396
+2017 Mercedes-Benz GLS 450 Base 4MATIC,Mercedes-Benz,White,71779,Mercedes-Benz of Elmbrook,(262) 510-2426,4.5,39,5,61,Polar White,Ginger,9-Speed Automatic,AWD,4JGDF6EE1HA834352
+2015 Mercedes-Benz  S 550 4MATIC,Mercedes-Benz,Black,64979,Mercedes-Benz of Elmbrook,(262) 510-2426,4.5,39,18178,61,Designo Mocha Black,Brown,7-Speed Automatic,AWD,WDDUG8FB1FA135050
+2014 Mercedes-Benz  ML 350 4MATIC,Mercedes-Benz,Silver,30679,Mercedes-Benz of Elmbrook,(262) 510-2426,4.5,39,51524,61,Palladium Silver Metallic,Gray,7-Speed Automatic,AWD,4JGDA5HB4EA342341
+2011 Mercedes-Benz  GL 550,Mercedes-Benz,Black,26490,Crest Cadillac,(262) 510-2410,4.7,180,65645,66,Black,Black,7-Speed Automatic,4Matic,4JGBF8GE2BA739838
+2016 Mercedes-Benz  C 300,Mercedes-Benz,White,26998,CarMax Metro Parc,(414) 214-9772,4,2,20117,68,White,Black,Automatic,AWD,55SWF4KB5GU149500
+2015 Mercedes-Benz  GLA 250,Mercedes-Benz,Gray,23998,CarMax Metro Parc,(414) 214-9772,4,2,28393,68,Gray,Tan,Automatic,AWD,WDCTG4GB6FJ060952
+2018 Mercedes-Benz GLS 550 Base 4MATIC,Mercedes-Benz,Black,91772,International Autos,(414) 939-8502,3.8,56,7758,68,Black,Black,9-Speed Automatic,AWD,4JGDF7DE1JB022945
+2018 Mercedes-Benz GLS 450 Base 4MATIC,Mercedes-Benz,Black,,International Autos,(414) 203-5342,3.8,56,,68,Black,Black,9-Speed Automatic,AWD,4JGDF6EE4JB107187
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,Blue,,International Autos,(414) 203-5342,3.8,56,,68,Lunar Blue Metallic,Silk Beige,9-Speed Automatic,AWD,WDC0G4KB7JV037353
+2018 Mercedes-Benz  E 400 4MATIC,Mercedes-Benz,Gray,,International Autos,(414) 203-5342,3.8,56,,68,Selenite Gray Metallic,Black,9-Speed Automatic,AWD,WDD1J6GB1JF032925
+2017 Mercedes-Benz  E 300,Mercedes-Benz,White,,International Autos,(414) 203-5342,3.8,56,,68,Polar White,Macchiato,9-Speed Automatic,AWD,WDDZF4KB2HA022878
+2017 Mercedes-Benz GLA 250 Base 4MATIC,Mercedes-Benz,White,,International Autos,(414) 203-5342,3.8,56,,68,Citrus White,Black,7-Speed Automatic with Auto-Shift,AWD,WDCTG4GB0HJ347061
+2018 Mercedes-Benz CLA 250 Base 4MATIC,Mercedes-Benz,Red,,International Autos,(414) 203-5342,3.8,56,,68,Jupiter Red,Black,7-Speed Automatic with Auto-Shift,AWD,WDDSJ4GB2JN628558
+2018 Mercedes-Benz AMG GLE 43 Base 4MATIC,Mercedes-Benz,Black,,International Autos,(414) 203-5342,3.8,56,,68,Black,Black,9-Speed Automatic,AWD,4JGED6EBXJA100718
+2018 Mercedes-Benz  E 400 4MATIC,Mercedes-Benz,White,,International Autos,(414) 203-5342,3.8,56,,68,Polar White,Saddle Brown,9-Speed Automatic,AWD,WDD1J6GB3JF039455
+2018 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,White,,International Autos,(414) 203-5342,3.8,56,,68,White,Black,9-Speed Automatic,AWD,WDDWF4KBXJR321576
+2012 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,Black,,International Autos,(414) 939-8502,3.8,56,90830,68,Black,,7-Speed Automatic,AWD,WDDGF8BB6CR191360
+2017 Mercedes-Benz  C 300,Mercedes-Benz,White,,International Autos,(414) 203-5342,3.8,56,,68,White,Black,7-Speed Automatic,AWD,55SWF4KB8HU206449
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,Black,,International Autos,(414) 203-5342,3.8,56,,68,Black,Silk Beige,9-Speed Automatic,AWD,WDC0G4KB3JV046132
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Other,,International Autos,(414) 203-5342,3.8,56,,68,,,7-Speed Automatic,AWD,4JGDA5HBXJB085593
+2018 Mercedes-Benz  E 300,Mercedes-Benz,Black,,International Autos,(414) 203-5342,3.8,56,,68,Black,Black,9-Speed Automatic,AWD,WDDZF4KB8JA385174
+2018 Mercedes-Benz  S 560 4MATIC,Mercedes-Benz,White,,International Autos,(414) 203-5342,3.8,56,,68,Diamond White,Black,9-Speed Automatic,AWD,WDDUG8GB3JA389933
+2018 Mercedes-Benz  E 400 4MATIC,Mercedes-Benz,Black,,International Autos,(414) 203-5342,3.8,56,,68,Black,Beige,9-Speed Automatic,AWD,WDD1K6GB2JF048077
+2018 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,Gray,,International Autos,(414) 203-5342,3.8,56,,68,Selenite Gray Metallic,Black,9-Speed Automatic,AWD,55SWF4KB7JU243515
+2017 Mercedes-Benz AMG C 63 Base,Mercedes-Benz,Gray,,International Autos,(414) 203-5342,3.8,56,,68,Selenite Gray Metallic,Platinum,7-Speed Automatic,RWD,WDDWK8GB7HF505364
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,Black,,International Autos,(414) 203-5342,3.8,56,,68,Black,Beige,9-Speed Automatic,AWD,WDC0G4KB2JV066582
+2018 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,Black,,International Autos,(414) 203-5342,3.8,56,,68,Black,Black,9-Speed Automatic,AWD,55SWF4KB5JU242055
+2018 Mercedes-Benz GLA 250 Base 4MATIC,Mercedes-Benz,White,,International Autos,(414) 203-5342,3.8,56,,68,Citrus White,Black,7-Speed Automatic with Auto-Shift,AWD,WDCTG4GB2JJ475467
+2017 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,White,,International Autos,(414) 203-5342,3.8,56,,68,White,Black,7-Speed Automatic,AWD,WDDWJ4KB7HF526461
+2017 Mercedes-Benz GLA 250 Base 4MATIC,Mercedes-Benz,Blue,,International Autos,(414) 203-5342,3.8,56,,68,Lunar Blue Metallic,Shara Beige,7-Speed Automatic with Auto-Shift,AWD,WDCTG4GB4HJ357852
+2017 Mercedes-Benz  E 300,Mercedes-Benz,White,,International Autos,(414) 203-5342,3.8,56,,68,Polar White,Macchiato,9-Speed Automatic,AWD,WDDZF4KB1HA075958
+2017 Mercedes-Benz  C 300,Mercedes-Benz,Gray,,International Autos,(414) 203-5342,3.8,56,,68,Gray Metallic,Black,7-Speed Automatic,AWD,WDDWF4KB7HR305801
+2017 Mercedes-Benz  E 300,Mercedes-Benz,White,,International Autos,(414) 203-5342,3.8,56,,68,Polar White,Black,9-Speed Automatic,AWD,WDDZF4KB7HA011312
+2017 Mercedes-Benz  E 400 4MATIC,Mercedes-Benz,White,,International Autos,(414) 203-5342,3.8,56,,68,Polar White,Natural Beige,7-Speed Automatic,AWD,WDDKJ6HBXHF355237
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,White,,International Autos,(414) 203-5342,3.8,56,,68,Polar White,Black,9-Speed Automatic,AWD,WDC0G4KB5JV074644
+2018 Mercedes-Benz  S 450 4MATIC,Mercedes-Benz,Blue,,International Autos,(414) 203-5342,3.8,56,,68,Anthracite Blue Metallic,Silk Beige / Espresso Brown,9-Speed Automatic,AWD,WDDUG6EB9JA345717
+2017 Mercedes-Benz GLS 550 Base 4MATIC,Mercedes-Benz,White,,International Autos,(414) 203-5342,3.8,56,,68,Polar White,Ginger,9-Speed Automatic,AWD,4JGDF7DE3HA844467
+2017 Mercedes-Benz  E 300,Mercedes-Benz,Gray,,International Autos,(414) 203-5342,3.8,56,,68,Selenite Gray Metallic,Black,9-Speed Automatic,AWD,WDDZF4KB2HA206508
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,Brown,,International Autos,(414) 203-5342,3.8,56,,68,Brown Metallic,Beige,9-Speed Automatic,AWD,WDC0G4KB8JV076677
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,Black,,International Autos,(414) 203-5342,3.8,56,,68,Black,Silk Beige,9-Speed Automatic,AWD,WDC0G4KB6JV042141
+2018 Mercedes-Benz CLA 250 Base 4MATIC,Mercedes-Benz,White,,International Autos,(414) 203-5342,3.8,56,,68,Citrus White,Black,7-Speed Automatic with Auto-Shift,AWD,WDDSJ4GB3JN587793
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,White,,International Autos,(414) 203-5342,3.8,56,,68,Polar White,Beige,7-Speed Automatic,AWD,4JGDA5HB0JB090298
+2018 Mercedes-Benz CLA 250 Base 4MATIC,Mercedes-Benz,White,,International Autos,(414) 203-5342,3.8,56,,68,Citrus White,Black,7-Speed Automatic with Auto-Shift,AWD,WDDSJ4GBXJN560414
+2018 Mercedes-Benz  E 400 4MATIC,Mercedes-Benz,Red,,International Autos,(414) 203-5342,3.8,56,,68,Designo Cardinal Red Metallic,Black,9-Speed Automatic,AWD,WDD1J6GB9JF023387
+2018 Mercedes-Benz  E 400,Mercedes-Benz,Gray,,International Autos,(414) 203-5342,3.8,56,,68,Gray Metallic,,9-Speed Automatic,AWD,WDDZH6GB7JA418518
+2018 Mercedes-Benz CLA 250 Base 4MATIC,Mercedes-Benz,Black,,International Autos,(414) 203-5342,3.8,56,,68,Midnight Black,Black,7-Speed Automatic with Auto-Shift,AWD,WDDSJ4GB6JN588646
+2017 Mercedes-Benz  E 300,Mercedes-Benz,Blue,,International Autos,(414) 203-5342,3.8,56,,68,Lunar Blue Metallic,Macchiato,9-Speed Automatic,AWD,WDDZF4KB9HA222754
+2018 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,Black,,International Autos,(414) 203-5342,3.8,56,,68,Black,Black,9-Speed Automatic,AWD,WDDWJ4KB3JF712360
+2018 Mercedes-Benz CLA 250 Base 4MATIC,Mercedes-Benz,White,,International Autos,(414) 203-5342,3.8,56,,68,Citrus White,Shara Beige,7-Speed Automatic with Auto-Shift,AWD,WDDSJ4GBXJN563751
+2018 Mercedes-Benz CLA 250 Base 4MATIC,Mercedes-Benz,White,,International Autos,(414) 203-5342,3.8,56,,68,Citrus White,Shara Beige,7-Speed Automatic with Auto-Shift,AWD,WDDSJ4GB1JN555280
+2018 Mercedes-Benz  E 400 4MATIC,Mercedes-Benz,White,,International Autos,(414) 203-5342,3.8,56,,68,Diamond White Metallic,Macchiato,9-Speed Automatic,AWD,WDD1K6GB2JF038813
+2017 Mercedes-Benz GLA 250 Base 4MATIC,Mercedes-Benz,Gray,,International Autos,(414) 203-5342,3.8,56,,68,Mountain Gray Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WDCTG4GB6HJ357528
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,Blue,,International Autos,(414) 203-5342,3.8,56,,68,Brilliant Blue Metallic,Black,9-Speed Automatic,AWD,WDC0G4KB1JV035680
+2018 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,Gray,,International Autos,(414) 203-5342,3.8,56,,68,Selenite Gray Metallic,Black,9-Speed Automatic,AWD,55SWF4KB4JU248459
+2016 Mercedes-Benz  GLC 300 4MATIC,Mercedes-Benz,Gray,,International Autos,(414) 939-8502,3.8,56,23125,68,Gray,,9-Speed Automatic,AWD,WDC0G4KBXGF093449
+2018 Mercedes-Benz CLS 550 Base 4MATIC,Mercedes-Benz,Gray,,International Autos,(414) 203-5342,3.8,56,,68,Selenite Gray Metallic,Black,9-Speed Automatic,AWD,WDDLJ9BB4JA204444
+2018 Mercedes-Benz CLA 250 Base 4MATIC,Mercedes-Benz,Red,,International Autos,(414) 203-5342,3.8,56,,68,Jupiter Red,Black,7-Speed Automatic with Auto-Shift,AWD,WDDSJ4GB6JN592003
+2018 Mercedes-Benz GLS 450 Base 4MATIC,Mercedes-Benz,Black,,International Autos,(414) 203-5342,3.8,56,,68,Black,Black,9-Speed Automatic,AWD,4JGDF6EE6JB119986
+2017 Mercedes-Benz  E 400 4MATIC,Mercedes-Benz,White,,International Autos,(414) 203-5342,3.8,56,,68,Polar White,Natural Beige,7-Speed Automatic,AWD,WDDKJ6HB7HF362520
+2018 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,Black,,International Autos,(414) 203-5342,3.8,56,,68,Obsidian Black Metallic,Porcelain / Black,9-Speed Automatic,AWD,WDDWK4KB1JF628373
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,Black,,International Autos,(414) 203-5342,3.8,56,,68,Black,Black,9-Speed Automatic,AWD,WDC0G4KB9JV024572
+2018 Mercedes-Benz  E 300,Mercedes-Benz,White,,International Autos,(414) 203-5342,3.8,56,,68,Polar White,Black,9-Speed Automatic,AWD,WDDZF4KB9JA409188
+2018 Mercedes-Benz AMG G 63 Base,Mercedes-Benz,Black,,International Autos,(414) 203-5342,3.8,56,,68,Black,,7-Speed Automatic,AWD,WDCYC7DH0JX289824
+2018 Mercedes-Benz CLA 250 Base 4MATIC,Mercedes-Benz,Blue,,International Autos,(414) 203-5342,3.8,56,,68,Lunar Blue Metallic,,7-Speed Automatic with Auto-Shift,AWD,WDDSJ4GB2JN628883
+2017 Mercedes-Benz  E 300,Mercedes-Benz,Black,,International Autos,(414) 203-5342,3.8,56,,68,Black,Black,9-Speed Automatic,AWD,WDDZF4KB8HA162028
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Silver,,International Autos,(414) 203-5342,3.8,56,,68,Iridium Silver Metallic,Black,7-Speed Automatic,AWD,4JGDA5HB3JB111872
+2018 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,Black,,International Autos,(414) 203-5342,3.8,56,,68,Black,Black,9-Speed Automatic,AWD,WDDWF4KB6JR330498
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Red,,International Autos,(414) 203-5342,3.8,56,,68,Cardinal Red Metallic,Beige,7-Speed Automatic,AWD,4JGDA5HB3JB108292
+2017 Mercedes-Benz AMG C 63 S,Mercedes-Benz,Silver,,International Autos,(414) 203-5342,3.8,56,,68,Diamond Silver Metallic,Cranberry Red / Black,7-Speed Automatic,RWD,WDDWK8HB0HF508055
+2016 Mercedes-Benz  E 400 4MATIC,Mercedes-Benz,Gray,,International Autos,(414) 939-8502,3.8,56,25222,68,Gray,,7-Speed Automatic,AWD,WDDKJ6HBXGF328358
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,Blue,,International Autos,(414) 203-5342,3.8,56,,68,Brilliant Blue Metallic,Silk Beige,9-Speed Automatic,AWD,WDC0G4KB7JV044920
+2017 Mercedes-Benz  E 300,Mercedes-Benz,Silver,,International Autos,(414) 203-5342,3.8,56,,68,Iridium Silver Metallic,Black,9-Speed Automatic,AWD,WDDZF4KB3HA195972
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,Gray,,International Autos,(414) 203-5342,3.8,56,,68,Selenite Gray Metallic,Black,9-Speed Automatic,AWD,WDC0G4KB9JF338488
+2018 Mercedes-Benz CLA 250 Base 4MATIC,Mercedes-Benz,White,,International Autos,(414) 203-5342,3.8,56,,68,Citrus White,Black,7-Speed Automatic with Auto-Shift,AWD,WDDSJ4GBXJN609207
+2017 Mercedes-Benz  E 400,Mercedes-Benz,White,,International Autos,(414) 203-5342,3.8,56,,68,Polar White,Silk Beige,7-Speed Automatic,RWD,WDDKK6FF8HF360312
+2018 Mercedes-Benz CLA 250 Base 4MATIC,Mercedes-Benz,White,,International Autos,(414) 203-5342,3.8,56,,68,Citrus White,Shara Beige,7-Speed Automatic with Auto-Shift,AWD,WDDSJ4GB7JN602831
+2018 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,Gray,,International Autos,(414) 203-5342,3.8,56,,68,Gray Metallic,Black,9-Speed Automatic,AWD,WDDWF4KB3JR327655
+2018 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,White,,International Autos,(414) 203-5342,3.8,56,,68,White,Black,9-Speed Automatic,AWD,WDDWJ4KBXJF680944
+2018 Mercedes-Benz AMG GLE 43 Base 4MATIC,Mercedes-Benz,Silver,,International Autos,(414) 203-5342,3.8,56,,68,Iridium Silver Metallic,Black,9-Speed Automatic,AWD,4JGDA6EB3JB060920
+2017 Mercedes-Benz  E 300,Mercedes-Benz,Black,,International Autos,(414) 203-5342,3.8,56,,68,Obsidian Black Metallic,Macchiato,9-Speed Automatic,AWD,WDDZF4KB8HA255616
+2018 Mercedes-Benz  C 300 4MATIC,Mercedes-Benz,White,,International Autos,(414) 203-5342,3.8,56,,68,Polar White,Black,9-Speed Automatic,AWD,WDDWF4KB7JR328243
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,Black,,International Autos,(414) 203-5342,3.8,56,,68,Black,Black,9-Speed Automatic,AWD,WDC0G4KB4JV052361
+2018 Mercedes-Benz CLA 250 Base 4MATIC,Mercedes-Benz,Gray,,International Autos,(414) 203-5342,3.8,56,,68,Mountain Gray Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WDDSJ4GB2JN580026
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,White,,International Autos,(414) 203-5342,3.8,56,,68,Polar White,Silk Beige,9-Speed Automatic,AWD,WDC0G4KB3JV043408
+2017 Mercedes-Benz  E 300,Mercedes-Benz,White,,International Autos,(414) 203-5342,3.8,56,,68,Polar White,Macchiato,9-Speed Automatic,AWD,WDDZF4KB7HA166734
+2018 Mercedes-Benz  E 300,Mercedes-Benz,Blue,,International Autos,(414) 203-5342,3.8,56,,68,Lunar Blue Metallic,Black,9-Speed Automatic,AWD,WDDZF4KB7JA337567
+2018 Mercedes-Benz GLC 300 Base 4MATIC,Mercedes-Benz,Black,,International Autos,(414) 203-5342,3.8,56,,68,Black,Silk Beige,9-Speed Automatic,AWD,WDC0G4KB9JV028928
+2018 Mercedes-Benz GLS 450 Base 4MATIC,Mercedes-Benz,White,,International Autos,(414) 203-5342,3.8,56,,68,Designo Diamond White Metallic,Ginger,9-Speed Automatic,AWD,4JGDF6EE1JB051063
+2018 Mercedes-Benz GLS 550 Base 4MATIC,Mercedes-Benz,Black,91882,International Autos,(414) 939-8502,3.8,56,5421,68,Black,Black,9-Speed Automatic,AWD,4JGDF7DE5JB003282
+2018 Mercedes-Benz CLA 250 Base 4MATIC,Mercedes-Benz,White,,International Autos,(414) 203-5342,3.8,56,,68,Citrus White,Shara Beige,7-Speed Automatic with Auto-Shift,AWD,WDDSJ4GB2JN556731
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Gray,,International Autos,(414) 203-5342,3.8,56,,68,Selenite Gray Metallic,Black,7-Speed Automatic,AWD,4JGDA5HB5JB072508
+2014 Mercedes-Benz  ML 350 4MATIC,Mercedes-Benz,Red,,Gordie Boucher Lincoln of West Allis,(866) 413-8566,4.9,76,44153,68,Red,,7-Speed Automatic,AWD,4JGDA5HB2EA358506
+2009 Mercedes-Benz  4.6L,Mercedes-Benz,Black,14995,Smart Sales and Leasing,(414) 409-7892,,,115108,68,Black,Black Leather,7-SPEED A/T,Four Wheel Drive,4JGBF71E89A473268
+2009 Mercedes-Benz  3.5L,Mercedes-Benz,Black,9999,Car King,(414) 255-0262,3.2,39,117857,68,Black,Black,5-SPEED A/T,All Wheel Drive,WDBUF87X49B413606
+2007 Mercedes-Benz  CLK350,Mercedes-Benz,Red,8350,Russ Darrow Chrysler Dodge Jeep RAM,(414) 375-4715,4.7,596,75931,70,Red,,7-Speed Automatic,RWD,WDBTJ56H67F215375
+2012 Mercedes-Benz  C 300,Mercedes-Benz,Black,15995,Classic Motorcars,(414) 219-1011,4.8,149,56428,70,Black,ALMOND/BEIGE,7-SPEED A/T,All Wheel Drive,WDDGF8BB0CR191371
+2014 Mercedes-Benz  GLK350,Mercedes-Benz,Brown,26980,VROOM (Milwaukee),(877) 682-3020,,,31008,73,Brown,Tan,7-Speed Automatic w/OD,AWD,WDCGG8JB1EG331929
+2014 Mercedes-Benz  SLK250,Mercedes-Benz,Black,22730,VROOM (Milwaukee),(877) 682-3020,,,60293,73,Black,Tan,Automatic,RWD,WDDPK4HA5EF086803
+2018 Mercedes-Benz  E 300,Mercedes-Benz,White,43980,VROOM (Milwaukee),(877) 682-3020,,,16763,73,White,Black,9-Speed Automatic w/OD,RWD,WDDZF4JB1JA308339
+2016 Mercedes-Benz  C 300,Mercedes-Benz,Black,23980,VROOM (Milwaukee),(877) 682-3020,,,41563,73,Black,Tan,7-Speed Automatic w/OD,RWD,55SWF4JB6GU125840
+2014 Mercedes-Benz  CLA250,Mercedes-Benz,White,21730,VROOM (Milwaukee),(877) 682-3020,,,28283,73,White,Black,Automatic,FWD,WDDSJ4EB1EN158371
+2014 Mercedes-Benz  CLS550,Mercedes-Benz,Silver,37230,VROOM (Milwaukee),(877) 682-3020,,,31896,73,Silver,Black,Automatic,RWD,WDDLJ7DB3EA120204
+2015 Mercedes-Benz  GLA 250 4MATIC,Mercedes-Benz,Silver,34999,BMW of Milwaukee North,(877) 591-3075,4.8,106,17347,73,Polar Silver Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WDCTG4GB4FJ090676
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,White,,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,5015,74,Designo Diamond White Metallic,Black,7-SPEED A/T,All Wheel Drive,4JGDA5HB3JB025526
+2015 Mercedes-Benz  C 300,Mercedes-Benz,Blue,26902,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,29587,74,Lunar Blue Metallic,Silk Beige,7-SPEED A/T,All Wheel Drive,55SWF4KB5FU022325
+2015 Mercedes-Benz  S 550,Mercedes-Benz,Black,63919,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,18068,74,Black,Black,7-SPEED A/T,All Wheel Drive,WDDUG8FB5FA189399
+2015 Mercedes-Benz  C 300,Mercedes-Benz,Black,28921,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,20445,74,Black,Black,7-SPEED A/T,All Wheel Drive,55SWF4KB4FU021022
+2016 Mercedes-Benz  SL 550,Mercedes-Benz,White,75838,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,14394,74,Designo Diamond White,Black,7-SPEED A/T,Rear Wheel Drive,WDDJK7DA4GF038855
+2015 Mercedes-Benz  CLA 250,Mercedes-Benz,White,24397,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,26840,74,Cirrus White,,7-SPEED A/T,Front Wheel Drive,WDDSJ4EB7FN171353
+2016 Mercedes-Benz  AMG S 63,Mercedes-Benz,Black,97204,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,41198,74,Black,Black,7-SPEED A/T,All Wheel Drive,WDDUG7JB5GA212487
+2017 Mercedes-Benz  C 300,Mercedes-Benz,Silver,44389,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,3998,74,Iridium Silver Metallic,Black,7-SPEED A/T,All Wheel Drive,55SWF4KB0HU215453
+2017 Mercedes-Benz  C 300,Mercedes-Benz,Gray,,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,18,74,Selenite Grey Metallic,Black,7-SPEED A/T,All Wheel Drive,55SWF4KB2HU218435
+2018 Mercedes-Benz  E 400,Mercedes-Benz,Other,77920,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,1841,74,,,9-SPEED A/T,All Wheel Drive,WDDZH6GB7JA372768
+2018 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,Silver,,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,7825,74,Iridium Silver Metallic,brown,7-SPEED A/T,All Wheel Drive,4JGDA5HB3JB058316
+2015 Mercedes-Benz  ML 350,Mercedes-Benz,Black,33472,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,43473,74,Black,Black,7-SPEED A/T,All Wheel Drive,4JGDA5HB8FA581425
+2015 Mercedes-Benz  S 550,Mercedes-Benz,Silver,56640,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,40087,74,Palladium Silver Metallic,Black,7-SPEED A/T,All Wheel Drive,WDDUG8FB2FA159079
+2015 Mercedes-Benz  GLK 350,Mercedes-Benz,White,27908,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,39545,74,White,Beige,7-SPEED A/T,All Wheel Drive,WDCGG8JB5FG388071
+2017 Mercedes-Benz  C 300,Mercedes-Benz,Red,33989,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,10130,74,Designo Cardinal Red Metallic,Silk Beige/Black,7-SPEED A/T,All Wheel Drive,55SWF4KB7HU215966
+2018 Mercedes-Benz CLA 250 CLA 250,Mercedes-Benz,Blue,,Mercedes-Benz of Milwaukee North,(888) 821-5863,4.8,203,6086,74,Lunar Blue Metallic,Sahara Beige,7-SPEED A/T,All Wheel Drive,WDDSJ4GB3JN528291
+2017 Mercedes-Benz  S 550,Mercedes-Benz,Black,89936,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,7170,74,Black,Black,9-SPEED A/T,All Wheel Drive,WDDUG8FB2HA333171
+2014 Mercedes-Benz  E 350,Mercedes-Benz,Black,27770,Mercedes-Benz of Milwaukee North,(888) 821-6594,4.8,203,43762,74,Black,Red/Black,7-SPEED A/T,Rear Wheel Drive,WDDKJ5KB5EF225963

@@ -114,13 +114,16 @@ def craw_from_url(start_url, csv_name):
                 car_info['seller_average_rating'] = car_data['offers']['seller']['aggregateRating']['ratingValue']
                 car_info['seller_review_count'] = car_data['offers']['seller']['aggregateRating']['reviewCount']
 
+            # add car year from car name
+            year = car_info["name"].split()[0]
+            car_info["year"] = (int)(year) if year.isdigit() else None
+
             car_details = get_more_info(cars_detail_list[ind])
 
             # combine two dicts
             car_dict = {**car_info, **car_details}
             csv_rows.append(dict(car_dict))
-
-    csv_header = ["name", "brand", "color", "price", "seller_name", "seller_phone",
+    csv_header = ["name", "year", "brand", "color", "price", "seller_name", "seller_phone",
             "seller_average_rating", "seller_review_count", "miles", "distance_from_Madison", "Exterior Color",
             "Interior Color", "Transmission", "Drivetrain", "VIN"]
     write_cars_to_csv(csv_name, csv_header, csv_rows)

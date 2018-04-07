@@ -1,0 +1,519 @@
+name,brand,color,price,seller_name,seller_phone,seller_average_rating,seller_review_count,miles,distance_from_Madison,Exterior Color,Interior Color,Transmission,Drivetrain,VIN
+2006 Audi A6 3.2 quattro,Audi,Silver,8479,Kayser Ford Lincoln,(608) 807-5359,4.7,399,105855,2,Silver,Beige,6-Speed Automatic,AWD,WAUDH74F36N132034
+2012 Audi A4 2.0T Premium quattro,Audi,Silver,17599,CarMax Madison,(608) 286-3923,4.3,3,39195,5,Silver,Gray,8-Speed Automatic w/Manual Shift,AWD,WAUBFAFL8CN011895
+2016 Audi Q5 2.0T Premium Plus quattro,Audi,Black,32950,Lexus of Madison,(608) 478-2660,5,68,11808,6,Brilliant Black,Black,8-Speed Automatic,AWD,WA1L2AFPXGA004007
+2015 Audi A6 2.0T Premium Plus quattro,Audi,Black,27950,Lexus of Madison,(608) 478-2660,5,68,24665,6,Black,,8-Speed Automatic,AWD,WAUGFAFC1FN005723
+2014 Audi A4 Premium,Audi,White,17299,Wilde East Towne Honda,(608) 467-1265,4.9,2693,71411,7,White,,8-SPEED A/T,All Wheel Drive,WAUBFAFL1EN001101
+2014 Audi A6 2.0T Premium Plus,Audi,Gray,25889,Zimbrick Hyundai Eastside,(608) 338-1462,4.9,303,20324,7,Oolong Gray Metallic,Black,8-Speed A/T,All Wheel Drive,WAUGFAFCXEN120108
+2017 Audi A4 Season of Audi Premium,Audi,Gray,31400,Zimbrick Nissan,(608) 338-0718,4.6,111,2769,7,Manhattan Gray Metallic,Atlas Beige/Gray,7-SPEED A/T,All Wheel Drive,WAUDNAF45HN046972
+2015 Audi A3 2.0T Premium Plus quattro,Audi,Gray,19577,Russ Darrow Mazda of Madison,(608) 338-1572,4.8,156,45209,7,Monsoon Gray Metallic,Titanium,6-Speed Automatic with Auto-Shift,AWD,WAUEFGFF9F1023009
+2017 Audi Q3 2.0T Premium quattro,Audi,Black,26449,Kayser Chrysler Center,(608) 338-1543,4.5,91,21894,22,Brilliant Black,Black,6-Speed Automatic,AWD,WA1ECCFS4HR015934
+2017 Audi Q5 2.0T Premium quattro,Audi,Blue,34000,Griffin Ford Lincoln Fort Atkinson,(920) 542-4359,4.9,79,28062,29,Moonlight Blue Metallic,Titanium Gray / Steel Gray,8-Speed Automatic,AWD,WA1C2AFP9HA099371
+2015 Audi Q7 3.0L TDI Premium Plus,Audi,Blue,33423,Rock County Honda,(608) 554-2800,4.9,366,44294,33,Blue,,8-SPEED A/T,All Wheel Drive,WA1LMAFE4FD021827
+2012 Audi Q5 2.0T Premium quattro,Audi,Gray,17803,Bryden Motors,(608) 713-4799,4.2,15,63613,43,Daytona Gray Pearl,Cardamom,8-Speed Automatic,AWD,WA1LFAFP8CA129585
+2014 Audi Q7 3.0L TDI Premium Plus,Audi,Black,34896,Kunes Country Chrysler Dodge Jeep Ram of Elkhorn,(262) 607-8408,4.8,276,57292,51,Black,Black,8-SPEED A/T,All Wheel Drive,WA1LMAFE5ED012326
+2018 Audi A5 2.0T Premium Plus quattro,Audi,White,53350,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Glacier White Metallic,Nougat Brown / Black,7-Speed Automatic with Auto-Shift,AWD,WAUENCF57JA075847
+2018 Audi Q3 2.0T Premium Plus,Audi,Gray,41500,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Daytona Gray Pearl Effect,Black,6-Speed Automatic,AWD,WA1JCCFS7JR019349
+2016 Audi A6 3.0 TDI Premium Plus quattro,Audi,White,58879,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Ibis White,Black,8-Speed Automatic,AWD,WAUFMAFC7GN000707
+2018 Audi A4 2.0T Premium Plus,Audi,Blue,49150,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Moonlight Blue Metallic,Nougat Brown / Black,7-Speed Automatic with Auto-Shift,AWD,WAUENAF43JA074898
+2018 Audi Q7 3.0T Premium,Audi,White,71345,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Glacier White Metallic,Black,8-Speed Automatic,AWD,WA1VAAF76JD027642
+2018 Audi A3 2.0T Premium quattro,Audi,Black,43335,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Brilliant Black / Black Roof,Black,6-Speed Automatic with Auto-Shift,AWD,WAU78LFF8J1041053
+2018 Audi A7 3.0T Prestige quattro,Audi,Black,76200,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Mythos Black Metallic,Black,8-Speed Automatic,AWD,WAU23AFC5JN064088
+2018 Audi Q3 2.0T Premium Plus,Audi,Blue,43400,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Utopia Blue Metallic,Chestnut Brown,6-Speed Automatic,AWD,WA1JCCFSXJR016445
+2018 Audi A5 2.0T Premium Plus quattro,Audi,Black,58640,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Mythos Black Metallic / Black Roof,Atlas Beige,7-Speed Automatic with Auto-Shift,AWD,WAUYNGF55JN010170
+2018 Audi Q5 2.0T Premium,Audi,Silver,54185,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Florett Silver Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFYXJ2088178
+2018 Audi A4 2.0T Premium Plus,Audi,Red,49150,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Matador Red Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUENAF4XJA074722
+2018 Audi A4 2.0T Prestige,Audi,Blue,54550,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Scuba Blue Metallic,Nougat Brown / Black,7-Speed Automatic with Auto-Shift,AWD,WAUFNBF43JA127013
+2018 Audi Q3 2.0T Premium Plus,Audi,Black,42825,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Brilliant Black,Chestnut Brown,6-Speed Automatic,AWD,WA1JCCFS7JR016208
+2018 Audi Q5 2.0T Premium,Audi,Silver,52725,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Florett Silver Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFY5J2099752
+2018 Audi S4 3.0T Premium Plus,Audi,Gray,58685,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Daytona Gray Pearl Effect,Black,8-Speed Automatic,AWD,WAUB4AF47JA021868
+2018 Audi A6 3.0T Premium quattro,Audi,Gray,62160,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Tornado Gray Metallic,Black,8-Speed Automatic,AWD,WAUG3AFC7JN065328
+2015 Audi TT 2.0T quattro,Audi,White,31989,Wheels by RT,(815) 580-3162,5,38,18515,60,Ibis White,Black,6-Speed Automatic with Auto-Shift,AWD,TRUSFAFK8F1000696
+2013 Audi S4 3.0T Premium Plus,Audi,Black,23329,Toyota of Brookfield,(262) 558-4486,4.8,62,65950,61,Phantom Black Pearl,Black,7-Speed Automatic with Auto-Shift,AWD,WAUBGAFL0DA200692
+2012 Audi S4 3.0 Premium Plus,Audi,Black,22090,Mercedes-Benz of Elmbrook,(262) 510-2426,4.5,39,77195,61,Phantom Black Pearl,Black / Red,6-Speed Manual,AWD,WAUDGAFL1CA095880
+2012 Audi S4 3.0 Premium Plus,Audi,Black,22090,International Porsche of Waukesha,(262) 395-7647,5,4,77195,61,Phantom Black Pearl,Black / Red,6-Speed Manual,AWD,WAUDGAFL1CA095880
+2015 Audi A4 2.0T Premium Plus quattro,Audi,Blue,22500,Lexus of Brookfield,(262) 510-0474,4.9,184,40163,62,Dark Blue,Black,8-Speed Automatic,AWD,WAUFFAFL5FN035920
+2014 Audi A6 3.0 TDI Premium Plus quattro,Audi,Black,29991,Hall Volkswagen Mazda,(888) 450-4176,4.6,56,18842,62,Phantom Black Pearl,Black,8-Speed Automatic,AWD,WAUFMAFC1EN064271
+2016 Audi A6 2.0T Premium quattro,Audi,White,31000,Lexus of Brookfield,(262) 510-0474,4.9,184,39015,62,White,Black,8-Speed Automatic,AWD,WAUFFAFC1GN115538
+2014 Audi A6 3.0 TDI Prestige quattro,Audi,Blue,26991,Hall Volkswagen Mazda,(888) 450-4176,4.6,56,61829,62,Moonlight Blue Metallic,Velvet Beige,8-Speed Automatic,AWD,WAUHMAFC7EN032692
+2014 Audi Q7 3.0 TDI Premium Plus,Audi,Gray,36991,Hall Volkswagen Mazda,(888) 450-4176,4.6,56,19607,62,Daytona Gray Pearl,Black,8-Speed Automatic,AWD,WA1LMAFE4ED017811
+2017 Audi A4 2.0T Premium quattro,Audi,White,29995,Russ Darrow Toyota Scion,(262) 384-4738,4.8,616,18568,64,Ibis White,Black,7-Speed Automatic with Auto-Shift,AWD,WAUANAF45HN052791
+2017 Audi A3 Premium,Audi,Other,24288,Van Horn Hyundai of Fond du Lac,(920) 933-8267,4.8,730,2869,66,Chrome,aluminum,7-SPEED A/T,Front Wheel Drive,WAUAUGFF8H1038074
+2017 Audi A3 2.0T Premium Plus,Audi,Other,26699,Van Horn Hyundai of Fond du Lac,(920) 933-8267,4.8,730,3031,66,Chrome,aluminum,7-SPEED A/T,Front Wheel Drive,WAUGUGFFXH1041682
+2016 Audi S4 3.0T Premium Plus,Audi,Black,41998,Holiday Mazda,(855) 294-9011,4.9,96,22315,67,Brilliant Black,Black,7-Speed Automatic with Auto-Shift,AWD,WAUBGAFL6GA005992
+2014 Audi A6 3.0 TDI Prestige quattro,Audi,Black,36998,Holiday Mazda,(855) 294-9011,4.9,96,32904,67,Brilliant Black,Black,8-Speed Automatic,AWD,WAUHMAFC3EN019003
+2017 Audi Q5 2.0T Premium quattro,Audi,Black,38498,Holiday Mazda,(855) 294-9011,4.9,96,14776,67,Brilliant Black,Black,8-Speed Automatic,AWD,WA1M2AFP5HA078716
+2008 Audi A4 2.0T,Audi,Black,6944,Russ Darrow Mazda of Milwaukee,(888) 364-8375,4.7,337,101184,67,Phantom Black Pearl,Black,6-Speed Automatic with Tiptronic,AWD,WAUDF78E38A018780
+2013 Audi TT 2.0T Premium Plus,Audi,Black,27996,Marengo Auto Group,(815) 572-4336,5,20,19266,68,Black,Black,6-SPEED A/T,All Wheel Drive,TRUSFAFK3D1000702
+2017 Audi Q5 2.0T Premium quattro,Audi,Black,32996,Russ Darrow Mazda,(414) 269-8762,4.7,433,20855,68,Brilliant Black,Black,8-Speed Automatic,AWD,WA1C2AFP7HA095772
+2012 Audi Q5 2.0T Premium Plus quattro,Audi,Black,16911,Ewald Chrysler Jeep Dodge RAM,(414) 377-4903,4.8,337,82725,68,Black,,8-Speed Automatic,AWD,WA1LFAFP9CA138831
+2015 Audi A7 3.0T Premium Plus quattro,Audi,Black,37435,International Autos,(414) 269-8729,3.8,56,49532,68,Mythos Black Metallic,Black,8-Speed Automatic,AWD,WAUWGAFC5FN007063
+2018 Audi A6 2.0T Premium Plus,Audi,Gray,54510,International Autos,(414) 203-5342,3.8,56,,68,Tornado Gray Metallic,Black,8-Speed Automatic,AWD,WAUG8AFC4JN011602
+2017 Audi Q5 2.0T Premium quattro,Audi,White,36000,International Autos,(414) 939-8502,3.8,56,4875,68,Ibis White,Black,8-Speed Automatic,AWD,WA1C2AFP8HA054700
+2012 Audi A5 2.0T quattro,Audi,Black,19998,CarMax Metro Parc,(414) 214-9772,4,2,53471,68,Black,Black,8-Speed Automatic w/Manual Shift,AWD,WAULFAFR3CA022223
+2014 Audi A5 Premium Plus,Audi,Black,28596,Selig Auto Sales and Leasing,(414) 395-8880,5,15,39181,68,Black,Saddle,8-SPEED A/T,All Wheel Drive,WAULFAFH4EN011282
+2018 Audi A4 2.0T Premium Plus,Audi,Gray,50100,International Autos,(414) 203-5342,3.8,56,,68,Manhattan Gray Metallic,Rock Gray,7-Speed Automatic with Auto-Shift,AWD,WAUENAF42JA058448
+2013 Audi S4 3.0T Prestige,Audi,Other,23990,Hometown Auto Sales,(262) 421-4659,5,1,76992,72,,,7-SPEED A/T,AWD,WAUBGAFL0DA153034
+2017 Audi A4 2.0T Premium quattro,Audi,White,34967,Audi North Shore,(414) 375-2104,3.5,14,4959,72,Ibis White,Black,7-Speed Automatic with Auto-Shift,AWD,WAUANAF48HN009658
+2013 Audi A5 2.0T Premium Plus quattro,Audi,Gray,13667,Audi North Shore,(414) 375-2115,3.5,14,114675,72,Monsoon Gray Metallic,Black,8-Speed Automatic,AWD,WAULFAFR8DA039018
+2014 Audi A6 2.0T Premium Plus,Audi,Black,23613,Andrew Toyota,(866) 786-0878,4.9,1460,33030,73,Phantom Black Pearl Effect,Black,8-SPEED A/T,All Wheel Drive,WAUGFAFC2EN060163
+2011 Audi S4 3.0 Premium Plus,Audi,Gray,18699,Heiser Ford Lincoln,(414) 375-4242,5,664,89999,74,Quartz Gray Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUKGAFL3BA009300
+2013 Audi Q7 3.0 TDI Premium,Audi,Black,31633,Porsche Milwaukee North,(888) 481-5925,,,24232,74,Black,Black,8-Speed Automatic,AWD,WA1LMAFE1DD000897
+2012 Audi S4 3.0 Premium Plus,Audi,Black,23953,Porsche Milwaukee North,(888) 481-5925,,,55721,74,Brilliant Black,Black / Red,7-Speed Automatic with Auto-Shift,AWD,WAUBGAFL7CA017613
+2014 Audi RS 5 4.2,Audi,Gray,42819,Porsche Milwaukee North,(888) 481-5925,,,44824,74,Daytona Gray Pearl,Black,7-Speed Automatic with Auto-Shift,AWD,WUAC6AFR4EA901108
+2015 Audi Q5 2.0T Premium Plus quattro,Audi,Silver,31500,Lexus of Milwaukee,(414) 973-2600,5,9,15758,74,Florett Silver Metallic,Black,8-Speed Automatic,AWD,WA1LFAFP1FA078435
+2015 Audi A3 2.0T Premium Plus quattro,Audi,White,21343,Porsche Milwaukee North,(888) 481-5925,,,37314,74,Glacier White Metallic,Black,6-Speed Automatic with Auto-Shift,AWD,WAUEFGFF4F1011009
+2015 Audi A6 3.0T Prestige,Audi,Gray,28980,VROOM (Milwaukee),(877) 682-3020,,,43456,73,Gray,Tan,8-Speed Automatic w/OD,AWD,WAUHGAFC2FN024993
+2017 Audi Q3 2.0T Premium Plus,Audi,Gray,33980,VROOM (Milwaukee),(877) 682-3020,,,2611,73,Gray,Black,6-Speed Automatic w/OD,AWD,WA1JCCFS4HR006827
+2016 Audi S6 Prestige,Audi,Black,56480,VROOM (Milwaukee),(877) 682-3020,,,17349,73,Black,Black,7-Speed Auto-Shift Manual w/OD,AWD,WAUH2AFC0GN040156
+2016 Audi A7 3.0T Premium Plus,Audi,Black,42480,VROOM (Milwaukee),(877) 682-3020,,,37603,73,Black,Black,8-Speed Automatic w/OD,AWD,WAUWGAFC6GN080847
+2017 Audi Q7 Premium Plus,Audi,White,52230,VROOM (Milwaukee),(877) 682-3020,,,23790,73,White,Gray,8-Speed Automatic w/OD,AWD,WA1LAAF73HD023307
+2017 Audi A6 2.0T Premium,Audi,Gray,40730,VROOM (Milwaukee),(877) 682-3020,,,5688,73,Gray,Tan,7-Speed Auto-Shift Manual w/OD,FWD,WAUD8AFC5HN059056
+2015 Audi Q3 2.0T Premium Plus,Audi,Black,23730,VROOM (Milwaukee),(877) 682-3020,,,55441,73,Black,Black,6-Speed Automatic w/OD,AWD,WA1EFCFS1FR013353
+2015 Audi Q5 2.0T Premium,Audi,Silver,26230,VROOM (Milwaukee),(877) 682-3020,,,50465,73,Silver,Black,8-Speed Automatic w/OD,AWD,WA1LFAFP7FA056486
+2014 Audi Q5 2.0T Premium,Audi,Silver,26730,VROOM (Milwaukee),(877) 682-3020,,,34881,73,Silver,Brown,8-Speed Automatic w/OD,AWD,WA1LFAFP2EA039643
+2014 Audi Q7 3.0T Premium,Audi,Black,28230,VROOM (Milwaukee),(877) 682-3020,,,51734,73,Black,Black,8-Speed Automatic w/OD,AWD,WA1LGAFE1ED002562
+2014 Audi A4 2.0T Premium quattro,Audi,Gray,21230,VROOM (Milwaukee),(877) 682-3020,,,27708,73,Gray,Black,8-Speed Automatic w/OD,AWD,WAUBFAFL9EN039725
+2015 Audi A6 2.0T Premium,Audi,White,27480,VROOM (Milwaukee),(877) 682-3020,,,23548,73,White,Black,8-Speed Automatic w/OD,AWD,WAUGFAFC3FN034138
+2014 Audi Q7 3.0 TDI Premium,Audi,White,28980,VROOM (Milwaukee),(877) 682-3020,,,74337,73,White,Tan,8-Speed Automatic w/OD,AWD,WA1LMAFE7ED002316
+2015 Audi Q7 3.0 TDI Premium,Audi,Gray,36230,VROOM (Milwaukee),(877) 682-3020,,,43814,73,Gray,Gray,8-Speed Automatic w/OD,AWD,WA1LMAFE6FD009436
+2015 Audi Q7 3.0T S line Prestige,Audi,Gray,36980,VROOM (Milwaukee),(877) 682-3020,,,47305,73,Gray,Black,8-Speed Automatic w/OD,AWD,WA1DGBFE6FD002259
+2015 Audi Q7 3.0T Premium,Audi,Black,30980,VROOM (Milwaukee),(877) 682-3020,,,59516,73,Black,Black,8-Speed Automatic w/OD,AWD,WA1LGAFE3FD016299
+2018 Audi Q3 2.0T Premium,Audi,White,31730,VROOM (Milwaukee),(877) 682-3020,,,4882,73,White,Brown,6-Speed Automatic w/OD,FWD,WA1BCCFS6JR014504
+2017 Audi Q5 Premium,Audi,Silver,33980,VROOM (Milwaukee),(877) 682-3020,,,21019,73,Silver,Black,8-Speed Automatic w/OD,AWD,WA1C2AFP2HA078054
+2014 Audi allroad Premium,Audi,Black,24230,VROOM (Milwaukee),(877) 682-3020,,,38575,73,Black,Brown,8-Speed Automatic w/OD,AWD,WA1TFAFL8EA148718
+2017 Audi A6 Prestige,Audi,Red,47980,VROOM (Milwaukee),(877) 682-3020,,,13539,73,Red,Black,8-Speed Automatic w/OD,AWD,WAUH2AFC5HN044155
+2015 Audi A3 2.0T Premium quattro,Audi,Silver,23980,VROOM (Milwaukee),(877) 682-3020,,,32382,73,Silver,Black,6-Speed Auto-Shift Manual w/OD,AWD,WAU7FLFF2F1037853
+2015 Audi A4 2.0T Premium,Audi,Silver,23730,VROOM (Milwaukee),(877) 682-3020,,,19785,73,Silver,Tan,8-Speed CVT w/OD,FWD,WAUAFAFL6FN032874
+2016 Audi Q5 2.0T Premium,Audi,Gray,33730,VROOM (Milwaukee),(877) 682-3020,,,24073,73,Gray,Gray,8-Speed Automatic w/OD,AWD,WA1L2AFP6GA127903
+2016 Audi A6 2.0T Premium,Audi,White,30730,VROOM (Milwaukee),(877) 682-3020,,,37754,73,White,Tan,7-Speed Auto-Shift Manual w/OD,FWD,WAUDFAFC7GN114157
+2014 Audi S7 Prestige,Audi,Silver,45730,VROOM (Milwaukee),(877) 682-3020,,,24864,73,Silver,Black,7-Speed Auto-Shift Manual w/OD,AWD,WAUW2AFCXEN085030
+2018 Audi S5 Prestige,Audi,White,62230,VROOM (Milwaukee),(877) 682-3020,,,5524,73,White,Black,8-Speed Automatic w/OD,AWD,WAUC4CF5XJA034073
+2017 Audi A8 3.0T quattro,Audi,White,48780,VROOM (Milwaukee),(877) 682-3020,,,28290,73,White,Brown,8-Speed Automatic w/OD,AWD,WAU44AFD6HN012834
+2015 Audi Q5 2.0T Premium,Audi,Gray,29730,VROOM (Milwaukee),(877) 682-3020,,,35935,73,Gray,Black,8-Speed Automatic w/OD,AWD,WA1LFAFPXFA109911
+2015 Audi A8 L 4.0T,Audi,White,49480,VROOM (Milwaukee),(877) 682-3020,,,16038,73,White,Gray,8-Speed Automatic w/OD,AWD,WAU32AFD7FN011805
+2014 Audi allroad Premium Plus,Audi,Blue,24730,VROOM (Milwaukee),(877) 682-3020,,,57373,73,Blue,Tan,8-Speed Automatic w/OD,AWD,WA1UFAFL4EA040133
+2016 Audi A4 2.0T Premium Plus quattro,Audi,White,27730,VROOM (Milwaukee),(877) 682-3020,,,20194,73,White,Black,8-Speed Automatic w/OD,AWD,WAUFFAFL5GN000554
+2014 Audi Q7 3.0 TDI Premium,Audi,White,33730,VROOM (Milwaukee),(877) 682-3020,,,52206,73,White,Black,8-Speed Automatic w/OD,AWD,WA1LMAFE2ED001526
+2017 Audi A6 Prestige,Audi,White,47980,VROOM (Milwaukee),(877) 682-3020,,,9564,73,White,Black,8-Speed Automatic w/OD,AWD,WAUH2AFC6HN089153
+2014 Audi A6 2.0T Premium,Audi,Black,25980,VROOM (Milwaukee),(877) 682-3020,,,27270,73,Black,Black,8-Speed CVT w/OD,FWD,WAUDFAFC6EN164481
+2016 Audi Q5 2.0T Premium,Audi,Gray,34230,VROOM (Milwaukee),(877) 682-3020,,,16969,73,Gray,Black,8-Speed Automatic w/OD,AWD,WA1L2AFP5GA138553
+2017 Audi Q3 2.0T Premium,Audi,Black,25480,VROOM (Milwaukee),(877) 682-3020,,,23139,73,Black,Black,6-Speed Automatic w/OD,FWD,WA1BCCFS3HR013952
+2014 Audi S7 Prestige,Audi,Black,36900,MSI Auto Sales,(608) 478-2670,3.9,12,84938,6,Black,Black,7-SPEED A/T,All Wheel Drive,WAUW2AFC9EN038958
+2016 Audi A5 2.0T Premium Plus quattro,Audi,Red,37800,Schoepp Motors West,(608) 729-3822,2.7,5,9508,6,Red,,8-Speed Automatic,AWD,WAUM2AFH5GN002237
+2015 Audi A3 1.8T Premium,Audi,White,21995,Schoepp Motors West,(608) 729-3822,2.7,5,13862,6,White,,6-Speed Automatic with Auto-Shift,FWD,WAUACHFF5F1110063
+2015 Audi Q5 2.0T Premium Plus quattro,Audi,Gray,25500,Zimbrick Buick GMC Eastside,(608) 729-3827,4.9,183,41555,7,Gray,,8-Speed Automatic,AWD,WA1LFAFP1FA109697
+2018 Audi Q5 2.0T Premium,Audi,Black,46398,Van Horn Ford of Oconomowoc,(262) 264-7724,4.8,76,3067,46,Mythos Black Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFY8J2004536
+2013 Audi S5 3.0T Premium Plus quattro,Audi,Silver,34500,Kunes Country Chevrolet Cadillac of Delavan,(262) 586-4283,4.7,720,48768,49,Silver,Black,7-Speed Automatic with Auto-Shift,AWD,WAUVGAFH3DN009222
+2018 Audi A4 2.0T Premium Plus,Audi,Blue,49150,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Moonlight Blue Metallic,Rock Gray,7-Speed Automatic with Auto-Shift,AWD,WAUENAF41JA074866
+2018 Audi A6 3.0T Premium quattro,Audi,White,62550,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Glacier White Metallic,Black,8-Speed Automatic,AWD,WAUG3AFCXJN044604
+2016 Audi Q5 3.0 TDI Premium Plus quattro,Audi,Black,49968,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Brilliant Black,Pistachio Beige,8-Speed Automatic,AWD,WA1CVAFP1GA002816
+2018 Audi Q5 2.0T Premium,Audi,Silver,54375,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Florett Silver Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFY1J2146307
+2018 Audi Q3 2.0T Premium Plus,Audi,Gray,43625,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Daytona Gray Pearl Effect,Black,6-Speed Automatic,AWD,WA1JCCFS9JR021958
+2018 Audi A6 3.0T Premium quattro,Audi,Black,64410,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Mythos Black Metallic,Black,8-Speed Automatic,AWD,WAUG3AFC1JN044040
+2013 Audi Q7 3.0 TDI Premium Plus,Audi,Gray,23999,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,93919,55,Gray,,8-Speed Automatic,AWD,WA1LMAFE9DD006432
+2018 Audi Q5 2.0T Premium,Audi,Gray,54375,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Monsoon Gray Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFY7J2116437
+2018 Audi S5 3.0T Premium Plus quattro,Audi,Gray,67261,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Daytona Gray Pearl Effect / Black Roof,Black,8-Speed Automatic,AWD,WAUY4GF53JN001924
+2018 Audi A4 2.0T Premium Plus,Audi,Silver,49150,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Florett Silver Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUENAF48JA074377
+2018 Audi A6 3.0T quattro Sport,Audi,Black,61000,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Mythos Black Metallic,Black,8-Speed Automatic,AWD,WAUF3AFCXJN079252
+2014 Audi A6 3.0 TDI Prestige quattro,Audi,Black,23999,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,80493,55,Black,,8-Speed Automatic,AWD,WAUHMAFC9EN082042
+2018 Audi A6 2.0T Premium quattro,Audi,Gray,39995,Ubersox Auto Group,(888) 606-5696,3.9,40,16175,57,Tornado Gray Metallic,Black,8-Speed Automatic,AWD,WAUF8AFC8JN017012
+2014 Audi A6 3.0 TDI Premium Plus quattro,Audi,Black,29817,Fields Jaguar Land Rover Volvo Waukesha,(262) 229-4393,4.6,57,51336,60,Black,Black,8-Speed Automatic,AWD,WAUHMAFC0EN006709
+2015 Audi A3 1.8T Premium,Audi,Black,17977,Russ Darrow Waukesha Mitsubishi,(262) 510-2858,4.8,323,35595,60,Phantom Black Pearl,Black,6-Speed Automatic with Auto-Shift,FWD,WAUACGFF1F1008589
+2015 Audi Q5 2.0T Premium quattro,Audi,Black,25348,Fields Jaguar Land Rover Volvo Waukesha,(262) 229-4393,4.6,57,69199,60,Black,Black,8-Speed Automatic,AWD,WA1LFAFP8FA098875
+2014 Audi Q7 3.0L TDI Prestige,Audi,Black,38900,Midwest Highline,(815) 516-8789,,,44000,61,Charcoal,Black,8-SPEED A/T,All Wheel Drive,WA1WMAFE4ED008880
+2013 Audi S6 Prestige,Audi,Blue,38900,Midwest Highline,(815) 516-8789,,,32550,61,Moonlight Blue Metallic,Black,7-SPEED A/T,All Wheel Drive,WAUF2AFC3DN150492
+2017 Audi Q5 Premium Plus,Audi,Silver,38998,CarMax Waukesha,(262) 207-2339,,,6836,61,Silver,Brown,8-Speed Automatic w/OD,AWD,WA1L2AFP2HA059729
+2012 Audi A4 2.0T Prestige,Audi,Black,16500,Midwest Highline,(815) 516-8789,,,77146,61,Black,Black,8-SPEED A/T,All Wheel Drive,WAUKFAFL4CN008654
+2014 Audi A4 2.0T Premium quattro,Audi,Black,21990,Hall Volkswagen Mazda,(888) 450-4176,4.6,56,22220,62,Black,Black,8-Speed Automatic,AWD,WAUBFAFL7EN045877
+2008 Audi S8 5.2,Audi,Blue,19995,Alpha Motors,(262) 649-5754,4.8,4,143312,63,Blue,Black,6-SPEED A/T,All Wheel Drive,WAUPN94EX8N015563
+1996 Audi A4 2.8 quattro,Audi,Silver,1499,Russ Darrow Mazda of Milwaukee,(888) 364-8375,4.7,337,174554,67,Silver,Gray,5-Speed Manual,AWD,WAUEA88D1TA263831
+2018 Audi A6 2.0T Premium Plus,Audi,Gray,55560,International Autos,(414) 203-5342,3.8,56,,68,Tornado Gray Metallic,Black,8-Speed Automatic,AWD,WAUG8AFC8JN009397
+2013 Audi A7 3.0T Premium Plus quattro,Audi,Black,28457,International Autos,(414) 939-8502,3.8,56,50344,68,Brilliant Black,Black,8-Speed Automatic,AWD,WAUYGAFC2DN005731
+2017 Audi A3 2.0T Premium Plus,Audi,Black,31757,International Autos,(414) 939-8502,3.8,56,8200,68,Brilliant Black,Black,6-Speed Automatic with Auto-Shift,AWD,WAUJ8GFF0H1005476
+2015 Audi Q5 2.0T Premium Plus quattro,Audi,Blue,28500,International Autos,(414) 269-8729,3.8,56,39570,68,Moonlight Blue Metallic,Pistachio Beige,8-Speed Automatic,AWD,WA1LFAFP6FA028744
+2015 Audi Q5 3.0T Premium Plus quattro,Audi,Gray,31900,International Autos,(414) 269-8729,3.8,56,35942,68,Monsoon Gray Metallic,Black,8-Speed Automatic,AWD,WA1DGAFP7FA048261
+2015 Audi Q5 3.0T Premium Plus quattro,Audi,Blue,33500,International Autos,(414) 939-8502,3.8,56,21374,68,Moonlight Blue Metallic,Chestnut Brown,8-Speed Automatic,AWD,WA1DGAFP9FA068740
+2018 Audi Q3 2.0T Premium Plus,Audi,White,33500,International Autos,(414) 939-8502,3.8,56,6002,68,Glacier White Metallic,Chestnut Brown,6-Speed Automatic,AWD,WA1ECCFS0JR001311
+2018 Audi A5 2.0T Premium Plus quattro,Audi,Black,58190,International Autos,(414) 203-5342,3.8,56,,68,Mythos Black Metallic / Black Roof,Black,7-Speed Automatic with Auto-Shift,AWD,WAUYNGF59JN009720
+2015 Audi S5 3.0T Premium Plus quattro,Audi,Gray,36000,International Autos,(414) 939-8502,3.8,56,27996,68,Daytona Gray Pearl Effect / Black Roof,Black / Silver,7-Speed Automatic with Auto-Shift,AWD,WAUCGAFH1FN005129
+2018 Audi Q5 2.0T Premium Plus quattro,Audi,Black,46900,International Autos,(414) 939-8502,3.8,56,14,68,Mythos Black Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFY9J2080668
+2015 Audi Q5 2.0T Premium Plus quattro,Audi,Other,26755,International Autos,(414) 939-8502,3.8,56,47748,68,Lava / Gray Pearl,Black,8-Speed Automatic,AWD,WA1LFAFP1FA041983
+2018 Audi Q3 2.0T Premium Plus,Audi,White,34500,International Autos,(414) 939-8502,3.8,56,5585,68,Glacier White Metallic,Chestnut Brown,Automatic with Tiptronic,AWD,WA1JCCFSXJR005641
+2018 Audi A6 3.0T Premium quattro,Audi,White,60210,International Autos,(414) 203-5342,3.8,56,,68,Glacier White Metallic,Black,8-Speed Automatic,AWD,WAUG3AFCXJN006015
+2018 Audi A7 3.0T Prestige quattro,Audi,Black,75310,International Autos,(414) 203-5342,3.8,56,,68,Mythos Black Metallic,Black,8-Speed Automatic,AWD,WAU23AFC1JN007497
+2014 Audi A7 3.0 Prestige,Audi,Gray,34998,CarMax Metro Parc,(414) 214-9772,4,2,50926,68,Gray,Brown,8-Speed Automatic w/OD,AWD,WAU2GAFC5EN014415
+2018 Audi Q3 2.0T Premium Plus,Audi,Gray,41645,International Autos,(414) 203-5342,3.8,56,,68,Daytona Gray Pearl Effect,Black,6-Speed Automatic,AWD,WA1JCCFS3JR009837
+2018 Audi A3 2.0T Premium quattro,Audi,Blue,43210,International Autos,(414) 203-5342,3.8,56,,68,Cosmos Blue Metallic / Black Roof,Rock Gray,6-Speed Automatic with Auto-Shift,AWD,WAU78LFF1J1004782
+2015 Audi Q7 3.0T Premium,Audi,White,40000,International Autos,(414) 269-8729,3.8,56,12139,68,Carrara White,Limestone,8-Speed Automatic,AWD,WA1CGAFE8FD013222
+2018 Audi A5 2.0T Premium Plus quattro,Audi,Gray,50850,International Autos,(414) 203-5342,3.8,56,,68,Manhattan Gray Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUPNAF55JA017801
+2014 Audi allroad 2.0T Premium quattro,Audi,Blue,24500,International Autos,(414) 939-8502,3.8,56,41976,68,Moonlight Blue Metallic,Beige,8-Speed Automatic,AWD,WA1TFAFL9EA141910
+2018 Audi A5 2.0T Premium Plus quattro,Audi,Gray,50850,International Autos,(414) 203-5342,3.8,56,,68,Manhattan Gray Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUPNAF56JA024725
+2018 Audi Q3 2.0T Premium Plus,Audi,Black,41155,International Autos,(414) 203-5342,3.8,56,,68,Brilliant Black,Black,6-Speed Automatic,AWD,WA1JCCFS7JR011445
+2006 Audi A4 2.0T,Audi,Red,6999,Car King,(414) 255-0262,3.2,39,122141,68,Brilliant Red,Tan,Automatic,All Wheel Drive,WAUDF78EX6A193640
+2018 Audi Q5 2.0T Premium Plus quattro,Audi,Gray,47900,International Autos,(414) 939-8502,3.8,56,66,68,Manhattan Gray Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFY6J2021089
+2018 Audi Q3 2.0T Premium Plus,Audi,White,41730,International Autos,(414) 203-5342,3.8,56,,68,Glacier White Metallic,Black,6-Speed Automatic,AWD,WA1JCCFS2JR011062
+2015 Audi Q7 3.0T Premium Plus,Audi,Gray,33452,International Autos,(414) 939-8502,3.8,56,46983,68,Daytona Gray Pearl,Limestone,8-Speed Automatic,AWD,WA1LGAFE6FD006141
+2018 Audi A5 2.0T Premium Plus quattro,Audi,White,58540,International Autos,(414) 203-5342,3.8,56,,68,Glacier White Metallic / Black Roof,Black,7-Speed Automatic with Auto-Shift,AWD,WAUYNGF54JN009768
+2015 Audi A8 L 3.0T,Audi,Black,42793,International Autos,(414) 269-8729,3.8,56,43361,68,Phantom Black Pearl,Black,8-Speed Automatic,AWD,WAU3GAFD5FN006281
+2018 Audi A3 2.0T Premium quattro,Audi,Blue,43210,International Autos,(414) 203-5342,3.8,56,,68,Cosmos Blue Metallic / Black Roof,Rock Gray,6-Speed Automatic with Auto-Shift,AWD,WAU78LFFXJ1001217
+2011 Audi A4 2.0T Premium Plus,Audi,White,16467,Selig Auto Sales and Leasing,(414) 395-8880,5,15,52078,68,White,Cardamom Beige,8-SPEED A/T,All Wheel Drive,WAUWFAFL0BA051184
+2018 Audi A4 2.0T Premium Plus,Audi,Black,40953,International Autos,(414) 939-8502,3.8,56,3987,68,Mythos Black Metallic,Black,Automatic,AWD,WAUENAF49JA019906
+2018 Audi A6 2.0T Premium Plus,Audi,Blue,55560,International Autos,(414) 203-5342,3.8,56,,68,Moonlight Blue Metallic,Nougat Brown,8-Speed Automatic,AWD,WAUG8AFC9JN016262
+2018 Audi A5 2.0T Premium Plus quattro,Audi,Red,57410,International Autos,(414) 203-5342,3.8,56,,68,Matador Red Metallic / Black Roof,Atlas Beige,7-Speed Automatic with Auto-Shift,AWD,WAUYNGF51JN011154
+2018 Audi A7 3.0T Premium Plus quattro,Audi,Gray,73560,International Autos,(414) 203-5342,3.8,56,,68,Tornado Gray Metallic,Black,8-Speed Automatic,AWD,WAUW3AFC3JN052054
+2006 Audi A6 3.2L,Audi,Gray,7499,Car King,(414) 255-0262,3.2,39,120632,68,Slate Grey,Black,6-SPEED A/T,All Wheel Drive,WAUDG74F56N053886
+2009 Audi A4 2.0T Prem Plus,Audi,Black,10495,Classic Motorcars,(414) 219-1011,4.8,149,57060,70,Brilliant Black,CARDAMOM BEIGE,6-SPEED A/T,All Wheel Drive,WAUSF78KX9N048981
+2016 Audi S3 2.0T Premium Plus quattro,Audi,Silver,36967,Audi North Shore,(414) 375-2104,3.5,14,24236,72,Florett Silver Metallic,Black / Magma Red,6-Speed Automatic with Auto-Shift,AWD,WAUB1GFF6G1038778
+2015 Audi Q5 2.0T Premium Plus quattro,Audi,Black,31967,Audi North Shore,(414) 375-2104,3.5,14,25867,72,Mythos Black Metallic,Black,8-Speed Automatic,AWD,WA1LFAFP2FA078458
+2015 Audi A3 2.0T Premium quattro,Audi,Gray,20867,Audi North Shore,(414) 375-2104,3.5,14,31372,72,Monsoon Gray Metallic,Black,6-Speed Automatic with Auto-Shift,AWD,WAUBFGFF3F1040584
+2017 Audi Q7 3.0T Prestige,Audi,Black,65767,Audi North Shore,(414) 375-2104,3.5,14,6796,72,Orca Black Metallic,Black,Automatic with Tiptronic,AWD,WA1VAAF76HD059064
+2015 Audi A6 3.0T Prestige quattro,Audi,Silver,35767,Audi North Shore,(414) 375-2104,3.5,14,29431,72,Ice Silver Metallic,Titanium Gray,8-Speed Automatic,AWD,WAUHGAFC1FN047861
+2015 Audi A4 2.0T Premium Plus quattro,Audi,Blue,25967,Audi North Shore,(414) 375-2104,3.5,14,31880,72,Moonlight Blue Metallic,Gray,8-Speed Automatic,AWD,WAUFFAFL1FN014384
+2015 Audi Q7 3.0T Premium Plus,Audi,Gray,36967,Audi North Shore,(414) 375-2104,3.5,14,36820,72,Gray,Black,8-Speed Automatic,AWD,WA1LGAFE0FD028670
+2013 Audi A6 2.0T Premium Plus,Audi,Red,16767,Audi North Shore,(414) 375-2115,3.5,14,88078,72,Garnet Red Pearl Effect,Nougat Brown,8-Speed Automatic,AWD,WAUGFBFC4DN099275
+2015 Audi A4 2.0T Premium Plus quattro,Audi,Silver,24967,Audi North Shore,(414) 375-2104,3.5,14,37814,72,Florett Silver Metallic,Black,8-Speed Automatic,AWD,WAUFFAFL2FN012031
+2013 Audi RS 5 4.2,Audi,Blue,47967,Audi North Shore,(414) 375-2104,3.5,14,16253,72,Estorial Blue Crystal Effect,Black,7-Speed Automatic with Auto-Shift,AWD,WUAC6AFH0DN900228
+2017 Audi A4 2.0T Premium quattro,Audi,White,33967,Audi North Shore,(414) 375-2104,3.5,14,4323,72,Ibis White,Nougat Brown / Black,7-Speed Automatic with Auto-Shift,AWD,WAUANAF47HN008498
+2015 Audi SQ5 3.0T Premium Plus quattro,Audi,Black,38867,Audi North Shore,(414) 375-2104,3.5,14,33392,72,Mythos Black Metallic,Black,8-Speed Automatic,AWD,WA1CGAFP8FA023560
+2015 Audi Q5 2.0T Premium Plus quattro,Audi,Gray,26967,Audi North Shore,(414) 375-2115,3.5,14,59215,72,Monsoon Gray Metallic,Black,8-Speed Automatic,AWD,WA1LFAFP0FA057155
+2014 Audi S4 Premium Plus,Audi,Other,30900,5 Corners Chrysler Dodge Jeep RAM,(888) 454-5748,5,8,45670,72,,,7-SPEED A/T,All Wheel Drive,WAUBGAFL1EA154257
+2016 Audi Q5 3.0T Prestige quattro,Audi,White,41967,Audi North Shore,(414) 375-2104,3.5,14,15222,72,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD,WA1W7AFP8GA012296
+2013 Audi A5 2.0T Premium Plus quattro,Audi,Other,20967,Audi North Shore,(414) 375-2115,3.5,14,31825,72,Ice Silver Metallic / Brown Roof,Black,8-Speed Automatic,AWD,WAULFAFR8DA080300
+2018 Audi A5 2.0T Prestige quattro,Audi,Gray,45567,Audi North Shore,(414) 375-2104,3.5,14,3987,72,Manhattan Gray Metallic,Black,Automatic,AWD,WAUUNAF59JA008506
+2015 Audi A3 1.8T Premium,Audi,Red,19767,Audi North Shore,(414) 375-2104,3.5,14,26850,72,Brilliant Red / Black,Black,6-Speed Automatic with Auto-Shift,FWD,WAUACGFF0F1111566
+2018 Audi A6 2.0T Premium Plus,Audi,Black,57870,Audi North Shore,(414) 375-4847,3.5,14,,72,Mythos Black Metallic,Nougat Brown,8-Speed Automatic,AWD,WAUG8AFC4JN015231
+2014 Audi A6 2.0T Premium Plus quattro,Audi,Gray,23686,Reichert Chevrolet Buick,(815) 572-4289,4.2,11,47619,72,Quartz Gray Metallic,Black,8-Speed Automatic,AWD,WAUGFAFC8EN074889
+2018 Audi A5 2.0T Premium Plus quattro,Audi,Gray,57755,Audi North Shore,(414) 375-4847,3.5,14,,72,Manhattan Gray Metallic / Black Roof,Black,7-Speed Automatic with Auto-Shift,AWD,WAUYNGF59JN012293
+2018 Audi A4 2.0T Premium quattro,Audi,Gray,45310,Audi North Shore,(414) 375-4847,3.5,14,,72,Manhattan Gray Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUDNAF46JN001402
+2017 Audi A4 2.0T Premium quattro,Audi,Silver,45275,Audi North Shore,(414) 375-4847,3.5,14,,72,Florett Silver Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUANAF4XHN031287
+2018 Audi A4 2.0T Premium Plus,Audi,Gray,49100,Audi North Shore,(414) 375-4847,3.5,14,,72,Manhattan Gray Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUENAF41JA090520
+2018 Audi Q5 2.0T Premium,Audi,Blue,50590,Audi North Shore,(414) 375-4847,3.5,14,,72,Navarra Blue Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WA1ANAFY5J2017241
+2018 Audi Q7 3.0T Premium,Audi,Blue,66525,Audi North Shore,(414) 375-4847,3.5,14,,72,Galaxy Blue Metallic,Black,8-Speed Automatic,AWD,WA1LAAF76JD028894
+2018 Audi A5 2.0T Premium Plus quattro,Audi,Blue,45867,Audi North Shore,(414) 375-2104,3.5,14,5959,72,Moonlight Blue Metallic,Nougat Brown / Black,7-Speed Automatic with Auto-Shift,AWD,WAUENCF59JA021532
+2017 Audi Q5 2.0T Premium quattro,Audi,Silver,33173,Van Horn Latino of Milwaukee,(414) 375-4933,5,1,28953,73,Florett Silver Metallic,Pistachio Beige,8-Speed Automatic,AWD,WA1C2AFP4HA096460
+2009 Audi A5 3.2 quattro,Audi,Silver,10991,Runde Chevrolet,(888) 380-6201,4.8,108,106141,73,Silver,,6-Speed Automatic,AWD,WAUDK78T39A049345
+2014 Audi A4 Premium,Audi,Black,17995,Reo Motors,(414) 312-4806,3.4,60,37943,73,Black,Black,8-SPEED A/T,All Wheel Drive,WAUBFAFL0EN027608
+2012 Audi A8 4.2 quattro,Audi,Gray,21717,Porsche Milwaukee North,(888) 481-5925,,,107692,74,Quartz Gray Metallic,Black,8-Speed Automatic,AWD,WAUAVAFDXCN021335
+2014 Audi A6 3.0 TDI Premium Plus,Audi,Black,32230,VROOM (Milwaukee),(877) 682-3020,,,42196,73,Black,Black,Automatic,AWD,WAUHMAFC9EN013934
+2015 Audi A5 2.0T quattro,Audi,Red,29730,VROOM (Milwaukee),(877) 682-3020,,,37796,73,Red,Black,8-Speed Automatic w/OD,AWD,WAUMFAFH0FN000723
+2016 Audi A4 2.0T Premium Plus quattro,Audi,Silver,25730,VROOM (Milwaukee),(877) 682-3020,,,29139,73,Silver,Black,8-Speed Automatic w/OD,AWD,WAUFFAFL4GN013716
+2016 Audi A6 3.0T Premium Plus,Audi,Black,31980,VROOM (Milwaukee),(877) 682-3020,,,55010,73,Black,Black,8-Speed Automatic w/OD,AWD,WAUFGAFC1GN005294
+2017 Audi A4 Premium,Audi,Silver,29500,Smart Motors,(608) 318-4181,4.7,432,16498,4,Cuvee Silver Metallic,Black,7-Speed Auto-Shift Manual w/OD,AWD,WAUANAF43HN050554
+2012 Audi A4 2.0T Premium,Audi,Silver,15997,Metro Kia of Madison,(608) 318-4022,4.6,24,80630,7,Silver,,8-SPEED A/T,All Wheel Drive,WAUBFAFL5CN005214
+2018 Audi Q7 3.0T Premium,Audi,White,71345,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Glacier White Metallic,Nougat Brown,8-Speed Automatic,AWD,WA1VAAF7XJD017356
+2014 Audi Q5 3.0T Prestige quattro,Audi,Black,24918,Boucher Nissan Waukesha,(866) 690-6248,4.8,67,86975,59,Black,Black,8-Speed Automatic,AWD,WA1WGAFP8EA024574
+2015 Audi A4 2.0T Premium Plus quattro,Audi,White,22759,Russ Darrow West Bend Chrysler Jeep Dodge RAM,(262) 299-4737,4.8,438,41716,63,White,Gray / Black,8-Speed Automatic,AWD,WAUFFAFL4FN004979
+2015 Audi Q5 2.0T Premium,Audi,Silver,29491,Lenz Truck Center,(920) 933-8265,4.8,1030,33906,67,Florett Silver Metallic,Black,8-Speed Automatic w/OD,AWD,WA1LFAFPXFA057390
+2013 Audi Q7 3.0 TDI Premium Plus,Audi,Gray,29000,International Autos,(414) 939-8502,3.8,56,56743,68,Daytona Gray Pearl,Espresso,8-Speed Automatic,AWD,WA1LMBFE8DD012616
+2016 Audi A6 2.0T Premium quattro,Audi,Black,34000,International Autos,(414) 269-8729,3.8,56,39945,68,Brilliant Black,Black,8-Speed Automatic,AWD,WAUFFAFC3GN106288
+2018 Audi A5 2.0T Premium Plus quattro,Audi,White,57685,International Autos,(414) 203-5342,3.8,56,,68,Ibis White / Black Roof,Black,7-Speed Automatic with Auto-Shift,AWD,WAUYNGF50JN005040
+2018 Audi Q3 2.0T Premium Plus,Audi,Gray,41730,International Autos,(414) 203-5342,3.8,56,,68,Daytona Gray Pearl Effect,Black,6-Speed Automatic,AWD,WA1JCCFS6JR011212
+2018 Audi A4 2.0T Premium Plus,Audi,White,48150,International Autos,(414) 203-5342,3.8,56,,68,Glacier White Metallic,Atlas Beige / Gray,7-Speed Automatic with Auto-Shift,AWD,WAUENAF44JA074330
+2007 Audi A8 L 4.2 quattro,Audi,Black,8999,Car King,(414) 255-0262,3.2,39,142637,68,Black,Black,6-SPEED A/T,All Wheel Drive,WAUMV44E27N018560
+2018 Audi A5 2.0T Premium Plus quattro,Audi,Black,50850,International Autos,(414) 203-5342,3.8,56,,68,Mythos Black Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUPNAF57JA009683
+2018 Audi A6 3.0T Premium quattro,Audi,White,68260,International Autos,(414) 203-5342,3.8,56,,68,Glacier White Metallic,Black,8-Speed Automatic,AWD,WAUH3AFC2JN011682
+2013 Audi A5 Premium Plus,Audi,White,19995,Classic Motorcars,(414) 219-1011,4.8,149,24998,70,Glacier White Metallic,S LINE BLACK,8-SPEED A/T,All Wheel Drive,WAULFAFR3DA078762
+2018 Audi A5 2.0T Premium Plus quattro,Audi,White,58595,Audi North Shore,(414) 375-4847,3.5,14,,72,Glacier White Metallic / Black Roof,Atlas Beige,7-Speed Automatic with Auto-Shift,AWD,WAUYNGF58JN009126
+2018 Audi Q5 2.0T Prestige quattro,Audi,Black,53745,Audi North Shore,(414) 375-4847,3.5,14,,72,Mythos Black Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WA1CNAFY4J2143244
+2018 Audi A5 2.0T Premium Plus quattro,Audi,Red,52950,Audi North Shore,(414) 375-4847,3.5,14,,72,Matador Red Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUTNAF56JA000617
+2018 Audi A6 3.0T Premium quattro,Audi,White,63375,Audi North Shore,(414) 375-4847,3.5,14,,72,Glacier White Metallic,Nougat Brown,8-Speed Automatic,AWD,WAUG3AFC1JN011510
+2018 Audi S5 3.0T Premium Plus quattro,Audi,Gray,63445,Audi North Shore,(414) 375-4847,3.5,14,,72,Daytona Gray Pearl Effect,Black,8-Speed Automatic,AWD,WAUP4AF56JA054892
+2018 Audi S4 3.0T Premium Plus,Audi,White,62380,Audi North Shore,(414) 375-4847,3.5,14,,72,Glacier White Metallic,Black,8-Speed Automatic,AWD,WAUB4AF42JA125006
+2015 Audi Q5 2.0T Premium,Audi,Black,29730,VROOM (Milwaukee),(877) 682-3020,,,39960,73,Black,Brown,Automatic,AWD,WA1LFAFP9FA024655
+2017 Audi A4 2.0T Premium quattro,Audi,Silver,44725,Audi North Shore,(414) 375-4847,3.5,14,,72,Florett Silver Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUANAF49HN020989
+2018 Audi A5 2.0T Premium Plus quattro,Audi,Gray,51700,International Autos,(414) 203-5342,3.8,56,,68,Manhattan Gray Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUTNAF59JA004645
+2018 Audi S5 3.0T Premium Plus quattro,Audi,White,71745,Audi North Shore,(414) 375-4847,3.5,14,,72,Glacier White Metallic / Black Roof,Rotor Gray,8-Speed Automatic,AWD,WAUY4GF57JN009184
+2015 Audi Q5 2.0T Premium,Audi,Silver,30998,CarMax Metro Parc,(414) 214-9772,4,2,18692,68,Silver,Black,8-Speed Automatic w/OD,AWD,WA1CFAFP7FA030471
+2018 Audi A5 2.0T Premium Plus quattro,Audi,White,45000,International Autos,(414) 939-8502,3.8,56,4522,68,Glacier White Metallic,Nougat Brown / Black,7-Speed Automatic with Auto-Shift,AWD,WAUENCF53JA028329
+2015 Audi Q7 3.0T S Line Prestige,Audi,Gray,35750,Napleton Autowerks Loves Park,(888) 231-8946,4.9,519,45164,55,Gray,,8-Speed Automatic,AWD,WA1DGAFE9FD003237
+2018 Audi S4 3.0T Premium Plus,Audi,Black,60280,Audi North Shore,(414) 375-4847,3.5,14,,72,Mythos Black Metallic,Black,8-Speed Automatic,AWD,WAUB4AF41JA054252
+2015 Audi Q5 2.0T Premium,Audi,Gray,26797,Lenz Truck Center,(920) 933-8265,4.8,1030,48770,67,Lava Gray Pearl Effect,Black,8-Speed Automatic w/OD,AWD,WA1CFAFP9FA030486
+2018 Audi Q3 2.0T Premium Plus,Audi,Black,34500,International Autos,(414) 939-8502,3.8,56,2634,68,Brilliant Black,Black,6-Speed Automatic,AWD,WA1JCCFSXJR000519
+2018 Audi Q5 2.0T Premium,Audi,Blue,54495,Audi North Shore,(414) 375-4847,3.5,14,,72,Moonlight Blue Metallic,Rock Gray,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFY2J2121805
+2018 Audi A3 2.0T Premium quattro,Audi,Black,40535,International Autos,(414) 203-5342,3.8,56,,68,Mythos Black Metallic,Black,6-Speed Automatic with Auto-Shift,AWD,WAUJ8GFFXJ1002459
+2018 Audi A5 2.0T Premium quattro,Audi,Black,53480,Audi North Shore,(414) 375-4847,3.5,14,,72,Mythos Black Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUENCF52JA067963
+2018 Audi Q5 2.0T Prestige quattro,Audi,Black,55695,Audi North Shore,(414) 375-4847,3.5,14,,72,Mythos Black Metallic,Nougat Brown / Black,7-Speed Automatic with Auto-Shift,AWD,WA1CNAFY5J2126453
+2015 Audi A3 2.0T Premium Plus quattro,Audi,Gray,17495,Diamond Jim's Motorcars,(414) 326-9166,4,68,63281,73,Dakota Gray Metallic,Black,6-Speed Automatic with Auto-Shift,AWD,WAUEFGFF9F1011846
+2013 Audi S4 3.0T Premium Plus,Audi,Black,23980,"FIRL AUTO SALES, LLC",,,,71317,69,Black,Black,Automatic,AWD,
+2018 Audi A4 2.0T Premium Plus,Audi,White,48460,International Autos,(414) 203-5342,3.8,56,,68,Glacier White Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUENAF42JN001255
+2018 Audi Q3 2.0T Premium Plus,Audi,Gray,41165,Audi North Shore,(414) 375-4847,3.5,14,,72,Daytona Gray Pearl Effect,Black,6-Speed Automatic,AWD,WA1JCCFSXJR012072
+2018 Audi A5 2.0T Premium Plus quattro,Audi,Black,57410,International Autos,(414) 203-5342,3.8,56,,68,Mythos Black Metallic / Black Roof,Rock Gray,7-Speed Automatic with Auto-Shift,AWD,WAUYNGF50JN011095
+2018 Audi A6 2.0T Premium Plus,Audi,White,55560,International Autos,(414) 203-5342,3.8,56,,68,Glacier White Metallic,Black,8-Speed Automatic,AWD,WAUG8AFC5JN016307
+2016 Audi S5 3.0T Premium Plus quattro,Audi,Gray,43500,International Autos,(414) 269-8729,3.8,56,27075,68,Daytona Gray Pearl Effect,Black,7-Speed Automatic with Auto-Shift,AWD,WAUC4AFR6GA020977
+2013 Audi S4 3.0T Premium Plus,Audi,Silver,21995,Monticello Ford Inc,(608) 298-5382,,,83984,24,Silver,Black,Auto,AWD,WAUBGAFL6DA052130
+2018 Audi Q5 2.0T Premium,Audi,Black,52950,Audi North Shore,(414) 375-4847,3.5,14,,72,Brilliant Black,Atlas Beige / Gray,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFY7J2101422
+2016 Audi Q5 3.0T Premium Plus quattro,Audi,White,45400,International Autos,(414) 203-5342,3.8,56,,68,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD,WA1CVAFP9GA048930
+2018 Audi A3 2.0T Premium quattro,Audi,White,37125,International Autos,(414) 203-5342,3.8,56,,68,Ibis White,Black,6-Speed Automatic with Auto-Shift,AWD,WAUJ8GFF5J1017550
+2018 Audi A6 3.0T Prestige quattro,Audi,White,66260,International Autos,(414) 203-5342,3.8,56,,68,Glacier White Metallic,Black,8-Speed Automatic,AWD,WAUH3AFC2JN003520
+2018 Audi A3 2.0T Premium quattro,Audi,Black,40355,International Autos,(414) 203-5342,3.8,56,,68,Mythos Black Metallic,Black,6-Speed Automatic with Auto-Shift,AWD,WAUJ8GFF8J1009782
+2013 Audi S4 3.0T Premium Plus,Audi,Silver,27491,International Autos,(414) 939-8502,3.8,56,66286,68,Ice Silver Metallic,Black,6-Speed Manual,AWD,WAUDGAFL3DA146233
+2018 Audi S3 2.0T Premium Plus quattro,Audi,Red,48205,International Autos,(414) 203-5342,3.8,56,,68,Tango Red Metallic,Black,6-Speed Automatic with Auto-Shift,AWD,WAUB1GFF5J1008968
+2014 Audi Q5 3.0 TDI Premium Plus quattro,Audi,Brown,32750,Napleton Autowerks Loves Park,(888) 231-8946,4.9,519,21301,55,Brown,,8-Speed Automatic,AWD,WA1CMAFP6EA002729
+2017 Audi A4 Prestige,Audi,Black,39999,Van Horn Hyundai of Fond du Lac,(920) 933-8267,4.8,730,9633,66,Black,,7-SPEED A/T,All Wheel Drive,WAUFNAF42HN063009
+2015 Audi R8 V10,Audi,Black,129989,Kearns Motor Car Co.,(920) 541-2495,4.7,254,10918,31,Black,Black,7-SPEED A/T,All Wheel Drive,WUAVNAFG2F7001607
+2014 Audi A5 Premium Plus,Audi,Black,24995,Selig Auto Sales and Leasing,(414) 395-8880,5,15,53221,68,Black,Black,8-SPEED A/T,All Wheel Drive,WAULFAFH9EN012153
+2018 Audi SQ5 3.0T Premium Plus quattro,Audi,Black,66545,Audi North Shore,(414) 375-4847,3.5,14,,72,Mythos Black Metallic,Black,8-Speed Automatic,AWD,WA1A4AFY2J2124332
+2018 Audi A8 L 3.0T,Audi,Black,87055,Audi North Shore,(414) 375-4847,3.5,14,,72,Mythos Black Metallic,Black,8-Speed Automatic,AWD,WAU44AFD9JN000375
+2018 Audi A5 2.0T Premium Plus quattro,Audi,Gray,58300,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Monsoon Gray Metallic / Black Roof,Black,7-Speed Automatic with Auto-Shift,AWD,WAUYNGF53JN013049
+2018 Audi A7 3.0T Premium Plus quattro,Audi,Gray,74840,Audi North Shore,(414) 375-4847,3.5,14,,72,Nardo Gray,Black,8-Speed Automatic,AWD,WAUW3AFC5JN069261
+2009 Audi A5 QUATTRO,Audi,White,10995,Classic Motorcars,(414) 219-1011,4.8,149,139184,70,Ibis White,BLACK,6 SPEED MANUAL,All Wheel Drive,WAUDK78T49A008268
+2006 Audi A3 2.0T,Audi,Silver,4250,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,142241,55,Silver,,OTHER,FWD,WAUNF68P86A000661
+2018 Audi A6 3.0T Premium quattro,Audi,White,60210,International Autos,(414) 203-5342,3.8,56,,68,Glacier White Metallic,Black,8-Speed Automatic,AWD,WAUG3AFCXJN004698
+2012 Audi R8 5.2 quattro Spyder,Audi,Other,99994,Portage Motors,(608) 402-4824,4.8,20,19171,32,Phantom Black Pearl Effect / Black Top,GRAY,6 SPEED AUTOMATIC WITH AUTO-SHIFT,,WUAVNAFG0CN002617
+2018 Audi A3 2.0T Premium,Audi,White,34010,International Autos,(414) 203-5342,3.8,56,,68,Ibis White,Black,7-Speed Automatic with Auto-Shift,FWD,WAUAUGFF2J1001981
+2014 Audi A6 2.0T Premium Plus,Audi,Other,19499,Speedway Auto Mall,(815) 209-9189,2.6,64,76860,52,Not Specified,Other,8-SPEED A/T,All Wheel Drive,WAUGFAFC7EN119871
+2018 Audi S5 3.0T Prestige quattro,Audi,White,75655,Audi North Shore,(414) 375-4847,3.5,14,,72,Glacier White Metallic / Black Roof,Black,8-Speed Automatic,AWD,WAU24GF58JN007076
+2017 Audi A4 2.0T Premium quattro,Audi,White,35000,International Autos,(414) 939-8502,3.8,56,5720,68,Ibis White,Black,7-Speed Automatic with Auto-Shift,AWD,WAUDNAF4XHN046823
+2018 Audi A5 2.0T Premium Plus quattro,Audi,Black,60750,Audi North Shore,(414) 375-4847,3.5,14,,72,Mythos Black Metallic / Black Roof,Black,7-Speed Automatic with Auto-Shift,AWD,WAUYNGF55JN003381
+2018 Audi Q5 2.0T Premium,Audi,Red,53235,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Matador Red Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFY3J2084585
+2018 Audi A5 2.0T Premium Plus quattro,Audi,Blue,60805,Audi North Shore,(414) 375-4847,3.5,14,,72,Scuba Blue Metallic / Black Roof,Black,7-Speed Automatic with Auto-Shift,AWD,WAUYNGF52JN012362
+2016 Audi Q5 3.0T Premium Plus quattro,Audi,Black,44093,International Autos,(414) 203-5342,3.8,56,,68,Mythos Black Metallic,Black,8-Speed Automatic,AWD,WA1CVAFP3GA048910
+2016 Audi Q5 2.0T Premium Plus quattro,Audi,Blue,35000,International Autos,(414) 269-8729,3.8,56,17907,68,Moonlight Blue Metallic,Pistachio Beige,8-Speed Automatic,AWD,WA1L2AFP6GA094904
+2018 Audi A3 2.0T Premium quattro,Audi,White,39960,International Autos,(414) 203-5342,3.8,56,,68,Ibis White,Black,6-Speed Automatic with Auto-Shift,AWD,WAUJ8GFF8J1002699
+2015 Audi A5 2.0T Premium Plus quattro,Audi,Gray,29000,International Autos,(414) 939-8502,3.8,56,31540,68,Monsoon Gray Metallic,Brown,6-Speed Manual,AWD,WAUSFAFR1FA034306
+2018 Audi Q5 2.0T Premium,Audi,Blue,53745,Audi North Shore,(414) 375-4847,3.5,14,,72,Moonlight Blue Metallic,Rock Gray,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFY5J2126089
+2018 Audi A4 2.0T Premium Plus,Audi,Blue,41593,International Autos,(414) 939-8502,3.8,56,4049,68,Moonlight Blue Metallic,Nougat Brown / Black,Automatic,AWD,WAUENAF43JN002298
+2015 Audi S3 2.0T Premium Plus quattro,Audi,Blue,33500,International Autos,(414) 939-8502,3.8,56,24259,68,Sepang Blue Pearl,Black / Magma Red,6-Speed Automatic with Auto-Shift,AWD,WAUBFGFF0F1140691
+2012 Audi A4 2.0T Premium Plus quattro,Audi,White,14900,International Autos,(414) 939-8502,3.8,56,88075,68,Glacier White Metallic,Cardamom Beige,8-Speed Automatic,AWD,WAUFFAFL8CA101492
+2018 Audi Q5 2.0T Premium,Audi,Blue,53385,Audi North Shore,(414) 375-4847,3.5,14,,72,Moonlight Blue Metallic,Nougat Brown / Black,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFY0J2068425
+2018 Audi A3 2.0T Premium quattro,Audi,Black,41735,International Autos,(414) 203-5342,3.8,56,,68,Mythos Black Metallic,Black,6-Speed Automatic with Auto-Shift,AWD,WAUJ8GFF9J1002291
+2018 Audi S5 3.0T Premium Plus quattro,Audi,Gray,71855,Audi North Shore,(414) 375-4847,3.5,14,,72,Daytona Gray Pearl Effect / Black Roof,Black,8-Speed Automatic,AWD,WAUY4GF57JN006138
+2017 Audi Q3 2.0T Premium quattro,Audi,Black,28595,Porsche Milwaukee North,(888) 481-5925,,,11459,74,Brilliant Black,Rock Gray,6-Speed Automatic,AWD,WA1ECCFS8HR014897
+2018 Audi Q3 2.0T Sport Premium,Audi,Red,39615,Audi North Shore,(414) 375-4847,3.5,14,,72,Misano Red Pearl Effect,Black,6-Speed Automatic,AWD,WA1ECCFS5JR016872
+2011 Audi R8 5.2L,Audi,White,82495,Kearns Motor Car Co.,(920) 541-2495,4.7,254,45387,31,Ibis White/Black Roof,Black,6-SPEED A/T,All Wheel Drive,WUAVNAFG4BN001601
+2009 Audi A4 2.0T Premium quattro,Audi,Silver,10000,International Autos,(414) 939-8502,3.8,56,103949,68,Ice Silver Metallic,Black,6-Speed,AWD,WAULF78K19N033001
+2017 Audi A4 2.0T Premium quattro,Audi,Gray,39757,International Autos,(414) 939-8502,3.8,56,20,68,Monsoon Gray Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUANAF43HN028456
+2018 Audi A6 3.0T Premium quattro,Audi,Black,65915,Audi North Shore,(414) 375-4847,3.5,14,,72,Mythos Black Metallic,Black,8-Speed Automatic,AWD,WAUH3AFC4JN077697
+2018 Audi A5 2.0T Premium Plus quattro,Audi,Silver,53380,Audi North Shore,(414) 375-4847,3.5,14,,72,Florett Silver Metallic,Black,6-Speed Manual,AWD,WAU8NAF52JA050579
+2017 Audi A3 2.0T Premium Plus,Audi,Gray,32000,International Autos,(414) 939-8502,3.8,56,5374,68,Nano Gray Metallic,Black,6-Speed Automatic with Auto-Shift,AWD,WAUJ8GFF6H1036831
+2018 Audi A5 2.0T Premium Plus quattro,Audi,Green,60805,Audi North Shore,(414) 375-4847,3.5,14,,72,Gotland Green Metallic / Black Roof,Nougat Brown,7-Speed Automatic with Auto-Shift,AWD,WAUYNGF5XJN012562
+2018 Audi A4 2.0T Premium Plus,Audi,White,49150,Audi North Shore,(414) 375-4847,3.5,14,,72,Glacier White Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUENAF40JA013783
+2017 Audi A4 2.0 TFSI Auto Premium quattro AWD,Audi,Silver,36700,Zimbrick European,,5,7,6876,2,Florett Silver Metallic,Black,Automatic,AWD,WAUANAF43HN020955
+2018 Audi Q5 2.0T Premium,Audi,Red,53635,Audi North Shore,(414) 375-4847,3.5,14,,72,Matador Red Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFYXJ2064737
+2018 Audi S4 3.0T Premium Plus,Audi,Black,62380,Audi North Shore,(414) 375-4847,3.5,14,,72,Mythos Black Metallic,Black,8-Speed Automatic,AWD,WAUB4AF48JA133451
+2011 Audi A5 2.0T Premium,Audi,White,16490,Portage Motors,(608) 402-4824,4.8,20,85295,32,Ibis White,BLACK,8 SPEED AUTOMATIC,,WAULFAFH7BN006427
+2016 Audi Q5 3.0T Premium Plus quattro,Audi,Black,44093,International Autos,(414) 203-5342,3.8,56,,68,Mythos Black Metallic,Black,8-Speed Automatic,AWD,WA1CVAFP3GA048972
+2018 Audi A6 3.0T Premium quattro,Audi,Gray,63325,Audi North Shore,(414) 375-4847,3.5,14,,72,Tornado Gray Metallic,Black,8-Speed Automatic,AWD,WAUG3AFC7JN004030
+2016 Audi Q5 3.0T Premium Plus quattro,Audi,Black,44093,International Autos,(414) 203-5342,3.8,56,,68,Mythos Black Metallic,Black,8-Speed Automatic,AWD,WA1CVAFP0GA048766
+2013 Audi TTS 2.0T Prestige quattro,Audi,Black,28500,Van Horn Chrysler Dodge Jeep Ram of Stoughton,(608) 205-4418,4.6,85,28449,12,Black,,6-Speed Automatic with Auto-Shift,AWD,TRUK1AFK2D1001600
+2011 Audi A5 2.0T Premium,Audi,Black,11971,Koenecke Ford Inc,(608) 844-8038,5,22,111460,46,Black,,8-Speed Automatic,AWD,WAULFAFRXBA079369
+2012 Audi Q5 2.0T Premium Plus quattro,Audi,Blue,16998,Holiday Mazda,(855) 294-9011,4.9,96,86428,67,Moonlight Blue Metallic,Light Gray,8-Speed Automatic,AWD,WA1LFAFP3CA116534
+2018 Audi A6 3.0T Premium quattro,Audi,White,65220,Audi North Shore,(414) 375-4847,3.5,14,,72,Glacier White Metallic,Atlas Beige,8-Speed Automatic,AWD,WAUH3AFC3JN010217
+2015 Audi A8 L 3.0 TDI,Audi,Black,46501,Porsche Milwaukee North,(888) 481-5925,,,18764,74,Black,Black,8-Speed Automatic,AWD,WAU3MAFD6FN023311
+2012 Audi Q5 2.0T Premium quattro,Audi,Black,16500,International Autos,(414) 939-8502,3.8,56,89610,68,Brilliant Black,Black,8-Speed Automatic,AWD,WA1CFBFP9CA044308
+2015 Audi A6 4dr Sdn quattro 2.0T Premium Plus,Audi,Black,28000,Zimbrick European,,5,7,31572,2,Brilliant Black,Black,Automatic,AWD,WAUGFAFC9FN027405
+2016 Audi Q5 quattro 4dr 2.0T Premium Plus,Audi,Black,31400,Zimbrick European,,5,7,44444,2,Brilliant Black,Black,Automatic,AWD,WA1L2AFP3GA004009
+2018 Audi Q7 3.0T Prestige,Audi,White,71220,Audi North Shore,(414) 375-4847,3.5,14,,72,Glacier White Metallic,Black,8-Speed Automatic,AWD,WA1VAAF78JD023074
+2018 Audi Q7 2.0T Premium,Audi,Silver,64595,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Florett Silver Metallic,Black,8-Speed Automatic,AWD,WA1LHAF75JD015131
+2015 Audi A3 4dr Sdn FWD 1.8T Premium,Audi,Blue,20200,Zimbrick European,,5,7,21585,2,Scuba Blue Metallic,Black,Automatic,FWD,WAUACGFFXF1063025
+2018 Audi Q3 2.0T Premium Plus,Audi,White,40875,International Autos,(414) 203-5342,3.8,56,,68,Glacier White Metallic,Black,6-Speed Automatic,AWD,WA1JCCFS4JR013539
+2018 Audi Q7 2.0T Premium,Audi,White,61435,Audi North Shore,(414) 375-4847,3.5,14,,72,Glacier White Metallic,Nougat Brown,8-Speed Automatic,AWD,WA1LHAF70JD033133
+2018 Audi A6 3.0T quattro Sport,Audi,Gray,60410,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Tornado Gray Metallic,Black,8-Speed Automatic,AWD,WAUF3AFC0JN070303
+2017 Audi Q3 2.0T Premium,Audi,Black,28956,Wilde Chrysler Jeep Dodge Ram & Subaru,(262) 347-4170,4.6,551,26242,60,Mythos Black Metallic,Black,6-Speed Automatic w/OD,AWD/All-Wheel Drive,WA1ECCFS9HR004749
+2018 Audi A4 2.0T Premium quattro,Audi,White,44735,Audi North Shore,(414) 375-4847,3.5,14,,72,Ibis White,Black,7-Speed Automatic with Auto-Shift,AWD,WAUDNAF47JN001151
+2018 Audi A6 3.0T Premium quattro,Audi,Gray,63530,Audi North Shore,(414) 375-4847,3.5,14,,72,Nardo Gray,Black,8-Speed Automatic,AWD,WAUG3AFC5JN081009
+2018 Audi Q7 3.0T Prestige,Audi,Black,71685,Audi North Shore,(414) 375-4847,3.5,14,,72,Orca Black Metallic,Black,8-Speed Automatic,AWD,WA1VAAF7XJD031872
+2018 Audi S3 2.0T Premium Plus quattro,Audi,Gray,51550,Audi North Shore,(414) 375-4847,3.5,14,,72,Nano Gray Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUB1GFF0J1043627
+2018 Audi A5 2.0T Premium Plus quattro,Audi,Blue,60695,Audi North Shore,(414) 375-4847,3.5,14,,72,Moonlight Blue Metallic / Black Roof,Nougat Brown,7-Speed Automatic with Auto-Shift,AWD,WAUYNGF55JN009181
+2015 Audi A4 4dr Sdn Auto quattro 2.0T Premium,Audi,White,23500,Zimbrick European,,5,7,27784,2,Ibis White,Chestnut Brown / Black,Automatic,AWD,WAUBFAFL2FN028356
+2018 Audi Q5 2.0T Premium,Audi,Blue,54435,Audi North Shore,(414) 375-4847,3.5,14,,72,Moonlight Blue Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFY8J2113644
+2017 Audi A4 2.0T Premium quattro,Audi,Silver,45275,Audi North Shore,(414) 375-4847,3.5,14,,72,Florett Silver Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUANAF44HN031317
+2012 Audi A7 Premium quattro,Audi,White,26420,INFINITI Milwaukee,(888) 602-5985,,,79152,61,Ibis White,Black,8-Speed Automatic with Tiptronic,quattro,WAUSGAFCXCN001897
+2018 Audi A4 2.0T Premium Plus,Audi,White,51130,Audi North Shore,(414) 375-4847,3.5,14,,72,Glacier White Metallic,Black / Express Red,6-Speed Manual,AWD,WAUPNAF49JA126334
+2014 Audi A5 2.0T Premium,Audi,White,23388,Ernie von Schledorn Buick GMC Volkswagen,(888) 231-8988,4.7,195,36826,66,Ibis White,Black,8-Speed Automatic with Tiptronic,quattro,WAUCFAFR2EA071139
+2018 Audi A3 2.0T Premium quattro,Audi,Red,40330,Audi North Shore,(414) 375-4847,3.5,14,,72,Tango Red Metallic,Black,6-Speed Automatic with Auto-Shift,AWD,WAUJ8GFF3J1048733
+2018 Audi A6 3.0T Premium quattro,Audi,Black,62210,Audi North Shore,(414) 375-4847,3.5,14,,72,Mythos Black Metallic,Black,8-Speed Automatic,AWD,WAUG3AFC0JN004919
+2018 Audi Q3 2.0T Sport Premium,Audi,Gray,39615,Audi North Shore,(414) 375-4847,3.5,14,,72,Daytona Gray Pearl Effect,Black,6-Speed Automatic,AWD,WA1ECCFS7JR016856
+2017 Audi Q3 2.0T Premium quattro,Audi,Black,27385,Kayser Chrysler Center,(608) 338-1543,4.5,91,22498,22,Brilliant Black,Black,6-Speed Automatic,AWD,WA1ECCFS7HR015748
+2018 Audi A7 3.0T Premium Plus quattro,Audi,Black,75165,Audi North Shore,(414) 375-4847,3.5,14,,72,Mythos Black Metallic,Black,8-Speed Automatic,AWD,WAUW3AFC5JN061595
+2018 Audi A6 2.0T Premium Plus,Audi,Gray,58725,Audi North Shore,(414) 375-4847,3.5,14,,72,Tornado Gray Metallic,Black,8-Speed Automatic,AWD,WAUG8AFC3JN013681
+2014 Audi Q5 3.0 TDI Premium Plus quattro,Audi,White,36370,Runde Chevrolet,(888) 380-6201,4.8,108,42434,73,White,,8-Speed Automatic,AWD,WA1CMAFP8EA082826
+2018 Audi A3 2.0T Premium quattro,Audi,White,39755,Audi North Shore,(414) 375-4847,3.5,14,,72,Ibis White,Chestnut Brown,6-Speed Automatic with Auto-Shift,AWD,WAUJ8GFF1J1033664
+2018 Audi A5 2.0T Premium Plus quattro,Audi,Blue,58300,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Scuba Blue Metallic / Black Roof,Rock Gray,7-Speed Automatic with Auto-Shift,AWD,WAUYNGF58JN013077
+2018 Audi S5 3.0T Prestige quattro,Audi,Gray,68360,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Daytona Gray Pearl Effect,Black,8-Speed Automatic,AWD,WAUR4AF57JA056160
+2009 Audi Q7 4.2 Prestige,Audi,Black,10987,Christopher,,,,140250,65,Black,Beige,Automatic,4x4/4-wheel drive,
+2003 Audi A4 1.8T,Audi,Red,2495,"Granite Auto Sales, Inc.",(920) 240-4097,,,165399,69,Red,Black,5-SPEED A/T,All Wheel Drive,WAULC68E93A196197
+2013 Audi Q7 3.0 TDI Premium quattro,Audi,Black,29900,Runde Chevrolet,(888) 380-6201,4.8,108,71674,73,Charcoal,,8-Speed Automatic,AWD,WA1CMAFE2DD016753
+2015 Audi A4 2.0T Premium quattro,Audi,Gray,19000,Wilde Honda,(262) 226-8570,4.5,631,47874,60,Tornado Gray Metallic,,8-Speed Automatic w/OD,AWD,WAUBFAFLXFN006816
+2015 Audi A4 4dr Sdn Auto quattro 2.0T Premium,Audi,Black,22500,Zimbrick European,,5,7,40969,2,Brilliant Black,Black,Automatic,AWD,WAUBFAFL8FN023467
+2018 Audi Q5 2.0T Premium,Audi,White,52800,Audi North Shore,(414) 375-4847,3.5,14,,72,Ibis White,Atlas Beige / Gray,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFY0J2122578
+2013 Audi A4 2.0T Premium Plus quattro,Audi,Black,17000,Nancy,,,,49000,73,Black,Black,Automatic,AWD,
+2018 Audi Q7 3.0T Prestige,Audi,White,71220,Audi North Shore,(414) 375-4847,3.5,14,,72,Glacier White Metallic,Nougat Brown,8-Speed Automatic,AWD,WA1VAAF76JD022232
+2013 Audi A4 2.0T Premium quattro,Audi,Black,15995,Reina International,(262) 510-2733,4,6,79496,66,Phantom Black Pearl,Gray,8-Speed Automatic,AWD,WAUBFAFL1DN036221
+2004 Audi A8 L 4.2 quattro,Audi,Beige,6200,Jay,,,,109000,71,Beige,Brown,Automatic,AWD,
+2018 Audi A4 2.0T Premium Plus,Audi,White,49780,Audi North Shore,(414) 375-4847,3.5,14,,72,Glacier White Metallic,Atlas Beige / Gray,7-Speed Automatic with Auto-Shift,AWD,WAUENAF41JA128781
+2015 Audi Q5 3.0 TDI Premium Plus quattro,Audi,Black,36000,International Autos,(414) 269-8729,3.8,56,34476,68,Brilliant Black,Black,8-Speed Automatic,AWD,WA1CMAFP3FA128161
+2013 Audi S5 3.0T Premium Plus quattro,Audi,Gray,32999,"Campbells Auto Sport, Inc.",(262) 261-0124,5,12,26987,72,Monsoon Gray Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUCGAFH3DN001192
+2018 Audi S3 2.0T Premium Plus quattro,Audi,Gray,50250,Audi North Shore,(414) 375-4847,3.5,14,,72,Daytona Gray Pearl Effect,Black,7-Speed Automatic with Auto-Shift,AWD,WAUB1GFF5J1044112
+2008 Audi A4 2.0T quattro,Audi,Black,7500,Auto Outpost - North Inc.,(815) 572-6094,3.8,14,111231,74,Black,Black,6-Speed Automatic,AWD,WAUDF78E88A129101
+2018 Audi A4 2.0T Premium Plus,Audi,Silver,50280,Audi North Shore,(414) 375-4847,3.5,14,,72,Florett Silver Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUENAF48JA138630
+2018 Audi A4 2.0T Premium Plus,Audi,Blue,50530,Audi North Shore,(414) 375-4847,3.5,14,,72,Scuba Blue Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUENAF42JA129065
+2018 Audi A6 3.0T Prestige quattro,Audi,Black,53967,Audi North Shore,(414) 375-2104,3.5,14,4483,72,Mythos Black Metallic,Black,8-Speed Automatic with Tiptronic,AWD,WAUH3AFC5JN005200
+2018 Audi A4 2.0T Premium Plus,Audi,Black,41967,Audi North Shore,(414) 375-2104,3.5,14,3637,72,Mythos Black Metallic,Black / Express Red,Automatic,AWD,WAUENAF43JA029332
+2013 Audi A5 2.0T Premium Plus,Audi,Other,21997,Diamond Jim's West Allis,(888) 377-2649,4.8,10,58389,68,Moonlight Blue Metallic/Black Roof,Brown,8-Speed Automatic with Tiptronic,quattro,WAULFAFH3DN003561
+2015 Audi Q7 3.0 TDI Premium,Audi,Black,34967,Audi North Shore,(414) 375-2115,3.5,14,61038,72,Orca Black Metallic,Black,8-Speed Automatic,AWD,WA1VMAFEXFD024580
+2018 Audi TT RS 2.5T,Audi,Gray,73425,Audi North Shore,(414) 375-4847,3.5,14,,72,Nardo Gray,Black,7-Speed Automatic with Auto-Shift,AWD,WUACSAFV2J1902082
+2018 Audi A6 3.0T quattro Sport,Audi,Black,60825,Audi North Shore,(414) 375-4847,3.5,14,,72,Mythos Black Metallic,Black,8-Speed Automatic,AWD,WAUF3AFC4JN071003
+2011 Audi A4 2.0T Premium quattro,Audi,Gray,10488,Burtness Chrysler Dodge Jeep Ram,(888) 690-5117,,,108417,35,Meteor Gray Pearl Effect,Black,8-Speed Automatic,AWD,WAUBFAFL2BN008294
+2018 Audi A4 2.0T Premium Plus,Audi,Blue,50530,Audi North Shore,(414) 375-4847,3.5,14,,72,Scuba Blue Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUENAF49JA129127
+2005 Audi A6 3.2 quattro,Audi,Black,5700,Haley,,,,115000,6,Black,Black,Automatic,4x4/4-wheel drive,
+2015 Audi A6 2.0T Premium Plus quattro,Audi,Black,29967,Audi North Shore,(414) 375-2104,3.5,14,35816,72,Phantom Black Pearl,Black,8-Speed Automatic,AWD,WAUGFAFC5FN033377
+2013 Audi allroad 4dr Wgn Premium Plus,Audi,Blue,23800,Zimbrick European,,5,7,56581,2,Moonlight Blue Metallic,Beige / Brown,Automatic,AWD,WA1UFAFL7DA060634
+2018 Audi A6 3.0T Premium quattro,Audi,Silver,65605,Audi North Shore,(414) 375-4847,3.5,14,,72,Florett Silver Metallic,Nougat Brown,8-Speed Automatic,AWD,WAUH3AFC0JN083996
+2018 Audi A5 2.0T Premium Plus quattro,Audi,Silver,53750,Audi North Shore,(414) 375-4847,3.5,14,,72,Florett Silver Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUTNAF59JA070760
+2010 Audi A8 L 4.2 quattro,Audi,Black,21000,Vern,,,,108500,71,Black,Brown,Automanual,AWD,
+2018 Audi A3 2.0T Premium quattro,Audi,Blue,38995,International Autos,(414) 203-5342,3.8,56,,68,Cosmus Blue Metallic,Rock Gray,6-Speed Automatic with Auto-Shift,AWD,WAUJ8GFFXJ1002638
+2018 Audi A6 3.0T quattro Sport,Audi,Black,60500,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Mythos Black Metallic,Black,8-Speed Automatic,AWD,WAUF3AFC5JN076372
+2018 Audi S4 3.0T Premium Plus,Audi,Blue,62140,Audi North Shore,(414) 375-4847,3.5,14,,72,Navarra Blue Metallic,Rotor Gray,8-Speed Automatic,AWD,WAUB4AF4XJA120975
+2018 Audi Q5 2.0T Premium,Audi,Gray,52725,Audi North Shore,(414) 375-4847,3.5,14,,72,Manhattan Gray Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFY1J2124937
+2005 Audi A4 1.8T Cabriolet,Audi,White,7995,Bender Auto Sales,(262) 622-0153,5,20,75894,62,White,Tan,Automatic CVT,FWD,WAUAC48H45K008012
+2018 Audi Q7 3.0T Prestige,Audi,Black,65967,Audi North Shore,(414) 375-2115,3.5,14,4945,72,Orca Black Metallic,Black,Automatic with Tiptronic,AWD,WA1VAAF78JD011622
+2018 Audi Q5 2.0T Prestige quattro,Audi,Gray,47967,Audi North Shore,(414) 375-2104,3.5,14,4193,72,Manhattan Gray Metallic,Black,Automatic with Tiptronic,AWD,WA1CNAFYXJ2048476
+2018 Audi Q5 2.0T Premium,Audi,Gray,46967,Audi North Shore,(414) 375-2104,3.5,14,5780,72,Manhattan Gray Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFY0J2022092
+2018 Audi Q5 2.0T Premium Plus quattro,Audi,Gray,49967,Audi North Shore,(414) 375-2104,3.5,14,6811,72,Monsoon Gray Metallic,Black,Automatic with Tiptronic,AWD,WA1BNAFY6J2021092
+2015 Audi A6 4dr Sdn quattro 2.0T Premium Plus,Audi,Gray,27000,Zimbrick European,,5,7,39514,2,Quartz Gray Metallic,Black,Automatic,AWD,WAUGFAFC3FN004556
+2016 Audi Q5 quattro 4dr 2.0T Premium Plus,Audi,Black,34100,Zimbrick European,,5,7,26376,2,Brilliant Black,Black,Automatic,AWD,WA1L2AFP4GA004035
+2018 Audi A4 2.0T Premium Plus,Audi,Blue,49780,Audi North Shore,(414) 375-4847,3.5,14,,72,Moonlight Blue Metallic,Nougat Brown / Black,7-Speed Automatic with Auto-Shift,AWD,WAUENAF40JA129131
+2016 Audi A6 3.0 TDI Premium Plus quattro,Audi,Gray,48376,International Autos,(414) 203-5342,3.8,56,,68,Tornado Gray Metallic,Black,8-Speed Automatic,AWD,WAUFMAFC8GN000764
+2015 Audi A3 2.0T Premium Plus quattro,Audi,Gray,24967,Audi North Shore,(414) 375-2104,3.5,14,29339,72,Monsoon Gray Metallic,Titanium,6-Speed Automatic with Auto-Shift,AWD,WAUEFGFF1F1089120
+2018 Audi A6 3.0T quattro Sport,Audi,Gray,60405,Audi North Shore,(414) 375-4847,3.5,14,,72,Tornado Gray Metallic,Black,8-Speed Automatic,AWD,WAUF3AFC0JN081625
+2018 Audi A3 2.0T Premium quattro,Audi,Gray,40945,Audi North Shore,(414) 375-4847,3.5,14,,72,Nano Gray Metallic,Black,6-Speed Automatic with Auto-Shift,AWD,WAUJ8GFF4J1048787
+2015 Audi A4 2.0T Premium,Audi,Gray,27900,Kevin,,,,35000,57,Gray,Black,Automatic,AWD,
+2017 Audi A3 2.0 TFSI Premium Plus quattro AWD,Audi,Black,32000,Zimbrick European,,5,7,5238,2,Mythos Black Metallic,Chestnut Brown,Automatic,AWD,WAUJ8GFF7H1028981
+2014 Audi A6 4dr Sdn quattro 3.0T Prestige,Audi,White,28300,Zimbrick European,,5,7,47337,2,Glacier White Metallic,Black,Automatic,AWD,WAUHGAFCXEN017093
+2018 Audi Q7 3.0T Prestige,Audi,Other,77385,Audi North Shore,(414) 375-4847,3.5,14,,72,Samurai Gray Metallic,Black,8-Speed Automatic,AWD,WA1VAAF75JD032993
+2015 Audi allroad 4dr Wgn Premium Plus,Audi,Blue,30200,Zimbrick European,,5,7,27067,2,Moonlight Blue Metallic,Black,Automatic,AWD,WA1UFAFL4FA079922
+2017 Audi A3 2.0 TFSI Premium Plus quattro AWD,Audi,Black,30800,Zimbrick European,,5,7,13858,2,Brilliant Black,Rock Gray,Automatic,AWD,WAUJ8GFF9H1045958
+2015 Audi A3 4dr Sdn quattro 2.0T Premium,Audi,Black,22500,Zimbrick European,,5,7,23187,2,Brilliant Black,Black,Automatic,AWD,WAUBFGFF2F1093227
+2018 Audi A6 3.0T quattro Sport,Audi,Gray,60500,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Tornado Gray Metallic,Black,8-Speed Automatic,AWD,WAUF3AFC2JN076166
+2018 Audi Q3 2.0T Sport Premium quattro,Audi,Black,40950,Audi North Shore,(414) 375-4847,3.5,14,,72,Brilliant Black,Black,6-Speed Automatic,AWD,WA1JCCFS7JR024681
+2012 Audi Q5 2.0T Premium Plus,Audi,Black,20900,Midwest Highline,(815) 516-8789,,,51124,61,Black,Black,8-SPEED A/T,All Wheel Drive,WA1LFAFP5CA128930
+2018 Audi A6 3.0T Premium Plus quattro,Audi,Blue,67350,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Moonlight Blue Metallic,Nougat Brown,8-Speed Automatic,AWD,WAUH3AFC4JN039869
+2018 Audi Q5 2.0T Premium,Audi,White,48225,Audi North Shore,(414) 375-4847,3.5,14,,72,Ibis White,Atlas Beige / Gray,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFY7J2124702
+2018 Audi A7 3.0T Premium Plus quattro,Audi,Black,80225,Audi North Shore,(414) 375-4847,3.5,14,,72,Mythos Black Metallic,Black,8-Speed Automatic,AWD,WAU23AFC2JN063464
+2010 Audi A6 3.0T Premium Plus,Audi,Other,10958,Wilde Chrysler Jeep Dodge Ram & Subaru,(262) 347-4170,4.6,551,130525,60,Condor Grey Metallic,Black,6-Speed Automatic w/manual shift,AWD/All-Wheel Drive,WAUFGAFB3AN074566
+2018 Audi Q7 3.0T Premium,Audi,White,60735,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Carrara White,Pistachio Beige,8-Speed Automatic,AWD,WA1AAAF7XJD005352
+2018 Audi Q3 2.0T Sport Premium,Audi,Black,44465,Audi North Shore,(414) 375-4847,3.5,14,,72,Mythos Black Metallic,Black,6-Speed Automatic,AWD,WA1JCCFSXJR017076
+2018 Audi SQ5 3.0T Prestige quattro,Audi,Gray,71725,Audi North Shore,(414) 375-4847,3.5,14,,72,Daytona Gray Pearl Effect,Black,8-Speed Automatic,AWD,WA1C4AFY0J2141106
+2011 Audi A5 2.0T Prestige quattro,Audi,Silver,12998,Russ Darrow Kia Madison,(608) 338-1466,4.6,348,103654,4,Silver,,8-Speed Automatic,AWD,WAUVFAFR0BA056093
+2010 Audi Q5 3.2 Premium Plus quattro,Audi,Gray,19995,Schoepp Motors - Northeast,(608) 807-5348,,,57587,5,Gray,,6-Speed Automatic,AWD,WA1LKAFP9AA029326
+2009 Audi A6 3.0 Premium quattro,Audi,White,,Fields Jaguar Land Rover Volvo Cars Madison,(608) 216-2301,4.3,21,122397,5,Ibis White,,6-Speed Automatic,AWD,WAUSG74F39N018310
+2015 Audi Q3 2.0T Premium Plus,Audi,Silver,27995,Fields Jaguar Land Rover Volvo Cars Madison,(608) 216-2301,4.3,21,35431,5,Silver,,6-Speed Automatic,AWD,WA1GFCFS7FR007355
+2013 Audi Q5 2.0T Premium quattro,Audi,Black,22995,Fields Jaguar Land Rover Volvo Cars Madison,(608) 216-2301,4.3,21,64041,5,Brilliant Black,,8-Speed Automatic,AWD,WA1LFAFPXDA043129
+2012 Audi R8 5.2L,Audi,Black,,608 Motorsports,(608) 729-3815,5,48,26137,5,Black,Black,6-SPEED A/T,All Wheel Drive,WUAENAFG8CN000520
+2008 Audi A4 2.0T Cabriolet,Audi,Blue,11995,Schoepp Motors West,(608) 729-3822,2.7,5,76407,6,Blue,,Automatic CVT,FWD,WAUAF48H98K000290
+2015 Audi A6 3.0T Premium Plus,Audi,Black,31900,Zimbrick Nissan,(608) 338-0718,4.6,111,28164,7,Phantom Black Pearl Effect,Black,8-SPEED A/T,All Wheel Drive,WAUFGAFC7FN028982
+2015 Audi A6 3.0T Premium Plus,Audi,Gray,30989,Zimbrick Hyundai Eastside,(608) 338-1462,4.9,303,29591,7,Oolong Gray Metallic,Black,8-Speed A/T,All Wheel Drive,WAUFGAFC4FN017146
+2012 Audi Q5 2.0T Premium quattro,Audi,Silver,16510,Francois Ford,(608) 234-4968,4.8,67,81296,15,Silver,Black,8-Speed Automatic,AWD,WA1LFAFP8CA074393
+2010 Audi Q5 Premium Plus,Audi,Other,12989,Kearns Motor Car Co.,(920) 541-2495,4.7,256,120054,31,,,6-SPEED A/T,All Wheel Drive,WA1LKAFP9AA090014
+2009 Audi TT 2.0T quattro,Audi,Gray,15000,Scott,,,,57000,47,Gray,Black,Automatic,AWD,
+2018 Audi Q3 2.0T Premium Plus,Audi,Silver,,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Florett Silver Metallic,Black,6-Speed Automatic,AWD,WA1JCCFS9JR016436
+2018 Audi A6 3.0T Premium quattro,Audi,Brown,,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Java Brown Metallic,Black,8-Speed Automatic,AWD,WAUG3AFC8JN003629
+2008 Audi A4 3.2 Avant quattro,Audi,Gray,11999,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,70756,55,Gray,,6-Speed Automatic,AWD,WAUEH98E58A151647
+2014 Audi A8 L 3.0T,Audi,Black,41987,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,28334,55,Black,,8-Speed Automatic,AWD,WAURGAFD4EN004952
+2018 Audi S5 3.0T Premium Plus quattro,Audi,Blue,,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Navarra Blue Metallic / Black Roof,Black,8-Speed Automatic,AWD,WAUY4GF51JN006667
+2013 Audi Q5 2.0T Premium quattro,Audi,Gray,19899,Napleton Autowerks Loves Park,(815) 916-4212,4.9,520,64985,55,Gray,,8-Speed Automatic,AWD,WA1CFAFPXDA067446
+2018 Audi Q5 2.0T Premium,Audi,Blue,,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Moonlight Blue Metallic,Nougat Brown / Black,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFY7J2086193
+2017 Audi S3 2.0T Premium Plus quattro,Audi,Gray,,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Nano Gray Metallic,Black,6-Speed Automatic with Auto-Shift,AWD,WAUB1GFF3H1079452
+2017 Audi S3 2.0T Premium Plus quattro,Audi,Blue,,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Navarra Blue Pearl Effect,Black,6-Speed Automatic with Auto-Shift,AWD,WAUB1HFF1H1051588
+2007 Audi A4 2.0T quattro,Audi,Black,2999,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,173959,55,Black,,,AWD,WAUDF78E47A073656
+2018 Audi A5 2.0T Premium Plus quattro,Audi,Gray,,Napleton Autowerks Loves Park,(815) 916-4212,4.9,519,,55,Manhattan Gray Metallic / Black Roof,Nougat Brown,7-Speed Automatic with Auto-Shift,AWD,WAUYNGF52JN005346
+2014 Audi S4 3.0T Premium Plus,Audi,Gray,31994,Amato Ford,(877) 238-6254,4.7,78,53076,55,Monsoon Gray Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUBGAFL8EA114919
+2012 Audi A7,Audi,Silver,25700,Harvard Ford,(815) 701-9578,4.8,278,73145,59,Ice Silver Metallic,Black,8-Speed Automatic w/Manual Shift,AWD,WAUSGAFC8CN001932
+2013 Audi A8 L 4.0T,Audi,Black,26893,Boucher Hyundai,(866) 508-6541,4.9,881,93100,60,Phantom Black Pearl,Black,8-Speed Automatic,AWD,WAUR2AFD1DN018997
+2012 Audi A7 3.0T quattro Premium,Audi,Gray,32772,Boucher Cadillac of Waukesha,(877) 562-3823,5,29,12696,61,Daytona Gray Pearl,Black,8-Speed Automatic,AWD,WAUYGAFC4CN089629
+2015 Audi A4 2.0T Premium quattro,Audi,Other,,Hall Volkswagen Mazda,(888) 450-4176,4.6,56,39583,62,Tornado Gray,,6-Speed Manual,AWD,WAUDFAFL5FN032717
+2014 Audi A4 2.0T Premium quattro,Audi,Black,,Hall Volkswagen Mazda,(888) 450-4176,4.6,56,34173,62,Black,,8-Speed Automatic,AWD,WAUBFAFL0EN045199
+2016 Audi A4 2.0T Premium,Audi,Gray,29995,Reina International,(262) 510-2733,4,6,31944,66,Tornado Gray Metallic,Black,Automatic CVT,FWD,WAUAFAFL3GN005066
+2008 Audi A4 2.0T quattro,Audi,Blue,8495,Reina International,(262) 510-2733,4,6,129095,66,Ocean Blue Pearl,Beige,6-Speed Automatic,AWD,WAUDF78E38A166539
+2014 Audi A4 2.0T Premium quattro,Audi,Red,21444,Russ Darrow Mazda of Milwaukee,(888) 364-8375,4.7,337,36340,67,Red,,6-Speed Manual,AWD,WAUDFAFL2EN031457
+2018 Audi Q5 2.0T Premium,Audi,Gray,,International Autos,(414) 203-5342,3.8,56,,68,Monsoon Gray Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFY2J2117690
+2018 Audi Q7 3.0T Premium,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,68,Orca Black Metallic,Nougat Brown,8-Speed Automatic,AWD,WA1LAAF73JD032045
+2018 Audi A5 2.0T Premium quattro,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,68,Mythos Black Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUENCF55JA058917
+2018 Audi Q3 2.0T Sport Premium quattro,Audi,Gray,,International Autos,(414) 203-5342,3.8,56,,68,Daytona Gray Pearl Effect,Black,6-Speed Automatic,AWD,WA1ECCFS5JR024793
+2018 Audi Q5 2.0T Premium,Audi,White,,International Autos,(414) 203-5342,3.8,56,,68,Ibis White,Rock Gray,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFYXJ2089668
+2018 Audi Q3 2.0T Sport Premium quattro,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,68,Brilliant Black,Black,6-Speed Automatic,AWD,WA1JCCFS1JR023753
+2018 Audi Q7 3.0T Prestige,Audi,White,,International Autos,(414) 203-5342,3.8,56,,68,Glacier White Metallic,Black,8-Speed Automatic,AWD,WA1VAAF72JD025953
+2018 Audi A4 2.0T Premium Plus,Audi,Blue,,International Autos,(414) 203-5342,3.8,56,,68,Moonlight Blue Metallic,Nougat Brown / Black,7-Speed Automatic with Auto-Shift,AWD,WAUENAF42JA118728
+2018 Audi Q7 3.0T Prestige,Audi,White,,International Autos,(414) 203-5342,3.8,56,,68,Glacier White Metallic,Nougat Brown,8-Speed Automatic,AWD,WA1VAAF75JD028037
+2018 Audi Q3 2.0T Sport Premium quattro,Audi,White,,International Autos,(414) 203-5342,3.8,56,,68,Glacier White Metallic,Chestnut Brown,6-Speed Automatic,AWD,WA1JCCFS0JR024151
+2018 Audi Q5 2.0T Premium Plus quattro,Audi,White,,International Autos,(414) 203-5342,3.8,56,,68,Ibis White,Atlas Beige / Gray,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFY3J2067107
+2018 Audi A4 2.0T Premium Plus,Audi,Blue,,International Autos,(414) 203-5342,3.8,56,,68,Moonlight Blue Metallic,Nougat Brown / Black,7-Speed Automatic with Auto-Shift,AWD,WAUENAF4XJA128987
+2018 Audi A4 2.0T Premium Plus,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,68,Mythos Black Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUENAF46JA119185
+2018 Audi Q5 2.0T Premium,Audi,Silver,,International Autos,(414) 203-5342,3.8,56,,68,Florett Silver Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFY5J2099783
+2018 Audi Q5 2.0T Premium Plus quattro,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,68,Mythos Black Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFYXJ2099505
+2018 Audi A4 2.0T Premium Plus,Audi,Gray,,International Autos,(414) 203-5342,3.8,56,,68,Manhattan Gray Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUENAF44JA118875
+2018 Audi A4 2.0T Premium quattro,Audi,Gray,,International Autos,(414) 203-5342,3.8,56,,68,Monsoon Gray Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUDNAF41JA127223
+2018 Audi A6 3.0T Premium quattro,Audi,Gray,,International Autos,(414) 203-5342,3.8,56,,68,Tornado Gray Metallic,Black,8-Speed Automatic,AWD,WAUG3AFC9JN005082
+2018 Audi S3 2.0T Premium Plus quattro,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,68,Mythos Black Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUB1GFFXJ1045174
+2018 Audi Q3 2.0T Premium Plus,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,68,Brilliant Black,Black,6-Speed Automatic,AWD,WA1JCCFS4JR006753
+2018 Audi A6 3.0T quattro Sport,Audi,Blue,,International Autos,(414) 203-5342,3.8,56,,68,Moonlight Blue Metallic,Black,8-Speed Automatic,AWD,WAUF3AFC9JN080067
+2018 Audi A5 2.0T Premium quattro,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,68,Mythos Black Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUENCF52JA068272
+2018 Audi Q5 2.0T Premium,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,68,Brilliant Black,Atlas Beige / Gray,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFY9J2117671
+2018 Audi A5 2.0T Premium Plus quattro,Audi,White,,International Autos,(414) 203-5342,3.8,56,,68,Glacier White Metallic / Black Roof,Black,7-Speed Automatic with Auto-Shift,AWD,WAUYNGF59JN012438
+2018 Audi Q5 2.0T Premium Plus quattro,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,68,Mythos Black Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFY3J2064627
+2016 Audi A3 1.8T Premium,Audi,Black,22500,International Autos,(414) 939-8502,3.8,56,19184,68,Brilliant Black,Black,Automatic,FWD,WAUA7GFF6G1066509
+2018 Audi Q7 3.0T Prestige,Audi,White,,International Autos,(414) 203-5342,3.8,56,,68,Glacier White Metallic,Pistachio Beige,8-Speed Automatic,AWD,WA1VAAF74JD027879
+2018 Audi A7 3.0T Premium Plus quattro,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,68,Mythos Black Metallic,Black,8-Speed Automatic,AWD,WAU23AFCXJN082831
+2018 Audi Q7 3.0T Prestige,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,68,Orca Black Metallic,Black,8-Speed Automatic,AWD,WA1VAAF72JD022597
+2018 Audi A4 2.0T Premium Plus,Audi,White,,International Autos,(414) 203-5342,3.8,56,,68,Glacier White Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUENAF43JN008294
+2018 Audi S4 3.0T Premium Plus,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,68,Mythos Black Metallic,Black,8-Speed Automatic,AWD,WAUB4AF43JA116105
+2018 Audi SQ5 3.0T Prestige quattro,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,68,Mythos Black Metallic,Black,8-Speed Automatic,AWD,WA1C4AFYXJ2120554
+2018 Audi A4 2.0T Premium Plus,Audi,Gray,,International Autos,(414) 203-5342,3.8,56,,68,Manhattan Gray Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUENAF41JA118753
+2018 Audi A4 2.0T Premium Plus,Audi,Gray,,International Autos,(414) 203-5342,3.8,56,,68,Manhattan Gray Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUENAF49JA118855
+2018 Audi A4 2.0T Premium Plus,Audi,White,,International Autos,(414) 203-5342,3.8,56,,68,Glacier White Metallic,Black / Express Red,7-Speed Automatic with Auto-Shift,AWD,WAUENAF40JA121210
+2018 Audi Q5 2.0T Premium,Audi,White,,International Autos,(414) 203-5342,3.8,56,,68,Ibis White,Atlas Beige / Gray,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFY5J2117716
+2018 Audi Q5 2.0T Prestige quattro,Audi,Gray,,International Autos,(414) 203-5342,3.8,56,,68,Manhattan Gray Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WA1CNAFY3J2088222
+2018 Audi S5 3.0T Premium Plus quattro,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,68,Mythos Black Metallic,Magma Red,8-Speed Automatic,AWD,WAUB4CF53JA080128
+2018 Audi Q5 2.0T Premium,Audi,Silver,,International Autos,(414) 203-5342,3.8,56,,68,Florett Silver Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFY6J2124450
+2018 Audi S6 4.0T Premium Plus quattro,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,68,Mythos Black Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUHFAFC1JN076028
+2018 Audi A6 3.0T quattro Sport,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,68,Mythos Black Metallic,Black,8-Speed Automatic,AWD,WAUF3AFC1JN078068
+2018 Audi S4 3.0T Prestige,Audi,White,,International Autos,(414) 203-5342,3.8,56,,68,Glacier White Metallic,Black,8-Speed Automatic,AWD,WAUC4AF45JA112836
+2018 Audi Q7 3.0T Prestige,Audi,White,,International Autos,(414) 203-5342,3.8,56,,68,Glacier White Metallic,Black,8-Speed Automatic,AWD,WA1VAAF71JD027709
+2018 Audi A7 3.0T Premium Plus quattro,Audi,Blue,,International Autos,(414) 203-5342,3.8,56,,68,Moonlight Blue Metallic,Nougat Brown,8-Speed Automatic,AWD,WAU23AFC5JN086740
+2018 Audi A5 2.0T Premium Plus quattro,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,68,Mythos Black Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUTNAF57JA075813
+2018 Audi A5 2.0T Premium Plus quattro,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,68,Mythos Black Metallic,Black,6-Speed Manual,AWD,WAU8NAF50JA072032
+2018 Audi Q7 3.0T Premium,Audi,White,,International Autos,(414) 203-5342,3.8,56,,68,Carrara White,Nougat Brown,8-Speed Automatic,AWD,WA1AAAF75JD019515
+2015 Audi A6 3.0T Premium Plus quattro,Audi,Blue,34000,International Autos,(414) 939-8502,3.8,56,31921,68,Aviator Blue Metallic,Black,8-Speed Automatic,AWD,WAUFGAFC0FN030637
+2018 Audi A4 2.0T Premium Plus,Audi,White,,International Autos,(414) 203-5342,3.8,56,,68,Glacier White Metallic,Black / Express Red,7-Speed Automatic with Auto-Shift,AWD,WAUENAF43JA121167
+2018 Audi Q7 3.0T Prestige,Audi,White,,International Autos,(414) 203-5342,3.8,56,,68,Glacier White Metallic,Black,8-Speed Automatic,AWD,WA1VAAF78JD027688
+2018 Audi A5 2.0T Premium Plus quattro,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,68,Mythos Black Metallic / Black Roof,Black,7-Speed Automatic with Auto-Shift,AWD,WAUYNGF53JN012337
+2018 Audi Q5 2.0T Premium,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,68,Mythos Black Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFY6J2124514
+2018 Audi A4 2.0T Premium Plus,Audi,Gray,,International Autos,(414) 203-5342,3.8,56,,68,Manhattan Gray Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUENAF42JN005726
+2018 Audi Q3 2.0T Sport Premium,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,68,Mythos Black Metallic,Black,6-Speed Automatic,AWD,WA1ECCFS7JR006652
+2018 Audi S7 4.0T Premium Plus quattro,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,68,Mythos Black Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUWFAFC7JN049424
+2018 Audi Q3 2.0T Premium Plus,Audi,Gray,,International Autos,(414) 203-5342,3.8,56,,68,Daytona Gray Pearl Effect,Black,6-Speed Automatic,AWD,WA1JCCFS6JR021870
+2018 Audi SQ5 3.0T Premium Plus quattro,Audi,Gray,,International Autos,(414) 203-5342,3.8,56,,68,Monsoon Gray Metallic,Black,8-Speed Automatic,AWD,WA1A4AFY7J2136928
+2018 Audi Q5 2.0T Premium,Audi,White,,International Autos,(414) 203-5342,3.8,56,,68,Ibis White,Black,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFYXJ2107828
+2018 Audi Q7 3.0T Prestige,Audi,White,,International Autos,(414) 203-5342,3.8,56,,68,Glacier White Metallic,Nougat Brown,8-Speed Automatic,AWD,WA1VAAF74JD022293
+2018 Audi Q7 3.0T Prestige,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,68,Orca Black Metallic,Black,8-Speed Automatic,AWD,WA1VAAF77JD028170
+2018 Audi Q5 2.0T Premium,Audi,White,,International Autos,(414) 203-5342,3.8,56,,68,Ibis White,Atlas Beige / Gray,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFY4J2089682
+2018 Audi A5 2.0T Premium Plus quattro,Audi,Silver,,International Autos,(414) 203-5342,3.8,56,,68,Florett Silver Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUTNAF55JA075647
+2018 Audi Q5 2.0T Prestige quattro,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,68,Mythos Black Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WA1CNAFY2J2141086
+2018 Audi A3 2.0T Premium quattro,Audi,Blue,,International Autos,(414) 203-5342,3.8,56,,68,Cosmos Blue Metallic / Black Roof,Black,6-Speed Automatic with Auto-Shift,AWD,WAUY8LFF8J1043793
+2018 Audi Q5 2.0T Premium,Audi,White,,International Autos,(414) 203-5342,3.8,56,,68,Ibis White,Nougat Brown / Black,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFY5J2100978
+2018 Audi A5 2.0T Premium quattro,Audi,Blue,,International Autos,(414) 203-5342,3.8,56,,68,Moonlight Blue Metallic,Nougat Brown / Black,7-Speed Automatic with Auto-Shift,AWD,WAUENCF57JA069174
+2018 Audi A5 2.0T Premium Plus quattro,Audi,White,,International Autos,(414) 203-5342,3.8,56,,68,Glacier White Metallic / Black Roof,Black,7-Speed Automatic with Auto-Shift,AWD,WAUYNGF55JN012422
+2018 Audi Q5 2.0T Premium,Audi,Gray,,International Autos,(414) 203-5342,3.8,56,,68,Monsoon Gray Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFY3J2118850
+2018 Audi S6 4.0T Premium Plus quattro,Audi,White,,International Autos,(414) 203-5342,3.8,56,,68,Glacier White Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WAUHFAFCXJN076755
+2018 Audi A7 3.0T Premium Plus quattro,Audi,Gray,,International Autos,(414) 203-5342,3.8,56,,68,Nardo Gray,Black,8-Speed Automatic,AWD,WAU23AFC7JN078977
+2018 Audi A6 2.0T quattro Sport,Audi,White,,International Autos,(414) 203-5342,3.8,56,,68,Glacier White Metallic,Black,8-Speed Automatic,AWD,WAUF8AFC1JN077276
+2018 Audi A7 3.0T Premium Plus quattro,Audi,Gray,,International Autos,(414) 203-5342,3.8,56,,68,Tornado Gray Metallic,Black,8-Speed Automatic,AWD,WAU23AFC7JN079272
+2018 Audi A7 3.0T Premium Plus quattro,Audi,Gray,,International Autos,(414) 203-5342,3.8,56,,68,Tornado Gray Metallic,Black,8-Speed Automatic,AWD,WAU23AFCXJN061722
+2018 Audi TT 2.0T quattro,Audi,Gray,,International Autos,(414) 203-5342,3.8,56,,68,Nano Gray Metallic,Black,6-Speed Automatic with Auto-Shift,AWD,TRUC5AFV1J1008908
+2018 Audi Q5 2.0T Premium,Audi,Black,,International Autos,(414) 203-5342,3.8,56,,68,Mythos Black Metallic,Black,7-Speed Automatic with Auto-Shift,AWD,WA1BNAFY1J2089638
+2016 Audi Q5 3.0T Premium Plus quattro,Audi,White,,Audi North Shore,(414) 375-2115,3.5,14,24119,72,White,,8-Speed Automatic,AWD,WA1D7AFP4GA003540
+2018 Audi Q7 3.0T Premium,Audi,Black,,Audi North Shore,(414) 375-2115,3.5,14,5179,72,Orca Black Metallic,Black,8-Speed Automatic,AWD,WA1LAAF75JD001766
+2015 Audi Q5 2.0T Premium Plus quattro,Audi,White,,Audi North Shore,(414) 375-2115,3.5,14,24370,72,Glacier White,,8-Speed Automatic,AWD,WA1LFAFP3FA108602
+2015 Audi S5 3.0T Premium Plus quattro,Audi,Black,37967,Audi North Shore,(414) 375-2104,3.5,14,30194,72,Brilliant Black,Black / Silver,7-Speed Automatic with Auto-Shift,AWD,WAUCGAFR3FA033837
+2018 Audi S5 3.0T Premium Plus quattro,Audi,White,,Audi North Shore,(414) 375-2115,3.5,14,9231,72,Glacier White Metallic,Black,8-Speed Automatic,AWD,WAUB4CF54JA008483
+2016 Audi A6 3.0T Premium Plus quattro,Audi,White,,Audi North Shore,(414) 375-2115,3.5,14,43488,72,White,,8-Speed Automatic,AWD,WAUFGAFC0GN003343
+2012 Audi A4 2.0T Premium Plus quattro,Audi,Silver,,Audi North Shore,(414) 375-2115,3.5,14,81283,72,Silver,,8-Speed Automatic,AWD,WAUFFAFL0CN011052
+2015 Audi Q5 2.0T Premium Plus quattro,Audi,Gray,,Audi North Shore,(414) 375-2115,3.5,14,30000,72,Monsoon Gray,,8-Speed Automatic,AWD,WA1LFAFP1FA081884
+2017 Audi Q3 2.0T Premium Plus,Audi,White,,Audi North Shore,(414) 375-2115,3.5,14,3570,72,Glacier White Metallic,Chestnut Brown,6-Speed Automatic,AWD,WA1JCCFS3HR004759
+2016 Audi A3 e-tron 1.4T Premium,Audi,Gray,,Audi North Shore,(414) 375-4847,3.5,14,,72,Monsoon Gray Metallic,Black,6-Speed Automatic with Auto-Shift,FWD,WAUUPBFF0GA096346
+2015 Audi A4 2.0T Premium Plus quattro,Audi,Black,25480,VROOM (Milwaukee),(877) 682-3020,,,33205,73,Black,Tan,8-Speed Automatic w/OD,AWD,WAUFFAFL5FN001539
+2014 Audi A4 2.0T Premium Plus quattro,Audi,Black,21000,Lexus of Milwaukee,(414) 973-2600,5,9,53652,74,Brilliant Black,Black,8-Speed Automatic,AWD,WAUFFAFL1EN014030
+2001 Audi TT quattro,Audi,Blue,5879,Porsche Milwaukee North,(888) 481-5925,,,117358,74,Denim Blue Pearl,Denim Blue,5-Speed Manual,AWD,TRUWX28N811025182
+2012 Audi Q7 3.0T Premium Plus,Audi,Other,,Bergstrom Imports of Oshkosh,(877) 685-1374,3,740,63237,74,Unspecified,,8-Speed Automatic,AWD,WA1LGAFE5CD007101

@@ -1,0 +1,60 @@
+name,year,brand,color,price,seller_name,seller_phone,seller_average_rating,seller_review_count,miles,distance_from_Madison,Exterior Color,Interior Color,Transmission,Drivetrain,VIN
+2010 Mercedes-Benz  GL 450 4MATIC,2010,Mercedes-Benz,Black,15614,Kayser Ford Lincoln,(608) 807-5359,4.7,399,107545,2,Black,Cashmere,7-Speed Automatic,AWD,4JGBF7BEXAA543808
+2013 Mercedes-Benz  E 350 4MATIC,2013,Mercedes-Benz,Silver,14995,German Auto House,(608) 467-4941,5,1,114796,2,Silver,White,7-Speed Automatic,AWD,WDDHF8JB0DA679788
+2009 Mercedes-Benz  S 550 4MATIC,2009,Mercedes-Benz,Black,25995,German Auto House,(608) 467-4941,5,1,40375,2,Black,Black,7-Speed Automatic,AWD,WDDNG86X49A258457
+2015 Mercedes-Benz  ML 350,2015,Mercedes-Benz,Gray,29998,CarMax Madison,(608) 286-3923,4.3,3,36642,5,Gray,Black,7-Speed Automatic w/OD,AWD,4JGDA5HB7FA445741
+2014 Mercedes-Benz  GL450 4MATIC,2014,Mercedes-Benz,White,34998,CarMax Madison,(608) 286-3923,4.3,3,57218,5,White,Tan,7-Speed Automatic w/OD,AWD,4JGDF7CE1EA410478
+2015 Mercedes-Benz  GLA 250,2015,Mercedes-Benz,Black,25998,CarMax Madison,(608) 286-3923,4.3,3,26442,5,Black,Tan,7-Speed Auto-Shift Manual w/OD,AWD,WDCTG4GBXFJ092318
+2014 Mercedes-Benz  CLA250 4MATIC,2014,Mercedes-Benz,White,23998,CarMax Madison,(608) 286-3923,4.3,3,20986,5,White,Black,7-Speed Auto-Shift Manual w/OD,AWD,WDDSJ4GB2EN143634
+2014 Mercedes-Benz  Sport,2014,Mercedes-Benz,Gray,19998,CarMax Madison,(608) 286-3923,4.3,3,24850,5,Gray,Black,7-Speed Automatic w/OD,RWD,WDDGF4HB0ER314346
+2013 Mercedes-Benz  GL 450 4MATIC,2013,Mercedes-Benz,Black,30495,Fields Jaguar Land Rover Volvo Cars Madison,(608) 216-2301,4.3,21,64995,5,Black,Black,7-Speed Automatic,AWD,4JGDF7CEXDA193222
+2014 Mercedes-Benz  ML 350,2014,Mercedes-Benz,Gray,28998,CarMax Madison,(608) 286-3923,4.3,3,37253,5,Gray,Black,7-Speed Automatic w/OD,AWD,4JGDA5HB3EA417238
+2013 Mercedes-Benz  E 350 4MATIC,2013,Mercedes-Benz,Black,16500,Lexus of Madison,(608) 478-2660,5,68,80614,6,Black,Black,7-Speed Automatic,AWD,WDDHF8JB7DA667069
+2013 Mercedes-Benz  GL 450 4MATIC,2013,Mercedes-Benz,Blue,27995,Schoepp Motors West,(608) 729-3822,4.8,1543,93653,6,Lunar Blue Metallic,,7-Speed Automatic,AWD,4JGDF7CE9DA148238
+2012 Mercedes-Benz,2012,Mercedes-Benz,White,18995,Schoepp Motors West,(608) 729-3822,4.8,1543,52369,6,White,,7-Speed Automatic,RWD,WDDGF4HB9CR217367
+2015 Mercedes-Benz  C 300,2015,Mercedes-Benz,Black,26988,Zimbrick Hyundai Eastside,(608) 338-1462,4.9,303,30090,7,Black,Black,7-Speed A/T,All Wheel Drive,55SWF4KB2FU026106
+2015 Mercedes-Benz  SLK 250,2015,Mercedes-Benz,Black,29988,Zimbrick Hyundai Eastside,(608) 338-1462,4.9,303,25344,7,Black,Sahara Beige,7-Speed A/T,Rear Wheel Drive,WDDPK4HA2FF108712
+2014 Mercedes-Benz  E 350,2014,Mercedes-Benz,Red,28900,Zimbrick Nissan,(608) 338-0718,4.6,111,22057,7,Mars Red,Silk Beige/Espresso Brown,7-SPEED A/T,All Wheel Drive,WDDKJ8JB8EF279034
+2013 Mercedes-Benz  GL 450 4MATIC,2013,Mercedes-Benz,White,33944,Stark Automotive Stoughton,(608) 205-4260,4.6,57,65237,12,Diamond White Metallic,Almond Beige,7-Speed Automatic,AWD,4JGDF7CE5DA249101
+2007 Mercedes-Benz  S 550 4MATIC,2007,Mercedes-Benz,Gray,15974,Portage Motors,(608) 402-4824,4.8,20,98889,32,Flint Gray Metallic,GRAY,7 speed automatic,AWD,WDDNG86X37A103136
+2005 Mercedes-Benz  E500 4MATIC,2005,Mercedes-Benz,Silver,8995,Pete Raskovic Automotive,(888) 285-2231,,,138005,33,Silver,Black,5-Speed Automatic,AWD,WDBUF83J25X171896
+2015 Mercedes-Benz  E 350 4MATIC,2015,Mercedes-Benz,Silver,29855,Kayser Chrysler Center Watertown,(920) 545-2133,5,124,35199,35,Silver,Gray / Dark Gray,7-Speed Automatic,AWD,WDDHF8JB4FB086738
+2008 Mercedes-Benz  C 300 Luxury 4MATIC,2008,Mercedes-Benz,Red,10850,Jim O'Connor Select Auto,(262) 347-4147,4.9,157,99224,45,Red,Black,7-Speed Automatic,AWD,WDDGF81X58F143788
+2010 Mercedes-Benz  GLK 350 4MATIC,2010,Mercedes-Benz,Blue,13899,Ewald Chrysler Dodge Jeep Ram of Oconomowoc,(262) 326-1871,4.5,89,105338,46,Blue,Black,7-Speed Automatic,AWD,WDCGG8HB5AF427083
+2015 Mercedes-Benz  GL 350 BlueTEC 4MATIC,2015,Mercedes-Benz,Orange,43977,Kunes Country Chevrolet Cadillac of Delavan,(262) 586-4283,4.7,720,39027,49,Burnt Orange,Black,7-Speed Automatic,AWD,4JGDF2EEXFA490266
+2006 Mercedes-Benz  E 350 4MATIC,2006,Mercedes-Benz,Gray,8950,Kunes Country Chevrolet Cadillac of Delavan,(262) 586-4283,4.7,720,173702,49,Gray,,5-Speed Automatic,AWD,WDBUF87J86X188732
+1982 Mercedes-Benz  380SL,1982,Mercedes-Benz,Black,7900,MSI Auto Sales,(608) 478-2670,3.9,12,177770,6,Black,Gray,Automatic,Front Wheel Drive,WDBBA45A5CB015308
+2013 Mercedes-Benz  SLK 250,2013,Mercedes-Benz,Black,25995,Schoepp Motors West,(608) 729-3822,4.8,1543,35227,6,Black,,7-Speed Automatic,RWD,WDDPK4HA6DF060452
+2012 Mercedes-Benz  GLK 350 4MATIC,2012,Mercedes-Benz,Other,21999,Lakeland Chevrolet Buick,(262) 912-6920,5,21,65697,25,,,7-Speed Automatic,AWD,WDCGG8HB0CF904697
+2011 Mercedes-Benz  GLK 350,2011,Mercedes-Benz,White,16495,Scott Motors,(608) 318-4095,,,78277,4,White,Tan,Automatic,All Wheel Drive,WDCGG8HB2BF584314
+2015 Mercedes-Benz  E400W4,2015,Mercedes-Benz,Black,34900,Zimbrick European,,5,7,42732,2,Black,Black Leather,AUTOMATIC,AWD,WDDHF6HB6FA997461
+2015 Mercedes-Benz  C300W4,2015,Mercedes-Benz,Gray,27900,Zimbrick European,,5,7,14270,2,Steel Grey,Black Mb-Tex,AUTOMATIC,AWD,55SWF4KB5FU084971
+2015 Mercedes-Benz  GL450W4,2015,Mercedes-Benz,White,43317,Zimbrick European,,5,7,37705,2,Polar White,Black Mb-Tex,AUTOMATIC,AWD,4JGDF6EE8FA509582
+2016 Mercedes-Benz  GLE350W4,2016,Mercedes-Benz,Gray,41900,Zimbrick European,,5,7,37594,2,Steel Grey,Black Mb-Tex,AUTOMATIC,AWD,4JGDA5HB0GA671797
+2015 Mercedes-Benz  GL450W4,2015,Mercedes-Benz,Gray,42900,Zimbrick European,,5,7,40315,2,Steel Grey,Black Mb-Tex,AUTOMATIC,AWD,4JGDF6EE8FA521828
+2015 Mercedes-Benz  C300W4,2015,Mercedes-Benz,White,25250,Zimbrick European,,5,7,41862,2,Polar White,Black Mb-Tex,AUTOMATIC,AWD,55SWF4KB7FU025792
+2003 Mercedes-Benz  5.0L,2003,Mercedes-Benz,Black,6977,Viking Motorcars,(608) 205-4446,4,13,93890,13,Black,Charcoal,5-SPEED A/T,Rear Wheel Drive,WDBUF70J03A267654
+2015 Mercedes-Benz  ML350W4,2015,Mercedes-Benz,Black,33900,Zimbrick European,,5,7,35549,2,Black,Black Mb-Tex,AUTOMATIC,AWD,4JGDA5HB2FA498007
+2001 Mercedes-Benz  S430,2001,Mercedes-Benz,Black,7995,German Auto House,(608) 467-4941,5,1,78039,2,Black,Black,5-Speed Automatic,RWD,WDBNG70J61A202225
+2008 Mercedes-Benz  5.5L V8,2008,Mercedes-Benz,Black,15900,MSI Auto Sales,(608) 478-2670,3.9,12,121701,6,Black,Black,7-SPEED A/T,All Wheel Drive,WDDNG86X38A161216
+2011 Mercedes-Benz  ML 350 BlueTEC,2011,Mercedes-Benz,Black,12900,MSI Auto Sales,(608) 478-2670,3.9,12,128126,6,Black,Black,7-SPEED A/T,All Wheel Drive,4JGBB2FB6BA699179
+2016 Mercedes-Benz  GLE350W4,2016,Mercedes-Benz,Silver,41900,Zimbrick European,,5,7,46165,2,Iridium Silver,Black Mb-Tex,AUTOMATIC,AWD,4JGDA5HB8GA635484
+2015 Mercedes-Benz  C300W4,2015,Mercedes-Benz,Black,26900,Zimbrick European,,5,7,23045,2,Black,Black Mb-Tex,AUTOMATIC,AWD,55SWF4KB4FU031842
+2005 Mercedes-Benz  5.0L,2005,Mercedes-Benz,Black,8990,Used Car Factory,(608) 440-2351,3,4,90259,33,Black,Black,5-SPEED A/T,All Wheel Drive,WDBUF83J55X170659
+2005 Mercedes-Benz  5.0L,2005,Mercedes-Benz,Gray,8990,Used Car Factory,(608) 440-2351,3,4,94742,33,Gray,Gray,5-SPEED A/T,All Wheel Drive,WDBUF83J35X172667
+2017 Mercedes-Benz  SL450R,2017,Mercedes-Benz,Black,82900,Zimbrick European,,5,7,1011,2,Black,Saddle Brown/Black Nappa Leather,AUTOMATIC,RWD,WDDJK6GA8HF047517
+2007 Mercedes-Benz  5.5L V8,2007,Mercedes-Benz,Blue,13900,MSI Auto Sales,(608) 478-2670,3.9,12,100973,6,Light Blue,Black,7-SPEED A/T,Rear Wheel Drive,WDDNG71XX7A069097
+2007 Mercedes-Benz  C280 4MATIC,2007,Mercedes-Benz,Silver,7200,Nick,,,,110828,43,Silver,Black,Automatic,AWD,
+2015 Mercedes-Benz  C 300,2015,Mercedes-Benz,Gray,26998,CarMax Madison,(608) 286-3923,4.3,3,22917,5,Gray,Black,Automatic,AWD,55SWF4KB3FU059616
+2015 Mercedes-Benz  C 300 4MATIC Sport,2015,Mercedes-Benz,Silver,27900,"Autohandler, LLC",,,,40775,4,Silver,Gray,Automatic,AWD,
+2012 Mercedes-Benz  S 550 4MATIC,2012,Mercedes-Benz,Black,27500,Meghan,,,,91000,34,Black,Black,Automatic,AWD,
+2016 Mercedes-Benz  E350W4,2016,Mercedes-Benz,White,36900,Zimbrick European,,5,7,33438,2,Polar White,Silk Beige Mb-Tex,AUTOMATIC,AWD,WDDHF8JB6GB256955
+2015 Mercedes-Benz  GLK350W4,2015,Mercedes-Benz,Gray,30900,Zimbrick European,,5,7,22525,2,Steel Grey,Black Mb-Tex,AUTOMATIC,AWD,WDCGG8JB0FG398300
+2017 Mercedes-Benz  GLE350W4,2017,Mercedes-Benz,Gray,47900,Zimbrick European,,5,7,22223,2,Selenite Grey,Black Mb-Tex,AUTOMATIC,AWD,4JGDA5HB5HA882527
+2005 Mercedes-Benz  E320,2005,Mercedes-Benz,Silver,9900,Zimbrick at Fish Hatchery Road,(608) 338-1471,4.3,376,77857,2,Brilliant Silver Metallic,Stone,5-Speed Automatic,RWD,WDBUF26J15A718409
+2011 Mercedes-Benz  GL 550 4MATIC,2011,Mercedes-Benz,Black,28900,Zimbrick at Fish Hatchery Road,(608) 338-1471,4.3,376,43377,2,Black,Charcoal,7-Speed Automatic,AWD,4JGBF8GE1BA723081
+2014 Mercedes-Benz  CLA 250,2014,Mercedes-Benz,Black,19900,MSI Auto Sales,(608) 478-2670,3.9,12,55129,6,Black,Black,7-SPEED A/T,All Wheel Drive,WDDSJ4GB1EN103593
+2014 Mercedes-Benz  C 300 4MATIC,2014,Mercedes-Benz,White,22700,Schoepp Motors West,(608) 729-3822,4.8,1543,29100,6,White,,7-Speed Automatic,AWD,WDDGF8AB0ER320570
+2014 Mercedes-Benz  ML 350 4MATIC,2014,Mercedes-Benz,Blue,24995,Schoepp Motors West,(608) 729-3822,4.8,1543,80078,6,Blue,,7-Speed Automatic,AWD,4JGDA5HB1EA360540
+2015 Mercedes-Benz  ML 350,2015,Mercedes-Benz,White,31989,Zimbrick Hyundai Eastside,(608) 338-1462,4.9,303,39394,7,Polar White,Almond Beige/Mocha,7-Speed A/T,All Wheel Drive,4JGDA5HB8FA459261
+2011 Mercedes-Benz  C 300 4MATIC,2011,Mercedes-Benz,Black,12790,Jim O'Connor Select Auto,(262) 347-4147,4.9,157,86949,45,Black,,7-Speed Automatic,AWD,WDDGF8BB4BR177097

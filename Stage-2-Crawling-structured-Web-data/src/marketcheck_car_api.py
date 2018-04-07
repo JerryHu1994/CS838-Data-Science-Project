@@ -55,7 +55,7 @@ def pipeline_market_check(directory='./'):
 
     short_csv_header = ["name", "VIN", "price", "miles", "Exterior Color", "Interior Color"]
     dict_header = ["heading", "vin", "price", "miles", "exterior_color", "interior_color"] # names from API response
-    long_csv_header = ["name", "VIN", "year", "price", "miles",\
+    long_csv_header = ["name", "VIN", "make", "model", "year", "price", "miles",\
             "Exterior Color", "Interior Color", "Seller Name", \
             "Seller Phone", "Transmission", "Drivetrain" ] # car attributes stored in csv table
     csv_rows = [] # stores each crawled car as an dictionary
@@ -81,6 +81,8 @@ def pipeline_market_check(directory='./'):
                 car_dict["Transmission"] = build.get("transmission", None)
                 car_dict["Drivetrain"] = build.get("drivetrain", None)
                 car_dict["year"] = build.get("year", None)
+                car_dict["make"] = build.get("make", None)
+                car_dict["model"] = build.get("model", None)
             csv_rows.append(dict(car_dict))
 
     # write data to csv file

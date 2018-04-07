@@ -27,7 +27,14 @@ def main():
     all_data = [pd.read_csv(f) for f in csv_files]
     merged_data = pd.concat(all_data, ignore_index=True)
     merged_data['id'] = range(0, len(merged_data))
-    merged_data.to_csv(sys.argv[1], encoding='utf-8',index=False)
+
+    print ("The size of the merged_data for path {} is {}".format(csv_path, len(merged_data)))
+    # filter the duplicated VIN
+    filtered_data = merged_data.drop_duplicates(subset=['VIN'])
+    print ("The size of the data after droping the duplicated VIN is {}".format(len(filtered_data)))
+
+    filtered_data.to_csv(sys.argv[1], encoding='utf-8',index=False)
+
 
 if __name__ == "__main__":
     main()
