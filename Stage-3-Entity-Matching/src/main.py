@@ -37,7 +37,7 @@ def main():
     print("Number of tuples in market_check:{}".format(len(market_check_data)))
 
     # let's merge by VIN first
-    merge_by_VIN()
+    # merge_by_VIN()
 
     # downsampling
     print("Downsampling the input data...")
@@ -66,7 +66,7 @@ def main():
     year_block.set_black_box_function(compare_car_year)
     year_block_result = year_block.block_tables(cars_com_downsampled, market_check_downsampled,
     l_output_attrs=l_attri_kept, r_output_attrs=r_attri_kept, show_progress=False)
-'''
+    '''
 
     # combine all blocking results
     block_result = em.combine_blocker_outputs_via_union([brand_block_result, year_block_result])
