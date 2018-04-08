@@ -100,6 +100,8 @@ def craw_from_url(start_url, csv_name):
 
         # for each car, extract and insert information into csv table
         for ind, car_data in enumerate(cars_info):
+            if count == 0:
+                print(car_data)
             count += 1
             # print (count, ": ", car_data['name'])
             car_info = {"name": car_data['name'], "brand": car_data['brand']['name'], "color":
@@ -130,4 +132,4 @@ def craw_from_url(start_url, csv_name):
 
 
 if __name__ == "__main__":
-  pipeline_carscom()
+    pipeline_carscom()

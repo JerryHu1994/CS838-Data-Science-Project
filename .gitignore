@@ -2,4 +2,9 @@
 .DS_Store
 .Rhistory
 Stage-1-IE-from-natural-text/files/
+Stage-2-Crawling-structured-Web-data/data/cars_com_data/*
+Stage-2-Crawling-structured-Web-data/data/edmunds_data/*
+Stage-2-Crawling-structured-Web-data/data/market_check_data/*
+
+
 
