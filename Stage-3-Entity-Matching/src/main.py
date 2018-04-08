@@ -57,10 +57,9 @@ def main():
     block_f = em.get_features_for_blocking(cars_com_downsampled, market_check_downsampled)
     block_f
     # 2nd block on year
-    year_block = em.RuleBasedBlocker()
-    year_block.add_rule(['year_year_lev_sim(ltuple, rtuple) < 0.8'], block_f)
+    year_block = em.AttrEquivalenceBlocker()
     year_block_result = year_block.block_tables(cars_com_downsampled, market_check_downsampled,
-    l_output_attrs=l_attri_kept, r_output_attrs=r_attri_kept,  show_progress=False)
+    l_block_attr='year', r_block_attr='year', l_output_attrs=l_attri_kept, r_output_attrs=r_attri_kept)
     '''
     year_block = em.BlackBoxBlocker()
     year_block.set_black_box_function(compare_car_year)
