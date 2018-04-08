@@ -27,18 +27,24 @@ cd Stage-2-Crawling-structured-Web-data
 bash stage2_pipeline.sh
 ```
 
-* Stage 3: [Entity Matcing](https://sites.google.com/site/anhaidgroup/courses/cs-838-spring-2018/project-description/stage-3):
+* Stage 3: [Entity Matching](https://sites.google.com/site/anhaidgroup/courses/cs-838-spring-2018/project-description/stage-3):
+
+To run the script to crawl luxury cars:
+```
+cd Stage-3-Entity-Matching/src
+bash crawl_luxury_car.sh
+```
 
 **Entity Matching Pipeline**
 
-1. Reading two tables from CSV files: [Jupyter notebook](Stage-3-Entity-Matching/notebooks/read-csv.ipynb)
-2. Down Sampling: [Jupyter notebook](Stage-3-Entity-Matching/notebooks/down-sampling.ipynb)
-3. Blocking: [Jupyter notebook](Stage-3-Entity-Matching/notebooks/block.ipynb)
-4. Feature table: [Jupyter notebook](Stage-3-Entity-Matching/notebooks/features.ipynb)
+1. Reading two tables from CSV files: [read-csv](Stage-3-Entity-Matching/notebooks/read-csv.ipynb)
+2. Down Sampling: [down-sampling](Stage-3-Entity-Matching/notebooks/down-sampling.ipynb)
+3. Blocking: [blocking](Stage-3-Entity-Matching/notebooks/block.ipynb)
+4. Feature table: [get-features](Stage-3-Entity-Matching/notebooks/features.ipynb)
 5. Sampling and labeling
-	* Sampling: [Jupyter notebook](Stage-3-Entity-Matching/notebooks/sample.ipynb)
-	* Labeling: [Jupyter notebook](Stage-3-Entity-Matching/notebooks/label.ipynb)
-6. Matching: [Jupyter notebook](Stage-3-Entity-Matching/notebooks/match.ipynb)
+	* Sampling: [sampling](Stage-3-Entity-Matching/notebooks/sample.ipynb)
+	* Labeling: [labelling](Stage-3-Entity-Matching/notebooks/label.ipynb)
+6. Matching: [matching](Stage-3-Entity-Matching/notebooks/match.ipynb)
 
 
 
