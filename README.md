@@ -1,7 +1,7 @@
 # CS838-Data-Science-Project
 The git repo for CS 838 Data Science in UW-Madison
 
-* Stage 1: [Information extraction from natural text](https://sites.google.com/site/anhaidgroup/courses/cs-838-spring-2018/project-description/stage-1)<br>
+* ##Stage 1: [Information extraction from natural text](https://sites.google.com/site/anhaidgroup/courses/cs-838-spring-2018/project-description/stage-1)<br>
 In this project, we build a learning based information extractor which can extract person 
 names from natural text documents. The data we used is IMDb users' comments.
 Training set contains 1461 positive samples and 1500 negative samples.
