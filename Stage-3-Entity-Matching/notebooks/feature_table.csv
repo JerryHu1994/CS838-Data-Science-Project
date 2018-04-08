@@ -1,0 +1,105 @@
+feature_name,left_attribute,right_attribute,left_attr_tokenizer,right_attr_tokenizer,simfunction,function,function_source,is_auto_generated
+year_year_exm,year,year,,,exact_match,<function year_year_exm at 0x11600b9d8>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def year_year_exm(ltuple, rtuple):
+    return exact_match(ltuple[""year""], rtuple[""year""])",True
+year_year_anm,year,year,,,abs_norm,<function year_year_anm at 0x11600b7b8>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def year_year_anm(ltuple, rtuple):
+    return abs_norm(ltuple[""year""], rtuple[""year""])",True
+year_year_lev_dist,year,year,,,lev_dist,<function year_year_lev_dist at 0x11600b8c8>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def year_year_lev_dist(ltuple, rtuple):
+    return lev_dist(ltuple[""year""], rtuple[""year""])",True
+year_year_lev_sim,year,year,,,lev_sim,<function year_year_lev_sim at 0x11600ba60>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def year_year_lev_sim(ltuple, rtuple):
+    return lev_sim(ltuple[""year""], rtuple[""year""])",True
+maker_maker_lev_dist,maker,maker,,,lev_dist,<function maker_maker_lev_dist at 0x11600bb70>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def maker_maker_lev_dist(ltuple, rtuple):
+    return lev_dist(ltuple[""maker""], rtuple[""maker""])",True
+maker_maker_lev_sim,maker,maker,,,lev_sim,<function maker_maker_lev_sim at 0x11600bbf8>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def maker_maker_lev_sim(ltuple, rtuple):
+    return lev_sim(ltuple[""maker""], rtuple[""maker""])",True
+maker_maker_jar,maker,maker,,,jaro,<function maker_maker_jar at 0x11600bc80>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def maker_maker_jar(ltuple, rtuple):
+    return jaro(ltuple[""maker""], rtuple[""maker""])",True
+maker_maker_jwn,maker,maker,,,jaro_winkler,<function maker_maker_jwn at 0x11600bd08>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def maker_maker_jwn(ltuple, rtuple):
+    return jaro_winkler(ltuple[""maker""], rtuple[""maker""])",True
+maker_maker_exm,maker,maker,,,exact_match,<function maker_maker_exm at 0x11600bd90>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def maker_maker_exm(ltuple, rtuple):
+    return exact_match(ltuple[""maker""], rtuple[""maker""])",True
+maker_maker_jac_qgm_3_qgm_3,maker,maker,qgm_3,qgm_3,jaccard,<function maker_maker_jac_qgm_3_qgm_3 at 0x11600be18>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def maker_maker_jac_qgm_3_qgm_3(ltuple, rtuple):
+    return jaccard(qgm_3(ltuple[""maker""]), qgm_3(rtuple[""maker""])) ",True
+price_price_exm,price,price,,,exact_match,<function price_price_exm at 0x11600bea0>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def price_price_exm(ltuple, rtuple):
+    return exact_match(ltuple[""price""], rtuple[""price""])",True
+price_price_anm,price,price,,,abs_norm,<function price_price_anm at 0x11600bf28>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def price_price_anm(ltuple, rtuple):
+    return abs_norm(ltuple[""price""], rtuple[""price""])",True
+price_price_lev_dist,price,price,,,lev_dist,<function price_price_lev_dist at 0x11604b048>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def price_price_lev_dist(ltuple, rtuple):
+    return lev_dist(ltuple[""price""], rtuple[""price""])",True
+price_price_lev_sim,price,price,,,lev_sim,<function price_price_lev_sim at 0x11604b0d0>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def price_price_lev_sim(ltuple, rtuple):
+    return lev_sim(ltuple[""price""], rtuple[""price""])",True
+miles_miles_exm,miles,miles,,,exact_match,<function miles_miles_exm at 0x11604b158>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def miles_miles_exm(ltuple, rtuple):
+    return exact_match(ltuple[""miles""], rtuple[""miles""])",True
+miles_miles_anm,miles,miles,,,abs_norm,<function miles_miles_anm at 0x11604b1e0>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def miles_miles_anm(ltuple, rtuple):
+    return abs_norm(ltuple[""miles""], rtuple[""miles""])",True
+miles_miles_lev_dist,miles,miles,,,lev_dist,<function miles_miles_lev_dist at 0x11604b268>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def miles_miles_lev_dist(ltuple, rtuple):
+    return lev_dist(ltuple[""miles""], rtuple[""miles""])",True
+miles_miles_lev_sim,miles,miles,,,lev_sim,<function miles_miles_lev_sim at 0x11604b2f0>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def miles_miles_lev_sim(ltuple, rtuple):
+    return lev_sim(ltuple[""miles""], rtuple[""miles""])",True
+exterior_color_exterior_color_jac_qgm_3_qgm_3,exterior_color,exterior_color,qgm_3,qgm_3,jaccard,<function exterior_color_exterior_color_jac_qgm_3_qgm_3 at 0x11604b378>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def exterior_color_exterior_color_jac_qgm_3_qgm_3(ltuple, rtuple):
+    return jaccard(qgm_3(ltuple[""exterior_color""]), qgm_3(rtuple[""exterior_color""])) ",True
+exterior_color_exterior_color_cos_dlm_dc0_dlm_dc0,exterior_color,exterior_color,dlm_dc0,dlm_dc0,cosine,<function exterior_color_exterior_color_cos_dlm_dc0_dlm_dc0 at 0x11604b400>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def exterior_color_exterior_color_cos_dlm_dc0_dlm_dc0(ltuple, rtuple):
+    return cosine(dlm_dc0(ltuple[""exterior_color""]), dlm_dc0(rtuple[""exterior_color""])) ",True
+exterior_color_exterior_color_jac_dlm_dc0_dlm_dc0,exterior_color,exterior_color,dlm_dc0,dlm_dc0,jaccard,<function exterior_color_exterior_color_jac_dlm_dc0_dlm_dc0 at 0x11604b488>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def exterior_color_exterior_color_jac_dlm_dc0_dlm_dc0(ltuple, rtuple):
+    return jaccard(dlm_dc0(ltuple[""exterior_color""]), dlm_dc0(rtuple[""exterior_color""])) ",True
+exterior_color_exterior_color_mel,exterior_color,exterior_color,,,monge_elkan,<function exterior_color_exterior_color_mel at 0x11604b510>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def exterior_color_exterior_color_mel(ltuple, rtuple):
+    return monge_elkan(ltuple[""exterior_color""], rtuple[""exterior_color""])",True
+exterior_color_exterior_color_lev_dist,exterior_color,exterior_color,,,lev_dist,<function exterior_color_exterior_color_lev_dist at 0x11604b598>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def exterior_color_exterior_color_lev_dist(ltuple, rtuple):
+    return lev_dist(ltuple[""exterior_color""], rtuple[""exterior_color""])",True
+exterior_color_exterior_color_lev_sim,exterior_color,exterior_color,,,lev_sim,<function exterior_color_exterior_color_lev_sim at 0x11604b620>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def exterior_color_exterior_color_lev_sim(ltuple, rtuple):
+    return lev_sim(ltuple[""exterior_color""], rtuple[""exterior_color""])",True
+exterior_color_exterior_color_nmw,exterior_color,exterior_color,,,needleman_wunsch,<function exterior_color_exterior_color_nmw at 0x11604b6a8>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def exterior_color_exterior_color_nmw(ltuple, rtuple):
+    return needleman_wunsch(ltuple[""exterior_color""], rtuple[""exterior_color""])",True
+exterior_color_exterior_color_sw,exterior_color,exterior_color,,,smith_waterman,<function exterior_color_exterior_color_sw at 0x11604b730>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def exterior_color_exterior_color_sw(ltuple, rtuple):
+    return smith_waterman(ltuple[""exterior_color""], rtuple[""exterior_color""])",True

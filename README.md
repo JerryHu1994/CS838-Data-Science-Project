@@ -29,4 +29,17 @@ bash stage2_pipeline.sh
 
 * Stage 3: [Entity Matcing](https://sites.google.com/site/anhaidgroup/courses/cs-838-spring-2018/project-description/stage-3):
 
+**Entity Matching Pipeline**
+
+1. Reading two tables from CSV files: [Jupyter notebook](Stage-3-Entity-Matching/notebooks/read-csv.ipynb)
+2. Down Sampling: [Jupyter notebook](Stage-3-Entity-Matching/notebooks/down-sampling.ipynb)
+3. Blocking: [Jupyter notebook](Stage-3-Entity-Matching/notebooks/block.ipynb)
+4. Feature table: [Jupyter notebook](Stage-3-Entity-Matching/notebooks/features.ipynb)
+5. Sampling and labeling
+	* Sampling: [Jupyter notebook](Stage-3-Entity-Matching/notebooks/sample.ipynb)
+	* Labeling: [Jupyter notebook](Stage-3-Entity-Matching/notebooks/label.ipynb)
+6. Matching: [Jupyter notebook](Stage-3-Entity-Matching/notebooks/match.ipynb)
+
+
+
 
