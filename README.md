@@ -47,6 +47,6 @@ bash crawl_luxury_car.sh
 	* Labeling: [labelling](Stage-3-Entity-Matching/notebooks/label.ipynb)
 6. Matching: [matching](Stage-3-Entity-Matching/notebooks/match.ipynb)
 
-
+Note: The Entity Matching package Magellan could be installed by following [instructions](http://anhaidgroup.github.io/py_entitymatching/v0.3.x/user_manual/installation.html)
 
 
