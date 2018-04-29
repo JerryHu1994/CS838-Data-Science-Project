@@ -89,7 +89,10 @@ def craw_from_url(start_url, csv_name):
             oururl = uopen.read()
         soup = bs(oururl, 'lxml')
         # get car general information from json script
-        cars_info = json.loads(soup.find('script', type='application/ld+json').text)
+        # 04/29/18 YZ
+        contents = soup.findAll('script', type='application/ld+json')[-1].text
+        # cars_info = json.loads(soup.find('script', type='application/ld+json').text)
+        cars_info = json.loads(contents)
 
         # get more detailed car information from HTML tags
         cars_detail_list = soup.find_all('div', class_='shop-srp-listings__listing')
@@ -100,8 +103,8 @@ def craw_from_url(start_url, csv_name):
 
         # for each car, extract and insert information into csv table
         for ind, car_data in enumerate(cars_info):
-            if count == 0:
-                print(car_data)
+            # if count == 0:
+            #    print(car_data)
             count += 1
             # print (count, ": ", car_data['name'])
             car_info = {"name": car_data['name'], "brand": car_data['brand']['name'], "color":
