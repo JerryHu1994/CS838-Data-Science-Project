@@ -49,4 +49,7 @@ bash crawl_luxury_car.sh
 
 Note: The Entity Matching package Magellan could be installed by following [instructions](http://anhaidgroup.github.io/py_entitymatching/v0.3.x/user_manual/installation.html).
 
-
+* **Stage 4**: [Integration and Analysis](https://sites.google.com/site/anhaidgroup/courses/cs-838-spring-2018/project-description/stage-4)<br>
+In stage 4, We performed data integration and data analysis on the car dataset crawled from Cars.com. A list of different analysis is done seperately in the Jupyter Notebook, as following:
+1. [Price-Year-Analysis](https://github.com/JerryHu1994/CS838-Data-Science-Project/blob/master/Stage-4-Integration-and-Analysis/notebooks/price-year-analysis.ipynb): We pick three luxury car models, and study the car price versus year correlation. We compare the correlation trends between these three luxury models. Visualization is provided.
+2. [Price-Miles-Analysis](https://github.com/JerryHu1994/CS838-Data-Science-Project/blob/master/Stage-4-Integration-and-Analysis/notebooks/price-miles-analysis.ipynb): We pick three luxury car models, and study the car price versus miles correlation. The price decreasing trend is plotted for comparison. In addition, we performed a quadratic regression for each car model (price versus miles). We calculate the derivative function of the regression equation to determine the car with most slowly price decreasing rate versus year. In the end, the most value-preserving car model is determined.
