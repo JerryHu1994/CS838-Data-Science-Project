@@ -3,33 +3,60 @@
 # University of Wisconsin-Madison
 # Author: Yaqi Zhang, Jieru Hu
 ##################################
-# this module contains functions
-# that can prune negative samples
-##################################
+"""
+this module contains functions that can prune negative samples
+"""
 
+# standard library
 import sys
 import random
+
+# third party library
 import numpy as np
 import matplotlib.pyplot as plt
 
+# set random seed for debug
+random.seed(10)
 
-def has_numbers(string):
+
+def _has_digits(string):
+    """
+    returns if a string has digits or not
+
+    Args:
+        string
+
+    Returns:
+        True or False
+    """
     return any(char.isdigit() for char in string)
 
 
-def has_parenthese(string):
+def _has_parenthese(string):
+    """
+    returns if a string has parenthese or not
+
+    Args:
+        string
+
+    Returns:
+        True or False
+    """
     return any(char in ['(', ')'] for char in string)
 
 
 def main():
-    '''prune training/testing negative samples
-       for training:
-       pick samples randomly according to frequency and write them to pruned file
-       for testing:
-       pick 850 negative samples
-    '''
+    """
+    prune training/testing negative samples
+    for training:
+    pick samples randomly according to frequency and write them to pruned file
+    for testing:
+    pick 850 negative samples
+    """
     if len(sys.argv) != 5:
-        print("Usage: >> python {} <in_filename> <out_filename> <black_filename> <train or test>".format(sys.argv[0]))
+        print(
+            "Usage: >> python {} <in_filename> <out_filename> <black_filename> <train or test>".format(
+                sys.argv[0]))
         sys.exit(1)
     in_filename, out_filename, black_filename = sys.argv[1:4]
     train = True if sys.argv[-1] == "train" else False
@@ -43,7 +70,8 @@ def main():
         lines = [line.strip() for line in f.readlines()]
     count = 0
     if train:
-        # pick 1500 negative samples, 660 single word, 795 double words, 45 triple word
+        # pick 1500 negative samples, 660 single word, 795 double words, 45
+        # triple word
         numbers = [660, 795, 45]
         lst = [[], [], []]
         lens = set()
@@ -51,13 +79,16 @@ def main():
             word = line.split(", ")[0]
             tokens = word.lower().split()
             for token in tokens:
-                if token in blacklist or has_numbers(token) or has_parenthese(token):
+                if token in blacklist or _has_digits(
+                        token) or _has_parenthese(token):
                     break
             else:
                 lens.add(len(tokens))
                 lst[len(tokens) - 1].append(line)
                 count += 1
-        print("negative sample are pruned from {:d} to {:d}".format(len(lines), count))
+        print(
+            "negative sample are pruned from {:d} to {:d}".format(
+                len(lines), count))
         picked = []
         picked.extend(random.sample(lst[0], numbers[0]))
         picked.extend(random.sample(lst[1], numbers[1]))
@@ -70,13 +101,16 @@ def main():
             word = line.split(", ")[0]
             tokens = word.lower().split()
             for token in tokens:
-                if token in blacklist or has_numbers(token) or has_parenthese(token):
+                if token in blacklist or _has_digits(
+                        token) or _has_parenthese(token):
                     break
             else:
                 lens.add(len(tokens))
                 lst.append(line)
                 count += 1
-        print("negative sample are pruned from {:d} to {:d}".format(len(lines), count))
+        print(
+            "negative sample are pruned from {:d} to {:d}".format(
+                len(lines), count))
         picked = random.sample(lst, n_samples)
 
     with open(out_filename, 'w') as f:
