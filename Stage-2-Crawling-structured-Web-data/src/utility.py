@@ -3,18 +3,27 @@
 # University of Wisconsin-Madison
 # Author: Yaqi Zhang, Jieru Hu
 ##################################
-# This module contains some utility functions
-#############################################
+"""
+This module contains some utility functions
+"""
 
 import os
 import sys
 import csv
 
+
 def user_input():
-    """parse command line args"""
+    """
+    parse command line args
+
+    Returns:
+        A tuple contains search query
+    """
     if len(sys.argv) != 8:
-        print("Usage: >> python {} <maker> <model/all> <zip> <radius> <used/new/all> <json or keyfile> <output_dir>".format(sys.argv[0]))
-        print("e.g. python {} Honda Accord 53715 25 used <json or keyfile> ./data/".format(sys.argv[0]))
+        print(
+            "Usage: >> python {} <maker> <model/all> <zip> <radius> <used/new/all> <json or keyfile> <output_dir>".format(sys.argv[0]))
+        print(
+            "e.g. python {} Honda Accord 53715 25 used <json or keyfile> ./data/".format(sys.argv[0]))
         sys.exit(1)
     # need to add validation check
     maker = sys.argv[1]
@@ -24,11 +33,20 @@ def user_input():
     condition = sys.argv[5]
     extra_file = sys.argv[6]
     output_dir = sys.argv[7]
-    os.makedirs(output_dir, exist_ok=True) # if the output_dir does not exist, create it
+    # if the output_dir does not exist, create it
+    os.makedirs(output_dir, exist_ok=True)
     return (maker, model, zipcode, radius, condition, extra_file, output_dir)
 
+
 def write_cars_to_csv(csv_name, csv_header, csv_rows):
-    """create csv file and write rows to the csv file"""
+    """
+    create csv file and write rows to the csv file
+
+    Args:
+        csv_name: csv filename
+        csv_header: csv header name
+        csv_rows: csv rows
+    """
     # delete previous csv file with the same name
     if os.path.exists(csv_name):
         try:
@@ -42,7 +60,11 @@ def write_cars_to_csv(csv_name, csv_header, csv_rows):
         writer.writeheader()
         for row in csv_rows:
             writer.writerow(row)
-    print("Writing {:d} cars information to {:s}".format(len(csv_rows), csv_name))
+    print(
+        "Writing {:d} cars information to {:s}".format(
+            len(csv_rows),
+            csv_name))
+
 
 if __name__ == "__main__":
     print("Hello World")

@@ -3,11 +3,12 @@
 # University of Wisconsin-Madison
 # Author: Yaqi Zhang, Jieru Hu
 ##################################
-# This module contains functions
-# that generates url on cars.com
-# according to user's key words
-##################################
+"""
+This module contains functions that generates url on cars.com
+according to user's query
+"""
 
+# standard library
 import sys
 import random
 import string
@@ -16,24 +17,36 @@ import json
 import csv
 from difflib import SequenceMatcher
 from collections import OrderedDict, defaultdict
-from utility import write_cars_to_csv
 # from pprint import pprint
 
+# local library
+from utility import write_cars_to_csv
 
 
 def construct_maker_model_dict(data_file='model_codes_carscom.csv'):
-    """construct a dict d[maker][model] = (maker_id, model_id)"""
+    """
+    construct a dict d[maker][model] = (maker_id, model_id) from
+    csv file
+
+    Args:
+        data_file: model codes csv file
+    """
     d = defaultdict(dict)
     with open(data_file, 'r') as f:
         reader = csv.DictReader(f)
         for line in reader:
-            d[line['maker']][line['model']] = (line['maker code'],\
-                    line['model code'])
+            d[line['maker']][line['model']] = (line['maker code'],
+                                               line['model code'])
     return d
 
 
 def guess_car_brand(data_file='model_codes_carscom.csv'):
-    """A terminal game which lets user guess car brand"""
+    """
+    A terminal game which lets user guess car brand
+
+    Args:
+        data_file: model codes file for cars.com
+    """
     num_questions = 10
     num_correct = 0
     num_choices = 4
@@ -50,8 +63,8 @@ def guess_car_brand(data_file='model_codes_carscom.csv'):
     while count > 0:
         count -= 1
         model, brand = random.choice(list(model_brand_pairs.items()))
-        print("What is the brand of {}? (choose one from {} to {})".\
-                format(model, letters[0], letters[-1]))
+        print("What is the brand of {}? (choose one from {} to {})".
+              format(model, letters[0], letters[-1]))
         choices = random.sample(brands, num_choices - 1)
         choices.append(brand)
         random.shuffle(choices)
@@ -75,8 +88,9 @@ def guess_car_brand(data_file='model_codes_carscom.csv'):
 
 
 def extract_maker_model_codes(csv_name):
-    """extract maker and model cars.com code and store in
-       a csv file
+    """
+    extract maker and model cars.com code and store in
+    a csv file
     """
     csv_header = ['maker', 'model', 'maker code', 'model code']
     csv_rows = []
@@ -97,7 +111,16 @@ def extract_maker_model_codes(csv_name):
 
 
 def similar(sa, sb):
-    """compute similarity ratio of two strings"""
+    """
+    compute similarity ratio of two strings
+
+    Args:
+        sa: string a
+        sb: string b
+
+    Returns:
+        similarity ratio of sa and sb
+    """
     return SequenceMatcher(None, sa, sb).ratio()
 
 
@@ -108,12 +131,22 @@ def main():
     for i, maker in enumerate(data, 1):
         print("{:2d}. {:s}\t{:d}".format(i, maker['nm'], maker['id']))
         for j, model in enumerate(maker['md'], 1):
-            print("\t{:2d}.{:d} {:s}\t{}".format\
-                    (i, j, model['nm'], model['id']))
+            print("\t{:2d}.{:d} {:s}\t{}".format
+                  (i, j, model['nm'], model['id']))
 
 
 def search_makerID_and_modelID(mk, md, car_json_file):
-    '''search maker id and model id'''
+    """
+    search maker id and model id
+
+    Args:
+        mk: maker string
+        md: model string
+        car_json_file: cars.com mk-md json file
+
+    Returns:
+        (mkid, mdid): maker id, model id
+    """
     data = json.load(open(car_json_file))
     data = data['all']
     mk = mk.lower()
@@ -123,8 +156,8 @@ def search_makerID_and_modelID(mk, md, car_json_file):
     if mk == "mb" or mk == "benz" or mk == "mercedes":
         mk = "mercedes-benz"
     if mk == "mercedes-benz":
-        if md in ['c', 'e', 'cla', 'cls', 'e', 'g', 'gl', \
-                'gla', 'gle', 'glc', 'gls', 'm', 's']:
+        if md in ['c', 'e', 'cla', 'cls', 'e', 'g', 'gl',
+                  'gla', 'gle', 'glc', 'gls', 'm', 's']:
             md += "-class"
     # 2. BMW
     if mk == "bmw":
@@ -162,8 +195,22 @@ def search_makerID_and_modelID(mk, md, car_json_file):
     return None, None
 
 
-def generate_url(maker, model, zipcode, radius, car_json_file, condition="new", page_num=1,num_per_page=100):
-    '''generate url according to search'''
+def generate_url(maker, model, zipcode, radius, car_json_file,
+                 condition="new", page_num=1, num_per_page=100):
+    """
+    generate url according to search query
+
+    Args:
+        maker: maker string
+        model: model string
+        zipcode: zipcode (int)
+        radius: radius (int)
+        cat_json_file: cars.com mk-md json file
+        condition: condition
+
+    Returns:
+        url
+    """
     # 1. old version
     """
     if condition.lower() == "used" or condition.lower() == "old":
@@ -195,28 +242,44 @@ def generate_url(maker, model, zipcode, radius, car_json_file, condition="new", 
     # user select all models
     if mkid and model == "all":
         if choose_all:
-            url = "https://www.cars.com/for-sale/searchresults.action/?mkId=%s&page=%d&perPage=%d&rd=%d&zc=%d&searchSource=QUICK_FORM"%(mkid, page_num, num_per_page, int(radius), zipcode)
+            url = "https://www.cars.com/for-sale/searchresults.action/?mkId=%s&page=%d&perPage=%d&rd=%d&zc=%d&searchSource=QUICK_FORM" % (
+                mkid, page_num, num_per_page, int(radius), zipcode)
         else:
-            url = "https://www.cars.com/for-sale/searchresults.action/?mkId=%s&page=%d&perPage=%d&rd=%d&zc=%d&stkTypId=%d&searchSource=QUICK_FORM"%(mkid,page_num,num_per_page, int(radius), zipcode, new_used_code)
+            url = "https://www.cars.com/for-sale/searchresults.action/?mkId=%s&page=%d&perPage=%d&rd=%d&zc=%d&stkTypId=%d&searchSource=QUICK_FORM" % (
+                mkid, page_num, num_per_page, int(radius), zipcode, new_used_code)
         return url
     if mkid and mdid:
         if choose_all:
-            url = template_url%(mkid, mdid, page_num, num_per_page, int(radius), zipcode)
+            url = template_url % (mkid, mdid, page_num,
+                                  num_per_page, int(radius), zipcode)
         else:
-            url = template_url%(mkid, mdid, page_num, num_per_page, int(radius), zipcode, new_used_code)
+            url = template_url % (mkid,
+                                  mdid,
+                                  page_num,
+                                  num_per_page,
+                                  int(radius),
+                                  zipcode,
+                                  new_used_code)
     return url
 
 
-
 def test():
+    """Test generate_url()"""
     maker = 'Audi'
     model = 'Q7'
     zipcode = 53705
-    radius = 200 # miles
+    radius = 200  # miles
     used = False
     page_num = 1
     num_per_page = 100
-    url = generate_url(maker, model, zipcode, radius, used, page_num, num_per_page)
+    url = generate_url(
+        maker,
+        model,
+        zipcode,
+        radius,
+        used,
+        page_num,
+        num_per_page)
     print(url)
     # url = re.sub(r'page=[0-9]+&perPage=[0-9]+', r'page=%d&perPage=%d', url)
     # print(url)
